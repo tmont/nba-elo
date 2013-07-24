@@ -1,0 +1,4513 @@
+{
+  "year": 1950,
+  "source": "http://www.basketball-reference.com/leagues/NBA_1950_games.html",
+  "teams": [
+    "Anderson Packers",
+    "Baltimore Bullets",
+    "Boston Celtics",
+    "Chicago Stags",
+    "Denver Nuggets",
+    "Fort Wayne Pistons",
+    "Indianapolis Olympians",
+    "Minneapolis Lakers",
+    "New York Knicks",
+    "Philadelphia Warriors",
+    "Rochester Royals",
+    "Sheboygan Red Skins",
+    "St. Louis Bombers",
+    "Syracuse Nationals",
+    "Tri-Cities Blackhawks",
+    "Washington Capitols",
+    "Waterloo Hawks"
+  ],
+  "results": [
+    {
+      "date": "1949-10-29",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Denver Nuggets",
+      "homePoints": 93,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194910290TRI.html"
+    },
+    {
+      "date": "1949-11-01",
+      "home": "Chicago Stags",
+      "visitor": "New York Knicks",
+      "homePoints": 87,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911010CHS.html"
+    },
+    {
+      "date": "1949-11-01",
+      "home": "Indianapolis Olympians",
+      "visitor": "Denver Nuggets",
+      "homePoints": 71,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911010INO.html"
+    },
+    {
+      "date": "1949-11-01",
+      "home": "Rochester Royals",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 108,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911010ROC.html"
+    },
+    {
+      "date": "1949-11-01",
+      "home": "St. Louis Bombers",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 72,
+      "visitorPoints": 51,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911010STB.html"
+    },
+    {
+      "date": "1949-11-02",
+      "home": "Philadelphia Warriors",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 69,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911020PHW.html"
+    },
+    {
+      "date": "1949-11-02",
+      "home": "Waterloo Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 60,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911020WAT.html"
+    },
+    {
+      "date": "1949-11-02",
+      "home": "Washington Capitols",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 66,
+      "visitorPoints": 61,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911020WSC.html"
+    },
+    {
+      "date": "1949-11-03",
+      "home": "Anderson Packers",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 110,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911030AND.html"
+    },
+    {
+      "date": "1949-11-03",
+      "home": "Baltimore Bullets",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 65,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911030BLB.html"
+    },
+    {
+      "date": "1949-11-03",
+      "home": "Fort Wayne Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 87,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911030FTW.html"
+    },
+    {
+      "date": "1949-11-03",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Boston Celtics",
+      "homePoints": 98,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911030SHE.html"
+    },
+    {
+      "date": "1949-11-03",
+      "home": "Syracuse Nationals",
+      "visitor": "Denver Nuggets",
+      "homePoints": 78,
+      "visitorPoints": 58,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911030SYR.html"
+    },
+    {
+      "date": "1949-11-04",
+      "home": "Philadelphia Warriors",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 79,
+      "visitorPoints": 58,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911040PHW.html"
+    },
+    {
+      "date": "1949-11-05",
+      "home": "Baltimore Bullets",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 77,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911050BLB.html"
+    },
+    {
+      "date": "1949-11-05",
+      "home": "Chicago Stags",
+      "visitor": "Boston Celtics",
+      "homePoints": 86,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911050CHS.html"
+    },
+    {
+      "date": "1949-11-05",
+      "home": "Denver Nuggets",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 51,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911050DNN.html"
+    },
+    {
+      "date": "1949-11-05",
+      "home": "Rochester Royals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 83,
+      "visitorPoints": 53,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911050ROC.html"
+    },
+    {
+      "date": "1949-11-05",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "New York Knicks",
+      "homePoints": 72,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911050TRI.html"
+    },
+    {
+      "date": "1949-11-05",
+      "home": "Washington Capitols",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 81,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911050WSC.html"
+    },
+    {
+      "date": "1949-11-06",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Chicago Stags",
+      "homePoints": 87,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911060FTW.html"
+    },
+    {
+      "date": "1949-11-06",
+      "home": "Sheboygan Red Skins",
+      "visitor": "New York Knicks",
+      "homePoints": 99,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911060SHE.html"
+    },
+    {
+      "date": "1949-11-06",
+      "home": "Syracuse Nationals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 82,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911060SYR.html"
+    },
+    {
+      "date": "1949-11-06",
+      "home": "Waterloo Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 80,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911060WAT.html"
+    },
+    {
+      "date": "1949-11-08",
+      "home": "Anderson Packers",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 70,
+      "visitorPoints": 62,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911080AND.html"
+    },
+    {
+      "date": "1949-11-08",
+      "home": "Indianapolis Olympians",
+      "visitor": "New York Knicks",
+      "homePoints": 64,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911080INO.html"
+    },
+    {
+      "date": "1949-11-08",
+      "home": "Washington Capitols",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 66,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911080WSC.html"
+    },
+    {
+      "date": "1949-11-09",
+      "home": "Anderson Packers",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 102,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911090AND.html"
+    },
+    {
+      "date": "1949-11-09",
+      "home": "Chicago Stags",
+      "visitor": "Rochester Royals",
+      "homePoints": 75,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911090CHS.html"
+    },
+    {
+      "date": "1949-11-09",
+      "home": "Philadelphia Warriors",
+      "visitor": "Washington Capitols",
+      "homePoints": 69,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911090PHW.html"
+    },
+    {
+      "date": "1949-11-09",
+      "home": "Syracuse Nationals",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 103,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911090SYR.html"
+    },
+    {
+      "date": "1949-11-09",
+      "home": "Waterloo Hawks",
+      "visitor": "Denver Nuggets",
+      "homePoints": 80,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911090WAT.html"
+    },
+    {
+      "date": "1949-11-10",
+      "home": "Baltimore Bullets",
+      "visitor": "Washington Capitols",
+      "homePoints": 72,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911100BLB.html"
+    },
+    {
+      "date": "1949-11-10",
+      "home": "Boston Celtics",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 84,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911100BOS.html"
+    },
+    {
+      "date": "1949-11-10",
+      "home": "Chicago Stags",
+      "visitor": "Denver Nuggets",
+      "homePoints": 64,
+      "visitorPoints": 53,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911100CHS.html"
+    },
+    {
+      "date": "1949-11-10",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 89,
+      "visitorPoints": 59,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911100FTW.html"
+    },
+    {
+      "date": "1949-11-10",
+      "home": "New York Knicks",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 79,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911100NYK.html"
+    },
+    {
+      "date": "1949-11-10",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Rochester Royals",
+      "homePoints": 97,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911100SHE.html"
+    },
+    {
+      "date": "1949-11-10",
+      "home": "St. Louis Bombers",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 73,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911100STB.html"
+    },
+    {
+      "date": "1949-11-11",
+      "home": "Philadelphia Warriors",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 84,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911110PHW.html"
+    },
+    {
+      "date": "1949-11-12",
+      "home": "Anderson Packers",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 69,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911120AND.html"
+    },
+    {
+      "date": "1949-11-12",
+      "home": "Baltimore Bullets",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 82,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911120BLB.html"
+    },
+    {
+      "date": "1949-11-12",
+      "home": "Chicago Stags",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 86,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911120CHS.html"
+    },
+    {
+      "date": "1949-11-12",
+      "home": "Denver Nuggets",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 63,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911120DNN.html"
+    },
+    {
+      "date": "1949-11-12",
+      "home": "Indianapolis Olympians",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 94,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911120INO.html"
+    },
+    {
+      "date": "1949-11-12",
+      "home": "Rochester Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 94,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911120ROC.html"
+    },
+    {
+      "date": "1949-11-12",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 99,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911120TRI.html"
+    },
+    {
+      "date": "1949-11-12",
+      "home": "Washington Capitols",
+      "visitor": "Boston Celtics",
+      "homePoints": 68,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911120WSC.html"
+    },
+    {
+      "date": "1949-11-13",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Denver Nuggets",
+      "homePoints": 90,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911130FTW.html"
+    },
+    {
+      "date": "1949-11-13",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 104,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911130SHE.html"
+    },
+    {
+      "date": "1949-11-13",
+      "home": "St. Louis Bombers",
+      "visitor": "Chicago Stags",
+      "homePoints": 65,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911130STB.html"
+    },
+    {
+      "date": "1949-11-13",
+      "home": "Syracuse Nationals",
+      "visitor": "New York Knicks",
+      "homePoints": 80,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911130SYR.html"
+    },
+    {
+      "date": "1949-11-13",
+      "home": "Waterloo Hawks",
+      "visitor": "Anderson Packers",
+      "homePoints": 69,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911130WAT.html"
+    },
+    {
+      "date": "1949-11-15",
+      "home": "Boston Celtics",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 76,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911150BOS.html"
+    },
+    {
+      "date": "1949-11-15",
+      "home": "Chicago Stags",
+      "visitor": "Washington Capitols",
+      "homePoints": 77,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911150CHS.html"
+    },
+    {
+      "date": "1949-11-15",
+      "home": "Indianapolis Olympians",
+      "visitor": "Anderson Packers",
+      "homePoints": 72,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911150INO.html"
+    },
+    {
+      "date": "1949-11-15",
+      "home": "New York Knicks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 74,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911150NYK.html"
+    },
+    {
+      "date": "1949-11-15",
+      "home": "Rochester Royals",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 93,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911150ROC.html"
+    },
+    {
+      "date": "1949-11-16",
+      "home": "Chicago Stags",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 85,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911160CHS.html"
+    },
+    {
+      "date": "1949-11-16",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 94,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911160MNL.html"
+    },
+    {
+      "date": "1949-11-16",
+      "home": "Philadelphia Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 93,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911160PHW.html"
+    },
+    {
+      "date": "1949-11-16",
+      "home": "Waterloo Hawks",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 73,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911160WAT.html"
+    },
+    {
+      "date": "1949-11-16",
+      "home": "Washington Capitols",
+      "visitor": "Denver Nuggets",
+      "homePoints": 99,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911160WSC.html"
+    },
+    {
+      "date": "1949-11-17",
+      "home": "Baltimore Bullets",
+      "visitor": "Denver Nuggets",
+      "homePoints": 86,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911170BLB.html"
+    },
+    {
+      "date": "1949-11-17",
+      "home": "Boston Celtics",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 90,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911170BOS.html"
+    },
+    {
+      "date": "1949-11-17",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 97,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911170SHE.html"
+    },
+    {
+      "date": "1949-11-17",
+      "home": "St. Louis Bombers",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 78,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911170STB.html"
+    },
+    {
+      "date": "1949-11-17",
+      "home": "Syracuse Nationals",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 79,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911170SYR.html"
+    },
+    {
+      "date": "1949-11-18",
+      "home": "Denver Nuggets",
+      "visitor": "New York Knicks",
+      "homePoints": 78,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911180DNN.html"
+    },
+    {
+      "date": "1949-11-18",
+      "home": "Philadelphia Warriors",
+      "visitor": "Chicago Stags",
+      "homePoints": 103,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911180PHW.html"
+    },
+    {
+      "date": "1949-11-19",
+      "home": "Anderson Packers",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 83,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911190AND.html"
+    },
+    {
+      "date": "1949-11-19",
+      "home": "Baltimore Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 82,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911190BLB.html"
+    },
+    {
+      "date": "1949-11-19",
+      "home": "Indianapolis Olympians",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 106,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911190INO.html"
+    },
+    {
+      "date": "1949-11-19",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 85,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911190NYK.html"
+    },
+    {
+      "date": "1949-11-19",
+      "home": "Rochester Royals",
+      "visitor": "Denver Nuggets",
+      "homePoints": 96,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911190ROC.html"
+    },
+    {
+      "date": "1949-11-19",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 85,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911190TRI.html"
+    },
+    {
+      "date": "1949-11-19",
+      "home": "Washington Capitols",
+      "visitor": "Chicago Stags",
+      "homePoints": 85,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911190WSC.html"
+    },
+    {
+      "date": "1949-11-20",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 99,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911200FTW.html"
+    },
+    {
+      "date": "1949-11-20",
+      "home": "Minneapolis Lakers",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 121,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911200MNL.html"
+    },
+    {
+      "date": "1949-11-20",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 92,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911200SHE.html"
+    },
+    {
+      "date": "1949-11-20",
+      "home": "St. Louis Bombers",
+      "visitor": "Rochester Royals",
+      "homePoints": 95,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911200STB.html"
+    },
+    {
+      "date": "1949-11-20",
+      "home": "Syracuse Nationals",
+      "visitor": "Denver Nuggets",
+      "homePoints": 102,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911200SYR.html"
+    },
+    {
+      "date": "1949-11-20",
+      "home": "Waterloo Hawks",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 75,
+      "visitorPoints": 62,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911200WAT.html"
+    },
+    {
+      "date": "1949-11-21",
+      "home": "Anderson Packers",
+      "visitor": "Boston Celtics",
+      "homePoints": 85,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911210AND.html"
+    },
+    {
+      "date": "1949-11-21",
+      "home": "Denver Nuggets",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 67,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911210DNN.html"
+    },
+    {
+      "date": "1949-11-22",
+      "home": "Indianapolis Olympians",
+      "visitor": "Rochester Royals",
+      "homePoints": 80,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911220INO.html"
+    },
+    {
+      "date": "1949-11-22",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 80,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911220TRI.html"
+    },
+    {
+      "date": "1949-11-22",
+      "home": "Washington Capitols",
+      "visitor": "New York Knicks",
+      "homePoints": 74,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911220WSC.html"
+    },
+    {
+      "date": "1949-11-23",
+      "home": "Chicago Stags",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 92,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911230CHS.html"
+    },
+    {
+      "date": "1949-11-23",
+      "home": "Minneapolis Lakers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 84,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911230MNL.html"
+    },
+    {
+      "date": "1949-11-23",
+      "home": "New York Knicks",
+      "visitor": "Washington Capitols",
+      "homePoints": 87,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911230NYK.html"
+    },
+    {
+      "date": "1949-11-23",
+      "home": "Waterloo Hawks",
+      "visitor": "Rochester Royals",
+      "homePoints": 71,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911230WAT.html"
+    },
+    {
+      "date": "1949-11-24",
+      "home": "Boston Celtics",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 85,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911240BOS.html"
+    },
+    {
+      "date": "1949-11-24",
+      "home": "Philadelphia Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 70,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911240PHW.html"
+    },
+    {
+      "date": "1949-11-24",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 120,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911240SHE.html"
+    },
+    {
+      "date": "1949-11-24",
+      "home": "St. Louis Bombers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 63,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911240STB.html"
+    },
+    {
+      "date": "1949-11-24",
+      "home": "Syracuse Nationals",
+      "visitor": "Anderson Packers",
+      "homePoints": 125,
+      "visitorPoints": 123,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911240SYR.html"
+    },
+    {
+      "date": "1949-11-25",
+      "home": "Denver Nuggets",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 81,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911250DNN.html"
+    },
+    {
+      "date": "1949-11-26",
+      "home": "Anderson Packers",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 73,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911260AND.html"
+    },
+    {
+      "date": "1949-11-26",
+      "home": "Chicago Stags",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 90,
+      "visitorPoints": 54,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911260CHS.html"
+    },
+    {
+      "date": "1949-11-26",
+      "home": "Indianapolis Olympians",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 85,
+      "visitorPoints": 59,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911260INO.html"
+    },
+    {
+      "date": "1949-11-26",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 96,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911260NYK.html"
+    },
+    {
+      "date": "1949-11-26",
+      "home": "Rochester Royals",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 120,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911260ROC.html"
+    },
+    {
+      "date": "1949-11-26",
+      "home": "Washington Capitols",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 93,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911260WSC.html"
+    },
+    {
+      "date": "1949-11-27",
+      "home": "Denver Nuggets",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 68,
+      "visitorPoints": 61,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911270DNN.html"
+    },
+    {
+      "date": "1949-11-27",
+      "home": "Fort Wayne Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 72,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911270FTW.html"
+    },
+    {
+      "date": "1949-11-27",
+      "home": "Minneapolis Lakers",
+      "visitor": "Chicago Stags",
+      "homePoints": 82,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911270MNL.html"
+    },
+    {
+      "date": "1949-11-27",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Anderson Packers",
+      "homePoints": 91,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911270SHE.html"
+    },
+    {
+      "date": "1949-11-27",
+      "home": "St. Louis Bombers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 80,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911270STB.html"
+    },
+    {
+      "date": "1949-11-27",
+      "home": "Syracuse Nationals",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 80,
+      "visitorPoints": 62,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911270SYR.html"
+    },
+    {
+      "date": "1949-11-27",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 104,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911270TRI.html"
+    },
+    {
+      "date": "1949-11-28",
+      "home": "Anderson Packers",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 101,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911280AND.html"
+    },
+    {
+      "date": "1949-11-29",
+      "home": "Denver Nuggets",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 56,
+      "visitorPoints": 57,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911290DNN.html"
+    },
+    {
+      "date": "1949-11-29",
+      "home": "Indianapolis Olympians",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 92,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911290INO.html"
+    },
+    {
+      "date": "1949-11-30",
+      "home": "Boston Celtics",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 71,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911300BOS.html"
+    },
+    {
+      "date": "1949-11-30",
+      "home": "Chicago Stags",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 57,
+      "visitorPoints": 50,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911300CHS.html"
+    },
+    {
+      "date": "1949-11-30",
+      "home": "Minneapolis Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 102,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911300MNL.html"
+    },
+    {
+      "date": "1949-11-30",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 82,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911300TRI.html"
+    },
+    {
+      "date": "1949-11-30",
+      "home": "Waterloo Hawks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 95,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911300WAT.html"
+    },
+    {
+      "date": "1949-11-30",
+      "home": "Washington Capitols",
+      "visitor": "Rochester Royals",
+      "homePoints": 84,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194911300WSC.html"
+    },
+    {
+      "date": "1949-12-01",
+      "home": "Anderson Packers",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 81,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912010AND.html"
+    },
+    {
+      "date": "1949-12-01",
+      "home": "Baltimore Bullets",
+      "visitor": "Rochester Royals",
+      "homePoints": 70,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912010BLB.html"
+    },
+    {
+      "date": "1949-12-01",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 74,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912010FTW.html"
+    },
+    {
+      "date": "1949-12-01",
+      "home": "Indianapolis Olympians",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 86,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912010INO.html"
+    },
+    {
+      "date": "1949-12-01",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Chicago Stags",
+      "homePoints": 78,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912010SHE.html"
+    },
+    {
+      "date": "1949-12-01",
+      "home": "St. Louis Bombers",
+      "visitor": "New York Knicks",
+      "homePoints": 68,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912010STB.html"
+    },
+    {
+      "date": "1949-12-02",
+      "home": "Denver Nuggets",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 74,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912020DNN.html"
+    },
+    {
+      "date": "1949-12-02",
+      "home": "Philadelphia Warriors",
+      "visitor": "Rochester Royals",
+      "homePoints": 79,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912020PHW.html"
+    },
+    {
+      "date": "1949-12-03",
+      "home": "Chicago Stags",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 80,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912030CHS.html"
+    },
+    {
+      "date": "1949-12-03",
+      "home": "New York Knicks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 85,
+      "visitorPoints": 55,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912030NYK.html"
+    },
+    {
+      "date": "1949-12-03",
+      "home": "Rochester Royals",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 99,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912030ROC.html"
+    },
+    {
+      "date": "1949-12-03",
+      "home": "Sheboygan Red Skins",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 72,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912030SHE.html"
+    },
+    {
+      "date": "1949-12-03",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 87,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912030TRI.html"
+    },
+    {
+      "date": "1949-12-03",
+      "home": "Washington Capitols",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 79,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912030WSC.html"
+    },
+    {
+      "date": "1949-12-04",
+      "home": "Denver Nuggets",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 86,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912040DNN.html"
+    },
+    {
+      "date": "1949-12-04",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Washington Capitols",
+      "homePoints": 72,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912040FTW.html"
+    },
+    {
+      "date": "1949-12-04",
+      "home": "Minneapolis Lakers",
+      "visitor": "Rochester Royals",
+      "homePoints": 95,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912040MNL.html"
+    },
+    {
+      "date": "1949-12-04",
+      "home": "St. Louis Bombers",
+      "visitor": "Boston Celtics",
+      "homePoints": 85,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912040STB.html"
+    },
+    {
+      "date": "1949-12-04",
+      "home": "Syracuse Nationals",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 67,
+      "visitorPoints": 61,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912040SYR.html"
+    },
+    {
+      "date": "1949-12-05",
+      "home": "Anderson Packers",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 88,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912050AND.html"
+    },
+    {
+      "date": "1949-12-06",
+      "home": "Chicago Stags",
+      "visitor": "Washington Capitols",
+      "homePoints": 75,
+      "visitorPoints": 55,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912060CHS.html"
+    },
+    {
+      "date": "1949-12-06",
+      "home": "Indianapolis Olympians",
+      "visitor": "Boston Celtics",
+      "homePoints": 93,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912060INO.html"
+    },
+    {
+      "date": "1949-12-07",
+      "home": "Baltimore Bullets",
+      "visitor": "Chicago Stags",
+      "homePoints": 72,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912070BLB.html"
+    },
+    {
+      "date": "1949-12-07",
+      "home": "Denver Nuggets",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 72,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912070DNN.html"
+    },
+    {
+      "date": "1949-12-07",
+      "home": "Minneapolis Lakers",
+      "visitor": "Washington Capitols",
+      "homePoints": 93,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912070MNL.html"
+    },
+    {
+      "date": "1949-12-07",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 69,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912070TRI.html"
+    },
+    {
+      "date": "1949-12-07",
+      "home": "Waterloo Hawks",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 77,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912070WAT.html"
+    },
+    {
+      "date": "1949-12-08",
+      "home": "Anderson Packers",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 69,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912080AND.html"
+    },
+    {
+      "date": "1949-12-08",
+      "home": "Baltimore Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 60,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912080BLB.html"
+    },
+    {
+      "date": "1949-12-08",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 91,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912080BOS.html"
+    },
+    {
+      "date": "1949-12-08",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 87,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912080FTW.html"
+    },
+    {
+      "date": "1949-12-08",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 72,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912080SHE.html"
+    },
+    {
+      "date": "1949-12-09",
+      "home": "Indianapolis Olympians",
+      "visitor": "Denver Nuggets",
+      "homePoints": 78,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912090INO.html"
+    },
+    {
+      "date": "1949-12-09",
+      "home": "Philadelphia Warriors",
+      "visitor": "Chicago Stags",
+      "homePoints": 80,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912090PHW.html"
+    },
+    {
+      "date": "1949-12-10",
+      "home": "Baltimore Bullets",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 69,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912100BLB.html"
+    },
+    {
+      "date": "1949-12-10",
+      "home": "Boston Celtics",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 83,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912100BOS.html"
+    },
+    {
+      "date": "1949-12-10",
+      "home": "Denver Nuggets",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 76,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912100DNN.html"
+    },
+    {
+      "date": "1949-12-10",
+      "home": "New York Knicks",
+      "visitor": "Chicago Stags",
+      "homePoints": 93,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912100NYK.html"
+    },
+    {
+      "date": "1949-12-10",
+      "home": "Rochester Royals",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 69,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912100ROC.html"
+    },
+    {
+      "date": "1949-12-10",
+      "home": "Waterloo Hawks",
+      "visitor": "Anderson Packers",
+      "homePoints": 83,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912100WAT.html"
+    },
+    {
+      "date": "1949-12-10",
+      "home": "Washington Capitols",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 75,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912100WSC.html"
+    },
+    {
+      "date": "1949-12-11",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 90,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912110FTW.html"
+    },
+    {
+      "date": "1949-12-11",
+      "home": "Minneapolis Lakers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 90,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912110MNL.html"
+    },
+    {
+      "date": "1949-12-11",
+      "home": "Syracuse Nationals",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 89,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912110SYR.html"
+    },
+    {
+      "date": "1949-12-11",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Denver Nuggets",
+      "homePoints": 98,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912110TRI.html"
+    },
+    {
+      "date": "1949-12-12",
+      "home": "Anderson Packers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 105,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912120AND.html"
+    },
+    {
+      "date": "1949-12-13",
+      "home": "Chicago Stags",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 75,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912130CHS.html"
+    },
+    {
+      "date": "1949-12-13",
+      "home": "Denver Nuggets",
+      "visitor": "Rochester Royals",
+      "homePoints": 65,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912130DNN.html"
+    },
+    {
+      "date": "1949-12-13",
+      "home": "Indianapolis Olympians",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 84,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912130INO.html"
+    },
+    {
+      "date": "1949-12-14",
+      "home": "New York Knicks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 94,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912140NYK.html"
+    },
+    {
+      "date": "1949-12-14",
+      "home": "Syracuse Nationals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 96,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912140SYR.html"
+    },
+    {
+      "date": "1949-12-14",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Chicago Stags",
+      "homePoints": 73,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912140TRI.html"
+    },
+    {
+      "date": "1949-12-14",
+      "home": "Waterloo Hawks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 70,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912140WAT.html"
+    },
+    {
+      "date": "1949-12-14",
+      "home": "Washington Capitols",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 79,
+      "visitorPoints": 61,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912140WSC.html"
+    },
+    {
+      "date": "1949-12-15",
+      "home": "Anderson Packers",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 100,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912150AND.html"
+    },
+    {
+      "date": "1949-12-15",
+      "home": "Baltimore Bullets",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 87,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912150BLB.html"
+    },
+    {
+      "date": "1949-12-15",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 83,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912150BOS.html"
+    },
+    {
+      "date": "1949-12-15",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Rochester Royals",
+      "homePoints": 69,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912150FTW.html"
+    },
+    {
+      "date": "1949-12-15",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 89,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912150SHE.html"
+    },
+    {
+      "date": "1949-12-16",
+      "home": "Baltimore Bullets",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 75,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912160BLB.html"
+    },
+    {
+      "date": "1949-12-16",
+      "home": "Chicago Stags",
+      "visitor": "Rochester Royals",
+      "homePoints": 80,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912160CHS.html"
+    },
+    {
+      "date": "1949-12-16",
+      "home": "Denver Nuggets",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 79,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912160DNN.html"
+    },
+    {
+      "date": "1949-12-16",
+      "home": "Philadelphia Warriors",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 54,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912160PHW.html"
+    },
+    {
+      "date": "1949-12-17",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 81,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912170NYK.html"
+    },
+    {
+      "date": "1949-12-17",
+      "home": "Philadelphia Warriors",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 81,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912170PHW.html"
+    },
+    {
+      "date": "1949-12-17",
+      "home": "Rochester Royals",
+      "visitor": "Chicago Stags",
+      "homePoints": 85,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912170ROC.html"
+    },
+    {
+      "date": "1949-12-17",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Anderson Packers",
+      "homePoints": 110,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912170SHE.html"
+    },
+    {
+      "date": "1949-12-17",
+      "home": "Washington Capitols",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 72,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912170WSC.html"
+    },
+    {
+      "date": "1949-12-18",
+      "home": "Denver Nuggets",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 79,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912180DNN.html"
+    },
+    {
+      "date": "1949-12-18",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 106,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912180FTW.html"
+    },
+    {
+      "date": "1949-12-18",
+      "home": "Minneapolis Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 77,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912180MNL.html"
+    },
+    {
+      "date": "1949-12-18",
+      "home": "Syracuse Nationals",
+      "visitor": "Chicago Stags",
+      "homePoints": 86,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912180SYR.html"
+    },
+    {
+      "date": "1949-12-18",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Anderson Packers",
+      "homePoints": 69,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912180TRI.html"
+    },
+    {
+      "date": "1949-12-19",
+      "home": "Anderson Packers",
+      "visitor": "New York Knicks",
+      "homePoints": 83,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912190AND.html"
+    },
+    {
+      "date": "1949-12-20",
+      "home": "Chicago Stags",
+      "visitor": "New York Knicks",
+      "homePoints": 79,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912200CHS.html"
+    },
+    {
+      "date": "1949-12-20",
+      "home": "Indianapolis Olympians",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 79,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912200INO.html"
+    },
+    {
+      "date": "1949-12-20",
+      "home": "Rochester Royals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 87,
+      "visitorPoints": 62,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912200ROC.html"
+    },
+    {
+      "date": "1949-12-20",
+      "home": "Waterloo Hawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 70,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912200WAT.html"
+    },
+    {
+      "date": "1949-12-21",
+      "home": "Chicago Stags",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 78,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912210CHS.html"
+    },
+    {
+      "date": "1949-12-21",
+      "home": "Philadelphia Warriors",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 70,
+      "visitorPoints": 60,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912210PHW.html"
+    },
+    {
+      "date": "1949-12-21",
+      "home": "St. Louis Bombers",
+      "visitor": "New York Knicks",
+      "homePoints": 75,
+      "visitorPoints": 52,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912210STB.html"
+    },
+    {
+      "date": "1949-12-21",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 84,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912210TRI.html"
+    },
+    {
+      "date": "1949-12-21",
+      "home": "Washington Capitols",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 61,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912210WSC.html"
+    },
+    {
+      "date": "1949-12-22",
+      "home": "Anderson Packers",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 101,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912220AND.html"
+    },
+    {
+      "date": "1949-12-22",
+      "home": "Baltimore Bullets",
+      "visitor": "Washington Capitols",
+      "homePoints": 86,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912220BLB.html"
+    },
+    {
+      "date": "1949-12-22",
+      "home": "Boston Celtics",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 87,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912220BOS.html"
+    },
+    {
+      "date": "1949-12-22",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 87,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912220FTW.html"
+    },
+    {
+      "date": "1949-12-22",
+      "home": "Indianapolis Olympians",
+      "visitor": "Chicago Stags",
+      "homePoints": 104,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912220INO.html"
+    },
+    {
+      "date": "1949-12-22",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 74,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912220SHE.html"
+    },
+    {
+      "date": "1949-12-23",
+      "home": "Denver Nuggets",
+      "visitor": "New York Knicks",
+      "homePoints": 72,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912230DNN.html"
+    },
+    {
+      "date": "1949-12-23",
+      "home": "Washington Capitols",
+      "visitor": "Boston Celtics",
+      "homePoints": 86,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912230WSC.html"
+    },
+    {
+      "date": "1949-12-25",
+      "home": "Baltimore Bullets",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 63,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912250BLB.html"
+    },
+    {
+      "date": "1949-12-25",
+      "home": "Denver Nuggets",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 72,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912250DNN.html"
+    },
+    {
+      "date": "1949-12-25",
+      "home": "Minneapolis Lakers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 72,
+      "visitorPoints": 58,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912250MNL.html"
+    },
+    {
+      "date": "1949-12-25",
+      "home": "Rochester Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 88,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912250ROC.html"
+    },
+    {
+      "date": "1949-12-25",
+      "home": "St. Louis Bombers",
+      "visitor": "Washington Capitols",
+      "homePoints": 68,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912250STB.html"
+    },
+    {
+      "date": "1949-12-25",
+      "home": "Syracuse Nationals",
+      "visitor": "Anderson Packers",
+      "homePoints": 94,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912250SYR.html"
+    },
+    {
+      "date": "1949-12-25",
+      "home": "Waterloo Hawks",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 97,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912250WAT.html"
+    },
+    {
+      "date": "1949-12-26",
+      "home": "Anderson Packers",
+      "visitor": "Washington Capitols",
+      "homePoints": 80,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912260AND.html"
+    },
+    {
+      "date": "1949-12-26",
+      "home": "Baltimore Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 57,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912260BLB.html"
+    },
+    {
+      "date": "1949-12-26",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Chicago Stags",
+      "homePoints": 76,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912260FTW.html"
+    },
+    {
+      "date": "1949-12-26",
+      "home": "New York Knicks",
+      "visitor": "Rochester Royals",
+      "homePoints": 80,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912260NYK.html"
+    },
+    {
+      "date": "1949-12-26",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 76,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912260TRI.html"
+    },
+    {
+      "date": "1949-12-27",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 97,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912270BOS.html"
+    },
+    {
+      "date": "1949-12-27",
+      "home": "Indianapolis Olympians",
+      "visitor": "Anderson Packers",
+      "homePoints": 89,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912270INO.html"
+    },
+    {
+      "date": "1949-12-27",
+      "home": "Rochester Royals",
+      "visitor": "Washington Capitols",
+      "homePoints": 96,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912270ROC.html"
+    },
+    {
+      "date": "1949-12-28",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 81,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912280FTW.html"
+    },
+    {
+      "date": "1949-12-28",
+      "home": "Minneapolis Lakers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 88,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912280MNL.html"
+    },
+    {
+      "date": "1949-12-28",
+      "home": "Philadelphia Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 72,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912280PHW.html"
+    },
+    {
+      "date": "1949-12-28",
+      "home": "Waterloo Hawks",
+      "visitor": "Chicago Stags",
+      "homePoints": 80,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912280WAT.html"
+    },
+    {
+      "date": "1949-12-28",
+      "home": "Washington Capitols",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 87,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912280WSC.html"
+    },
+    {
+      "date": "1949-12-29",
+      "home": "Anderson Packers",
+      "visitor": "Chicago Stags",
+      "homePoints": 80,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912290AND.html"
+    },
+    {
+      "date": "1949-12-29",
+      "home": "Philadelphia Warriors",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 62,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912290PHW.html"
+    },
+    {
+      "date": "1949-12-29",
+      "home": "Rochester Royals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 97,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912290ROC.html"
+    },
+    {
+      "date": "1949-12-29",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 94,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912290SHE.html"
+    },
+    {
+      "date": "1949-12-29",
+      "home": "St. Louis Bombers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 90,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912290STB.html"
+    },
+    {
+      "date": "1949-12-30",
+      "home": "Boston Celtics",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 92,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912300BOS.html"
+    },
+    {
+      "date": "1949-12-30",
+      "home": "Denver Nuggets",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 83,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912300DNN.html"
+    },
+    {
+      "date": "1949-12-31",
+      "home": "Philadelphia Warriors",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 62,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912310PHW.html"
+    },
+    {
+      "date": "1949-12-31",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 87,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912310ROC.html"
+    },
+    {
+      "date": "1949-12-31",
+      "home": "Waterloo Hawks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 68,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912310WAT.html"
+    },
+    {
+      "date": "1949-12-31",
+      "home": "Washington Capitols",
+      "visitor": "New York Knicks",
+      "homePoints": 70,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/194912310WSC.html"
+    },
+    {
+      "date": "1950-01-01",
+      "home": "Denver Nuggets",
+      "visitor": "Chicago Stags",
+      "homePoints": 78,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001010DNN.html"
+    },
+    {
+      "date": "1950-01-01",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 80,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001010FTW.html"
+    },
+    {
+      "date": "1950-01-01",
+      "home": "Minneapolis Lakers",
+      "visitor": "Anderson Packers",
+      "homePoints": 87,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001010MNL.html"
+    },
+    {
+      "date": "1950-01-01",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 81,
+      "visitorPoints": 59,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001010NYK.html"
+    },
+    {
+      "date": "1950-01-01",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 75,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001010SHE.html"
+    },
+    {
+      "date": "1950-01-01",
+      "home": "St. Louis Bombers",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 91,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001010STB.html"
+    },
+    {
+      "date": "1950-01-01",
+      "home": "Syracuse Nationals",
+      "visitor": "Washington Capitols",
+      "homePoints": 79,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001010SYR.html"
+    },
+    {
+      "date": "1950-01-01",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 79,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001010TRI.html"
+    },
+    {
+      "date": "1950-01-02",
+      "home": "Anderson Packers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 92,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001020AND.html"
+    },
+    {
+      "date": "1950-01-03",
+      "home": "Indianapolis Olympians",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 78,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001030INO.html"
+    },
+    {
+      "date": "1950-01-03",
+      "home": "Rochester Royals",
+      "visitor": "Washington Capitols",
+      "homePoints": 83,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001030ROC.html"
+    },
+    {
+      "date": "1950-01-03",
+      "home": "Waterloo Hawks",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 69,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001030WAT.html"
+    },
+    {
+      "date": "1950-01-04",
+      "home": "Denver Nuggets",
+      "visitor": "Anderson Packers",
+      "homePoints": 86,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001040DNN.html"
+    },
+    {
+      "date": "1950-01-04",
+      "home": "Minneapolis Lakers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 91,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001040MNL.html"
+    },
+    {
+      "date": "1950-01-04",
+      "home": "St. Louis Bombers",
+      "visitor": "Boston Celtics",
+      "homePoints": 72,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001040STB.html"
+    },
+    {
+      "date": "1950-01-04",
+      "home": "Washington Capitols",
+      "visitor": "Rochester Royals",
+      "homePoints": 63,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001040WSC.html"
+    },
+    {
+      "date": "1950-01-05",
+      "home": "Baltimore Bullets",
+      "visitor": "Rochester Royals",
+      "homePoints": 74,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001050BLB.html"
+    },
+    {
+      "date": "1950-01-05",
+      "home": "Denver Nuggets",
+      "visitor": "Anderson Packers",
+      "homePoints": 76,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001050DNN.html"
+    },
+    {
+      "date": "1950-01-05",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 87,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001050FTW.html"
+    },
+    {
+      "date": "1950-01-05",
+      "home": "New York Knicks",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 82,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001050NYK.html"
+    },
+    {
+      "date": "1950-01-05",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 85,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001050SHE.html"
+    },
+    {
+      "date": "1950-01-05",
+      "home": "Syracuse Nationals",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 82,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001050SYR.html"
+    },
+    {
+      "date": "1950-01-06",
+      "home": "Boston Celtics",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 74,
+      "visitorPoints": 53,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001060BOS.html"
+    },
+    {
+      "date": "1950-01-06",
+      "home": "Philadelphia Warriors",
+      "visitor": "Rochester Royals",
+      "homePoints": 91,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001060PHW.html"
+    },
+    {
+      "date": "1950-01-07",
+      "home": "Baltimore Bullets",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 61,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001070BLB.html"
+    },
+    {
+      "date": "1950-01-07",
+      "home": "New York Knicks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 80,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001070NYK.html"
+    },
+    {
+      "date": "1950-01-07",
+      "home": "Rochester Royals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 85,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001070ROC.html"
+    },
+    {
+      "date": "1950-01-07",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 98,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001070TRI.html"
+    },
+    {
+      "date": "1950-01-07",
+      "home": "Washington Capitols",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 101,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001070WSC.html"
+    },
+    {
+      "date": "1950-01-08",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 83,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001080FTW.html"
+    },
+    {
+      "date": "1950-01-08",
+      "home": "Minneapolis Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 85,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001080MNL.html"
+    },
+    {
+      "date": "1950-01-08",
+      "home": "St. Louis Bombers",
+      "visitor": "Rochester Royals",
+      "homePoints": 73,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001080STB.html"
+    },
+    {
+      "date": "1950-01-08",
+      "home": "Syracuse Nationals",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 84,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001080SYR.html"
+    },
+    {
+      "date": "1950-01-09",
+      "home": "Anderson Packers",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 112,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001090AND.html"
+    },
+    {
+      "date": "1950-01-10",
+      "home": "Denver Nuggets",
+      "visitor": "Boston Celtics",
+      "homePoints": 84,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001100DNN.html"
+    },
+    {
+      "date": "1950-01-10",
+      "home": "Indianapolis Olympians",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 107,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001100INO.html"
+    },
+    {
+      "date": "1950-01-10",
+      "home": "Rochester Royals",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 85,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001100ROC.html"
+    },
+    {
+      "date": "1950-01-10",
+      "home": "Waterloo Hawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 86,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001100WAT.html"
+    },
+    {
+      "date": "1950-01-10",
+      "home": "Washington Capitols",
+      "visitor": "Chicago Stags",
+      "homePoints": 86,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001100WSC.html"
+    },
+    {
+      "date": "1950-01-11",
+      "home": "Minneapolis Lakers",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 98,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001110MNL.html"
+    },
+    {
+      "date": "1950-01-11",
+      "home": "New York Knicks",
+      "visitor": "Washington Capitols",
+      "homePoints": 73,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001110NYK.html"
+    },
+    {
+      "date": "1950-01-11",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Anderson Packers",
+      "homePoints": 88,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001110TRI.html"
+    },
+    {
+      "date": "1950-01-12",
+      "home": "Anderson Packers",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 80,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001120AND.html"
+    },
+    {
+      "date": "1950-01-12",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 62,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001120FTW.html"
+    },
+    {
+      "date": "1950-01-12",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Denver Nuggets",
+      "homePoints": 115,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001120SHE.html"
+    },
+    {
+      "date": "1950-01-12",
+      "home": "St. Louis Bombers",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 73,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001120STB.html"
+    },
+    {
+      "date": "1950-01-13",
+      "home": "Boston Celtics",
+      "visitor": "Chicago Stags",
+      "homePoints": 76,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001130BOS.html"
+    },
+    {
+      "date": "1950-01-13",
+      "home": "Indianapolis Olympians",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 80,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001130INO.html"
+    },
+    {
+      "date": "1950-01-13",
+      "home": "Philadelphia Warriors",
+      "visitor": "Washington Capitols",
+      "homePoints": 67,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001130PHW.html"
+    },
+    {
+      "date": "1950-01-14",
+      "home": "Baltimore Bullets",
+      "visitor": "Chicago Stags",
+      "homePoints": 78,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001140BLB.html"
+    },
+    {
+      "date": "1950-01-14",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 82,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001140NYK.html"
+    },
+    {
+      "date": "1950-01-14",
+      "home": "Rochester Royals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 83,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001140ROC.html"
+    },
+    {
+      "date": "1950-01-14",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Denver Nuggets",
+      "homePoints": 80,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001140SHE.html"
+    },
+    {
+      "date": "1950-01-14",
+      "home": "Washington Capitols",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 78,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001140WSC.html"
+    },
+    {
+      "date": "1950-01-15",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 81,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001150FTW.html"
+    },
+    {
+      "date": "1950-01-15",
+      "home": "Minneapolis Lakers",
+      "visitor": "Rochester Royals",
+      "homePoints": 85,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001150MNL.html"
+    },
+    {
+      "date": "1950-01-15",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Anderson Packers",
+      "homePoints": 81,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001150SHE.html"
+    },
+    {
+      "date": "1950-01-15",
+      "home": "St. Louis Bombers",
+      "visitor": "Denver Nuggets",
+      "homePoints": 89,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001150STB.html"
+    },
+    {
+      "date": "1950-01-15",
+      "home": "Syracuse Nationals",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 82,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001150SYR.html"
+    },
+    {
+      "date": "1950-01-15",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 84,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001150TRI.html"
+    },
+    {
+      "date": "1950-01-16",
+      "home": "Anderson Packers",
+      "visitor": "Denver Nuggets",
+      "homePoints": 95,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001160AND.html"
+    },
+    {
+      "date": "1950-01-16",
+      "home": "Chicago Stags",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 78,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001160CHS.html"
+    },
+    {
+      "date": "1950-01-16",
+      "home": "Philadelphia Warriors",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 89,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001160PHW.html"
+    },
+    {
+      "date": "1950-01-17",
+      "home": "Boston Celtics",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 79,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001170BOS.html"
+    },
+    {
+      "date": "1950-01-17",
+      "home": "Indianapolis Olympians",
+      "visitor": "Denver Nuggets",
+      "homePoints": 101,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001170INO.html"
+    },
+    {
+      "date": "1950-01-18",
+      "home": "Philadelphia Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 94,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001180PHW.html"
+    },
+    {
+      "date": "1950-01-18",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 72,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001180SHE.html"
+    },
+    {
+      "date": "1950-01-18",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Rochester Royals",
+      "homePoints": 65,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001180TRI.html"
+    },
+    {
+      "date": "1950-01-18",
+      "home": "Waterloo Hawks",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 80,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001180WAT.html"
+    },
+    {
+      "date": "1950-01-18",
+      "home": "Washington Capitols",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 68,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001180WSC.html"
+    },
+    {
+      "date": "1950-01-19",
+      "home": "Anderson Packers",
+      "visitor": "Rochester Royals",
+      "homePoints": 78,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001190AND.html"
+    },
+    {
+      "date": "1950-01-19",
+      "home": "Baltimore Bullets",
+      "visitor": "Washington Capitols",
+      "homePoints": 68,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001190BLB.html"
+    },
+    {
+      "date": "1950-01-19",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 86,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001190BOS.html"
+    },
+    {
+      "date": "1950-01-19",
+      "home": "Chicago Stags",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 83,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001190CHS.html"
+    },
+    {
+      "date": "1950-01-19",
+      "home": "Indianapolis Olympians",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 104,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001190INO.html"
+    },
+    {
+      "date": "1950-01-19",
+      "home": "New York Knicks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 83,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001190NYK.html"
+    },
+    {
+      "date": "1950-01-19",
+      "home": "St. Louis Bombers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 74,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001190STB.html"
+    },
+    {
+      "date": "1950-01-19",
+      "home": "Syracuse Nationals",
+      "visitor": "Denver Nuggets",
+      "homePoints": 107,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001190SYR.html"
+    },
+    {
+      "date": "1950-01-20",
+      "home": "Philadelphia Warriors",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 90,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001200PHW.html"
+    },
+    {
+      "date": "1950-01-21",
+      "home": "Baltimore Bullets",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 68,
+      "visitorPoints": 58,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001210BLB.html"
+    },
+    {
+      "date": "1950-01-21",
+      "home": "Indianapolis Olympians",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 112,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001210INO.html"
+    },
+    {
+      "date": "1950-01-21",
+      "home": "Rochester Royals",
+      "visitor": "Anderson Packers",
+      "homePoints": 95,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001210ROC.html"
+    },
+    {
+      "date": "1950-01-21",
+      "home": "Waterloo Hawks",
+      "visitor": "Denver Nuggets",
+      "homePoints": 88,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001210WAT.html"
+    },
+    {
+      "date": "1950-01-21",
+      "home": "Washington Capitols",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 82,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001210WSC.html"
+    },
+    {
+      "date": "1950-01-22",
+      "home": "Baltimore Bullets",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 76,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001220BLB.html"
+    },
+    {
+      "date": "1950-01-22",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Washington Capitols",
+      "homePoints": 82,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001220FTW.html"
+    },
+    {
+      "date": "1950-01-22",
+      "home": "Minneapolis Lakers",
+      "visitor": "Chicago Stags",
+      "homePoints": 103,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001220MNL.html"
+    },
+    {
+      "date": "1950-01-22",
+      "home": "New York Knicks",
+      "visitor": "Rochester Royals",
+      "homePoints": 81,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001220NYK.html"
+    },
+    {
+      "date": "1950-01-22",
+      "home": "St. Louis Bombers",
+      "visitor": "Boston Celtics",
+      "homePoints": 71,
+      "visitorPoints": 47,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001220STB.html"
+    },
+    {
+      "date": "1950-01-22",
+      "home": "Syracuse Nationals",
+      "visitor": "Anderson Packers",
+      "homePoints": 75,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001220SYR.html"
+    },
+    {
+      "date": "1950-01-22",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Denver Nuggets",
+      "homePoints": 111,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001220TRI.html"
+    },
+    {
+      "date": "1950-01-23",
+      "home": "Anderson Packers",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 96,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001230AND.html"
+    },
+    {
+      "date": "1950-01-24",
+      "home": "Chicago Stags",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 68,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001240CHS.html"
+    },
+    {
+      "date": "1950-01-24",
+      "home": "Indianapolis Olympians",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 107,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001240INO.html"
+    },
+    {
+      "date": "1950-01-24",
+      "home": "New York Knicks",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 101,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001240NYK.html"
+    },
+    {
+      "date": "1950-01-24",
+      "home": "Philadelphia Warriors",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 87,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001240PHW.html"
+    },
+    {
+      "date": "1950-01-24",
+      "home": "Rochester Royals",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 70,
+      "visitorPoints": 56,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001240ROC.html"
+    },
+    {
+      "date": "1950-01-24",
+      "home": "St. Louis Bombers",
+      "visitor": "Washington Capitols",
+      "homePoints": 67,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001240STB.html"
+    },
+    {
+      "date": "1950-01-25",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 85,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001250MNL.html"
+    },
+    {
+      "date": "1950-01-25",
+      "home": "New York Knicks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 96,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001250NYK.html"
+    },
+    {
+      "date": "1950-01-25",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Washington Capitols",
+      "homePoints": 62,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001250TRI.html"
+    },
+    {
+      "date": "1950-01-25",
+      "home": "Waterloo Hawks",
+      "visitor": "Denver Nuggets",
+      "homePoints": 104,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001250WAT.html"
+    },
+    {
+      "date": "1950-01-26",
+      "home": "Anderson Packers",
+      "visitor": "Denver Nuggets",
+      "homePoints": 109,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001260AND.html"
+    },
+    {
+      "date": "1950-01-26",
+      "home": "Baltimore Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 77,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001260BLB.html"
+    },
+    {
+      "date": "1950-01-26",
+      "home": "Boston Celtics",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 89,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001260BOS.html"
+    },
+    {
+      "date": "1950-01-26",
+      "home": "St. Louis Bombers",
+      "visitor": "Washington Capitols",
+      "homePoints": 71,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001260STB.html"
+    },
+    {
+      "date": "1950-01-26",
+      "home": "Syracuse Nationals",
+      "visitor": "Rochester Royals",
+      "homePoints": 76,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001260SYR.html"
+    },
+    {
+      "date": "1950-01-27",
+      "home": "Anderson Packers",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 78,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001270AND.html"
+    },
+    {
+      "date": "1950-01-27",
+      "home": "Philadelphia Warriors",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 71,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001270PHW.html"
+    },
+    {
+      "date": "1950-01-28",
+      "home": "Baltimore Bullets",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 77,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001280BLB.html"
+    },
+    {
+      "date": "1950-01-28",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 55,
+      "visitorPoints": 58,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001280NYK.html"
+    },
+    {
+      "date": "1950-01-28",
+      "home": "Rochester Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 82,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001280ROC.html"
+    },
+    {
+      "date": "1950-01-28",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 97,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001280TRI.html"
+    },
+    {
+      "date": "1950-01-29",
+      "home": "Fort Wayne Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 92,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001290FTW.html"
+    },
+    {
+      "date": "1950-01-29",
+      "home": "Minneapolis Lakers",
+      "visitor": "Washington Capitols",
+      "homePoints": 88,
+      "visitorPoints": 60,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001290MNL.html"
+    },
+    {
+      "date": "1950-01-29",
+      "home": "St. Louis Bombers",
+      "visitor": "Chicago Stags",
+      "homePoints": 51,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001290STB.html"
+    },
+    {
+      "date": "1950-01-29",
+      "home": "Syracuse Nationals",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 85,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001290SYR.html"
+    },
+    {
+      "date": "1950-01-29",
+      "home": "Waterloo Hawks",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 79,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001290WAT.html"
+    },
+    {
+      "date": "1950-01-30",
+      "home": "Anderson Packers",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 91,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001300AND.html"
+    },
+    {
+      "date": "1950-01-30",
+      "home": "Indianapolis Olympians",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 75,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001300INO.html"
+    },
+    {
+      "date": "1950-01-31",
+      "home": "Boston Celtics",
+      "visitor": "Rochester Royals",
+      "homePoints": 72,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001310BOS.html"
+    },
+    {
+      "date": "1950-01-31",
+      "home": "Chicago Stags",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 89,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001310CHS.html"
+    },
+    {
+      "date": "1950-01-31",
+      "home": "Denver Nuggets",
+      "visitor": "Washington Capitols",
+      "homePoints": 78,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001310DNN.html"
+    },
+    {
+      "date": "1950-01-31",
+      "home": "New York Knicks",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 77,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195001310NYK.html"
+    },
+    {
+      "date": "1950-02-01",
+      "home": "Boston Celtics",
+      "visitor": "Chicago Stags",
+      "homePoints": 76,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002010BOS.html"
+    },
+    {
+      "date": "1950-02-01",
+      "home": "Minneapolis Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 96,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002010MNL.html"
+    },
+    {
+      "date": "1950-02-01",
+      "home": "Philadelphia Warriors",
+      "visitor": "Rochester Royals",
+      "homePoints": 68,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002010PHW.html"
+    },
+    {
+      "date": "1950-02-01",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 91,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002010TRI.html"
+    },
+    {
+      "date": "1950-02-01",
+      "home": "Waterloo Hawks",
+      "visitor": "Anderson Packers",
+      "homePoints": 73,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002010WAT.html"
+    },
+    {
+      "date": "1950-02-02",
+      "home": "Baltimore Bullets",
+      "visitor": "Rochester Royals",
+      "homePoints": 79,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002020BLB.html"
+    },
+    {
+      "date": "1950-02-02",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 78,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002020FTW.html"
+    },
+    {
+      "date": "1950-02-02",
+      "home": "Indianapolis Olympians",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 67,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002020INO.html"
+    },
+    {
+      "date": "1950-02-02",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Washington Capitols",
+      "homePoints": 68,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002020SHE.html"
+    },
+    {
+      "date": "1950-02-02",
+      "home": "St. Louis Bombers",
+      "visitor": "New York Knicks",
+      "homePoints": 73,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002020STB.html"
+    },
+    {
+      "date": "1950-02-03",
+      "home": "Baltimore Bullets",
+      "visitor": "Chicago Stags",
+      "homePoints": 81,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002030BLB.html"
+    },
+    {
+      "date": "1950-02-03",
+      "home": "Boston Celtics",
+      "visitor": "Anderson Packers",
+      "homePoints": 106,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002030BOS.html"
+    },
+    {
+      "date": "1950-02-03",
+      "home": "Philadelphia Warriors",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 83,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002030PHW.html"
+    },
+    {
+      "date": "1950-02-03",
+      "home": "Syracuse Nationals",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 103,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002030SYR.html"
+    },
+    {
+      "date": "1950-02-04",
+      "home": "Baltimore Bullets",
+      "visitor": "Anderson Packers",
+      "homePoints": 90,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002040BLB.html"
+    },
+    {
+      "date": "1950-02-04",
+      "home": "Boston Celtics",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 100,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002040BOS.html"
+    },
+    {
+      "date": "1950-02-04",
+      "home": "Rochester Royals",
+      "visitor": "Chicago Stags",
+      "homePoints": 82,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002040ROC.html"
+    },
+    {
+      "date": "1950-02-04",
+      "home": "Washington Capitols",
+      "visitor": "New York Knicks",
+      "homePoints": 71,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002040WSC.html"
+    },
+    {
+      "date": "1950-02-05",
+      "home": "Boston Celtics",
+      "visitor": "Chicago Stags",
+      "homePoints": 70,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002050BOS.html"
+    },
+    {
+      "date": "1950-02-05",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Anderson Packers",
+      "homePoints": 95,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002050FTW.html"
+    },
+    {
+      "date": "1950-02-05",
+      "home": "Minneapolis Lakers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 100,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002050MNL.html"
+    },
+    {
+      "date": "1950-02-05",
+      "home": "New York Knicks",
+      "visitor": "Rochester Royals",
+      "homePoints": 65,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002050NYK.html"
+    },
+    {
+      "date": "1950-02-05",
+      "home": "St. Louis Bombers",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 76,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002050STB.html"
+    },
+    {
+      "date": "1950-02-05",
+      "home": "Syracuse Nationals",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 96,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002050SYR.html"
+    },
+    {
+      "date": "1950-02-05",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 86,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002050TRI.html"
+    },
+    {
+      "date": "1950-02-06",
+      "home": "Anderson Packers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 77,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002060AND.html"
+    },
+    {
+      "date": "1950-02-07",
+      "home": "Boston Celtics",
+      "visitor": "Chicago Stags",
+      "homePoints": 86,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002070BOS.html"
+    },
+    {
+      "date": "1950-02-07",
+      "home": "Denver Nuggets",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 67,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002070DNN.html"
+    },
+    {
+      "date": "1950-02-07",
+      "home": "Indianapolis Olympians",
+      "visitor": "Washington Capitols",
+      "homePoints": 88,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002070INO.html"
+    },
+    {
+      "date": "1950-02-07",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 90,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002070ROC.html"
+    },
+    {
+      "date": "1950-02-08",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 82,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002080NYK.html"
+    },
+    {
+      "date": "1950-02-08",
+      "home": "Syracuse Nationals",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 106,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002080SYR.html"
+    },
+    {
+      "date": "1950-02-08",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 99,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002080TRI.html"
+    },
+    {
+      "date": "1950-02-08",
+      "home": "Waterloo Hawks",
+      "visitor": "Washington Capitols",
+      "homePoints": 77,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002080WAT.html"
+    },
+    {
+      "date": "1950-02-09",
+      "home": "Baltimore Bullets",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 79,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002090BLB.html"
+    },
+    {
+      "date": "1950-02-09",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 61,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002090FTW.html"
+    },
+    {
+      "date": "1950-02-09",
+      "home": "Minneapolis Lakers",
+      "visitor": "Washington Capitols",
+      "homePoints": 71,
+      "visitorPoints": 59,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002090MNL.html"
+    },
+    {
+      "date": "1950-02-09",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 104,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002090SHE.html"
+    },
+    {
+      "date": "1950-02-10",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 89,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002100BOS.html"
+    },
+    {
+      "date": "1950-02-10",
+      "home": "Indianapolis Olympians",
+      "visitor": "Anderson Packers",
+      "homePoints": 76,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002100INO.html"
+    },
+    {
+      "date": "1950-02-10",
+      "home": "Philadelphia Warriors",
+      "visitor": "Chicago Stags",
+      "homePoints": 76,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002100PHW.html"
+    },
+    {
+      "date": "1950-02-11",
+      "home": "Baltimore Bullets",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 76,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002110BLB.html"
+    },
+    {
+      "date": "1950-02-11",
+      "home": "Denver Nuggets",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 108,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002110DNN.html"
+    },
+    {
+      "date": "1950-02-11",
+      "home": "New York Knicks",
+      "visitor": "Chicago Stags",
+      "homePoints": 85,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002110NYK.html"
+    },
+    {
+      "date": "1950-02-11",
+      "home": "Rochester Royals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 84,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002110ROC.html"
+    },
+    {
+      "date": "1950-02-11",
+      "home": "Washington Capitols",
+      "visitor": "Anderson Packers",
+      "homePoints": 81,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002110WSC.html"
+    },
+    {
+      "date": "1950-02-12",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Rochester Royals",
+      "homePoints": 76,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002120FTW.html"
+    },
+    {
+      "date": "1950-02-12",
+      "home": "Minneapolis Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 88,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002120MNL.html"
+    },
+    {
+      "date": "1950-02-12",
+      "home": "St. Louis Bombers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 86,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002120STB.html"
+    },
+    {
+      "date": "1950-02-12",
+      "home": "Syracuse Nationals",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 102,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002120SYR.html"
+    },
+    {
+      "date": "1950-02-12",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 89,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002120TRI.html"
+    },
+    {
+      "date": "1950-02-13",
+      "home": "Anderson Packers",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 93,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002130AND.html"
+    },
+    {
+      "date": "1950-02-13",
+      "home": "Denver Nuggets",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 79,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002130DNN.html"
+    },
+    {
+      "date": "1950-02-14",
+      "home": "Boston Celtics",
+      "visitor": "Denver Nuggets",
+      "homePoints": 78,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002140BOS.html"
+    },
+    {
+      "date": "1950-02-14",
+      "home": "Chicago Stags",
+      "visitor": "Rochester Royals",
+      "homePoints": 74,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002140CHS.html"
+    },
+    {
+      "date": "1950-02-14",
+      "home": "Indianapolis Olympians",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 86,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002140INO.html"
+    },
+    {
+      "date": "1950-02-15",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 84,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002150FTW.html"
+    },
+    {
+      "date": "1950-02-15",
+      "home": "Minneapolis Lakers",
+      "visitor": "Rochester Royals",
+      "homePoints": 92,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002150MNL.html"
+    },
+    {
+      "date": "1950-02-15",
+      "home": "New York Knicks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 80,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002150NYK.html"
+    },
+    {
+      "date": "1950-02-15",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 61,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002150SHE.html"
+    },
+    {
+      "date": "1950-02-15",
+      "home": "Waterloo Hawks",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 76,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002150WAT.html"
+    },
+    {
+      "date": "1950-02-15",
+      "home": "Washington Capitols",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 81,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002150WSC.html"
+    },
+    {
+      "date": "1950-02-16",
+      "home": "Baltimore Bullets",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 83,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002160BLB.html"
+    },
+    {
+      "date": "1950-02-16",
+      "home": "Denver Nuggets",
+      "visitor": "Anderson Packers",
+      "homePoints": 86,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002160DNN.html"
+    },
+    {
+      "date": "1950-02-16",
+      "home": "St. Louis Bombers",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 71,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002160STB.html"
+    },
+    {
+      "date": "1950-02-16",
+      "home": "Syracuse Nationals",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 105,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002160SYR.html"
+    },
+    {
+      "date": "1950-02-17",
+      "home": "Boston Celtics",
+      "visitor": "Rochester Royals",
+      "homePoints": 73,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002170BOS.html"
+    },
+    {
+      "date": "1950-02-17",
+      "home": "Minneapolis Lakers",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 80,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002170MNL.html"
+    },
+    {
+      "date": "1950-02-17",
+      "home": "Philadelphia Warriors",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 67,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002170PHW.html"
+    },
+    {
+      "date": "1950-02-18",
+      "home": "Baltimore Bullets",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 73,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002180BLB.html"
+    },
+    {
+      "date": "1950-02-18",
+      "home": "Boston Celtics",
+      "visitor": "Rochester Royals",
+      "homePoints": 73,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002180BOS.html"
+    },
+    {
+      "date": "1950-02-18",
+      "home": "New York Knicks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 80,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002180NYK.html"
+    },
+    {
+      "date": "1950-02-18",
+      "home": "Waterloo Hawks",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 93,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002180WAT.html"
+    },
+    {
+      "date": "1950-02-18",
+      "home": "Washington Capitols",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 81,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002180WSC.html"
+    },
+    {
+      "date": "1950-02-19",
+      "home": "Denver Nuggets",
+      "visitor": "Anderson Packers",
+      "homePoints": 86,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002190DNN.html"
+    },
+    {
+      "date": "1950-02-19",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 79,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002190FTW.html"
+    },
+    {
+      "date": "1950-02-19",
+      "home": "Minneapolis Lakers",
+      "visitor": "Chicago Stags",
+      "homePoints": 96,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002190MNL.html"
+    },
+    {
+      "date": "1950-02-19",
+      "home": "Rochester Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 105,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002190ROC.html"
+    },
+    {
+      "date": "1950-02-19",
+      "home": "St. Louis Bombers",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 72,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002190STB.html"
+    },
+    {
+      "date": "1950-02-19",
+      "home": "Syracuse Nationals",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 82,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002190SYR.html"
+    },
+    {
+      "date": "1950-02-19",
+      "home": "Waterloo Hawks",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 84,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002190WAT.html"
+    },
+    {
+      "date": "1950-02-21",
+      "home": "Chicago Stags",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 72,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002210CHS.html"
+    },
+    {
+      "date": "1950-02-21",
+      "home": "Denver Nuggets",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 89,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002210DNN.html"
+    },
+    {
+      "date": "1950-02-21",
+      "home": "Indianapolis Olympians",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 78,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002210INO.html"
+    },
+    {
+      "date": "1950-02-21",
+      "home": "Philadelphia Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 73,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002210PHW.html"
+    },
+    {
+      "date": "1950-02-21",
+      "home": "Rochester Royals",
+      "visitor": "Washington Capitols",
+      "homePoints": 84,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002210ROC.html"
+    },
+    {
+      "date": "1950-02-22",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 100,
+      "visitorPoints": 57,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002220MNL.html"
+    },
+    {
+      "date": "1950-02-22",
+      "home": "New York Knicks",
+      "visitor": "Washington Capitols",
+      "homePoints": 89,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002220NYK.html"
+    },
+    {
+      "date": "1950-02-22",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Anderson Packers",
+      "homePoints": 81,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002220TRI.html"
+    },
+    {
+      "date": "1950-02-22",
+      "home": "Waterloo Hawks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 77,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002220WAT.html"
+    },
+    {
+      "date": "1950-02-23",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 82,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002230BOS.html"
+    },
+    {
+      "date": "1950-02-23",
+      "home": "Denver Nuggets",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 80,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002230DNN.html"
+    },
+    {
+      "date": "1950-02-23",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 81,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002230SHE.html"
+    },
+    {
+      "date": "1950-02-23",
+      "home": "St. Louis Bombers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 72,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002230STB.html"
+    },
+    {
+      "date": "1950-02-23",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 82,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002230TRI.html"
+    },
+    {
+      "date": "1950-02-24",
+      "home": "Boston Celtics",
+      "visitor": "Washington Capitols",
+      "homePoints": 89,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002240BOS.html"
+    },
+    {
+      "date": "1950-02-24",
+      "home": "Chicago Stags",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 77,
+      "visitorPoints": 62,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002240CHS.html"
+    },
+    {
+      "date": "1950-02-24",
+      "home": "Indianapolis Olympians",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 67,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002240INO.html"
+    },
+    {
+      "date": "1950-02-24",
+      "home": "Philadelphia Warriors",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 69,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002240PHW.html"
+    },
+    {
+      "date": "1950-02-25",
+      "home": "Baltimore Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 66,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002250BLB.html"
+    },
+    {
+      "date": "1950-02-25",
+      "home": "New York Knicks",
+      "visitor": "Chicago Stags",
+      "homePoints": 86,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002250NYK.html"
+    },
+    {
+      "date": "1950-02-25",
+      "home": "Rochester Royals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 66,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002250ROC.html"
+    },
+    {
+      "date": "1950-02-25",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 74,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002250TRI.html"
+    },
+    {
+      "date": "1950-02-25",
+      "home": "Washington Capitols",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 80,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002250WSC.html"
+    },
+    {
+      "date": "1950-02-26",
+      "home": "Denver Nuggets",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 76,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002260DNN.html"
+    },
+    {
+      "date": "1950-02-26",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Washington Capitols",
+      "homePoints": 78,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002260FTW.html"
+    },
+    {
+      "date": "1950-02-26",
+      "home": "Minneapolis Lakers",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 80,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002260MNL.html"
+    },
+    {
+      "date": "1950-02-26",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 86,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002260SHE.html"
+    },
+    {
+      "date": "1950-02-26",
+      "home": "St. Louis Bombers",
+      "visitor": "Rochester Royals",
+      "homePoints": 79,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002260STB.html"
+    },
+    {
+      "date": "1950-02-26",
+      "home": "Syracuse Nationals",
+      "visitor": "Chicago Stags",
+      "homePoints": 73,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002260SYR.html"
+    },
+    {
+      "date": "1950-02-27",
+      "home": "Anderson Packers",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 97,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002270AND.html"
+    },
+    {
+      "date": "1950-02-27",
+      "home": "Boston Celtics",
+      "visitor": "Chicago Stags",
+      "homePoints": 77,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002270BOS.html"
+    },
+    {
+      "date": "1950-02-27",
+      "home": "Denver Nuggets",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 75,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002270DNN.html"
+    },
+    {
+      "date": "1950-02-28",
+      "home": "Indianapolis Olympians",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 110,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002280INO.html"
+    },
+    {
+      "date": "1950-02-28",
+      "home": "Minneapolis Lakers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 71,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002280MNL.html"
+    },
+    {
+      "date": "1950-02-28",
+      "home": "Rochester Royals",
+      "visitor": "Chicago Stags",
+      "homePoints": 74,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195002280ROC.html"
+    },
+    {
+      "date": "1950-03-01",
+      "home": "Chicago Stags",
+      "visitor": "Washington Capitols",
+      "homePoints": 76,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003010CHS.html"
+    },
+    {
+      "date": "1950-03-01",
+      "home": "Denver Nuggets",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 80,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003010DNN.html"
+    },
+    {
+      "date": "1950-03-01",
+      "home": "New York Knicks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 82,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003010NYK.html"
+    },
+    {
+      "date": "1950-03-01",
+      "home": "Philadelphia Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 77,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003010PHW.html"
+    },
+    {
+      "date": "1950-03-01",
+      "home": "St. Louis Bombers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 70,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003010STB.html"
+    },
+    {
+      "date": "1950-03-01",
+      "home": "Waterloo Hawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 72,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003010WAT.html"
+    },
+    {
+      "date": "1950-03-02",
+      "home": "Anderson Packers",
+      "visitor": "Denver Nuggets",
+      "homePoints": 85,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003020AND.html"
+    },
+    {
+      "date": "1950-03-02",
+      "home": "Baltimore Bullets",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 68,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003020BLB.html"
+    },
+    {
+      "date": "1950-03-02",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 72,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003020BOS.html"
+    },
+    {
+      "date": "1950-03-02",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 91,
+      "visitorPoints": 61,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003020FTW.html"
+    },
+    {
+      "date": "1950-03-02",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 95,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003020SHE.html"
+    },
+    {
+      "date": "1950-03-02",
+      "home": "Washington Capitols",
+      "visitor": "Chicago Stags",
+      "homePoints": 91,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003020WSC.html"
+    },
+    {
+      "date": "1950-03-03",
+      "home": "Indianapolis Olympians",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 83,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003030INO.html"
+    },
+    {
+      "date": "1950-03-03",
+      "home": "Philadelphia Warriors",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 66,
+      "visitorPoints": 61,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003030PHW.html"
+    },
+    {
+      "date": "1950-03-04",
+      "home": "Baltimore Bullets",
+      "visitor": "Chicago Stags",
+      "homePoints": 77,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003040BLB.html"
+    },
+    {
+      "date": "1950-03-04",
+      "home": "New York Knicks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 75,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003040NYK.html"
+    },
+    {
+      "date": "1950-03-04",
+      "home": "Rochester Royals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 73,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003040ROC.html"
+    },
+    {
+      "date": "1950-03-04",
+      "home": "Washington Capitols",
+      "visitor": "Boston Celtics",
+      "homePoints": 95,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003040WSC.html"
+    },
+    {
+      "date": "1950-03-05",
+      "home": "Chicago Stags",
+      "visitor": "Anderson Packers",
+      "homePoints": 73,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003050CHS.html"
+    },
+    {
+      "date": "1950-03-05",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Rochester Royals",
+      "homePoints": 60,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003050FTW.html"
+    },
+    {
+      "date": "1950-03-05",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 87,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003050SHE.html"
+    },
+    {
+      "date": "1950-03-05",
+      "home": "St. Louis Bombers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 71,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003050STB.html"
+    },
+    {
+      "date": "1950-03-05",
+      "home": "Syracuse Nationals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 84,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003050SYR.html"
+    },
+    {
+      "date": "1950-03-05",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Denver Nuggets",
+      "homePoints": 91,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003050TRI.html"
+    },
+    {
+      "date": "1950-03-06",
+      "home": "Anderson Packers",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 88,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003060AND.html"
+    },
+    {
+      "date": "1950-03-07",
+      "home": "Boston Celtics",
+      "visitor": "Washington Capitols",
+      "homePoints": 75,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003070BOS.html"
+    },
+    {
+      "date": "1950-03-07",
+      "home": "Indianapolis Olympians",
+      "visitor": "Anderson Packers",
+      "homePoints": 107,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003070INO.html"
+    },
+    {
+      "date": "1950-03-07",
+      "home": "Minneapolis Lakers",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 90,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003070MNL.html"
+    },
+    {
+      "date": "1950-03-08",
+      "home": "Minneapolis Lakers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 68,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003080MNL.html"
+    },
+    {
+      "date": "1950-03-08",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 80,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003080NYK.html"
+    },
+    {
+      "date": "1950-03-08",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Anderson Packers",
+      "homePoints": 67,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003080TRI.html"
+    },
+    {
+      "date": "1950-03-08",
+      "home": "Waterloo Hawks",
+      "visitor": "Denver Nuggets",
+      "homePoints": 97,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003080WAT.html"
+    },
+    {
+      "date": "1950-03-08",
+      "home": "Washington Capitols",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 88,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003080WSC.html"
+    },
+    {
+      "date": "1950-03-09",
+      "home": "Anderson Packers",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 90,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003090AND.html"
+    },
+    {
+      "date": "1950-03-09",
+      "home": "Baltimore Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 91,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003090BLB.html"
+    },
+    {
+      "date": "1950-03-09",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Chicago Stags",
+      "homePoints": 84,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003090FTW.html"
+    },
+    {
+      "date": "1950-03-09",
+      "home": "Rochester Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 78,
+      "visitorPoints": 59,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003090ROC.html"
+    },
+    {
+      "date": "1950-03-09",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Denver Nuggets",
+      "homePoints": 115,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003090SHE.html"
+    },
+    {
+      "date": "1950-03-09",
+      "home": "Syracuse Nationals",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 85,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003090SYR.html"
+    },
+    {
+      "date": "1950-03-10",
+      "home": "Boston Celtics",
+      "visitor": "Washington Capitols",
+      "homePoints": 66,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003100BOS.html"
+    },
+    {
+      "date": "1950-03-10",
+      "home": "Philadelphia Warriors",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 78,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003100PHW.html"
+    },
+    {
+      "date": "1950-03-10",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Denver Nuggets",
+      "homePoints": 141,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003100SHE.html"
+    },
+    {
+      "date": "1950-03-11",
+      "home": "Anderson Packers",
+      "visitor": "New York Knicks",
+      "homePoints": 91,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003110AND.html"
+    },
+    {
+      "date": "1950-03-11",
+      "home": "Baltimore Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 79,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003110BLB.html"
+    },
+    {
+      "date": "1950-03-11",
+      "home": "Chicago Stags",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 90,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003110CHS.html"
+    },
+    {
+      "date": "1950-03-11",
+      "home": "Rochester Royals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 90,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003110ROC.html"
+    },
+    {
+      "date": "1950-03-11",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 97,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003110TRI.html"
+    },
+    {
+      "date": "1950-03-11",
+      "home": "Washington Capitols",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 92,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003110WSC.html"
+    },
+    {
+      "date": "1950-03-12",
+      "home": "Chicago Stags",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 73,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003120CHS.html"
+    },
+    {
+      "date": "1950-03-12",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 86,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003120FTW.html"
+    },
+    {
+      "date": "1950-03-12",
+      "home": "Indianapolis Olympians",
+      "visitor": "Waterloo Hawks",
+      "homePoints": 90,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003120INO.html"
+    },
+    {
+      "date": "1950-03-12",
+      "home": "Minneapolis Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 87,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003120MNL.html"
+    },
+    {
+      "date": "1950-03-12",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 99,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003120ROC.html"
+    },
+    {
+      "date": "1950-03-12",
+      "home": "Syracuse Nationals",
+      "visitor": "Boston Celtics",
+      "homePoints": 96,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003120SYR.html"
+    },
+    {
+      "date": "1950-03-13",
+      "home": "Anderson Packers",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 98,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003130AND.html"
+    },
+    {
+      "date": "1950-03-14",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 76,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003140BOS.html"
+    },
+    {
+      "date": "1950-03-14",
+      "home": "Chicago Stags",
+      "visitor": "New York Knicks",
+      "homePoints": 85,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003140CHS.html"
+    },
+    {
+      "date": "1950-03-14",
+      "home": "Indianapolis Olympians",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 68,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003140INO.html"
+    },
+    {
+      "date": "1950-03-15",
+      "home": "Minneapolis Lakers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 96,
+      "visitorPoints": 62,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003150MNL.html"
+    },
+    {
+      "date": "1950-03-15",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 88,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003150NYK.html"
+    },
+    {
+      "date": "1950-03-15",
+      "home": "Philadelphia Warriors",
+      "visitor": "Anderson Packers",
+      "homePoints": 83,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003150PHW.html"
+    },
+    {
+      "date": "1950-03-15",
+      "home": "Waterloo Hawks",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 87,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003150WAT.html"
+    },
+    {
+      "date": "1950-03-15",
+      "home": "Washington Capitols",
+      "visitor": "Rochester Royals",
+      "homePoints": 64,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003150WSC.html"
+    },
+    {
+      "date": "1950-03-16",
+      "home": "Denver Nuggets",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 99,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003160DNN.html"
+    },
+    {
+      "date": "1950-03-16",
+      "home": "Sheboygan Red Skins",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 75,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003160SHE.html"
+    },
+    {
+      "date": "1950-03-16",
+      "home": "St. Louis Bombers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 71,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003160STB.html"
+    },
+    {
+      "date": "1950-03-17",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 96,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003170BOS.html"
+    },
+    {
+      "date": "1950-03-17",
+      "home": "Chicago Stags",
+      "visitor": "St. Louis Bombers",
+      "homePoints": 69,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003170CHS.html"
+    },
+    {
+      "date": "1950-03-17",
+      "home": "Philadelphia Warriors",
+      "visitor": "Washington Capitols",
+      "homePoints": 85,
+      "visitorPoints": 59,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003170PHW.html"
+    },
+    {
+      "date": "1950-03-18",
+      "home": "Chicago Stags",
+      "visitor": "Sheboygan Red Skins",
+      "homePoints": 66,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003180CHS.html"
+    },
+    {
+      "date": "1950-03-18",
+      "home": "Denver Nuggets",
+      "visitor": "Indianapolis Olympians",
+      "homePoints": 73,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003180DNN.html"
+    },
+    {
+      "date": "1950-03-18",
+      "home": "Rochester Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 77,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003180ROC.html"
+    },
+    {
+      "date": "1950-03-18",
+      "home": "Tri-Cities Blackhawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 88,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003180TRI.html"
+    },
+    {
+      "date": "1950-03-18",
+      "home": "Washington Capitols",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 82,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003180WSC.html"
+    },
+    {
+      "date": "1950-03-19",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 69,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003190FTW.html"
+    },
+    {
+      "date": "1950-03-19",
+      "home": "Rochester Royals",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 97,
+      "visitorPoints": 66,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003190ROC.html"
+    },
+    {
+      "date": "1950-03-19",
+      "home": "St. Louis Bombers",
+      "visitor": "Chicago Stags",
+      "homePoints": 64,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003190STB.html"
+    },
+    {
+      "date": "1950-03-19",
+      "home": "Syracuse Nationals",
+      "visitor": "Anderson Packers",
+      "homePoints": 72,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003190SYR.html"
+    },
+    {
+      "date": "1950-03-19",
+      "home": "Waterloo Hawks",
+      "visitor": "Tri-Cities Blackhawks",
+      "homePoints": 79,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195003190WAT.html"
+    }
+  ]
+}

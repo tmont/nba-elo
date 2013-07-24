@@ -1,0 +1,3068 @@
+{
+  "standings": [
+    {
+      "team": "Boston Celtics",
+      "rating": 1481.1643401798042,
+      "wins": 59,
+      "losses": 16,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 129-125 vs Cincinnati Royals on 1959-10-17"
+        },
+        {
+          "diff": 36.36363636363626,
+          "newRating": 1636.3636363636363,
+          "result": "W 121-109 vs Syracuse Nationals on 1959-10-24"
+        },
+        {
+          "diff": 2.1456118297126068,
+          "newRating": 1638.5092481933489,
+          "result": "W 123-109 vs New York Knicks on 1959-10-31"
+        },
+        {
+          "diff": 4.524527292696803,
+          "newRating": 1643.0337754860457,
+          "result": "W 124-109 vs Cincinnati Royals on 1959-11-01"
+        },
+        {
+          "diff": 4.895158336242275,
+          "newRating": 1647.928933822288,
+          "result": "W 103-98 vs St. Louis Hawks on 1959-11-03"
+        },
+        {
+          "diff": 74.12978062773163,
+          "newRating": 1722.0587144500196,
+          "result": "W 115-106 vs Philadelphia Warriors on 1959-11-07"
+        },
+        {
+          "diff": -113.43206829596397,
+          "newRating": 1608.6266461540556,
+          "result": "L 115-136 vs Minneapolis Lakers on 1959-11-08"
+        },
+        {
+          "diff": 3.179675687918916,
+          "newRating": 1611.8063218419745,
+          "result": "W 128-109 vs Detroit Pistons on 1959-11-10"
+        },
+        {
+          "diff": 3.7618327117777426,
+          "newRating": 1615.5681545537523,
+          "result": "W 151-118 vs Cincinnati Royals on 1959-11-11"
+        },
+        {
+          "diff": 5.825182068967479,
+          "newRating": 1621.3933366227197,
+          "result": "W 113-111 vs St. Louis Hawks on 1959-11-14"
+        },
+        {
+          "diff": 2.2577404636131178,
+          "newRating": 1623.6510770863329,
+          "result": "W 134-128 vs Cincinnati Royals on 1959-11-15"
+        },
+        {
+          "diff": 3.0543296748733155,
+          "newRating": 1626.7054067612062,
+          "result": "W 132-129 vs Detroit Pistons on 1959-11-17"
+        },
+        {
+          "diff": -55.27048995247492,
+          "newRating": 1571.4349168087313,
+          "result": "L 103-138 vs Syracuse Nationals on 1959-11-18"
+        },
+        {
+          "diff": 10.573313046636486,
+          "newRating": 1582.0082298553677,
+          "result": "W 114-101 vs Syracuse Nationals on 1959-11-20"
+        },
+        {
+          "diff": 2.569044210553784,
+          "newRating": 1584.5772740659215,
+          "result": "W 128-127 vs New York Knicks on 1959-11-21"
+        },
+        {
+          "diff": -35.30422498664848,
+          "newRating": 1549.273049079273,
+          "result": "L 113-123 vs Philadelphia Warriors on 1959-11-25"
+        },
+        {
+          "diff": -28.63466412605385,
+          "newRating": 1520.6383849532192,
+          "result": "L 130-143 vs Philadelphia Warriors on 1959-11-26"
+        },
+        {
+          "diff": 3.911904995131408,
+          "newRating": 1524.5502899483506,
+          "result": "W 136-110 vs Detroit Pistons on 1959-11-28"
+        },
+        {
+          "diff": 1.6075728371656623,
+          "newRating": 1526.1578627855163,
+          "result": "W 109-93 vs Minneapolis Lakers on 1959-11-29"
+        },
+        {
+          "diff": 1.8562816236374147,
+          "newRating": 1528.0141444091537,
+          "result": "W 114-111 vs Cincinnati Royals on 1959-12-03"
+        },
+        {
+          "diff": 1.8900876857842377,
+          "newRating": 1529.904232094938,
+          "result": "W 122-107 vs New York Knicks on 1959-12-04"
+        },
+        {
+          "diff": 1.3859715753494584,
+          "newRating": 1531.2902036702874,
+          "result": "W 121-104 vs Minneapolis Lakers on 1959-12-06"
+        },
+        {
+          "diff": 1.9206469994228428,
+          "newRating": 1533.2108506697102,
+          "result": "W 121-105 vs New York Knicks on 1959-12-08"
+        },
+        {
+          "diff": 12.495311007387045,
+          "newRating": 1545.7061616770973,
+          "result": "W 137-116 vs Philadelphia Warriors on 1959-12-09"
+        },
+        {
+          "diff": 3.96755308201341,
+          "newRating": 1549.6737147591107,
+          "result": "W 122-99 vs St. Louis Hawks on 1959-12-11"
+        },
+        {
+          "diff": 10.444244399267518,
+          "newRating": 1560.1179591583782,
+          "result": "W 126-117 vs Philadelphia Warriors on 1959-12-12"
+        },
+        {
+          "diff": 1.3506166094964556,
+          "newRating": 1561.4685757678747,
+          "result": "W 137-126 vs New York Knicks on 1959-12-17"
+        },
+        {
+          "diff": 1.2831880025460123,
+          "newRating": 1562.7517637704207,
+          "result": "W 119-116 vs New York Knicks on 1959-12-19"
+        },
+        {
+          "diff": 3.972696956849177,
+          "newRating": 1566.7244607272698,
+          "result": "W 132-127 vs Syracuse Nationals on 1959-12-20"
+        },
+        {
+          "diff": 1.5726436232873766,
+          "newRating": 1568.2971043505572,
+          "result": "W 136-104 vs Detroit Pistons on 1959-12-22"
+        },
+        {
+          "diff": 1.273666213322258,
+          "newRating": 1569.5707705638795,
+          "result": "W 123-119 vs New York Knicks on 1959-12-25"
+        },
+        {
+          "diff": 0.9595829502411561,
+          "newRating": 1570.5303535141206,
+          "result": "W 122-111 vs Cincinnati Royals on 1959-12-27"
+        },
+        {
+          "diff": 0.9712402540797029,
+          "newRating": 1571.5015937682003,
+          "result": "W 107-104 vs Minneapolis Lakers on 1959-12-28"
+        },
+        {
+          "diff": 3.4488364447940967,
+          "newRating": 1574.9504302129944,
+          "result": "W 96-82 vs St. Louis Hawks on 1959-12-30"
+        },
+        {
+          "diff": -22.041577058102575,
+          "newRating": 1552.9088531548919,
+          "result": "L 115-128 vs Cincinnati Royals on 1960-01-01"
+        },
+        {
+          "diff": -16.327518165006268,
+          "newRating": 1536.5813349898856,
+          "result": "L 117-118 vs Philadelphia Warriors on 1960-01-02"
+        },
+        {
+          "diff": -18.108960707003007,
+          "newRating": 1518.4723742828826,
+          "result": "L 113-114 vs Syracuse Nationals on 1960-01-03"
+        },
+        {
+          "diff": 4.090394973591174,
+          "newRating": 1522.5627692564738,
+          "result": "W 127-120 vs Syracuse Nationals on 1960-01-04"
+        },
+        {
+          "diff": -16.682645903902767,
+          "newRating": 1505.880123352571,
+          "result": "L 143-145 vs Syracuse Nationals on 1960-01-05"
+        },
+        {
+          "diff": 1.2597820012053944,
+          "newRating": 1507.1399053537764,
+          "result": "W 126-103 vs Detroit Pistons on 1960-01-09"
+        },
+        {
+          "diff": -16.216092742360388,
+          "newRating": 1490.923812611416,
+          "result": "L 111-121 vs St. Louis Hawks on 1960-01-10"
+        },
+        {
+          "diff": -14.49594119723406,
+          "newRating": 1476.427871414182,
+          "result": "L 120-127 vs Syracuse Nationals on 1960-01-12"
+        },
+        {
+          "diff": 3.840835225428691,
+          "newRating": 1480.2687066396106,
+          "result": "W 134-112 vs St. Louis Hawks on 1960-01-13"
+        },
+        {
+          "diff": 7.738954389131095,
+          "newRating": 1488.0076610287417,
+          "result": "W 124-112 vs Philadelphia Warriors on 1960-01-15"
+        },
+        {
+          "diff": 7.168596239868748,
+          "newRating": 1495.1762572686105,
+          "result": "W 129-123 vs Philadelphia Warriors on 1960-01-17"
+        },
+        {
+          "diff": 1.5773416739095865,
+          "newRating": 1496.75359894252,
+          "result": "W 144-126 vs New York Knicks on 1960-01-20"
+        },
+        {
+          "diff": 4.0276010086174665,
+          "newRating": 1500.7811999511375,
+          "result": "W 130-121 vs Syracuse Nationals on 1960-01-23"
+        },
+        {
+          "diff": 3.80580466817014,
+          "newRating": 1504.5870046193077,
+          "result": "W 131-110 vs Syracuse Nationals on 1960-01-24"
+        },
+        {
+          "diff": 2.9962353514067672,
+          "newRating": 1507.5832399707144,
+          "result": "W 127-114 vs St. Louis Hawks on 1960-01-27"
+        },
+        {
+          "diff": -10.16117924607829,
+          "newRating": 1497.4220607246361,
+          "result": "L 116-124 vs Philadelphia Warriors on 1960-01-29"
+        },
+        {
+          "diff": 0.753808847946857,
+          "newRating": 1498.175869572583,
+          "result": "W 129-107 vs Cincinnati Royals on 1960-01-30"
+        },
+        {
+          "diff": 1.317354100234752,
+          "newRating": 1499.4932236728177,
+          "result": "W 146-128 vs Detroit Pistons on 1960-01-31"
+        },
+        {
+          "diff": -12.274407948965063,
+          "newRating": 1487.2188157238527,
+          "result": "L 113-114 vs St. Louis Hawks on 1960-02-02"
+        },
+        {
+          "diff": 0.7924833907425182,
+          "newRating": 1488.0112991145952,
+          "result": "W 128-108 vs Minneapolis Lakers on 1960-02-03"
+        },
+        {
+          "diff": 3.4551358952010105,
+          "newRating": 1491.4664350097962,
+          "result": "W 124-100 vs Syracuse Nationals on 1960-02-05"
+        },
+        {
+          "diff": 1.4531229437163802,
+          "newRating": 1492.9195579535126,
+          "result": "W 143-117 vs New York Knicks on 1960-02-06"
+        },
+        {
+          "diff": -12.628962482043107,
+          "newRating": 1480.2905954714695,
+          "result": "L 135-142 vs New York Knicks on 1960-02-07"
+        },
+        {
+          "diff": 0.7714026287076194,
+          "newRating": 1481.061998100177,
+          "result": "W 129-90 vs Minneapolis Lakers on 1960-02-09"
+        },
+        {
+          "diff": 1.3806198762840722,
+          "newRating": 1482.4426179764612,
+          "result": "W 153-121 vs Detroit Pistons on 1960-02-10"
+        },
+        {
+          "diff": 4.724227848324972,
+          "newRating": 1487.1668458247862,
+          "result": "W 122-120 vs Philadelphia Warriors on 1960-02-13"
+        },
+        {
+          "diff": 4.484916011880387,
+          "newRating": 1491.6517618366665,
+          "result": "W 125-115 vs Philadelphia Warriors on 1960-02-14"
+        },
+        {
+          "diff": 0.6649151953390628,
+          "newRating": 1492.3166770320056,
+          "result": "W 130-122 vs Minneapolis Lakers on 1960-02-16"
+        },
+        {
+          "diff": 1.5238586369146105,
+          "newRating": 1493.8405356689202,
+          "result": "W 109-104 vs New York Knicks on 1960-02-18"
+        },
+        {
+          "diff": 1.0590298122149306,
+          "newRating": 1494.8995654811351,
+          "result": "W 136-116 vs Detroit Pistons on 1960-02-19"
+        },
+        {
+          "diff": -9.747233875972142,
+          "newRating": 1485.152331605163,
+          "result": "L 105-121 vs St. Louis Hawks on 1960-02-20"
+        },
+        {
+          "diff": 0.6341723684970475,
+          "newRating": 1485.78650397366,
+          "result": "W 115-108 vs Cincinnati Royals on 1960-02-21"
+        },
+        {
+          "diff": -7.876855850455286,
+          "newRating": 1477.9096481232048,
+          "result": "L 108-126 vs Philadelphia Warriors on 1960-02-23"
+        },
+        {
+          "diff": 0.7439629852704002,
+          "newRating": 1478.6536111084752,
+          "result": "W 131-110 vs Minneapolis Lakers on 1960-02-24"
+        },
+        {
+          "diff": 1.0495839168404473,
+          "newRating": 1479.7031950253156,
+          "result": "W 121-107 vs Detroit Pistons on 1960-02-25"
+        },
+        {
+          "diff": 0.7358783041624974,
+          "newRating": 1480.439073329478,
+          "result": "W 128-111 vs Minneapolis Lakers on 1960-02-26"
+        },
+        {
+          "diff": 1.281069874632749,
+          "newRating": 1481.7201432041109,
+          "result": "W 129-125 vs New York Knicks on 1960-02-28"
+        },
+        {
+          "diff": 3.8637982292607376,
+          "newRating": 1485.5839414333716,
+          "result": "W 133-119 vs Philadelphia Warriors on 1960-03-02"
+        },
+        {
+          "diff": -8.358333893103918,
+          "newRating": 1477.2256075402677,
+          "result": "L 108-149 vs Syracuse Nationals on 1960-03-03"
+        },
+        {
+          "diff": 2.7936836754881824,
+          "newRating": 1480.0192912157559,
+          "result": "W 126-117 vs Syracuse Nationals on 1960-03-06"
+        },
+        {
+          "diff": 1.1450489640483283,
+          "newRating": 1481.1643401798042,
+          "result": "W 148-128 vs New York Knicks on 1960-03-09"
+        }
+      ]
+    },
+    {
+      "team": "Philadelphia Warriors",
+      "rating": 1358.6412960422397,
+      "wins": 49,
+      "losses": 26,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 118-109 vs New York Knicks on 1959-10-24"
+        },
+        {
+          "diff": 62.89261448428897,
+          "newRating": 1662.892614484289,
+          "result": "W 120-112 vs Detroit Pistons on 1959-10-31"
+        },
+        {
+          "diff": 24.09429778990875,
+          "newRating": 1686.9869122741977,
+          "result": "W 124-113 vs Syracuse Nationals on 1959-11-04"
+        },
+        {
+          "diff": -111.19467094159722,
+          "newRating": 1575.7922413326005,
+          "result": "L 106-115 vs Boston Celtics on 1959-11-07"
+        },
+        {
+          "diff": 8.493170712599976,
+          "newRating": 1584.2854120452005,
+          "result": "W 134-106 vs Cincinnati Royals on 1959-11-08"
+        },
+        {
+          "diff": 5.314645826971628,
+          "newRating": 1589.600057872172,
+          "result": "W 126-125 vs New York Knicks on 1959-11-10"
+        },
+        {
+          "diff": 3.9767441235969727,
+          "newRating": 1593.576801995769,
+          "result": "W 119-105 vs Detroit Pistons on 1959-11-11"
+        },
+        {
+          "diff": 4.582768234053901,
+          "newRating": 1598.159570229823,
+          "result": "W 124-116 vs Cincinnati Royals on 1959-11-12"
+        },
+        {
+          "diff": 1.6659026933505174,
+          "newRating": 1599.8254729231735,
+          "result": "W 104-98 vs Minneapolis Lakers on 1959-11-14"
+        },
+        {
+          "diff": -78.52517907678748,
+          "newRating": 1521.300293846386,
+          "result": "L 100-106 vs Minneapolis Lakers on 1959-11-15"
+        },
+        {
+          "diff": -67.22044316874167,
+          "newRating": 1454.0798506776443,
+          "result": "L 117-118 vs St. Louis Hawks on 1959-11-20"
+        },
+        {
+          "diff": -47.09484302973715,
+          "newRating": 1406.9850076479072,
+          "result": "L 107-116 vs Syracuse Nationals on 1959-11-21"
+        },
+        {
+          "diff": 25.33859135769717,
+          "newRating": 1432.3235990056044,
+          "result": "W 114-103 vs Syracuse Nationals on 1959-11-22"
+        },
+        {
+          "diff": 40.3476856990269,
+          "newRating": 1472.6712847046313,
+          "result": "W 123-113 vs Boston Celtics on 1959-11-25"
+        },
+        {
+          "diff": 32.452619342861,
+          "newRating": 1505.1239040474923,
+          "result": "W 143-130 vs Boston Celtics on 1959-11-26"
+        },
+        {
+          "diff": 3.002759154621799,
+          "newRating": 1508.126663202114,
+          "result": "W 109-108 vs New York Knicks on 1959-11-28"
+        },
+        {
+          "diff": -44.323145896405094,
+          "newRating": 1463.803517305709,
+          "result": "L 126-127 vs New York Knicks on 1959-11-29"
+        },
+        {
+          "diff": 2.6868913242778945,
+          "newRating": 1466.4904086299869,
+          "result": "W 123-109 vs Minneapolis Lakers on 1959-12-03"
+        },
+        {
+          "diff": 6.9762366247252885,
+          "newRating": 1473.4666452547121,
+          "result": "W 124-112 vs St. Louis Hawks on 1959-12-04"
+        },
+        {
+          "diff": -33.82953253278083,
+          "newRating": 1439.6371127219313,
+          "result": "L 112-113 vs St. Louis Hawks on 1959-12-05"
+        },
+        {
+          "diff": 4.729966410021916,
+          "newRating": 1444.3670791319532,
+          "result": "W 118-116 vs Detroit Pistons on 1959-12-06"
+        },
+        {
+          "diff": -13.631248371694937,
+          "newRating": 1430.7358307602583,
+          "result": "L 116-137 vs Boston Celtics on 1959-12-09"
+        },
+        {
+          "diff": 3.276589158338993,
+          "newRating": 1434.0124199185973,
+          "result": "W 131-112 vs Cincinnati Royals on 1959-12-10"
+        },
+        {
+          "diff": -11.314598099206478,
+          "newRating": 1422.6978218193908,
+          "result": "L 117-126 vs Boston Celtics on 1959-12-12"
+        },
+        {
+          "diff": -23.50836963993902,
+          "newRating": 1399.1894521794518,
+          "result": "L 121-150 vs Syracuse Nationals on 1959-12-13"
+        },
+        {
+          "diff": 3.4410822286411076,
+          "newRating": 1402.630534408093,
+          "result": "W 131-107 vs Cincinnati Royals on 1959-12-15"
+        },
+        {
+          "diff": 3.204672518655343,
+          "newRating": 1405.8352069267482,
+          "result": "W 114-105 vs Cincinnati Royals on 1959-12-16"
+        },
+        {
+          "diff": -20.927229599098382,
+          "newRating": 1384.9079773276499,
+          "result": "L 89-102 vs St. Louis Hawks on 1959-12-19"
+        },
+        {
+          "diff": 8.657176597970647,
+          "newRating": 1393.5651539256205,
+          "result": "W 129-121 vs Syracuse Nationals on 1959-12-25"
+        },
+        {
+          "diff": -23.373071167666694,
+          "newRating": 1370.1920827579538,
+          "result": "L 116-122 vs New York Knicks on 1959-12-26"
+        },
+        {
+          "diff": 2.870224650042246,
+          "newRating": 1373.062307407996,
+          "result": "W 109-104 vs Cincinnati Royals on 1959-12-28"
+        },
+        {
+          "diff": 2.863278019922518,
+          "newRating": 1375.9255854279186,
+          "result": "W 122-107 vs Minneapolis Lakers on 1959-12-30"
+        },
+        {
+          "diff": 17.81183799818882,
+          "newRating": 1393.7374234261074,
+          "result": "W 118-117 vs Boston Celtics on 1960-01-02"
+        },
+        {
+          "diff": 2.2274900432564664,
+          "newRating": 1395.9649134693639,
+          "result": "W 126-111 vs Minneapolis Lakers on 1960-01-05"
+        },
+        {
+          "diff": 7.030986329703865,
+          "newRating": 1402.9958997990677,
+          "result": "W 121-101 vs St. Louis Hawks on 1960-01-06"
+        },
+        {
+          "diff": 2.4835202804449636,
+          "newRating": 1405.4794200795127,
+          "result": "W 120-105 vs Detroit Pistons on 1960-01-07"
+        },
+        {
+          "diff": 7.425679024750934,
+          "newRating": 1412.9050991042636,
+          "result": "W 119-112 vs Syracuse Nationals on 1960-01-09"
+        },
+        {
+          "diff": 2.8890621438147264,
+          "newRating": 1415.7941612480784,
+          "result": "W 116-103 vs New York Knicks on 1960-01-10"
+        },
+        {
+          "diff": 5.663155152050422,
+          "newRating": 1421.4573164001288,
+          "result": "W 126-108 vs St. Louis Hawks on 1960-01-12"
+        },
+        {
+          "diff": 6.756459672586061,
+          "newRating": 1428.2137760727148,
+          "result": "W 132-131 vs Syracuse Nationals on 1960-01-13"
+        },
+        {
+          "diff": -8.305219344433453,
+          "newRating": 1419.9085567282814,
+          "result": "L 112-124 vs Boston Celtics on 1960-01-15"
+        },
+        {
+          "diff": -7.680638828430801,
+          "newRating": 1412.2279178998506,
+          "result": "L 123-129 vs Boston Celtics on 1960-01-17"
+        },
+        {
+          "diff": 2.609085624623276,
+          "newRating": 1414.8370035244739,
+          "result": "W 114-93 vs New York Knicks on 1960-01-19"
+        },
+        {
+          "diff": 6.171765265982231,
+          "newRating": 1421.008768790456,
+          "result": "W 129-123 vs Syracuse Nationals on 1960-01-20"
+        },
+        {
+          "diff": -15.816472576051183,
+          "newRating": 1405.192296214405,
+          "result": "L 110-130 vs Detroit Pistons on 1960-01-23"
+        },
+        {
+          "diff": 1.4800343487013379,
+          "newRating": 1406.6723305631062,
+          "result": "W 104-95 vs Cincinnati Royals on 1960-01-24"
+        },
+        {
+          "diff": 2.180656537117102,
+          "newRating": 1408.8529871002233,
+          "result": "W 127-117 vs Detroit Pistons on 1960-01-25"
+        },
+        {
+          "diff": 2.482665082986614,
+          "newRating": 1411.33565218321,
+          "result": "W 129-117 vs New York Knicks on 1960-01-27"
+        },
+        {
+          "diff": 10.36855025110026,
+          "newRating": 1421.7042024343102,
+          "result": "W 124-116 vs Boston Celtics on 1960-01-29"
+        },
+        {
+          "diff": -13.731052942268661,
+          "newRating": 1407.9731494920416,
+          "result": "L 108-115 vs New York Knicks on 1960-01-30"
+        },
+        {
+          "diff": 1.3034020006912215,
+          "newRating": 1409.2765514927328,
+          "result": "W 114-104 vs Minneapolis Lakers on 1960-01-31"
+        },
+        {
+          "diff": 1.260118559876446,
+          "newRating": 1410.5366700526092,
+          "result": "W 103-96 vs Minneapolis Lakers on 1960-02-01"
+        },
+        {
+          "diff": 1.1556287221221737,
+          "newRating": 1411.6922987747314,
+          "result": "W 109-107 vs Cincinnati Royals on 1960-02-02"
+        },
+        {
+          "diff": -10.175636221955074,
+          "newRating": 1401.5166625527763,
+          "result": "L 110-137 vs Syracuse Nationals on 1960-02-04"
+        },
+        {
+          "diff": 4.864498760832703,
+          "newRating": 1406.381161313609,
+          "result": "W 129-126 vs Syracuse Nationals on 1960-02-06"
+        },
+        {
+          "diff": -9.914881922853283,
+          "newRating": 1396.4662793907557,
+          "result": "L 108-130 vs St. Louis Hawks on 1960-02-07"
+        },
+        {
+          "diff": -11.971191695298558,
+          "newRating": 1384.4950876954572,
+          "result": "L 113-122 vs Detroit Pistons on 1960-02-09"
+        },
+        {
+          "diff": -11.319777234613639,
+          "newRating": 1373.1753104608435,
+          "result": "L 117-125 vs New York Knicks on 1960-02-10"
+        },
+        {
+          "diff": 5.016430003211553,
+          "newRating": 1378.191740464055,
+          "result": "W 139-120 vs St. Louis Hawks on 1960-02-11"
+        },
+        {
+          "diff": -4.724227848324972,
+          "newRating": 1373.4675126157301,
+          "result": "L 120-122 vs Boston Celtics on 1960-02-13"
+        },
+        {
+          "diff": -4.484916011880387,
+          "newRating": 1368.9825966038497,
+          "result": "L 115-125 vs Boston Celtics on 1960-02-14"
+        },
+        {
+          "diff": 1.2121674103934765,
+          "newRating": 1370.1947640142432,
+          "result": "W 117-112 vs Cincinnati Royals on 1960-02-16"
+        },
+        {
+          "diff": 4.738315086784496,
+          "newRating": 1374.9330791010277,
+          "result": "W 123-116 vs Syracuse Nationals on 1960-02-17"
+        },
+        {
+          "diff": -7.994086758584217,
+          "newRating": 1366.9389923424435,
+          "result": "L 122-136 vs Syracuse Nationals on 1960-02-18"
+        },
+        {
+          "diff": 1.287753009149128,
+          "newRating": 1368.2267453515926,
+          "result": "W 122-106 vs Minneapolis Lakers on 1960-02-20"
+        },
+        {
+          "diff": 2.5762536694460323,
+          "newRating": 1370.8029990210387,
+          "result": "W 129-122 vs New York Knicks on 1960-02-21"
+        },
+        {
+          "diff": 7.876855850455286,
+          "newRating": 1378.679854871494,
+          "result": "W 126-108 vs Boston Celtics on 1960-02-23"
+        },
+        {
+          "diff": 2.2646912058387443,
+          "newRating": 1380.9445460773327,
+          "result": "W 131-121 vs New York Knicks on 1960-02-25"
+        },
+        {
+          "diff": -10.342968564947796,
+          "newRating": 1370.601577512385,
+          "result": "L 91-109 vs Minneapolis Lakers on 1960-02-27"
+        },
+        {
+          "diff": 1.8535368848151847,
+          "newRating": 1372.4551143972,
+          "result": "W 113-111 vs Detroit Pistons on 1960-02-28"
+        },
+        {
+          "diff": -3.9182179226306744,
+          "newRating": 1368.5368964745694,
+          "result": "L 119-133 vs Boston Celtics on 1960-03-02"
+        },
+        {
+          "diff": 1.913074786580637,
+          "newRating": 1370.44997126115,
+          "result": "W 110-101 vs Detroit Pistons on 1960-03-03"
+        },
+        {
+          "diff": 2.0169377068316408,
+          "newRating": 1372.4669089679817,
+          "result": "W 136-134 vs New York Knicks on 1960-03-04"
+        },
+        {
+          "diff": -7.37621160868207,
+          "newRating": 1365.0906973592996,
+          "result": "L 109-128 vs St. Louis Hawks on 1960-03-06"
+        },
+        {
+          "diff": -6.449401317059937,
+          "newRating": 1358.6412960422397,
+          "result": "L 126-137 vs Syracuse Nationals on 1960-03-09"
+        }
+      ]
+    },
+    {
+      "team": "Syracuse Nationals",
+      "rating": 1297.7447089362502,
+      "wins": 45,
+      "losses": 30,
+      "log": [
+        {
+          "diff": -72.72727272727275,
+          "newRating": 1127.2727272727273,
+          "result": "L 109-121 vs Boston Celtics on 1959-10-24"
+        },
+        {
+          "diff": -156.5582349161566,
+          "newRating": 970.7144923565706,
+          "result": "L 102-117 vs Detroit Pistons on 1959-10-28"
+        },
+        {
+          "diff": 234.68912735479216,
+          "newRating": 1205.4036197113628,
+          "result": "W 136-127 vs Cincinnati Royals on 1959-10-30"
+        },
+        {
+          "diff": 56.318172471020944,
+          "newRating": 1261.7217921823838,
+          "result": "W 117-108 vs Minneapolis Lakers on 1959-10-31"
+        },
+        {
+          "diff": -14.456578673945387,
+          "newRating": 1247.2652135084384,
+          "result": "L 113-124 vs Philadelphia Warriors on 1959-11-04"
+        },
+        {
+          "diff": -109.62236387902249,
+          "newRating": 1137.6428496294159,
+          "result": "L 101-103 vs Cincinnati Royals on 1959-11-07"
+        },
+        {
+          "diff": 43.5350629721338,
+          "newRating": 1181.1779126015497,
+          "result": "W 118-107 vs Detroit Pistons on 1959-11-08"
+        },
+        {
+          "diff": 29.073229537432553,
+          "newRating": 1210.2511421389822,
+          "result": "W 113-104 vs New York Knicks on 1959-11-12"
+        },
+        {
+          "diff": 19.788544775199398,
+          "newRating": 1230.0396869141816,
+          "result": "W 116-108 vs New York Knicks on 1959-11-14"
+        },
+        {
+          "diff": 18.519201685102644,
+          "newRating": 1248.5588885992843,
+          "result": "W 121-116 vs Cincinnati Royals on 1959-11-17"
+        },
+        {
+          "diff": 65.31966994383401,
+          "newRating": 1313.8785585431183,
+          "result": "W 138-103 vs Boston Celtics on 1959-11-18"
+        },
+        {
+          "diff": -12.33553188774249,
+          "newRating": 1301.5430266553758,
+          "result": "L 101-114 vs Boston Celtics on 1959-11-20"
+        },
+        {
+          "diff": 43.47216279668032,
+          "newRating": 1345.0151894520561,
+          "result": "W 116-107 vs Philadelphia Warriors on 1959-11-21"
+        },
+        {
+          "diff": -23.528691975004676,
+          "newRating": 1321.4864974770514,
+          "result": "L 103-114 vs Philadelphia Warriors on 1959-11-22"
+        },
+        {
+          "diff": 8.637750154448213,
+          "newRating": 1330.1242476314997,
+          "result": "W 120-107 vs New York Knicks on 1959-11-24"
+        },
+        {
+          "diff": 6.706238188522548,
+          "newRating": 1336.8304858200222,
+          "result": "W 100-93 vs Minneapolis Lakers on 1959-11-25"
+        },
+        {
+          "diff": -37.241652234601816,
+          "newRating": 1299.5888335854204,
+          "result": "L 95-112 vs St. Louis Hawks on 1959-11-26"
+        },
+        {
+          "diff": 6.223500060731112,
+          "newRating": 1305.8123336461515,
+          "result": "W 111-105 vs Cincinnati Royals on 1959-11-28"
+        },
+        {
+          "diff": -28.94145770957425,
+          "newRating": 1276.8708759365772,
+          "result": "L 101-106 vs St. Louis Hawks on 1959-12-01"
+        },
+        {
+          "diff": 15.954792852800438,
+          "newRating": 1292.8256687893777,
+          "result": "W 130-121 vs St. Louis Hawks on 1959-12-02"
+        },
+        {
+          "diff": 5.233569174797822,
+          "newRating": 1298.0592379641755,
+          "result": "W 108-95 vs Minneapolis Lakers on 1959-12-05"
+        },
+        {
+          "diff": 4.72824594303529,
+          "newRating": 1302.7874839072108,
+          "result": "W 93-89 vs Minneapolis Lakers on 1959-12-08"
+        },
+        {
+          "diff": -30.45399823472667,
+          "newRating": 1272.3334856724841,
+          "result": "L 86-96 vs Minneapolis Lakers on 1959-12-09"
+        },
+        {
+          "diff": -26.52823574662966,
+          "newRating": 1245.8052499258545,
+          "result": "L 121-152 vs New York Knicks on 1959-12-11"
+        },
+        {
+          "diff": 23.50836963993902,
+          "newRating": 1269.3136195657935,
+          "result": "W 150-121 vs Philadelphia Warriors on 1959-12-13"
+        },
+        {
+          "diff": 6.433011476635784,
+          "newRating": 1275.7466310424293,
+          "result": "W 116-113 vs New York Knicks on 1959-12-16"
+        },
+        {
+          "diff": -22.624910558906777,
+          "newRating": 1253.1217204835225,
+          "result": "L 112-120 vs Detroit Pistons on 1959-12-19"
+        },
+        {
+          "diff": -4.114578991022427,
+          "newRating": 1249.0071414925,
+          "result": "L 127-132 vs Boston Celtics on 1959-12-20"
+        },
+        {
+          "diff": -8.657176597970647,
+          "newRating": 1240.3499648945294,
+          "result": "L 121-129 vs Philadelphia Warriors on 1959-12-25"
+        },
+        {
+          "diff": 14.349029597299705,
+          "newRating": 1254.6989944918291,
+          "result": "W 117-104 vs St. Louis Hawks on 1959-12-26"
+        },
+        {
+          "diff": -13.002561905449966,
+          "newRating": 1241.6964325863792,
+          "result": "L 106-120 vs St. Louis Hawks on 1959-12-28"
+        },
+        {
+          "diff": 5.135020702245583,
+          "newRating": 1246.8314532886247,
+          "result": "W 131-127 vs Cincinnati Royals on 1959-12-30"
+        },
+        {
+          "diff": 4.846962484002233,
+          "newRating": 1251.678415772627,
+          "result": "W 109-98 vs Minneapolis Lakers on 1960-01-01"
+        },
+        {
+          "diff": 19.70681018115033,
+          "newRating": 1271.3852259537773,
+          "result": "W 114-113 vs Boston Celtics on 1960-01-03"
+        },
+        {
+          "diff": -4.441000257041878,
+          "newRating": 1266.9442256967354,
+          "result": "L 120-127 vs Boston Celtics on 1960-01-04"
+        },
+        {
+          "diff": 18.072866395894607,
+          "newRating": 1285.01709209263,
+          "result": "W 145-143 vs Boston Celtics on 1960-01-05"
+        },
+        {
+          "diff": 3.8213649882004574,
+          "newRating": 1288.8384570808305,
+          "result": "W 132-114 vs Cincinnati Royals on 1960-01-07"
+        },
+        {
+          "diff": 4.069738337752824,
+          "newRating": 1292.9081954185833,
+          "result": "W 118-107 vs Detroit Pistons on 1960-01-08"
+        },
+        {
+          "diff": -7.04487497219975,
+          "newRating": 1285.8633204463836,
+          "result": "L 112-119 vs Philadelphia Warriors on 1960-01-09"
+        },
+        {
+          "diff": 3.8305314534593435,
+          "newRating": 1289.693851899843,
+          "result": "W 108-103 vs Detroit Pistons on 1960-01-10"
+        },
+        {
+          "diff": 14.849500738630013,
+          "newRating": 1304.543352638473,
+          "result": "W 127-120 vs Boston Celtics on 1960-01-12"
+        },
+        {
+          "diff": -6.434723497701043,
+          "newRating": 1298.1086291407719,
+          "result": "L 131-132 vs Philadelphia Warriors on 1960-01-13"
+        },
+        {
+          "diff": 7.716209084956745,
+          "newRating": 1305.8248382257286,
+          "result": "W 119-112 vs St. Louis Hawks on 1960-01-14"
+        },
+        {
+          "diff": -11.044286275504874,
+          "newRating": 1294.7805519502238,
+          "result": "L 140-141 vs St. Louis Hawks on 1960-01-15"
+        },
+        {
+          "diff": 4.402243198671613,
+          "newRating": 1299.1827951488954,
+          "result": "W 129-117 vs New York Knicks on 1960-01-17"
+        },
+        {
+          "diff": -5.903427645722104,
+          "newRating": 1293.2793675031733,
+          "result": "L 123-129 vs Philadelphia Warriors on 1960-01-20"
+        },
+        {
+          "diff": -4.0276010086174665,
+          "newRating": 1289.2517664945558,
+          "result": "L 121-130 vs Boston Celtics on 1960-01-23"
+        },
+        {
+          "diff": -3.80580466817014,
+          "newRating": 1285.4459618263857,
+          "result": "L 110-131 vs Boston Celtics on 1960-01-24"
+        },
+        {
+          "diff": -12.640050558250778,
+          "newRating": 1272.8059112681349,
+          "result": "L 114-121 vs Detroit Pistons on 1960-01-26"
+        },
+        {
+          "diff": 4.0359206218051895,
+          "newRating": 1276.84183188994,
+          "result": "W 144-108 vs Detroit Pistons on 1960-01-27"
+        },
+        {
+          "diff": 2.570310011110905,
+          "newRating": 1279.412141901051,
+          "result": "W 119-112 vs Minneapolis Lakers on 1960-01-29"
+        },
+        {
+          "diff": -8.670920966154426,
+          "newRating": 1270.7412209348965,
+          "result": "L 110-117 vs St. Louis Hawks on 1960-01-31"
+        },
+        {
+          "diff": 4.502885492204314,
+          "newRating": 1275.2441064271009,
+          "result": "W 119-102 vs New York Knicks on 1960-02-02"
+        },
+        {
+          "diff": 10.175636221955074,
+          "newRating": 1285.419742649056,
+          "result": "W 137-110 vs Philadelphia Warriors on 1960-02-04"
+        },
+        {
+          "diff": -3.4551358952010105,
+          "newRating": 1281.964606753855,
+          "result": "L 100-124 vs Boston Celtics on 1960-02-05"
+        },
+        {
+          "diff": -4.777632711532078,
+          "newRating": 1277.1869740423228,
+          "result": "L 126-129 vs Philadelphia Warriors on 1960-02-06"
+        },
+        {
+          "diff": 2.019233387836266,
+          "newRating": 1279.206207430159,
+          "result": "W 135-112 vs Cincinnati Royals on 1960-02-07"
+        },
+        {
+          "diff": 1.9459082623427548,
+          "newRating": 1281.1521156925019,
+          "result": "W 117-111 vs Cincinnati Royals on 1960-02-09"
+        },
+        {
+          "diff": 2.121703808663824,
+          "newRating": 1283.2738195011657,
+          "result": "W 110-109 vs Minneapolis Lakers on 1960-02-10"
+        },
+        {
+          "diff": 3.927992640544744,
+          "newRating": 1287.2018121417104,
+          "result": "W 116-109 vs New York Knicks on 1960-02-11"
+        },
+        {
+          "diff": 1.9858054559310858,
+          "newRating": 1289.1876175976415,
+          "result": "W 121-119 vs Minneapolis Lakers on 1960-02-14"
+        },
+        {
+          "diff": -9.110636163744857,
+          "newRating": 1280.0769814338967,
+          "result": "L 116-125 vs New York Knicks on 1960-02-16"
+        },
+        {
+          "diff": -4.738315086784496,
+          "newRating": 1275.3386663471122,
+          "result": "L 116-123 vs Philadelphia Warriors on 1960-02-17"
+        },
+        {
+          "diff": 7.994086758584217,
+          "newRating": 1283.3327531056964,
+          "result": "W 136-122 vs Philadelphia Warriors on 1960-02-18"
+        },
+        {
+          "diff": 3.8201787124655766,
+          "newRating": 1287.152931818162,
+          "result": "W 126-121 vs New York Knicks on 1960-02-20"
+        },
+        {
+          "diff": 2.714523163194599,
+          "newRating": 1289.8674549813566,
+          "result": "W 122-120 vs Detroit Pistons on 1960-02-21"
+        },
+        {
+          "diff": -10.211517777465133,
+          "newRating": 1279.6559372038914,
+          "result": "L 133-135 vs Cincinnati Royals on 1960-02-23"
+        },
+        {
+          "diff": -9.073803649224828,
+          "newRating": 1270.5821335546666,
+          "result": "L 110-128 vs Detroit Pistons on 1960-02-24"
+        },
+        {
+          "diff": 5.529514863536633,
+          "newRating": 1276.1116484182032,
+          "result": "W 110-105 vs St. Louis Hawks on 1960-02-25"
+        },
+        {
+          "diff": 3.4056745729205886,
+          "newRating": 1279.5173229911238,
+          "result": "W 114-111 vs New York Knicks on 1960-02-27"
+        },
+        {
+          "diff": 3.2461657798046417,
+          "newRating": 1282.7634887709285,
+          "result": "W 124-121 vs New York Knicks on 1960-03-01"
+        },
+        {
+          "diff": 8.474421863841599,
+          "newRating": 1291.23791063477,
+          "result": "W 149-108 vs Boston Celtics on 1960-03-03"
+        },
+        {
+          "diff": 2.851080659908348,
+          "newRating": 1294.0889912946784,
+          "result": "W 132-115 vs New York Knicks on 1960-03-05"
+        },
+        {
+          "diff": -2.7936836754881824,
+          "newRating": 1291.2953076191902,
+          "result": "L 117-126 vs Boston Celtics on 1960-03-06"
+        },
+        {
+          "diff": 6.449401317059937,
+          "newRating": 1297.7447089362502,
+          "result": "W 137-126 vs Philadelphia Warriors on 1960-03-09"
+        }
+      ]
+    },
+    {
+      "team": "St. Louis Hawks",
+      "rating": 1252.112007770847,
+      "wins": 46,
+      "losses": 29,
+      "log": [
+        {
+          "diff": -727.2727272727273,
+          "newRating": 472.72727272727275,
+          "result": "L 87-94 vs Minneapolis Lakers on 1959-10-24"
+        },
+        {
+          "diff": 391.6379849761398,
+          "newRating": 864.3652577034126,
+          "result": "W 109-102 vs Cincinnati Royals on 1959-10-31"
+        },
+        {
+          "diff": 178.32507342938686,
+          "newRating": 1042.6903311327994,
+          "result": "W 138-101 vs Minneapolis Lakers on 1959-11-01"
+        },
+        {
+          "diff": -6.118947920302844,
+          "newRating": 1036.5713832124966,
+          "result": "L 98-103 vs Boston Celtics on 1959-11-03"
+        },
+        {
+          "diff": 101.70907063087293,
+          "newRating": 1138.2804538433695,
+          "result": "W 117-113 vs New York Knicks on 1959-11-07"
+        },
+        {
+          "diff": 35.30890672096416,
+          "newRating": 1173.5893605643337,
+          "result": "W 134-105 vs Minneapolis Lakers on 1959-11-10"
+        },
+        {
+          "diff": -8.321688669953346,
+          "newRating": 1165.2676718943803,
+          "result": "L 111-113 vs Boston Celtics on 1959-11-14"
+        },
+        {
+          "diff": -78.60727263680883,
+          "newRating": 1086.6603992575715,
+          "result": "L 97-105 vs New York Knicks on 1959-11-17"
+        },
+        {
+          "diff": 82.15831942846216,
+          "newRating": 1168.8187186860337,
+          "result": "W 118-117 vs Philadelphia Warriors on 1959-11-20"
+        },
+        {
+          "diff": -50.28601852959059,
+          "newRating": 1118.532700156443,
+          "result": "L 107-109 vs Detroit Pistons on 1959-11-21"
+        },
+        {
+          "diff": -53.62341464576116,
+          "newRating": 1064.909285510682,
+          "result": "L 100-106 vs Cincinnati Royals on 1959-11-22"
+        },
+        {
+          "diff": 40.30417172154716,
+          "newRating": 1105.213457232229,
+          "result": "W 104-97 vs Detroit Pistons on 1959-11-25"
+        },
+        {
+          "diff": 48.700622152940696,
+          "newRating": 1153.9140793851698,
+          "result": "W 112-95 vs Syracuse Nationals on 1959-11-26"
+        },
+        {
+          "diff": 15.042675634786065,
+          "newRating": 1168.9567550199558,
+          "result": "W 102-91 vs Minneapolis Lakers on 1959-11-28"
+        },
+        {
+          "diff": 36.65917976546052,
+          "newRating": 1205.6159347854164,
+          "result": "W 106-101 vs Syracuse Nationals on 1959-12-01"
+        },
+        {
+          "diff": -19.94349106600066,
+          "newRating": 1185.6724437194157,
+          "result": "L 121-130 vs Syracuse Nationals on 1959-12-02"
+        },
+        {
+          "diff": -7.7969703452811245,
+          "newRating": 1177.8754733741346,
+          "result": "L 112-124 vs Philadelphia Warriors on 1959-12-04"
+        },
+        {
+          "diff": 37.58836948086764,
+          "newRating": 1215.4638428550022,
+          "result": "W 113-112 vs Philadelphia Warriors on 1959-12-05"
+        },
+        {
+          "diff": 9.420642359997146,
+          "newRating": 1224.8844852149994,
+          "result": "W 118-104 vs Cincinnati Royals on 1959-12-06"
+        },
+        {
+          "diff": -31.719506696769486,
+          "newRating": 1193.1649785182299,
+          "result": "L 101-105 vs Cincinnati Royals on 1959-12-08"
+        },
+        {
+          "diff": 12.885878141299145,
+          "newRating": 1206.050856659529,
+          "result": "W 129-111 vs Detroit Pistons on 1959-12-10"
+        },
+        {
+          "diff": -4.508583047742377,
+          "newRating": 1201.5422736117866,
+          "result": "L 99-122 vs Boston Celtics on 1959-12-11"
+        },
+        {
+          "diff": 10.151557568603039,
+          "newRating": 1211.6938311803897,
+          "result": "W 118-98 vs Cincinnati Royals on 1959-12-13"
+        },
+        {
+          "diff": 9.313823504311586,
+          "newRating": 1221.0076546847013,
+          "result": "W 119-110 vs New York Knicks on 1959-12-15"
+        },
+        {
+          "diff": 9.875649742198448,
+          "newRating": 1230.8833044268997,
+          "result": "W 107-106 vs Detroit Pistons on 1959-12-16"
+        },
+        {
+          "diff": 22.53701649133677,
+          "newRating": 1253.4203209182365,
+          "result": "W 102-89 vs Philadelphia Warriors on 1959-12-19"
+        },
+        {
+          "diff": 8.426969306731735,
+          "newRating": 1261.8472902249682,
+          "result": "W 102-86 vs Detroit Pistons on 1959-12-20"
+        },
+        {
+          "diff": 5.020725726078808,
+          "newRating": 1266.868015951047,
+          "result": "W 112-96 vs Minneapolis Lakers on 1959-12-25"
+        },
+        {
+          "diff": -14.843823721344506,
+          "newRating": 1252.0241922297025,
+          "result": "L 104-117 vs Syracuse Nationals on 1959-12-26"
+        },
+        {
+          "diff": 13.435980635631495,
+          "newRating": 1265.460172865334,
+          "result": "W 120-106 vs Syracuse Nationals on 1959-12-28"
+        },
+        {
+          "diff": -3.782594810419141,
+          "newRating": 1261.6775780549149,
+          "result": "L 82-96 vs Boston Celtics on 1959-12-30"
+        },
+        {
+          "diff": -19.789657944899318,
+          "newRating": 1241.8879201100156,
+          "result": "L 107-119 vs Detroit Pistons on 1960-01-01"
+        },
+        {
+          "diff": 5.966902013735535,
+          "newRating": 1247.854822123751,
+          "result": "W 114-113 vs Detroit Pistons on 1960-01-02"
+        },
+        {
+          "diff": 7.166410053662048,
+          "newRating": 1255.0212321774131,
+          "result": "W 110-108 vs New York Knicks on 1960-01-03"
+        },
+        {
+          "diff": -7.030986329703865,
+          "newRating": 1247.9902458477093,
+          "result": "L 101-121 vs Philadelphia Warriors on 1960-01-06"
+        },
+        {
+          "diff": -17.628551181689545,
+          "newRating": 1230.3616946660197,
+          "result": "L 102-112 vs Cincinnati Royals on 1960-01-08"
+        },
+        {
+          "diff": 17.969183849642604,
+          "newRating": 1248.3308785156623,
+          "result": "W 121-111 vs Boston Celtics on 1960-01-10"
+        },
+        {
+          "diff": -5.812185550788627,
+          "newRating": 1242.5186929648737,
+          "result": "L 108-126 vs Philadelphia Warriors on 1960-01-12"
+        },
+        {
+          "diff": -4.234767043421243,
+          "newRating": 1238.2839259214525,
+          "result": "L 112-134 vs Boston Celtics on 1960-01-13"
+        },
+        {
+          "diff": -8.29492476632845,
+          "newRating": 1229.989001155124,
+          "result": "L 112-119 vs Syracuse Nationals on 1960-01-14"
+        },
+        {
+          "diff": 11.852404783468728,
+          "newRating": 1241.8414059385927,
+          "result": "W 141-140 vs Syracuse Nationals on 1960-01-15"
+        },
+        {
+          "diff": 3.701069228037568,
+          "newRating": 1245.5424751666303,
+          "result": "W 135-119 vs Minneapolis Lakers on 1960-01-17"
+        },
+        {
+          "diff": 3.6186713607380625,
+          "newRating": 1249.1611465273684,
+          "result": "W 119-108 vs Cincinnati Royals on 1960-01-20"
+        },
+        {
+          "diff": 3.427364614157568,
+          "newRating": 1252.588511141526,
+          "result": "W 108-100 vs Cincinnati Royals on 1960-01-23"
+        },
+        {
+          "diff": 5.2018245057213335,
+          "newRating": 1257.7903356472473,
+          "result": "W 155-129 vs New York Knicks on 1960-01-24"
+        },
+        {
+          "diff": -12.508869104869063,
+          "newRating": 1245.2814665423782,
+          "result": "L 119-123 vs New York Knicks on 1960-01-26"
+        },
+        {
+          "diff": -3.1237347280623453,
+          "newRating": 1242.1577318143159,
+          "result": "L 114-127 vs Boston Celtics on 1960-01-27"
+        },
+        {
+          "diff": 4.703647564947914,
+          "newRating": 1246.8613793792638,
+          "result": "W 130-125 vs Detroit Pistons on 1960-01-29"
+        },
+        {
+          "diff": -11.890700589942298,
+          "newRating": 1234.9706787893215,
+          "result": "L 107-117 vs Detroit Pistons on 1960-01-30"
+        },
+        {
+          "diff": 9.017757804800567,
+          "newRating": 1243.988436594122,
+          "result": "W 117-110 vs Syracuse Nationals on 1960-01-31"
+        },
+        {
+          "diff": 12.755757280296848,
+          "newRating": 1256.744193874419,
+          "result": "W 114-113 vs Boston Celtics on 1960-02-02"
+        },
+        {
+          "diff": 4.767397748665644,
+          "newRating": 1261.5115916230845,
+          "result": "W 125-115 vs New York Knicks on 1960-02-03"
+        },
+        {
+          "diff": 2.5802111027728643,
+          "newRating": 1264.0918027258574,
+          "result": "W 114-96 vs Minneapolis Lakers on 1960-02-05"
+        },
+        {
+          "diff": 10.282099771847925,
+          "newRating": 1274.3739024977053,
+          "result": "W 130-108 vs Philadelphia Warriors on 1960-02-07"
+        },
+        {
+          "diff": 4.315494764809046,
+          "newRating": 1278.6893972625144,
+          "result": "W 114-104 vs New York Knicks on 1960-02-09"
+        },
+        {
+          "diff": 2.0018488485688977,
+          "newRating": 1280.6912461110833,
+          "result": "W 120-110 vs Cincinnati Royals on 1960-02-10"
+        },
+        {
+          "diff": -5.19244509104351,
+          "newRating": 1275.4988010200398,
+          "result": "L 120-139 vs Philadelphia Warriors on 1960-02-11"
+        },
+        {
+          "diff": -9.667007562681647,
+          "newRating": 1265.8317934573581,
+          "result": "L 104-122 vs New York Knicks on 1960-02-13"
+        },
+        {
+          "diff": 2.1641795934529,
+          "newRating": 1267.995973050811,
+          "result": "W 107-105 vs Cincinnati Royals on 1960-02-14"
+        },
+        {
+          "diff": 3.429062287152874,
+          "newRating": 1271.425035337964,
+          "result": "W 111-104 vs Detroit Pistons on 1960-02-16"
+        },
+        {
+          "diff": 2.114621299960163,
+          "newRating": 1273.539656637924,
+          "result": "W 131-127 vs Minneapolis Lakers on 1960-02-17"
+        },
+        {
+          "diff": -10.86555399793383,
+          "newRating": 1262.6741026399902,
+          "result": "L 101-111 vs Minneapolis Lakers on 1960-02-19"
+        },
+        {
+          "diff": 10.056669872034718,
+          "newRating": 1272.730772512025,
+          "result": "W 121-105 vs Boston Celtics on 1960-02-20"
+        },
+        {
+          "diff": -10.421804687111944,
+          "newRating": 1262.308967824913,
+          "result": "L 98-112 vs Minneapolis Lakers on 1960-02-21"
+        },
+        {
+          "diff": 2.2627661411127065,
+          "newRating": 1264.5717339660257,
+          "result": "W 113-103 vs Minneapolis Lakers on 1960-02-22"
+        },
+        {
+          "diff": -10.038174833226094,
+          "newRating": 1254.5335591327996,
+          "result": "L 122-124 vs Cincinnati Royals on 1960-02-24"
+        },
+        {
+          "diff": -5.694575008716811,
+          "newRating": 1248.8389841240828,
+          "result": "L 105-110 vs Syracuse Nationals on 1960-02-25"
+        },
+        {
+          "diff": -8.578724267368216,
+          "newRating": 1240.2602598567146,
+          "result": "L 114-116 vs Detroit Pistons on 1960-02-27"
+        },
+        {
+          "diff": 2.2760982647421315,
+          "newRating": 1242.5363581214567,
+          "result": "W 122-105 vs Cincinnati Royals on 1960-02-28"
+        },
+        {
+          "diff": 2.5352263481779573,
+          "newRating": 1245.0715844696347,
+          "result": "W 109-101 vs Minneapolis Lakers on 1960-03-01"
+        },
+        {
+          "diff": -8.023983928331063,
+          "newRating": 1237.0476005413036,
+          "result": "L 100-116 vs Detroit Pistons on 1960-03-02"
+        },
+        {
+          "diff": 2.6363874015203237,
+          "newRating": 1239.683987942824,
+          "result": "W 107-106 vs Minneapolis Lakers on 1960-03-05"
+        },
+        {
+          "diff": 7.47725560332151,
+          "newRating": 1247.1612435461454,
+          "result": "W 128-109 vs Philadelphia Warriors on 1960-03-06"
+        },
+        {
+          "diff": 3.096149340876991,
+          "newRating": 1250.2573928870224,
+          "result": "W 122-101 vs Detroit Pistons on 1960-03-08"
+        },
+        {
+          "diff": 1.8546148838245244,
+          "newRating": 1252.112007770847,
+          "result": "W 123-116 vs Cincinnati Royals on 1960-03-09"
+        }
+      ]
+    },
+    {
+      "team": "New York Knicks",
+      "rating": 1104.3749290867174,
+      "wins": 27,
+      "losses": 48,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 109-118 vs Philadelphia Warriors on 1959-10-24"
+        },
+        {
+          "diff": -3.21841774456891,
+          "newRating": 796.7815822554311,
+          "result": "L 109-123 vs Boston Celtics on 1959-10-31"
+        },
+        {
+          "diff": 164.4509578121922,
+          "newRating": 961.2325400676233,
+          "result": "W 99-93 vs Minneapolis Lakers on 1959-11-03"
+        },
+        {
+          "diff": 172.04232568402756,
+          "newRating": 1133.2748657516509,
+          "result": "W 107-101 vs Detroit Pistons on 1959-11-04"
+        },
+        {
+          "diff": -101.70907063087293,
+          "newRating": 1031.565795120778,
+          "result": "L 113-117 vs St. Louis Hawks on 1959-11-07"
+        },
+        {
+          "diff": -5.314645826971628,
+          "newRating": 1026.2511492938063,
+          "result": "L 125-126 vs Philadelphia Warriors on 1959-11-10"
+        },
+        {
+          "diff": -33.226548042779996,
+          "newRating": 993.0246012510263,
+          "result": "L 104-113 vs Syracuse Nationals on 1959-11-12"
+        },
+        {
+          "diff": -22.262112872099465,
+          "newRating": 970.7624883789268,
+          "result": "L 108-116 vs Syracuse Nationals on 1959-11-14"
+        },
+        {
+          "diff": -31.573445217752464,
+          "newRating": 939.1890431611744,
+          "result": "L 94-103 vs Detroit Pistons on 1959-11-15"
+        },
+        {
+          "diff": 62.88581810944697,
+          "newRating": 1002.0748612706213,
+          "result": "W 105-97 vs St. Louis Hawks on 1959-11-17"
+        },
+        {
+          "diff": 32.98720197929879,
+          "newRating": 1035.0620632499201,
+          "result": "W 106-105 vs Minneapolis Lakers on 1959-11-18"
+        },
+        {
+          "diff": 28.631474268845977,
+          "newRating": 1063.693537518766,
+          "result": "W 130-109 vs Cincinnati Royals on 1959-11-19"
+        },
+        {
+          "diff": -2.9642817814083173,
+          "newRating": 1060.7292557373578,
+          "result": "L 127-128 vs Boston Celtics on 1959-11-21"
+        },
+        {
+          "diff": -24.788346357335058,
+          "newRating": 1035.9409093800227,
+          "result": "L 104-115 vs Detroit Pistons on 1959-11-22"
+        },
+        {
+          "diff": -8.637750154448213,
+          "newRating": 1027.3031592255745,
+          "result": "L 107-120 vs Syracuse Nationals on 1959-11-24"
+        },
+        {
+          "diff": -3.002759154621799,
+          "newRating": 1024.3004000709527,
+          "result": "L 108-109 vs Philadelphia Warriors on 1959-11-28"
+        },
+        {
+          "diff": 44.323145896405094,
+          "newRating": 1068.6235459673578,
+          "result": "W 127-126 vs Philadelphia Warriors on 1959-11-29"
+        },
+        {
+          "diff": -28.805330560357334,
+          "newRating": 1039.8182154070005,
+          "result": "L 100-103 vs Minneapolis Lakers on 1959-12-01"
+        },
+        {
+          "diff": -24.719432364359818,
+          "newRating": 1015.0987830426407,
+          "result": "L 118-135 vs Cincinnati Royals on 1959-12-02"
+        },
+        {
+          "diff": -1.984592070073404,
+          "newRating": 1013.1141909725673,
+          "result": "L 107-122 vs Boston Celtics on 1959-12-04"
+        },
+        {
+          "diff": 24.877639502609554,
+          "newRating": 1037.9918304751768,
+          "result": "W 124-108 vs Detroit Pistons on 1959-12-05"
+        },
+        {
+          "diff": -2.0079491357603274,
+          "newRating": 1035.9838813394165,
+          "result": "L 105-121 vs Boston Celtics on 1959-12-08"
+        },
+        {
+          "diff": 27.68163730083097,
+          "newRating": 1063.6655186402475,
+          "result": "W 152-121 vs Syracuse Nationals on 1959-12-11"
+        },
+        {
+          "diff": -16.546142087443286,
+          "newRating": 1047.1193765528042,
+          "result": "L 129-147 vs Detroit Pistons on 1959-12-13"
+        },
+        {
+          "diff": -8.941270564139131,
+          "newRating": 1038.178105988665,
+          "result": "L 110-119 vs St. Louis Hawks on 1959-12-15"
+        },
+        {
+          "diff": -6.433011476635784,
+          "newRating": 1031.7450945120293,
+          "result": "L 113-116 vs Syracuse Nationals on 1959-12-16"
+        },
+        {
+          "diff": -1.3506166094964556,
+          "newRating": 1030.3944779025328,
+          "result": "L 126-137 vs Boston Celtics on 1959-12-17"
+        },
+        {
+          "diff": -1.2831880025460123,
+          "newRating": 1029.1112898999868,
+          "result": "L 116-119 vs Boston Celtics on 1959-12-19"
+        },
+        {
+          "diff": 13.363747907634888,
+          "newRating": 1042.4750378076217,
+          "result": "W 132-118 vs Cincinnati Royals on 1959-12-20"
+        },
+        {
+          "diff": 11.945573951826873,
+          "newRating": 1054.4206117594485,
+          "result": "W 127-119 vs Cincinnati Royals on 1959-12-22"
+        },
+        {
+          "diff": -1.273666213322258,
+          "newRating": 1053.1469455461263,
+          "result": "L 119-123 vs Boston Celtics on 1959-12-25"
+        },
+        {
+          "diff": 21.91225421968761,
+          "newRating": 1075.059199765814,
+          "result": "W 122-116 vs Philadelphia Warriors on 1959-12-26"
+        },
+        {
+          "diff": 10.906782571387794,
+          "newRating": 1085.9659823372017,
+          "result": "W 124-109 vs Detroit Pistons on 1959-12-30"
+        },
+        {
+          "diff": 9.396752458304945,
+          "newRating": 1095.3627347955066,
+          "result": "W 127-102 vs Minneapolis Lakers on 1959-12-31"
+        },
+        {
+          "diff": 9.067558755036771,
+          "newRating": 1104.4302935505434,
+          "result": "W 126-118 vs Cincinnati Royals on 1960-01-02"
+        },
+        {
+          "diff": -6.768276161792073,
+          "newRating": 1097.6620173887513,
+          "result": "L 108-110 vs St. Louis Hawks on 1960-01-03"
+        },
+        {
+          "diff": 9.392184699845984,
+          "newRating": 1107.0542020885973,
+          "result": "W 121-110 vs Detroit Pistons on 1960-01-05"
+        },
+        {
+          "diff": -13.526828915906208,
+          "newRating": 1093.5273731726911,
+          "result": "L 113-129 vs Cincinnati Royals on 1960-01-06"
+        },
+        {
+          "diff": -2.814983627306674,
+          "newRating": 1090.7123895453844,
+          "result": "L 103-116 vs Philadelphia Warriors on 1960-01-10"
+        },
+        {
+          "diff": 7.722111456532502,
+          "newRating": 1098.434501001917,
+          "result": "W 141-123 vs Cincinnati Royals on 1960-01-12"
+        },
+        {
+          "diff": -11.595795921175977,
+          "newRating": 1086.838705080741,
+          "result": "L 113-114 vs Detroit Pistons on 1960-01-13"
+        },
+        {
+          "diff": 7.750316713854772,
+          "newRating": 1094.5890217945957,
+          "result": "W 131-126 vs Minneapolis Lakers on 1960-01-14"
+        },
+        {
+          "diff": 7.136683235123201,
+          "newRating": 1101.725705029719,
+          "result": "W 132-106 vs Cincinnati Royals on 1960-01-16"
+        },
+        {
+          "diff": -4.5022941804595575,
+          "newRating": 1097.2234108492594,
+          "result": "L 117-129 vs Syracuse Nationals on 1960-01-17"
+        },
+        {
+          "diff": -2.493126263528893,
+          "newRating": 1094.7302845857305,
+          "result": "L 93-114 vs Philadelphia Warriors on 1960-01-19"
+        },
+        {
+          "diff": -1.5773416739095865,
+          "newRating": 1093.152942911821,
+          "result": "L 126-144 vs Boston Celtics on 1960-01-20"
+        },
+        {
+          "diff": 6.081480741076575,
+          "newRating": 1099.2344236528975,
+          "result": "W 115-104 vs Minneapolis Lakers on 1960-01-23"
+        },
+        {
+          "diff": -4.8767104741139065,
+          "newRating": 1094.3577131787836,
+          "result": "L 129-155 vs St. Louis Hawks on 1960-01-24"
+        },
+        {
+          "diff": 11.74301997599946,
+          "newRating": 1106.100733154783,
+          "result": "W 123-119 vs St. Louis Hawks on 1960-01-26"
+        },
+        {
+          "diff": -2.383358479667095,
+          "newRating": 1103.717374675116,
+          "result": "L 117-129 vs Philadelphia Warriors on 1960-01-27"
+        },
+        {
+          "diff": 5.235036075445805,
+          "newRating": 1108.9524107505617,
+          "result": "W 128-113 vs Cincinnati Royals on 1960-01-29"
+        },
+        {
+          "diff": 13.2029355214122,
+          "newRating": 1122.155346271974,
+          "result": "W 115-108 vs Philadelphia Warriors on 1960-01-30"
+        },
+        {
+          "diff": -4.502885492204314,
+          "newRating": 1117.6524607797696,
+          "result": "L 102-119 vs Syracuse Nationals on 1960-02-02"
+        },
+        {
+          "diff": -4.5908274616781455,
+          "newRating": 1113.0616333180915,
+          "result": "L 115-125 vs St. Louis Hawks on 1960-02-03"
+        },
+        {
+          "diff": -1.4795433608749136,
+          "newRating": 1111.5820899572166,
+          "result": "L 117-143 vs Boston Celtics on 1960-02-06"
+        },
+        {
+          "diff": 12.854479669222428,
+          "newRating": 1124.436569626439,
+          "result": "W 142-135 vs Boston Celtics on 1960-02-07"
+        },
+        {
+          "diff": -4.164073895868341,
+          "newRating": 1120.2724957305707,
+          "result": "L 104-114 vs St. Louis Hawks on 1960-02-09"
+        },
+        {
+          "diff": 11.319777234613639,
+          "newRating": 1131.5922729651843,
+          "result": "W 125-117 vs Philadelphia Warriors on 1960-02-10"
+        },
+        {
+          "diff": -3.994568786994705,
+          "newRating": 1127.5977041781896,
+          "result": "L 109-116 vs Syracuse Nationals on 1960-02-11"
+        },
+        {
+          "diff": 9.34477397725891,
+          "newRating": 1136.9424781554485,
+          "result": "W 122-104 vs St. Louis Hawks on 1960-02-13"
+        },
+        {
+          "diff": 9.259990854953685,
+          "newRating": 1146.2024690104022,
+          "result": "W 125-116 vs Syracuse Nationals on 1960-02-16"
+        },
+        {
+          "diff": -1.5484370020260485,
+          "newRating": 1144.6540320083761,
+          "result": "L 104-109 vs Boston Celtics on 1960-02-18"
+        },
+        {
+          "diff": -3.9414542271470054,
+          "newRating": 1140.7125777812291,
+          "result": "L 121-126 vs Syracuse Nationals on 1960-02-20"
+        },
+        {
+          "diff": -2.6567615966162066,
+          "newRating": 1138.055816184613,
+          "result": "L 122-129 vs Philadelphia Warriors on 1960-02-21"
+        },
+        {
+          "diff": -8.462074340847494,
+          "newRating": 1129.5937418437654,
+          "result": "L 112-117 vs Minneapolis Lakers on 1960-02-23"
+        },
+        {
+          "diff": -2.3333182120763922,
+          "newRating": 1127.260423631689,
+          "result": "L 121-131 vs Philadelphia Warriors on 1960-02-25"
+        },
+        {
+          "diff": -3.5581674642453436,
+          "newRating": 1123.7022561674437,
+          "result": "L 111-114 vs Syracuse Nationals on 1960-02-27"
+        },
+        {
+          "diff": -1.337587663219665,
+          "newRating": 1122.364668504224,
+          "result": "L 125-129 vs Boston Celtics on 1960-02-28"
+        },
+        {
+          "diff": -3.3402575415382216,
+          "newRating": 1119.0244109626858,
+          "result": "L 121-124 vs Syracuse Nationals on 1960-03-01"
+        },
+        {
+          "diff": -7.270659123774067,
+          "newRating": 1111.7537518389117,
+          "result": "L 113-123 vs Minneapolis Lakers on 1960-03-02"
+        },
+        {
+          "diff": -2.0737528535028105,
+          "newRating": 1109.679998985409,
+          "result": "L 134-136 vs Philadelphia Warriors on 1960-03-04"
+        },
+        {
+          "diff": -2.8906790024070688,
+          "newRating": 1106.7893199830019,
+          "result": "L 115-132 vs Syracuse Nationals on 1960-03-05"
+        },
+        {
+          "diff": 5.275298355762288,
+          "newRating": 1112.0646183387641,
+          "result": "W 120-112 vs Detroit Pistons on 1960-03-06"
+        },
+        {
+          "diff": -1.1605225986975256,
+          "newRating": 1110.9040957400666,
+          "result": "L 128-148 vs Boston Celtics on 1960-03-09"
+        },
+        {
+          "diff": -6.529166653349193,
+          "newRating": 1104.3749290867174,
+          "result": "L 108-133 vs Minneapolis Lakers on 1960-03-10"
+        }
+      ]
+    },
+    {
+      "team": "Detroit Pistons",
+      "rating": 1090.0507199957883,
+      "wins": 30,
+      "losses": 45,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 106-105 vs Minneapolis Lakers on 1959-10-18"
+        },
+        {
+          "diff": -396.0396039603961,
+          "newRating": 1203.960396039604,
+          "result": "L 103-108 vs Cincinnati Royals on 1959-10-24"
+        },
+        {
+          "diff": 104.37215661077107,
+          "newRating": 1308.332552650375,
+          "result": "W 117-102 vs Syracuse Nationals on 1959-10-28"
+        },
+        {
+          "diff": -31.446307242144485,
+          "newRating": 1276.8862454082305,
+          "result": "L 112-120 vs Philadelphia Warriors on 1959-10-31"
+        },
+        {
+          "diff": -137.63386054722218,
+          "newRating": 1139.2523848610083,
+          "result": "L 101-107 vs New York Knicks on 1959-11-04"
+        },
+        {
+          "diff": 16.329673627366446,
+          "newRating": 1155.5820584883747,
+          "result": "W 118-113 vs Minneapolis Lakers on 1959-11-06"
+        },
+        {
+          "diff": -102.29571495346295,
+          "newRating": 1053.2863435349118,
+          "result": "L 111-113 vs Minneapolis Lakers on 1959-11-07"
+        },
+        {
+          "diff": -38.09318010061713,
+          "newRating": 1015.1931634342947,
+          "result": "L 107-118 vs Syracuse Nationals on 1959-11-08"
+        },
+        {
+          "diff": -2.826378389261322,
+          "newRating": 1012.3667850450333,
+          "result": "L 109-128 vs Boston Celtics on 1959-11-10"
+        },
+        {
+          "diff": -2.7837208865179264,
+          "newRating": 1009.5830641585154,
+          "result": "L 105-119 vs Philadelphia Warriors on 1959-11-11"
+        },
+        {
+          "diff": 29.1480519407379,
+          "newRating": 1038.7311160992533,
+          "result": "W 107-93 vs Minneapolis Lakers on 1959-11-12"
+        },
+        {
+          "diff": 35.61124625326238,
+          "newRating": 1074.3423623525157,
+          "result": "W 111-103 vs Cincinnati Royals on 1959-11-14"
+        },
+        {
+          "diff": 21.85853899690551,
+          "newRating": 1096.2009013494212,
+          "result": "W 103-94 vs New York Knicks on 1959-11-15"
+        },
+        {
+          "diff": -2.61799686417703,
+          "newRating": 1093.5829044852442,
+          "result": "L 129-132 vs Boston Celtics on 1959-11-17"
+        },
+        {
+          "diff": 20.18048839081689,
+          "newRating": 1113.763392876061,
+          "result": "W 110-93 vs Cincinnati Royals on 1959-11-18"
+        },
+        {
+          "diff": -36.33923534003566,
+          "newRating": 1077.4241575360254,
+          "result": "L 85-105 vs Minneapolis Lakers on 1959-11-20"
+        },
+        {
+          "diff": 29.580010899759145,
+          "newRating": 1107.0041684357845,
+          "result": "W 109-107 vs St. Louis Hawks on 1959-11-21"
+        },
+        {
+          "diff": 19.279824944593884,
+          "newRating": 1126.2839933803784,
+          "result": "W 115-104 vs New York Knicks on 1959-11-22"
+        },
+        {
+          "diff": 12.370688552912952,
+          "newRating": 1138.6546819332914,
+          "result": "W 104-91 vs Cincinnati Royals on 1959-11-24"
+        },
+        {
+          "diff": -24.182503032928253,
+          "newRating": 1114.4721789003631,
+          "result": "L 97-104 vs St. Louis Hawks on 1959-11-25"
+        },
+        {
+          "diff": -3.3530614243984473,
+          "newRating": 1111.1191174759647,
+          "result": "L 110-136 vs Boston Celtics on 1959-11-28"
+        },
+        {
+          "diff": 11.857718164665812,
+          "newRating": 1122.9768356406305,
+          "result": "W 120-101 vs Minneapolis Lakers on 1959-12-04"
+        },
+        {
+          "diff": -22.714366502382518,
+          "newRating": 1100.262469138248,
+          "result": "L 108-124 vs New York Knicks on 1959-12-05"
+        },
+        {
+          "diff": -4.138720608769063,
+          "newRating": 1096.123748529479,
+          "result": "L 116-118 vs Philadelphia Warriors on 1959-12-06"
+        },
+        {
+          "diff": -19.53788977420959,
+          "newRating": 1076.5858587552693,
+          "result": "L 119-129 vs Cincinnati Royals on 1959-12-09"
+        },
+        {
+          "diff": -10.407824652587578,
+          "newRating": 1066.1780341026817,
+          "result": "L 111-129 vs St. Louis Hawks on 1959-12-10"
+        },
+        {
+          "diff": 14.707681855505143,
+          "newRating": 1080.885715958187,
+          "result": "W 147-129 vs New York Knicks on 1959-12-13"
+        },
+        {
+          "diff": -8.817544412677307,
+          "newRating": 1072.0681715455096,
+          "result": "L 106-107 vs St. Louis Hawks on 1959-12-16"
+        },
+        {
+          "diff": 21.06457189967182,
+          "newRating": 1093.1327434451814,
+          "result": "W 120-112 vs Syracuse Nationals on 1959-12-19"
+        },
+        {
+          "diff": -7.584272376058607,
+          "newRating": 1085.5484710691228,
+          "result": "L 86-102 vs St. Louis Hawks on 1959-12-20"
+        },
+        {
+          "diff": -1.5219131838264275,
+          "newRating": 1084.0265578852964,
+          "result": "L 104-136 vs Boston Celtics on 1959-12-22"
+        },
+        {
+          "diff": -15.623814169979596,
+          "newRating": 1068.4027437153168,
+          "result": "L 103-121 vs Cincinnati Royals on 1959-12-25"
+        },
+        {
+          "diff": -14.855196359108504,
+          "newRating": 1053.5475473562083,
+          "result": "L 105-108 vs Minneapolis Lakers on 1959-12-26"
+        },
+        {
+          "diff": -13.415252386204429,
+          "newRating": 1040.1322949700038,
+          "result": "L 109-119 vs Minneapolis Lakers on 1959-12-27"
+        },
+        {
+          "diff": -10.283537853022835,
+          "newRating": 1029.848757116981,
+          "result": "L 109-124 vs New York Knicks on 1959-12-30"
+        },
+        {
+          "diff": 17.590807062132626,
+          "newRating": 1047.4395641791136,
+          "result": "W 119-107 vs St. Louis Hawks on 1960-01-01"
+        },
+        {
+          "diff": -5.3218315257640825,
+          "newRating": 1042.1177326533495,
+          "result": "L 113-114 vs St. Louis Hawks on 1960-01-02"
+        },
+        {
+          "diff": 9.688350002639254,
+          "newRating": 1051.8060826559888,
+          "result": "W 114-112 vs Cincinnati Royals on 1960-01-03"
+        },
+        {
+          "diff": -8.91053420241792,
+          "newRating": 1042.8955484535709,
+          "result": "L 110-121 vs New York Knicks on 1960-01-05"
+        },
+        {
+          "diff": -2.235168252400399,
+          "newRating": 1040.6603802011705,
+          "result": "L 105-120 vs Philadelphia Warriors on 1960-01-07"
+        },
+        {
+          "diff": -3.771952605722163,
+          "newRating": 1036.8884275954483,
+          "result": "L 107-118 vs Syracuse Nationals on 1960-01-08"
+        },
+        {
+          "diff": -1.1997923821004406,
+          "newRating": 1035.6886352133479,
+          "result": "L 103-126 vs Boston Celtics on 1960-01-09"
+        },
+        {
+          "diff": -3.563285072985309,
+          "newRating": 1032.1253501403626,
+          "result": "L 103-108 vs Syracuse Nationals on 1960-01-10"
+        },
+        {
+          "diff": 10.80517347200498,
+          "newRating": 1042.9305236123676,
+          "result": "W 114-113 vs New York Knicks on 1960-01-13"
+        },
+        {
+          "diff": 7.877012826141254,
+          "newRating": 1050.8075364385088,
+          "result": "W 105-98 vs Minneapolis Lakers on 1960-01-16"
+        },
+        {
+          "diff": 7.575451350022604,
+          "newRating": 1058.3829877885314,
+          "result": "W 115-110 vs Cincinnati Royals on 1960-01-17"
+        },
+        {
+          "diff": 15.143431189836292,
+          "newRating": 1073.5264189783677,
+          "result": "W 130-110 vs Philadelphia Warriors on 1960-01-23"
+        },
+        {
+          "diff": -2.135226192593791,
+          "newRating": 1071.391192785774,
+          "result": "L 117-127 vs Philadelphia Warriors on 1960-01-25"
+        },
+        {
+          "diff": 12.640050558250778,
+          "newRating": 1084.0312433440247,
+          "result": "W 121-114 vs Syracuse Nationals on 1960-01-26"
+        },
+        {
+          "diff": -4.0359206218051895,
+          "newRating": 1079.9953227222195,
+          "result": "L 108-144 vs Syracuse Nationals on 1960-01-27"
+        },
+        {
+          "diff": -4.426962414068612,
+          "newRating": 1075.568360308151,
+          "result": "L 125-130 vs St. Louis Hawks on 1960-01-29"
+        },
+        {
+          "diff": 11.204698632830059,
+          "newRating": 1086.773058940981,
+          "result": "W 117-107 vs St. Louis Hawks on 1960-01-30"
+        },
+        {
+          "diff": -1.2924983624943707,
+          "newRating": 1085.4805605784866,
+          "result": "L 128-146 vs Boston Celtics on 1960-01-31"
+        },
+        {
+          "diff": 5.164615339927877,
+          "newRating": 1090.6451759184145,
+          "result": "W 117-105 vs Cincinnati Royals on 1960-02-03"
+        },
+        {
+          "diff": 4.881199446702794,
+          "newRating": 1095.5263753651172,
+          "result": "W 121-102 vs Cincinnati Royals on 1960-02-04"
+        },
+        {
+          "diff": 4.934536933287518,
+          "newRating": 1100.4609122984048,
+          "result": "W 116-101 vs Minneapolis Lakers on 1960-02-06"
+        },
+        {
+          "diff": -9.374461243283122,
+          "newRating": 1091.0864510551216,
+          "result": "L 102-104 vs Minneapolis Lakers on 1960-02-07"
+        },
+        {
+          "diff": 11.764791838483006,
+          "newRating": 1102.8512428936046,
+          "result": "W 122-113 vs Philadelphia Warriors on 1960-02-09"
+        },
+        {
+          "diff": -1.3806198762840722,
+          "newRating": 1101.4706230173206,
+          "result": "L 121-153 vs Boston Celtics on 1960-02-10"
+        },
+        {
+          "diff": -9.098859366791203,
+          "newRating": 1092.3717636505294,
+          "result": "L 101-133 vs Cincinnati Royals on 1960-02-12"
+        },
+        {
+          "diff": -8.634647830775293,
+          "newRating": 1083.737115819754,
+          "result": "L 117-123 vs Minneapolis Lakers on 1960-02-13"
+        },
+        {
+          "diff": -3.318447374663947,
+          "newRating": 1080.4186684450901,
+          "result": "L 104-111 vs St. Louis Hawks on 1960-02-16"
+        },
+        {
+          "diff": -1.0758398092343668,
+          "newRating": 1079.3428286358558,
+          "result": "L 116-136 vs Boston Celtics on 1960-02-19"
+        },
+        {
+          "diff": -8.087189614896943,
+          "newRating": 1071.2556390209588,
+          "result": "L 107-110 vs Cincinnati Royals on 1960-02-20"
+        },
+        {
+          "diff": -2.7562850580129634,
+          "newRating": 1068.4993539629459,
+          "result": "L 120-122 vs Syracuse Nationals on 1960-02-21"
+        },
+        {
+          "diff": 9.348767396170842,
+          "newRating": 1077.8481213591167,
+          "result": "W 128-110 vs Syracuse Nationals on 1960-02-24"
+        },
+        {
+          "diff": -1.0809147800298433,
+          "newRating": 1076.7672065790869,
+          "result": "L 107-121 vs Boston Celtics on 1960-02-25"
+        },
+        {
+          "diff": 8.578724267368216,
+          "newRating": 1085.345930846455,
+          "result": "W 116-114 vs St. Louis Hawks on 1960-02-27"
+        },
+        {
+          "diff": -1.8803997382183297,
+          "newRating": 1083.4655311082367,
+          "result": "L 111-113 vs Philadelphia Warriors on 1960-02-28"
+        },
+        {
+          "diff": 4.262112481478198,
+          "newRating": 1087.727643589715,
+          "result": "W 108-106 vs Cincinnati Royals on 1960-03-01"
+        },
+        {
+          "diff": 8.023983928331063,
+          "newRating": 1095.751627518046,
+          "result": "W 116-100 vs St. Louis Hawks on 1960-03-02"
+        },
+        {
+          "diff": -1.913074786580637,
+          "newRating": 1093.8385527314654,
+          "result": "L 101-110 vs Philadelphia Warriors on 1960-03-03"
+        },
+        {
+          "diff": -5.275298355762288,
+          "newRating": 1088.563254375703,
+          "result": "L 112-120 vs New York Knicks on 1960-03-06"
+        },
+        {
+          "diff": -3.096149340876991,
+          "newRating": 1085.467105034826,
+          "result": "L 101-122 vs St. Louis Hawks on 1960-03-08"
+        },
+        {
+          "diff": 4.5836149609622225,
+          "newRating": 1090.0507199957883,
+          "result": "W 117-116 vs Minneapolis Lakers on 1960-03-09"
+        }
+      ]
+    },
+    {
+      "team": "Minneapolis Lakers",
+      "rating": 1038.185364117615,
+      "wins": 25,
+      "losses": 50,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 105-106 vs Detroit Pistons on 1959-10-18"
+        },
+        {
+          "diff": 363.6363636363635,
+          "newRating": 1163.6363636363635,
+          "result": "W 94-87 vs St. Louis Hawks on 1959-10-24"
+        },
+        {
+          "diff": -120.9340598435897,
+          "newRating": 1042.7023037927738,
+          "result": "L 102-103 vs Cincinnati Royals on 1959-10-25"
+        },
+        {
+          "diff": -56.318172471020944,
+          "newRating": 986.3841313217529,
+          "result": "L 108-117 vs Syracuse Nationals on 1959-10-31"
+        },
+        {
+          "diff": -106.99504405763219,
+          "newRating": 879.3890872641207,
+          "result": "L 101-138 vs St. Louis Hawks on 1959-11-01"
+        },
+        {
+          "diff": -82.2254789060961,
+          "newRating": 797.1636083580246,
+          "result": "L 93-99 vs New York Knicks on 1959-11-03"
+        },
+        {
+          "diff": -13.996863109171272,
+          "newRating": 783.1667452488533,
+          "result": "L 113-118 vs Detroit Pistons on 1959-11-06"
+        },
+        {
+          "diff": 89.50875058428005,
+          "newRating": 872.6754958331334,
+          "result": "W 113-111 vs Detroit Pistons on 1959-11-07"
+        },
+        {
+          "diff": 88.224942007972,
+          "newRating": 960.9004378411054,
+          "result": "W 136-115 vs Boston Celtics on 1959-11-08"
+        },
+        {
+          "diff": -21.18534403257854,
+          "newRating": 939.7150938085268,
+          "result": "L 105-134 vs St. Louis Hawks on 1959-11-10"
+        },
+        {
+          "diff": -29.1480519407379,
+          "newRating": 910.5670418677889,
+          "result": "L 93-107 vs Detroit Pistons on 1959-11-12"
+        },
+        {
+          "diff": -1.249427020012945,
+          "newRating": 909.317614847776,
+          "result": "L 98-104 vs Philadelphia Warriors on 1959-11-14"
+        },
+        {
+          "diff": 60.40398390522125,
+          "newRating": 969.7215987529972,
+          "result": "W 106-100 vs Philadelphia Warriors on 1959-11-15"
+        },
+        {
+          "diff": -25.918515840877603,
+          "newRating": 943.8030829121196,
+          "result": "L 105-106 vs New York Knicks on 1959-11-18"
+        },
+        {
+          "diff": 38.76185102937143,
+          "newRating": 982.5649339414911,
+          "result": "W 105-85 vs Detroit Pistons on 1959-11-20"
+        },
+        {
+          "diff": 23.58077406448365,
+          "newRating": 1006.1457080059747,
+          "result": "W 99-93 vs Cincinnati Royals on 1959-11-21"
+        },
+        {
+          "diff": -6.311753589197792,
+          "newRating": 999.8339544167769,
+          "result": "L 93-100 vs Syracuse Nationals on 1959-11-25"
+        },
+        {
+          "diff": -24.703425957530385,
+          "newRating": 975.1305284592465,
+          "result": "L 95-114 vs Cincinnati Royals on 1959-11-26"
+        },
+        {
+          "diff": -11.084076783526598,
+          "newRating": 964.0464516757199,
+          "result": "L 91-102 vs St. Louis Hawks on 1959-11-28"
+        },
+        {
+          "diff": -1.5271941953075157,
+          "newRating": 962.5192574804124,
+          "result": "L 93-109 vs Boston Celtics on 1959-11-29"
+        },
+        {
+          "diff": 24.69028333744916,
+          "newRating": 987.2095408178616,
+          "result": "W 103-100 vs New York Knicks on 1959-12-01"
+        },
+        {
+          "diff": -2.1983656289546616,
+          "newRating": 985.0111751889069,
+          "result": "L 109-123 vs Philadelphia Warriors on 1959-12-03"
+        },
+        {
+          "diff": -11.342165200984596,
+          "newRating": 973.6690099879223,
+          "result": "L 101-120 vs Detroit Pistons on 1959-12-04"
+        },
+        {
+          "diff": -4.579373027948122,
+          "newRating": 969.0896369599742,
+          "result": "L 95-108 vs Syracuse Nationals on 1959-12-05"
+        },
+        {
+          "diff": -1.2196549863074324,
+          "newRating": 967.8699819736668,
+          "result": "L 104-121 vs Boston Celtics on 1959-12-06"
+        },
+        {
+          "diff": -4.000823490260586,
+          "newRating": 963.8691584834062,
+          "result": "L 89-93 vs Syracuse Nationals on 1959-12-08"
+        },
+        {
+          "diff": 25.942294792544885,
+          "newRating": 989.8114532759511,
+          "result": "W 96-86 vs Syracuse Nationals on 1959-12-09"
+        },
+        {
+          "diff": -12.45228206951424,
+          "newRating": 977.3591712064368,
+          "result": "L 97-107 vs Cincinnati Royals on 1959-12-12"
+        },
+        {
+          "diff": 15.993168828839202,
+          "newRating": 993.352340035276,
+          "result": "W 131-113 vs Cincinnati Royals on 1959-12-19"
+        },
+        {
+          "diff": -4.6860106776736075,
+          "newRating": 988.6663293576024,
+          "result": "L 96-112 vs St. Louis Hawks on 1959-12-25"
+        },
+        {
+          "diff": 15.813596124212154,
+          "newRating": 1004.4799254818146,
+          "result": "W 108-105 vs Detroit Pistons on 1959-12-26"
+        },
+        {
+          "diff": 14.253705660342234,
+          "newRating": 1018.7336311421568,
+          "result": "W 119-109 vs Detroit Pistons on 1959-12-27"
+        },
+        {
+          "diff": -0.9712402540798166,
+          "newRating": 1017.762390888077,
+          "result": "L 104-107 vs Boston Celtics on 1959-12-28"
+        },
+        {
+          "diff": -2.694849901103453,
+          "newRating": 1015.0675409869735,
+          "result": "L 107-122 vs Philadelphia Warriors on 1959-12-30"
+        },
+        {
+          "diff": -9.12827381663908,
+          "newRating": 1005.9392671703345,
+          "result": "L 102-127 vs New York Knicks on 1959-12-31"
+        },
+        {
+          "diff": -4.443048943668714,
+          "newRating": 1001.4962182266657,
+          "result": "L 98-109 vs Syracuse Nationals on 1960-01-01"
+        },
+        {
+          "diff": -2.046882742451885,
+          "newRating": 999.4493354842139,
+          "result": "L 111-126 vs Philadelphia Warriors on 1960-01-05"
+        },
+        {
+          "diff": 11.423264788835127,
+          "newRating": 1010.872600273049,
+          "result": "W 121-91 vs Cincinnati Royals on 1960-01-09"
+        },
+        {
+          "diff": 10.503984340641296,
+          "newRating": 1021.3765846136903,
+          "result": "W 112-106 vs Cincinnati Royals on 1960-01-10"
+        },
+        {
+          "diff": -8.137832549547397,
+          "newRating": 1013.2387520641429,
+          "result": "L 126-131 vs New York Knicks on 1960-01-14"
+        },
+        {
+          "diff": -10.031107518558883,
+          "newRating": 1003.207644545584,
+          "result": "L 118-122 vs Cincinnati Royals on 1960-01-15"
+        },
+        {
+          "diff": -8.439656599436944,
+          "newRating": 994.7679879461471,
+          "result": "L 98-105 vs Detroit Pistons on 1960-01-16"
+        },
+        {
+          "diff": -3.6149978506413163,
+          "newRating": 991.1529900955057,
+          "result": "L 119-135 vs St. Louis Hawks on 1960-01-17"
+        },
+        {
+          "diff": -6.49612715524097,
+          "newRating": 984.6568629402648,
+          "result": "L 104-115 vs New York Knicks on 1960-01-23"
+        },
+        {
+          "diff": 9.059079062438173,
+          "newRating": 993.715942002703,
+          "result": "W 116-112 vs Cincinnati Royals on 1960-01-27"
+        },
+        {
+          "diff": -2.8496915340576834,
+          "newRating": 990.8662504686453,
+          "result": "L 112-119 vs Syracuse Nationals on 1960-01-29"
+        },
+        {
+          "diff": -1.4143298305372127,
+          "newRating": 989.451920638108,
+          "result": "L 104-114 vs Philadelphia Warriors on 1960-01-31"
+        },
+        {
+          "diff": -1.3651284398661119,
+          "newRating": 988.0867921982419,
+          "result": "L 96-103 vs Philadelphia Warriors on 1960-02-01"
+        },
+        {
+          "diff": -0.873349042859104,
+          "newRating": 987.2134431553828,
+          "result": "L 108-128 vs Boston Celtics on 1960-02-03"
+        },
+        {
+          "diff": -2.7350237689392998,
+          "newRating": 984.4784193864435,
+          "result": "L 96-114 vs St. Louis Hawks on 1960-02-05"
+        },
+        {
+          "diff": -5.4183150640020585,
+          "newRating": 979.0601043224415,
+          "result": "L 101-116 vs Detroit Pistons on 1960-02-06"
+        },
+        {
+          "diff": 10.275851747445017,
+          "newRating": 989.3359560698865,
+          "result": "W 104-102 vs Detroit Pistons on 1960-02-07"
+        },
+        {
+          "diff": -0.8441764616045475,
+          "newRating": 988.491779608282,
+          "result": "L 90-129 vs Boston Celtics on 1960-02-09"
+        },
+        {
+          "diff": -2.318157865021476,
+          "newRating": 986.1736217432605,
+          "result": "L 109-110 vs Syracuse Nationals on 1960-02-10"
+        },
+        {
+          "diff": -7.784383602142952,
+          "newRating": 978.3892381411175,
+          "result": "L 108-111 vs Cincinnati Royals on 1960-02-11"
+        },
+        {
+          "diff": 9.40559852995159,
+          "newRating": 987.7948366710691,
+          "result": "W 123-117 vs Detroit Pistons on 1960-02-13"
+        },
+        {
+          "diff": -2.1251602247684787,
+          "newRating": 985.6696764463006,
+          "result": "L 119-121 vs Syracuse Nationals on 1960-02-14"
+        },
+        {
+          "diff": -0.7107714157071996,
+          "newRating": 984.9589050305934,
+          "result": "L 122-130 vs Boston Celtics on 1960-02-16"
+        },
+        {
+          "diff": -2.1863033779250145,
+          "newRating": 982.7726016526684,
+          "result": "L 127-131 vs St. Louis Hawks on 1960-02-17"
+        },
+        {
+          "diff": 11.227739131198291,
+          "newRating": 994.0003407838667,
+          "result": "W 111-101 vs St. Louis Hawks on 1960-02-19"
+        },
+        {
+          "diff": -1.3721958294211163,
+          "newRating": 992.6281449544456,
+          "result": "L 106-122 vs Philadelphia Warriors on 1960-02-20"
+        },
+        {
+          "diff": 10.757991935083282,
+          "newRating": 1003.3861368895289,
+          "result": "W 112-98 vs St. Louis Hawks on 1960-02-21"
+        },
+        {
+          "diff": -2.334599986862372,
+          "newRating": 1001.0515369026665,
+          "result": "L 103-113 vs St. Louis Hawks on 1960-02-22"
+        },
+        {
+          "diff": 8.59429425242331,
+          "newRating": 1009.6458311550898,
+          "result": "W 117-112 vs New York Knicks on 1960-02-23"
+        },
+        {
+          "diff": -0.7782997384367718,
+          "newRating": 1008.867531416653,
+          "result": "L 110-131 vs Boston Celtics on 1960-02-24"
+        },
+        {
+          "diff": 5.923221970991563,
+          "newRating": 1014.7907533876446,
+          "result": "W 105-95 vs Cincinnati Royals on 1960-02-25"
+        },
+        {
+          "diff": -0.7688280789758437,
+          "newRating": 1014.0219253086688,
+          "result": "L 111-128 vs Boston Celtics on 1960-02-26"
+        },
+        {
+          "diff": 10.495071043844177,
+          "newRating": 1024.516996352513,
+          "result": "W 109-91 vs Philadelphia Warriors on 1960-02-27"
+        },
+        {
+          "diff": -2.571968759021047,
+          "newRating": 1021.9450275934919,
+          "result": "L 101-109 vs St. Louis Hawks on 1960-03-01"
+        },
+        {
+          "diff": 7.270659123774067,
+          "newRating": 1029.215686717266,
+          "result": "W 123-113 vs New York Knicks on 1960-03-02"
+        },
+        {
+          "diff": 4.98538552287323,
+          "newRating": 1034.2010722401392,
+          "result": "W 117-114 vs Cincinnati Royals on 1960-03-03"
+        },
+        {
+          "diff": -2.6363874015203237,
+          "newRating": 1031.5646848386189,
+          "result": "L 106-107 vs St. Louis Hawks on 1960-03-05"
+        },
+        {
+          "diff": 4.737068329324984,
+          "newRating": 1036.3017531679438,
+          "result": "W 114-105 vs Cincinnati Royals on 1960-03-06"
+        },
+        {
+          "diff": -4.645555703677928,
+          "newRating": 1031.656197464266,
+          "result": "L 116-117 vs Detroit Pistons on 1960-03-09"
+        },
+        {
+          "diff": 6.529166653349193,
+          "newRating": 1038.185364117615,
+          "result": "W 133-108 vs New York Knicks on 1960-03-10"
+        }
+      ]
+    },
+    {
+      "team": "Cincinnati Royals",
+      "rating": 977.6734580996001,
+      "wins": 19,
+      "losses": 56,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 125-129 vs Boston Celtics on 1959-10-17"
+        },
+        {
+          "diff": 396.0396039603961,
+          "newRating": 1196.039603960396,
+          "result": "W 108-103 vs Detroit Pistons on 1959-10-24"
+        },
+        {
+          "diff": 120.9340598435897,
+          "newRating": 1316.9736638039858,
+          "result": "W 103-102 vs Minneapolis Lakers on 1959-10-25"
+        },
+        {
+          "diff": -176.01684551609424,
+          "newRating": 1140.9568182878916,
+          "result": "L 127-136 vs Syracuse Nationals on 1959-10-30"
+        },
+        {
+          "diff": -156.65519399045593,
+          "newRating": 984.3016242974356,
+          "result": "L 102-109 vs St. Louis Hawks on 1959-10-31"
+        },
+        {
+          "diff": -3.0163515284644973,
+          "newRating": 981.2852727689711,
+          "result": "L 109-124 vs Boston Celtics on 1959-11-01"
+        },
+        {
+          "diff": 93.96202618201926,
+          "newRating": 1075.2472989509904,
+          "result": "W 103-101 vs Syracuse Nationals on 1959-11-07"
+        },
+        {
+          "diff": -5.308231695375071,
+          "newRating": 1069.9390672556153,
+          "result": "L 106-134 vs Philadelphia Warriors on 1959-11-08"
+        },
+        {
+          "diff": -3.7618327117777426,
+          "newRating": 1066.1772345438376,
+          "result": "L 118-151 vs Boston Celtics on 1959-11-11"
+        },
+        {
+          "diff": -3.6662145872430756,
+          "newRating": 1062.5110199565945,
+          "result": "L 116-124 vs Philadelphia Warriors on 1959-11-12"
+        },
+        {
+          "diff": -38.84863227628614,
+          "newRating": 1023.6623876803084,
+          "result": "L 103-111 vs Detroit Pistons on 1959-11-14"
+        },
+        {
+          "diff": -2.069595424978729,
+          "newRating": 1021.5927922553296,
+          "result": "L 128-134 vs Boston Celtics on 1959-11-15"
+        },
+        {
+          "diff": -14.245539757771212,
+          "newRating": 1007.3472524975584,
+          "result": "L 116-121 vs Syracuse Nationals on 1959-11-17"
+        },
+        {
+          "diff": -21.621951847303876,
+          "newRating": 985.7253006502546,
+          "result": "L 93-110 vs Detroit Pistons on 1959-11-18"
+        },
+        {
+          "diff": -22.90517941507676,
+          "newRating": 962.8201212351778,
+          "result": "L 109-130 vs New York Knicks on 1959-11-19"
+        },
+        {
+          "diff": -23.58077406448365,
+          "newRating": 939.2393471706941,
+          "result": "L 93-99 vs Minneapolis Lakers on 1959-11-21"
+        },
+        {
+          "diff": 34.69750359431612,
+          "newRating": 973.9368507650103,
+          "result": "W 106-100 vs St. Louis Hawks on 1959-11-22"
+        },
+        {
+          "diff": -13.057949028074745,
+          "newRating": 960.8789017369355,
+          "result": "L 91-104 vs Detroit Pistons on 1959-11-24"
+        },
+        {
+          "diff": 23.40324564397622,
+          "newRating": 984.2821473809117,
+          "result": "W 114-95 vs Minneapolis Lakers on 1959-11-26"
+        },
+        {
+          "diff": -5.601150054657978,
+          "newRating": 978.6809973262538,
+          "result": "L 105-111 vs Syracuse Nationals on 1959-11-28"
+        },
+        {
+          "diff": 22.365200710611248,
+          "newRating": 1001.046198036865,
+          "result": "W 135-118 vs New York Knicks on 1959-12-02"
+        },
+        {
+          "diff": -1.6875287487613377,
+          "newRating": 999.3586692881037,
+          "result": "L 111-114 vs Boston Celtics on 1959-12-03"
+        },
+        {
+          "diff": -7.782269775649752,
+          "newRating": 991.5763995124539,
+          "result": "L 104-118 vs St. Louis Hawks on 1959-12-06"
+        },
+        {
+          "diff": 26.432922247307943,
+          "newRating": 1018.0093217597619,
+          "result": "W 105-101 vs St. Louis Hawks on 1959-12-08"
+        },
+        {
+          "diff": 19.53788977420959,
+          "newRating": 1037.5472115339714,
+          "result": "W 129-119 vs Detroit Pistons on 1959-12-09"
+        },
+        {
+          "diff": -2.8985211785307,
+          "newRating": 1034.6486903554407,
+          "result": "L 112-131 vs Philadelphia Warriors on 1959-12-10"
+        },
+        {
+          "diff": 12.91347770171842,
+          "newRating": 1047.5621680571592,
+          "result": "W 107-97 vs Minneapolis Lakers on 1959-12-12"
+        },
+        {
+          "diff": -8.338779431352577,
+          "newRating": 1039.2233886258066,
+          "result": "L 98-118 vs St. Louis Hawks on 1959-12-13"
+        },
+        {
+          "diff": -3.085108204988728,
+          "newRating": 1036.1382804208179,
+          "result": "L 107-131 vs Philadelphia Warriors on 1959-12-15"
+        },
+        {
+          "diff": -2.884205266789877,
+          "newRating": 1033.254075154028,
+          "result": "L 105-114 vs Philadelphia Warriors on 1959-12-16"
+        },
+        {
+          "diff": -14.96135148504311,
+          "newRating": 1018.2927236689849,
+          "result": "L 113-131 vs Minneapolis Lakers on 1959-12-19"
+        },
+        {
+          "diff": -12.110896541294096,
+          "newRating": 1006.1818271276908,
+          "result": "L 118-132 vs New York Knicks on 1959-12-20"
+        },
+        {
+          "diff": -10.859612683478872,
+          "newRating": 995.3222144442119,
+          "result": "L 119-127 vs New York Knicks on 1959-12-22"
+        },
+        {
+          "diff": 14.704766277627982,
+          "newRating": 1010.0269807218399,
+          "result": "W 121-103 vs Detroit Pistons on 1959-12-25"
+        },
+        {
+          "diff": -0.8773329830777357,
+          "newRating": 1009.1496477387622,
+          "result": "L 111-122 vs Boston Celtics on 1959-12-27"
+        },
+        {
+          "diff": -2.471582337536347,
+          "newRating": 1006.6780654012258,
+          "result": "L 104-109 vs Philadelphia Warriors on 1959-12-28"
+        },
+        {
+          "diff": -4.44109898572583,
+          "newRating": 1002.2369664155,
+          "result": "L 127-131 vs Syracuse Nationals on 1959-12-30"
+        },
+        {
+          "diff": 20.30145255351556,
+          "newRating": 1022.5384189690155,
+          "result": "W 128-115 vs Boston Celtics on 1960-01-01"
+        },
+        {
+          "diff": -8.1375527288792,
+          "newRating": 1014.4008662401363,
+          "result": "L 118-126 vs New York Knicks on 1960-01-02"
+        },
+        {
+          "diff": -9.203932502507314,
+          "newRating": 1005.196933737629,
+          "result": "L 112-114 vs Detroit Pistons on 1960-01-03"
+        },
+        {
+          "diff": 12.537060946449742,
+          "newRating": 1017.7339946840788,
+          "result": "W 129-113 vs New York Knicks on 1960-01-06"
+        },
+        {
+          "diff": -3.3664405848431898,
+          "newRating": 1014.3675540992356,
+          "result": "L 114-132 vs Syracuse Nationals on 1960-01-07"
+        },
+        {
+          "diff": 14.758787035832938,
+          "newRating": 1029.1263411350685,
+          "result": "W 112-102 vs St. Louis Hawks on 1960-01-08"
+        },
+        {
+          "diff": -9.865546863084887,
+          "newRating": 1019.2607942719836,
+          "result": "L 91-121 vs Minneapolis Lakers on 1960-01-09"
+        },
+        {
+          "diff": -9.103453095222449,
+          "newRating": 1010.1573411767612,
+          "result": "L 106-112 vs Minneapolis Lakers on 1960-01-10"
+        },
+        {
+          "diff": -6.714879527419498,
+          "newRating": 1003.4424616493417,
+          "result": "L 123-141 vs New York Knicks on 1960-01-12"
+        },
+        {
+          "diff": 8.750540601296052,
+          "newRating": 1012.1930022506377,
+          "result": "W 122-118 vs Minneapolis Lakers on 1960-01-15"
+        },
+        {
+          "diff": -6.393278731464534,
+          "newRating": 1005.7997235191732,
+          "result": "L 106-132 vs New York Knicks on 1960-01-16"
+        },
+        {
+          "diff": -7.111648206143627,
+          "newRating": 998.6880753130296,
+          "result": "L 110-115 vs Detroit Pistons on 1960-01-17"
+        },
+        {
+          "diff": -3.1120573702347656,
+          "newRating": 995.5760179427948,
+          "result": "L 108-119 vs St. Louis Hawks on 1960-01-20"
+        },
+        {
+          "diff": -2.956942020057454,
+          "newRating": 992.6190759227374,
+          "result": "L 100-108 vs St. Louis Hawks on 1960-01-23"
+        },
+        {
+          "diff": -1.3092611546203443,
+          "newRating": 991.309814768117,
+          "result": "L 95-104 vs Philadelphia Warriors on 1960-01-24"
+        },
+        {
+          "diff": -7.6916709020702,
+          "newRating": 983.6181438660468,
+          "result": "L 112-116 vs Minneapolis Lakers on 1960-01-27"
+        },
+        {
+          "diff": -4.944200737920937,
+          "newRating": 978.6739431281259,
+          "result": "L 113-128 vs New York Knicks on 1960-01-29"
+        },
+        {
+          "diff": -0.6989863862779657,
+          "newRating": 977.9749567418479,
+          "result": "L 107-129 vs Boston Celtics on 1960-01-30"
+        },
+        {
+          "diff": -1.093720040580024,
+          "newRating": 976.8812367012679,
+          "result": "L 107-109 vs Philadelphia Warriors on 1960-02-02"
+        },
+        {
+          "diff": -4.8927934799315835,
+          "newRating": 971.9884432213363,
+          "result": "L 105-117 vs Detroit Pistons on 1960-02-03"
+        },
+        {
+          "diff": -4.628723613252532,
+          "newRating": 967.3597196080838,
+          "result": "L 102-121 vs Detroit Pistons on 1960-02-04"
+        },
+        {
+          "diff": -1.950784798417999,
+          "newRating": 965.4089348096658,
+          "result": "L 112-135 vs Syracuse Nationals on 1960-02-07"
+        },
+        {
+          "diff": -1.8810446535979963,
+          "newRating": 963.5278901560678,
+          "result": "L 111-117 vs Syracuse Nationals on 1960-02-09"
+        },
+        {
+          "diff": -1.837762877374871,
+          "newRating": 961.6901272786929,
+          "result": "L 110-120 vs St. Louis Hawks on 1960-02-10"
+        },
+        {
+          "diff": 6.905501582546094,
+          "newRating": 968.595628861239,
+          "result": "W 111-108 vs Minneapolis Lakers on 1960-02-11"
+        },
+        {
+          "diff": 8.665580349324955,
+          "newRating": 977.261209210564,
+          "result": "W 133-101 vs Detroit Pistons on 1960-02-12"
+        },
+        {
+          "diff": -1.9951030627144064,
+          "newRating": 975.2661061478495,
+          "result": "L 105-107 vs St. Louis Hawks on 1960-02-14"
+        },
+        {
+          "diff": -1.1562212222214612,
+          "newRating": 974.1098849256281,
+          "result": "L 112-117 vs Philadelphia Warriors on 1960-02-16"
+        },
+        {
+          "diff": 7.842123262930386,
+          "newRating": 981.9520081885585,
+          "result": "W 110-107 vs Detroit Pistons on 1960-02-20"
+        },
+        {
+          "diff": -0.6247071092658416,
+          "newRating": 981.3273010792926,
+          "result": "L 108-115 vs Boston Celtics on 1960-02-21"
+        },
+        {
+          "diff": 10.06134839838478,
+          "newRating": 991.3886494776774,
+          "result": "W 135-133 vs Syracuse Nationals on 1960-02-23"
+        },
+        {
+          "diff": 9.6017324491728,
+          "newRating": 1000.9903819268502,
+          "result": "W 124-122 vs St. Louis Hawks on 1960-02-24"
+        },
+        {
+          "diff": -5.584752144077811,
+          "newRating": 995.4056297827724,
+          "result": "L 95-105 vs Minneapolis Lakers on 1960-02-25"
+        },
+        {
+          "diff": -2.211982820664957,
+          "newRating": 993.1936469621074,
+          "result": "L 105-122 vs St. Louis Hawks on 1960-02-28"
+        },
+        {
+          "diff": -4.143720468103766,
+          "newRating": 989.0499264940037,
+          "result": "L 106-108 vs Detroit Pistons on 1960-03-01"
+        },
+        {
+          "diff": -4.848799618136923,
+          "newRating": 984.2011268758667,
+          "result": "L 114-117 vs Minneapolis Lakers on 1960-03-03"
+        },
+        {
+          "diff": -4.673053892442226,
+          "newRating": 979.5280729834245,
+          "result": "L 105-114 vs Minneapolis Lakers on 1960-03-06"
+        },
+        {
+          "diff": -1.8546148838244108,
+          "newRating": 977.6734580996001,
+          "result": "L 116-123 vs St. Louis Hawks on 1960-03-09"
+        }
+      ]
+    }
+  ]
+}

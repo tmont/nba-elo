@@ -1,0 +1,5856 @@
+{
+  "standings": [
+    {
+      "team": "New York Knicks",
+      "rating": 1401.707961485657,
+      "wins": 60,
+      "losses": 22,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 126-101 vs Seattle SuperSonics on 1969-10-14"
+        },
+        {
+          "diff": 36.36363636363626,
+          "newRating": 1636.3636363636363,
+          "result": "W 94-89 vs Cincinnati Royals on 1969-10-15"
+        },
+        {
+          "diff": 2.1456118297126068,
+          "newRating": 1638.5092481933489,
+          "result": "W 116-87 vs Chicago Bulls on 1969-10-17"
+        },
+        {
+          "diff": 1.5896125566512183,
+          "newRating": 1640.09886075,
+          "result": "W 99-96 vs Los Angeles Lakers on 1969-10-18"
+        },
+        {
+          "diff": 15.539586105845274,
+          "newRating": 1655.6384468558454,
+          "result": "W 140-116 vs Phoenix Suns on 1969-10-21"
+        },
+        {
+          "diff": -131.8827030390862,
+          "newRating": 1523.7557438167591,
+          "result": "L 109-112 vs San Francisco Warriors on 1969-10-23"
+        },
+        {
+          "diff": 4.100091739053369,
+          "newRating": 1527.8558355558125,
+          "result": "W 116-92 vs Detroit Pistons on 1969-10-24"
+        },
+        {
+          "diff": 31.02793369869073,
+          "newRating": 1558.8837692545032,
+          "result": "W 128-99 vs Baltimore Bullets on 1969-10-25"
+        },
+        {
+          "diff": 10.515496055812491,
+          "newRating": 1569.3992653103157,
+          "result": "W 128-104 vs Atlanta Hawks on 1969-10-28"
+        },
+        {
+          "diff": 2.6193178194555458,
+          "newRating": 1572.0185831297713,
+          "result": "W 123-110 vs San Diego Rockets on 1969-10-30"
+        },
+        {
+          "diff": 14.930071106902915,
+          "newRating": 1586.9486542366742,
+          "result": "W 112-108 vs Milwaukee Bucks on 1969-11-01"
+        },
+        {
+          "diff": 11.826829766632045,
+          "newRating": 1598.7754840033062,
+          "result": "W 109-93 vs Milwaukee Bucks on 1969-11-03"
+        },
+        {
+          "diff": 5.313143325779947,
+          "newRating": 1604.0886273290862,
+          "result": "W 116-99 vs Phoenix Suns on 1969-11-04"
+        },
+        {
+          "diff": 0.7071447151172379,
+          "newRating": 1604.7957720442034,
+          "result": "W 129-111 vs San Diego Rockets on 1969-11-07"
+        },
+        {
+          "diff": 5.863757276724527,
+          "newRating": 1610.659529320928,
+          "result": "W 112-102 vs Los Angeles Lakers on 1969-11-09"
+        },
+        {
+          "diff": 3.0151197814680017,
+          "newRating": 1613.674649102396,
+          "result": "W 116-103 vs San Francisco Warriors on 1969-11-11"
+        },
+        {
+          "diff": 3.5730726293063526,
+          "newRating": 1617.2477217317023,
+          "result": "W 114-99 vs Chicago Bulls on 1969-11-13"
+        },
+        {
+          "diff": 0.71320749608185,
+          "newRating": 1617.9609292277842,
+          "result": "W 113-98 vs Boston Celtics on 1969-11-15"
+        },
+        {
+          "diff": 2.2107259378403796,
+          "newRating": 1620.1716551656245,
+          "result": "W 112-94 vs Cincinnati Royals on 1969-11-18"
+        },
+        {
+          "diff": 1.6593981217522469,
+          "newRating": 1621.8310532873768,
+          "result": "W 98-94 vs Philadelphia 76ers on 1969-11-21"
+        },
+        {
+          "diff": 2.6849027641378598,
+          "newRating": 1624.5159560515146,
+          "result": "W 128-114 vs Phoenix Suns on 1969-11-22"
+        },
+        {
+          "diff": 3.769139848344821,
+          "newRating": 1628.2850958998595,
+          "result": "W 103-96 vs Los Angeles Lakers on 1969-11-25"
+        },
+        {
+          "diff": 3.871440536484897,
+          "newRating": 1632.1565364363444,
+          "result": "W 138-108 vs Atlanta Hawks on 1969-11-26"
+        },
+        {
+          "diff": 2.201017799168767,
+          "newRating": 1634.3575542355131,
+          "result": "W 106-105 vs Cincinnati Royals on 1969-11-28"
+        },
+        {
+          "diff": -31.117212822127158,
+          "newRating": 1603.240341413386,
+          "result": "L 98-110 vs Detroit Pistons on 1969-11-29"
+        },
+        {
+          "diff": 0.5334837167827118,
+          "newRating": 1603.7738251301687,
+          "result": "W 129-109 vs Seattle SuperSonics on 1969-12-02"
+        },
+        {
+          "diff": 5.2067382019754405,
+          "newRating": 1608.9805633321441,
+          "result": "W 116-107 vs Baltimore Bullets on 1969-12-05"
+        },
+        {
+          "diff": 3.307147562253249,
+          "newRating": 1612.2877108943974,
+          "result": "W 124-99 vs Milwaukee Bucks on 1969-12-06"
+        },
+        {
+          "diff": -25.836065980404555,
+          "newRating": 1586.4516449139928,
+          "result": "L 101-103 vs Cincinnati Royals on 1969-12-09"
+        },
+        {
+          "diff": 3.4017511268580165,
+          "newRating": 1589.8533960408508,
+          "result": "W 96-95 vs Milwaukee Bucks on 1969-12-10"
+        },
+        {
+          "diff": -25.107971269930204,
+          "newRating": 1564.7454247709206,
+          "result": "L 105-112 vs Seattle SuperSonics on 1969-12-11"
+        },
+        {
+          "diff": -22.683169581042876,
+          "newRating": 1542.0622551898778,
+          "result": "L 93-100 vs Philadelphia 76ers on 1969-12-13"
+        },
+        {
+          "diff": -20.30551340316788,
+          "newRating": 1521.7567417867099,
+          "result": "L 124-125 vs Atlanta Hawks on 1969-12-16"
+        },
+        {
+          "diff": 2.3483894134310503,
+          "newRating": 1524.105131200141,
+          "result": "W 108-99 vs Chicago Bulls on 1969-12-19"
+        },
+        {
+          "diff": 5.375650696460525,
+          "newRating": 1529.4807818966015,
+          "result": "W 128-91 vs Baltimore Bullets on 1969-12-20"
+        },
+        {
+          "diff": 1.305557266337928,
+          "newRating": 1530.7863391629394,
+          "result": "W 112-111 vs Detroit Pistons on 1969-12-25"
+        },
+        {
+          "diff": -19.69060080068448,
+          "newRating": 1511.095738362255,
+          "result": "L 106-114 vs Los Angeles Lakers on 1969-12-26"
+        },
+        {
+          "diff": 1.0801035206773122,
+          "newRating": 1512.1758418829322,
+          "result": "W 119-117 vs Seattle SuperSonics on 1969-12-27"
+        },
+        {
+          "diff": 2.1441740676875725,
+          "newRating": 1514.3200159506198,
+          "result": "W 135-116 vs Phoenix Suns on 1969-12-28"
+        },
+        {
+          "diff": 1.8423535350682414,
+          "newRating": 1516.162369485688,
+          "result": "W 116-96 vs Chicago Bulls on 1969-12-30"
+        },
+        {
+          "diff": -14.972196365700256,
+          "newRating": 1501.1901731199878,
+          "result": "L 105-118 vs Milwaukee Bucks on 1970-01-02"
+        },
+        {
+          "diff": -17.537808995457908,
+          "newRating": 1483.6523641245299,
+          "result": "L 104-111 vs Boston Celtics on 1970-01-03"
+        },
+        {
+          "diff": 4.514964229027555,
+          "newRating": 1488.1673283535574,
+          "result": "W 129-99 vs Baltimore Bullets on 1970-01-06"
+        },
+        {
+          "diff": 2.091738497157394,
+          "newRating": 1490.2590668507148,
+          "result": "W 99-94 vs San Francisco Warriors on 1970-01-07"
+        },
+        {
+          "diff": 1.88835063235274,
+          "newRating": 1492.1474174830676,
+          "result": "W 123-93 vs San Francisco Warriors on 1970-01-09"
+        },
+        {
+          "diff": -16.007827326948245,
+          "newRating": 1476.1395901561193,
+          "result": "L 115-123 vs San Diego Rockets on 1970-01-10"
+        },
+        {
+          "diff": 2.0282983359898026,
+          "newRating": 1478.1678884921091,
+          "result": "W 130-114 vs Phoenix Suns on 1970-01-12"
+        },
+        {
+          "diff": 1.2062918937765517,
+          "newRating": 1479.3741803858857,
+          "result": "W 104-102 vs Detroit Pistons on 1970-01-16"
+        },
+        {
+          "diff": -14.822197707778741,
+          "newRating": 1464.551982678107,
+          "result": "L 102-109 vs Boston Celtics on 1970-01-18"
+        },
+        {
+          "diff": 2.128376286362254,
+          "newRating": 1466.6803589644692,
+          "result": "W 120-117 vs Chicago Bulls on 1970-01-23"
+        },
+        {
+          "diff": 1.4682477855337766,
+          "newRating": 1468.148606750003,
+          "result": "W 127-114 vs San Diego Rockets on 1970-01-24"
+        },
+        {
+          "diff": 1.4968826304568665,
+          "newRating": 1469.6454893804598,
+          "result": "W 102-96 vs Boston Celtics on 1970-01-25"
+        },
+        {
+          "diff": 1.4454997941231795,
+          "newRating": 1471.090989174583,
+          "result": "W 133-100 vs Boston Celtics on 1970-01-27"
+        },
+        {
+          "diff": 1.231279405796613,
+          "newRating": 1472.3222685803796,
+          "result": "W 127-106 vs Detroit Pistons on 1970-01-29"
+        },
+        {
+          "diff": 2.5444876360684248,
+          "newRating": 1474.866756216448,
+          "result": "W 104-100 vs Philadelphia 76ers on 1970-01-30"
+        },
+        {
+          "diff": 1.6346661952836712,
+          "newRating": 1476.5014224117317,
+          "result": "W 123-104 vs Chicago Bulls on 1970-01-31"
+        },
+        {
+          "diff": 1.163772288855398,
+          "newRating": 1477.665194700587,
+          "result": "W 117-111 vs Detroit Pistons on 1970-02-01"
+        },
+        {
+          "diff": 1.4388354080972476,
+          "newRating": 1479.1040301086844,
+          "result": "W 118-98 vs San Francisco Warriors on 1970-02-03"
+        },
+        {
+          "diff": -11.29239249741886,
+          "newRating": 1467.8116376112655,
+          "result": "L 96-111 vs Atlanta Hawks on 1970-02-04"
+        },
+        {
+          "diff": 1.8007209418385628,
+          "newRating": 1469.612358553104,
+          "result": "W 135-92 vs Cincinnati Royals on 1970-02-06"
+        },
+        {
+          "diff": 1.739936351954384,
+          "newRating": 1471.3522949050584,
+          "result": "W 121-114 vs Cincinnati Royals on 1970-02-07"
+        },
+        {
+          "diff": -11.522699412532347,
+          "newRating": 1459.829595492526,
+          "result": "L 118-125 vs Boston Celtics on 1970-02-11"
+        },
+        {
+          "diff": 2.1252166974768443,
+          "newRating": 1461.954812190003,
+          "result": "W 151-106 vs Philadelphia 76ers on 1970-02-13"
+        },
+        {
+          "diff": 2.049398627540768,
+          "newRating": 1464.0042108175437,
+          "result": "W 116-114 vs Philadelphia 76ers on 1970-02-14"
+        },
+        {
+          "diff": 2.185645408928167,
+          "newRating": 1466.1898562264719,
+          "result": "W 114-93 vs Los Angeles Lakers on 1970-02-17"
+        },
+        {
+          "diff": -9.904722529857509,
+          "newRating": 1456.2851336966144,
+          "result": "L 106-122 vs Atlanta Hawks on 1970-02-21"
+        },
+        {
+          "diff": -9.060166503536266,
+          "newRating": 1447.224967193078,
+          "result": "L 104-110 vs Baltimore Bullets on 1970-02-22"
+        },
+        {
+          "diff": 1.7264428316316298,
+          "newRating": 1448.9514100247097,
+          "result": "W 121-105 vs Phoenix Suns on 1970-02-24"
+        },
+        {
+          "diff": 3.0342490954419645,
+          "newRating": 1451.9856591201517,
+          "result": "W 115-101 vs Baltimore Bullets on 1970-02-28"
+        },
+        {
+          "diff": 1.077633220774942,
+          "newRating": 1453.0632923409266,
+          "result": "W 115-100 vs San Francisco Warriors on 1970-03-03"
+        },
+        {
+          "diff": 0.9817829240064384,
+          "newRating": 1454.045075264933,
+          "result": "W 107-103 vs San Diego Rockets on 1970-03-06"
+        },
+        {
+          "diff": 2.0234674989949326,
+          "newRating": 1456.068542763928,
+          "result": "W 111-104 vs Philadelphia 76ers on 1970-03-07"
+        },
+        {
+          "diff": -9.000393877268607,
+          "newRating": 1447.0681488866594,
+          "result": "L 116-133 vs Philadelphia 76ers on 1970-03-08"
+        },
+        {
+          "diff": 1.2469643845436167,
+          "newRating": 1448.315113271203,
+          "result": "W 117-99 vs Seattle SuperSonics on 1970-03-10"
+        },
+        {
+          "diff": -9.451566982748773,
+          "newRating": 1438.8635462884542,
+          "result": "L 103-115 vs Seattle SuperSonics on 1970-03-13"
+        },
+        {
+          "diff": 0.8909979013378688,
+          "newRating": 1439.754544189792,
+          "result": "W 119-103 vs San Diego Rockets on 1970-03-14"
+        },
+        {
+          "diff": -8.223229447635958,
+          "newRating": 1431.5313147421562,
+          "result": "L 101-106 vs Los Angeles Lakers on 1970-03-15"
+        },
+        {
+          "diff": 1.2410073761172953,
+          "newRating": 1432.7723221182735,
+          "result": "W 122-106 vs Detroit Pistons on 1970-03-17"
+        },
+        {
+          "diff": -6.688690093522382,
+          "newRating": 1426.083632024751,
+          "result": "L 108-116 vs Milwaukee Bucks on 1970-03-18"
+        },
+        {
+          "diff": -7.665516740692283,
+          "newRating": 1418.4181152840588,
+          "result": "L 102-110 vs Atlanta Hawks on 1970-03-20"
+        },
+        {
+          "diff": -8.289891623988296,
+          "newRating": 1410.1282236600705,
+          "result": "L 120-136 vs Cincinnati Royals on 1970-03-21"
+        },
+        {
+          "diff": -8.420262174413438,
+          "newRating": 1401.707961485657,
+          "result": "L 112-115 vs Boston Celtics on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "Milwaukee Bucks",
+      "rating": 1319.615457540839,
+      "wins": 56,
+      "losses": 26,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 119-110 vs Detroit Pistons on 1969-10-18"
+        },
+        {
+          "diff": 1.613488778364399,
+          "newRating": 1601.6134887783644,
+          "result": "W 130-106 vs Seattle SuperSonics on 1969-10-19"
+        },
+        {
+          "diff": 19.836093166559976,
+          "newRating": 1621.4495819449244,
+          "result": "W 115-102 vs San Diego Rockets on 1969-10-22"
+        },
+        {
+          "diff": -181.67600256554306,
+          "newRating": 1439.7735793793813,
+          "result": "L 112-123 vs Los Angeles Lakers on 1969-10-24"
+        },
+        {
+          "diff": -136.29106843566274,
+          "newRating": 1303.4825109437186,
+          "result": "L 104-118 vs San Francisco Warriors on 1969-10-25"
+        },
+        {
+          "diff": 40.14360249698461,
+          "newRating": 1343.6261134407032,
+          "result": "W 119-99 vs Phoenix Suns on 1969-10-26"
+        },
+        {
+          "diff": -112.62712050288815,
+          "newRating": 1230.998992937815,
+          "result": "L 107-120 vs Boston Celtics on 1969-10-28"
+        },
+        {
+          "diff": 30.680997955678095,
+          "newRating": 1261.6799908934931,
+          "result": "W 102-81 vs Detroit Pistons on 1969-10-30"
+        },
+        {
+          "diff": 75.20061804780835,
+          "newRating": 1336.8806089413015,
+          "result": "W 129-125 vs Philadelphia 76ers on 1969-10-31"
+        },
+        {
+          "diff": -16.42307821759323,
+          "newRating": 1320.4575307237083,
+          "result": "L 108-112 vs New York Knicks on 1969-11-01"
+        },
+        {
+          "diff": -12.901996109053243,
+          "newRating": 1307.555534614655,
+          "result": "L 93-109 vs New York Knicks on 1969-11-03"
+        },
+        {
+          "diff": 13.516587195895909,
+          "newRating": 1321.072121810551,
+          "result": "W 100-96 vs Detroit Pistons on 1969-11-08"
+        },
+        {
+          "diff": -36.29124886490058,
+          "newRating": 1284.7808729456503,
+          "result": "L 105-116 vs Baltimore Bullets on 1969-11-09"
+        },
+        {
+          "diff": 6.61444939912144,
+          "newRating": 1291.3953223447718,
+          "result": "W 129-118 vs Boston Celtics on 1969-11-11"
+        },
+        {
+          "diff": 18.067567312521305,
+          "newRating": 1309.462889657293,
+          "result": "W 122-100 vs Chicago Bulls on 1969-11-14"
+        },
+        {
+          "diff": -25.894834288002812,
+          "newRating": 1283.5680553692903,
+          "result": "L 120-129 vs Baltimore Bullets on 1969-11-15"
+        },
+        {
+          "diff": 11.749944568933415,
+          "newRating": 1295.3179999382237,
+          "result": "W 129-123 vs San Francisco Warriors on 1969-11-16"
+        },
+        {
+          "diff": -34.50490336302073,
+          "newRating": 1260.813096575203,
+          "result": "L 110-127 vs San Francisco Warriors on 1969-11-18"
+        },
+        {
+          "diff": 5.340448599456522,
+          "newRating": 1266.1535451746595,
+          "result": "W 117-115 vs Seattle SuperSonics on 1969-11-21"
+        },
+        {
+          "diff": -27.05227964786377,
+          "newRating": 1239.1012655267957,
+          "result": "L 106-125 vs Chicago Bulls on 1969-11-22"
+        },
+        {
+          "diff": -23.995913193143224,
+          "newRating": 1215.1053523336525,
+          "result": "L 104-129 vs Cincinnati Royals on 1969-11-24"
+        },
+        {
+          "diff": 22.066823648519403,
+          "newRating": 1237.172175982172,
+          "result": "W 130-115 vs Atlanta Hawks on 1969-11-25"
+        },
+        {
+          "diff": 17.813541296332232,
+          "newRating": 1254.9857172785041,
+          "result": "W 100-81 vs Los Angeles Lakers on 1969-11-26"
+        },
+        {
+          "diff": -22.251883872745566,
+          "newRating": 1232.7338334057586,
+          "result": "L 111-129 vs Philadelphia 76ers on 1969-11-29"
+        },
+        {
+          "diff": 8.039189498008227,
+          "newRating": 1240.7730229037668,
+          "result": "W 111-99 vs San Diego Rockets on 1969-11-30"
+        },
+        {
+          "diff": 11.070605250605468,
+          "newRating": 1251.8436281543723,
+          "result": "W 122-114 vs Philadelphia 76ers on 1969-12-02"
+        },
+        {
+          "diff": 3.9155871616344484,
+          "newRating": 1255.7592153160067,
+          "result": "W 131-98 vs Seattle SuperSonics on 1969-12-05"
+        },
+        {
+          "diff": -3.307147562253249,
+          "newRating": 1252.4520677537535,
+          "result": "L 99-124 vs New York Knicks on 1969-12-06"
+        },
+        {
+          "diff": -3.5190528898531284,
+          "newRating": 1248.9330148639003,
+          "result": "L 95-96 vs New York Knicks on 1969-12-10"
+        },
+        {
+          "diff": 9.105300074465731,
+          "newRating": 1258.038314938366,
+          "result": "W 123-109 vs San Francisco Warriors on 1969-12-12"
+        },
+        {
+          "diff": 13.363706459927016,
+          "newRating": 1271.402021398293,
+          "result": "W 121-100 vs Atlanta Hawks on 1969-12-13"
+        },
+        {
+          "diff": 4.879974483887281,
+          "newRating": 1276.2819958821804,
+          "result": "W 118-105 vs San Diego Rockets on 1969-12-14"
+        },
+        {
+          "diff": 5.224365310122494,
+          "newRating": 1281.5063611923028,
+          "result": "W 124-106 vs Boston Celtics on 1969-12-17"
+        },
+        {
+          "diff": 4.819621521648514,
+          "newRating": 1286.3259827139514,
+          "result": "W 115-111 vs Boston Celtics on 1969-12-19"
+        },
+        {
+          "diff": 6.805459954283833,
+          "newRating": 1293.1314426682352,
+          "result": "W 118-111 vs Phoenix Suns on 1969-12-21"
+        },
+        {
+          "diff": 4.321946669539784,
+          "newRating": 1297.453389337775,
+          "result": "W 114-101 vs Detroit Pistons on 1969-12-26"
+        },
+        {
+          "diff": -15.16139017254568,
+          "newRating": 1282.2919991652293,
+          "result": "L 110-112 vs Cincinnati Royals on 1969-12-27"
+        },
+        {
+          "diff": 11.867769086491762,
+          "newRating": 1294.159768251721,
+          "result": "W 133-124 vs Baltimore Bullets on 1969-12-28"
+        },
+        {
+          "diff": 10.859765980623934,
+          "newRating": 1305.019534232345,
+          "result": "W 126-124 vs Baltimore Bullets on 1969-12-30"
+        },
+        {
+          "diff": 3.850923042816703,
+          "newRating": 1308.8704572751617,
+          "result": "W 143-126 vs San Diego Rockets on 1969-12-31"
+        },
+        {
+          "diff": 14.972196365700256,
+          "newRating": 1323.842653640862,
+          "result": "W 118-105 vs New York Knicks on 1970-01-02"
+        },
+        {
+          "diff": -11.517636123499415,
+          "newRating": 1312.3250175173625,
+          "result": "L 125-126 vs Atlanta Hawks on 1970-01-04"
+        },
+        {
+          "diff": 6.462265765257143,
+          "newRating": 1318.7872832826197,
+          "result": "W 138-119 vs Cincinnati Royals on 1970-01-07"
+        },
+        {
+          "diff": 4.219346413303356,
+          "newRating": 1323.006629695923,
+          "result": "W 120-116 vs Phoenix Suns on 1970-01-09"
+        },
+        {
+          "diff": 3.481827461664807,
+          "newRating": 1326.4884571575878,
+          "result": "W 124-109 vs Boston Celtics on 1970-01-10"
+        },
+        {
+          "diff": 5.358369993510905,
+          "newRating": 1331.8468271510988,
+          "result": "W 112-92 vs Cincinnati Royals on 1970-01-13"
+        },
+        {
+          "diff": 4.612414446368575,
+          "newRating": 1336.4592415974673,
+          "result": "W 115-113 vs Los Angeles Lakers on 1970-01-14"
+        },
+        {
+          "diff": -12.726137150310024,
+          "newRating": 1323.7331044471573,
+          "result": "L 130-132 vs Chicago Bulls on 1970-01-17"
+        },
+        {
+          "diff": 3.7215450961737133,
+          "newRating": 1327.454649543331,
+          "result": "W 123-107 vs San Francisco Warriors on 1970-01-18"
+        },
+        {
+          "diff": 3.039083792328938,
+          "newRating": 1330.49373333566,
+          "result": "W 115-106 vs San Diego Rockets on 1970-01-22"
+        },
+        {
+          "diff": 4.333748395564498,
+          "newRating": 1334.8274817312245,
+          "result": "W 125-109 vs Cincinnati Royals on 1970-01-24"
+        },
+        {
+          "diff": 5.430680986067273,
+          "newRating": 1340.2581627172917,
+          "result": "W 131-116 vs Atlanta Hawks on 1970-01-25"
+        },
+        {
+          "diff": -10.38958409287602,
+          "newRating": 1329.8685786244157,
+          "result": "L 103-122 vs Philadelphia 76ers on 1970-01-26"
+        },
+        {
+          "diff": 4.320182400848353,
+          "newRating": 1334.188761025264,
+          "result": "W 126-114 vs Cincinnati Royals on 1970-01-28"
+        },
+        {
+          "diff": 3.320432049487408,
+          "newRating": 1337.5091930747515,
+          "result": "W 121-105 vs Chicago Bulls on 1970-01-30"
+        },
+        {
+          "diff": 3.4218423397155675,
+          "newRating": 1340.931035414467,
+          "result": "W 107-106 vs Phoenix Suns on 1970-01-31"
+        },
+        {
+          "diff": -12.081518219763211,
+          "newRating": 1328.8495171947038,
+          "result": "L 116-118 vs Seattle SuperSonics on 1970-02-01"
+        },
+        {
+          "diff": 2.3717990191460103,
+          "newRating": 1331.2213162138498,
+          "result": "W 141-123 vs San Diego Rockets on 1970-02-04"
+        },
+        {
+          "diff": 4.29775959186145,
+          "newRating": 1335.5190758057113,
+          "result": "W 118-105 vs Los Angeles Lakers on 1970-02-06"
+        },
+        {
+          "diff": -7.997258462060927,
+          "newRating": 1327.5218173436504,
+          "result": "L 106-120 vs Baltimore Bullets on 1970-02-08"
+        },
+        {
+          "diff": 4.010750711205901,
+          "newRating": 1331.5325680548563,
+          "result": "W 139-131 vs Philadelphia 76ers on 1970-02-10"
+        },
+        {
+          "diff": 3.584549952430507,
+          "newRating": 1335.1171180072868,
+          "result": "W 127-120 vs Phoenix Suns on 1970-02-11"
+        },
+        {
+          "diff": 2.7862186387696966,
+          "newRating": 1337.9033366460565,
+          "result": "W 127-117 vs Boston Celtics on 1970-02-14"
+        },
+        {
+          "diff": -8.776547095578053,
+          "newRating": 1329.1267895504784,
+          "result": "L 96-98 vs Los Angeles Lakers on 1970-02-15"
+        },
+        {
+          "diff": 2.404934134140376,
+          "newRating": 1331.5317236846188,
+          "result": "W 109-102 vs San Francisco Warriors on 1970-02-18"
+        },
+        {
+          "diff": -8.392219436148935,
+          "newRating": 1323.1395042484698,
+          "result": "L 114-119 vs Los Angeles Lakers on 1970-02-20"
+        },
+        {
+          "diff": 2.1200395904020297,
+          "newRating": 1325.2595438388719,
+          "result": "W 140-127 vs Seattle SuperSonics on 1970-02-21"
+        },
+        {
+          "diff": 3.0698911177369155,
+          "newRating": 1328.3294349566088,
+          "result": "W 144-124 vs Phoenix Suns on 1970-02-22"
+        },
+        {
+          "diff": -9.352219375484992,
+          "newRating": 1318.9772155811238,
+          "result": "L 111-136 vs Detroit Pistons on 1970-02-24"
+        },
+        {
+          "diff": 4.897842895351005,
+          "newRating": 1323.8750584764748,
+          "result": "W 115-113 vs Baltimore Bullets on 1970-02-25"
+        },
+        {
+          "diff": 2.2272342638013924,
+          "newRating": 1326.1022927402762,
+          "result": "W 131-113 vs Detroit Pistons on 1970-02-27"
+        },
+        {
+          "diff": 2.949381826631452,
+          "newRating": 1329.0516745669076,
+          "result": "W 120-114 vs Cincinnati Royals on 1970-03-01"
+        },
+        {
+          "diff": 3.427205340102546,
+          "newRating": 1332.4788799070102,
+          "result": "W 127-116 vs Philadelphia 76ers on 1970-03-03"
+        },
+        {
+          "diff": -7.3737755379011105,
+          "newRating": 1325.105104369109,
+          "result": "L 117-126 vs Atlanta Hawks on 1970-03-05"
+        },
+        {
+          "diff": 2.1259556187096678,
+          "newRating": 1327.2310599878188,
+          "result": "W 121-118 vs Detroit Pistons on 1970-03-06"
+        },
+        {
+          "diff": 2.332244872714,
+          "newRating": 1329.5633048605328,
+          "result": "W 138-134 vs Boston Celtics on 1970-03-08"
+        },
+        {
+          "diff": 2.1416745501624064,
+          "newRating": 1331.7049794106952,
+          "result": "W 124-105 vs Seattle SuperSonics on 1970-03-09"
+        },
+        {
+          "diff": -6.9722035313541255,
+          "newRating": 1324.732775879341,
+          "result": "L 127-140 vs Atlanta Hawks on 1970-03-10"
+        },
+        {
+          "diff": -7.579982380402271,
+          "newRating": 1317.1527934989388,
+          "result": "L 107-130 vs Chicago Bulls on 1970-03-15"
+        },
+        {
+          "diff": 6.60508146735333,
+          "newRating": 1323.757874966292,
+          "result": "W 116-108 vs New York Knicks on 1970-03-18"
+        },
+        {
+          "diff": 3.145023242257821,
+          "newRating": 1326.90289820855,
+          "result": "W 138-112 vs Philadelphia 76ers on 1970-03-20"
+        },
+        {
+          "diff": -7.287440667710825,
+          "newRating": 1319.615457540839,
+          "result": "L 115-129 vs Chicago Bulls on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "Baltimore Bullets",
+      "rating": 1260.8579745548827,
+      "wins": 50,
+      "losses": 32,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 98-93 vs Chicago Bulls on 1969-10-15"
+        },
+        {
+          "diff": 2.471989000660642,
+          "newRating": 1602.4719890006606,
+          "result": "W 124-117 vs Boston Celtics on 1969-10-18"
+        },
+        {
+          "diff": -264.1101008616181,
+          "newRating": 1338.3618881390425,
+          "result": "L 137-142 vs Los Angeles Lakers on 1969-10-21"
+        },
+        {
+          "diff": 50.72579451903903,
+          "newRating": 1389.0876826580816,
+          "result": "W 131-126 vs Cincinnati Royals on 1969-10-24"
+        },
+        {
+          "diff": -49.644693917905215,
+          "newRating": 1339.4429887401764,
+          "result": "L 99-128 vs New York Knicks on 1969-10-25"
+        },
+        {
+          "diff": 30.129474051087527,
+          "newRating": 1369.572462791264,
+          "result": "W 125-110 vs Detroit Pistons on 1969-10-28"
+        },
+        {
+          "diff": -35.52299282997319,
+          "newRating": 1334.0494699612907,
+          "result": "L 105-129 vs Philadelphia 76ers on 1969-10-29"
+        },
+        {
+          "diff": -72.8981761705461,
+          "newRating": 1261.1512937907446,
+          "result": "L 109-118 vs Chicago Bulls on 1969-10-31"
+        },
+        {
+          "diff": -48.98716211692113,
+          "newRating": 1212.1641316738235,
+          "result": "L 137-140 vs Atlanta Hawks on 1969-11-01"
+        },
+        {
+          "diff": 41.50429231588396,
+          "newRating": 1253.6684239897074,
+          "result": "W 124-105 vs San Francisco Warriors on 1969-11-04"
+        },
+        {
+          "diff": 48.1646813252089,
+          "newRating": 1301.8331053149163,
+          "result": "W 139-130 vs Philadelphia 76ers on 1969-11-05"
+        },
+        {
+          "diff": 3.755625470520272,
+          "newRating": 1305.5887307854366,
+          "result": "W 126-112 vs Seattle SuperSonics on 1969-11-07"
+        },
+        {
+          "diff": -47.55199902354343,
+          "newRating": 1258.0367317618932,
+          "result": "L 121-130 vs Cincinnati Royals on 1969-11-08"
+        },
+        {
+          "diff": 33.69901680312205,
+          "newRating": 1291.7357485650152,
+          "result": "W 116-105 vs Milwaukee Bucks on 1969-11-09"
+        },
+        {
+          "diff": 5.285935202933388,
+          "newRating": 1297.0216837679486,
+          "result": "W 109-108 vs Boston Celtics on 1969-11-14"
+        },
+        {
+          "diff": 25.894834288002812,
+          "newRating": 1322.9165180559514,
+          "result": "W 129-120 vs Milwaukee Bucks on 1969-11-15"
+        },
+        {
+          "diff": 7.521477442830701,
+          "newRating": 1330.4379954987821,
+          "result": "W 142-138 vs San Diego Rockets on 1969-11-18"
+        },
+        {
+          "diff": 14.344366402071046,
+          "newRating": 1344.7823619008532,
+          "result": "W 133-118 vs Phoenix Suns on 1969-11-19"
+        },
+        {
+          "diff": 12.074096743390328,
+          "newRating": 1356.8564586442435,
+          "result": "W 126-116 vs Phoenix Suns on 1969-11-21"
+        },
+        {
+          "diff": 14.853126738687024,
+          "newRating": 1371.7095853829305,
+          "result": "W 129-97 vs Los Angeles Lakers on 1969-11-23"
+        },
+        {
+          "diff": 8.238699927277821,
+          "newRating": 1379.9482853102083,
+          "result": "W 134-124 vs Phoenix Suns on 1969-11-25"
+        },
+        {
+          "diff": 7.43433157926529,
+          "newRating": 1387.3826168894736,
+          "result": "W 118-116 vs San Francisco Warriors on 1969-11-27"
+        },
+        {
+          "diff": -32.10060484742712,
+          "newRating": 1355.2820120420465,
+          "result": "L 106-121 vs Boston Celtics on 1969-11-29"
+        },
+        {
+          "diff": 8.673418963812537,
+          "newRating": 1363.955431005859,
+          "result": "W 129-107 vs Cincinnati Royals on 1969-12-02"
+        },
+        {
+          "diff": -28.67414074563544,
+          "newRating": 1335.2812902602236,
+          "result": "L 105-113 vs Boston Celtics on 1969-12-03"
+        },
+        {
+          "diff": -5.4069973635898805,
+          "newRating": 1329.8742928966337,
+          "result": "L 107-116 vs New York Knicks on 1969-12-05"
+        },
+        {
+          "diff": -27.060855424357896,
+          "newRating": 1302.8134374722758,
+          "result": "L 129-132 vs Seattle SuperSonics on 1969-12-06"
+        },
+        {
+          "diff": 7.994088322389189,
+          "newRating": 1310.807525794665,
+          "result": "W 125-122 vs Chicago Bulls on 1969-12-08"
+        },
+        {
+          "diff": -20.193519627814112,
+          "newRating": 1290.614006166851,
+          "result": "L 107-137 vs Phoenix Suns on 1969-12-10"
+        },
+        {
+          "diff": 8.479349927330077,
+          "newRating": 1299.093356094181,
+          "result": "W 123-108 vs Chicago Bulls on 1969-12-12"
+        },
+        {
+          "diff": 4.525316812024585,
+          "newRating": 1303.6186729062056,
+          "result": "W 117-105 vs San Diego Rockets on 1969-12-13"
+        },
+        {
+          "diff": 11.580639351956279,
+          "newRating": 1315.1993122581619,
+          "result": "W 138-133 vs Atlanta Hawks on 1969-12-17"
+        },
+        {
+          "diff": 4.0468354347142395,
+          "newRating": 1319.246147692876,
+          "result": "W 108-105 vs Detroit Pistons on 1969-12-19"
+        },
+        {
+          "diff": -5.533758069885835,
+          "newRating": 1313.7123896229903,
+          "result": "L 91-128 vs New York Knicks on 1969-12-20"
+        },
+        {
+          "diff": 7.566694115895416,
+          "newRating": 1321.2790837388857,
+          "result": "W 121-113 vs Philadelphia 76ers on 1969-12-25"
+        },
+        {
+          "diff": 5.531486927206743,
+          "newRating": 1326.8105706660924,
+          "result": "W 147-112 vs San Francisco Warriors on 1969-12-27"
+        },
+        {
+          "diff": -12.188519602342922,
+          "newRating": 1314.6220510637495,
+          "result": "L 124-133 vs Milwaukee Bucks on 1969-12-28"
+        },
+        {
+          "diff": -11.145549295903493,
+          "newRating": 1303.476501767846,
+          "result": "L 124-126 vs Milwaukee Bucks on 1969-12-30"
+        },
+        {
+          "diff": -11.458389667835945,
+          "newRating": 1292.01811210001,
+          "result": "L 111-122 vs Atlanta Hawks on 1969-12-31"
+        },
+        {
+          "diff": 6.826330496884566,
+          "newRating": 1298.8444425968946,
+          "result": "W 118-116 vs Cincinnati Royals on 1970-01-02"
+        },
+        {
+          "diff": -12.890890289991376,
+          "newRating": 1285.9535523069032,
+          "result": "L 128-129 vs Cincinnati Royals on 1970-01-04"
+        },
+        {
+          "diff": -4.622463377337908,
+          "newRating": 1281.3310889295653,
+          "result": "L 99-129 vs New York Knicks on 1970-01-06"
+        },
+        {
+          "diff": 3.256116052351217,
+          "newRating": 1284.5872049819166,
+          "result": "W 121-116 vs Detroit Pistons on 1970-01-07"
+        },
+        {
+          "diff": 4.32227146243531,
+          "newRating": 1288.9094764443519,
+          "result": "W 142-130 vs Boston Celtics on 1970-01-09"
+        },
+        {
+          "diff": 8.095520448827529,
+          "newRating": 1297.0049968931794,
+          "result": "W 130-109 vs Atlanta Hawks on 1970-01-10"
+        },
+        {
+          "diff": 3.9372109783828364,
+          "newRating": 1300.9422078715622,
+          "result": "W 144-126 vs San Diego Rockets on 1970-01-13"
+        },
+        {
+          "diff": -12.455398901056697,
+          "newRating": 1288.4868089705055,
+          "result": "L 115-124 vs Phoenix Suns on 1970-01-15"
+        },
+        {
+          "diff": 3.8491978057759297,
+          "newRating": 1292.3360067762815,
+          "result": "W 131-115 vs San Diego Rockets on 1970-01-17"
+        },
+        {
+          "diff": -11.763210167693387,
+          "newRating": 1280.572796608588,
+          "result": "L 133-134 vs Phoenix Suns on 1970-01-18"
+        },
+        {
+          "diff": 3.2766422410174982,
+          "newRating": 1283.8494388496056,
+          "result": "W 119-115 vs Detroit Pistons on 1970-01-22"
+        },
+        {
+          "diff": -9.829752870174616,
+          "newRating": 1274.019685979431,
+          "result": "L 118-133 vs Philadelphia 76ers on 1970-01-23"
+        },
+        {
+          "diff": 6.160892675504783,
+          "newRating": 1280.1805786549357,
+          "result": "W 112-111 vs Philadelphia 76ers on 1970-01-24"
+        },
+        {
+          "diff": -10.078651826654777,
+          "newRating": 1270.101926828281,
+          "result": "L 122-129 vs Cincinnati Royals on 1970-01-25"
+        },
+        {
+          "diff": 4.517063616799305,
+          "newRating": 1274.6189904450803,
+          "result": "W 123-115 vs Chicago Bulls on 1970-01-28"
+        },
+        {
+          "diff": -11.373427062030032,
+          "newRating": 1263.2455633830502,
+          "result": "L 117-129 vs Detroit Pistons on 1970-01-30"
+        },
+        {
+          "diff": 3.979911765357656,
+          "newRating": 1267.225475148408,
+          "result": "W 120-117 vs Boston Celtics on 1970-01-31"
+        },
+        {
+          "diff": 5.706697633580006,
+          "newRating": 1272.932172781988,
+          "result": "W 133-124 vs Atlanta Hawks on 1970-02-01"
+        },
+        {
+          "diff": -10.975540770128418,
+          "newRating": 1261.9566320118595,
+          "result": "L 115-120 vs Seattle SuperSonics on 1970-02-03"
+        },
+        {
+          "diff": 3.274756780959706,
+          "newRating": 1265.2313887928192,
+          "result": "W 153-148 vs Detroit Pistons on 1970-02-06"
+        },
+        {
+          "diff": 7.997258462060927,
+          "newRating": 1273.2286472548801,
+          "result": "W 120-106 vs Milwaukee Bucks on 1970-02-08"
+        },
+        {
+          "diff": 5.014697139081363,
+          "newRating": 1278.2433443939615,
+          "result": "W 111-106 vs Los Angeles Lakers on 1970-02-10"
+        },
+        {
+          "diff": -10.126057603033814,
+          "newRating": 1268.1172867909277,
+          "result": "L 117-119 vs Seattle SuperSonics on 1970-02-11"
+        },
+        {
+          "diff": -9.706995917108998,
+          "newRating": 1258.4102908738187,
+          "result": "L 138-141 vs Seattle SuperSonics on 1970-02-13"
+        },
+        {
+          "diff": 2.9818746639596156,
+          "newRating": 1261.3921655377783,
+          "result": "W 140-109 vs San Diego Rockets on 1970-02-16"
+        },
+        {
+          "diff": 5.001282503315906,
+          "newRating": 1266.3934480410942,
+          "result": "W 117-103 vs Los Angeles Lakers on 1970-02-18"
+        },
+        {
+          "diff": -9.197828725979889,
+          "newRating": 1257.1956193151143,
+          "result": "L 119-122 vs Detroit Pistons on 1970-02-20"
+        },
+        {
+          "diff": 9.060166503536266,
+          "newRating": 1266.2557858186506,
+          "result": "W 110-104 vs New York Knicks on 1970-02-22"
+        },
+        {
+          "diff": 2.738717323467199,
+          "newRating": 1268.9945031421178,
+          "result": "W 128-118 vs San Diego Rockets on 1970-02-24"
+        },
+        {
+          "diff": -4.968826125718351,
+          "newRating": 1264.0256770163994,
+          "result": "L 113-115 vs Milwaukee Bucks on 1970-02-25"
+        },
+        {
+          "diff": 4.75765712295447,
+          "newRating": 1268.7833341393539,
+          "result": "W 114-107 vs Atlanta Hawks on 1970-02-27"
+        },
+        {
+          "diff": -2.9487772899365154,
+          "newRating": 1265.8345568494174,
+          "result": "L 101-115 vs New York Knicks on 1970-02-28"
+        },
+        {
+          "diff": -6.819910984088665,
+          "newRating": 1259.0146458653287,
+          "result": "L 99-104 vs Philadelphia 76ers on 1970-03-01"
+        },
+        {
+          "diff": 3.7615309833568062,
+          "newRating": 1262.7761768486855,
+          "result": "W 118-110 vs Cincinnati Royals on 1970-03-02"
+        },
+        {
+          "diff": -6.472967277753014,
+          "newRating": 1256.3032095709325,
+          "result": "L 91-94 vs Los Angeles Lakers on 1970-03-04"
+        },
+        {
+          "diff": 4.47230770702231,
+          "newRating": 1260.7755172779548,
+          "result": "W 105-100 vs Los Angeles Lakers on 1970-03-06"
+        },
+        {
+          "diff": 2.967293178116961,
+          "newRating": 1263.7428104560718,
+          "result": "W 109-106 vs Seattle SuperSonics on 1970-03-08"
+        },
+        {
+          "diff": -8.01107488805792,
+          "newRating": 1255.7317355680138,
+          "result": "L 112-115 vs San Francisco Warriors on 1970-03-11"
+        },
+        {
+          "diff": 2.519182374283673,
+          "newRating": 1258.2509179422975,
+          "result": "W 114-108 vs San Francisco Warriors on 1970-03-13"
+        },
+        {
+          "diff": 2.925175666985524,
+          "newRating": 1261.176093609283,
+          "result": "W 130-127 vs Boston Celtics on 1970-03-15"
+        },
+        {
+          "diff": -6.072303701703277,
+          "newRating": 1255.1037899075798,
+          "result": "L 113-119 vs Philadelphia 76ers on 1970-03-18"
+        },
+        {
+          "diff": 3.388297339841756,
+          "newRating": 1258.4920872474215,
+          "result": "W 138-131 vs Chicago Bulls on 1970-03-20"
+        },
+        {
+          "diff": 2.3658873074612075,
+          "newRating": 1260.8579745548827,
+          "result": "W 127-123 vs San Francisco Warriors on 1970-03-21"
+        }
+      ]
+    },
+    {
+      "team": "Atlanta Hawks",
+      "rating": 1230.0061767916925,
+      "wins": 48,
+      "losses": 34,
+      "log": [
+        {
+          "diff": 72.72727272727275,
+          "newRating": 1272.7272727272727,
+          "result": "W 124-119 vs Seattle SuperSonics on 1969-10-15"
+        },
+        {
+          "diff": 347.224902275432,
+          "newRating": 1619.9521750027047,
+          "result": "W 121-116 vs Phoenix Suns on 1969-10-18"
+        },
+        {
+          "diff": -266.30582356433774,
+          "newRating": 1353.646351438367,
+          "result": "L 93-94 vs San Francisco Warriors on 1969-10-22"
+        },
+        {
+          "diff": 2.785794893708953,
+          "newRating": 1356.432146332076,
+          "result": "W 122-110 vs Boston Celtics on 1969-10-24"
+        },
+        {
+          "diff": -146.48393037009464,
+          "newRating": 1209.9482159619813,
+          "result": "L 104-125 vs Detroit Pistons on 1969-10-25"
+        },
+        {
+          "diff": -15.773244083718737,
+          "newRating": 1194.1749718782626,
+          "result": "L 104-128 vs New York Knicks on 1969-10-28"
+        },
+        {
+          "diff": 31.340085694109348,
+          "newRating": 1225.515057572372,
+          "result": "W 117-113 vs San Diego Rockets on 1969-10-29"
+        },
+        {
+          "diff": 55.11055738153618,
+          "newRating": 1280.625614953908,
+          "result": "W 140-137 vs Baltimore Bullets on 1969-11-01"
+        },
+        {
+          "diff": 3.74932048859273,
+          "newRating": 1284.3749354425008,
+          "result": "W 125-113 vs Seattle SuperSonics on 1969-11-02"
+        },
+        {
+          "diff": 11.893643054411086,
+          "newRating": 1296.268578496912,
+          "result": "W 128-121 vs Boston Celtics on 1969-11-05"
+        },
+        {
+          "diff": 26.83089538628019,
+          "newRating": 1323.099473883192,
+          "result": "W 142-137 vs Chicago Bulls on 1969-11-06"
+        },
+        {
+          "diff": 24.363924349151148,
+          "newRating": 1347.4633982323433,
+          "result": "W 106-93 vs San Francisco Warriors on 1969-11-08"
+        },
+        {
+          "diff": 17.644990650615455,
+          "newRating": 1365.1083888829587,
+          "result": "W 133-132 vs Chicago Bulls on 1969-11-10"
+        },
+        {
+          "diff": 14.366197747222486,
+          "newRating": 1379.4745866301812,
+          "result": "W 124-107 vs Philadelphia 76ers on 1969-11-11"
+        },
+        {
+          "diff": 10.227975101701759,
+          "newRating": 1389.702561731883,
+          "result": "W 120-109 vs San Francisco Warriors on 1969-11-14"
+        },
+        {
+          "diff": -45.62312845761471,
+          "newRating": 1344.0794332742682,
+          "result": "L 118-133 vs San Diego Rockets on 1969-11-15"
+        },
+        {
+          "diff": -32.23729404118694,
+          "newRating": 1311.8421392330813,
+          "result": "L 118-139 vs Phoenix Suns on 1969-11-16"
+        },
+        {
+          "diff": 4.456896494760031,
+          "newRating": 1316.2990357278413,
+          "result": "W 137-116 vs Seattle SuperSonics on 1969-11-19"
+        },
+        {
+          "diff": 6.539030803888863,
+          "newRating": 1322.8380665317302,
+          "result": "W 118-106 vs Detroit Pistons on 1969-11-21"
+        },
+        {
+          "diff": -32.33247571250149,
+          "newRating": 1290.5055908192287,
+          "result": "L 116-132 vs Philadelphia 76ers on 1969-11-22"
+        },
+        {
+          "diff": -23.11762477463958,
+          "newRating": 1267.3879660445891,
+          "result": "L 115-130 vs Milwaukee Bucks on 1969-11-25"
+        },
+        {
+          "diff": -4.047415106324934,
+          "newRating": 1263.3405509382642,
+          "result": "L 108-138 vs New York Knicks on 1969-11-26"
+        },
+        {
+          "diff": 5.213870204300974,
+          "newRating": 1268.5544211425652,
+          "result": "W 130-105 vs Boston Celtics on 1969-11-28"
+        },
+        {
+          "diff": 12.035501487307556,
+          "newRating": 1280.5899226298727,
+          "result": "W 128-111 vs Cincinnati Royals on 1969-11-29"
+        },
+        {
+          "diff": 3.7277018529232464,
+          "newRating": 1284.317624482796,
+          "result": "W 119-111 vs Seattle SuperSonics on 1969-12-04"
+        },
+        {
+          "diff": -21.4747141885955,
+          "newRating": 1262.8429102942005,
+          "result": "L 127-156 vs Cincinnati Royals on 1969-12-05"
+        },
+        {
+          "diff": 11.607266161877988,
+          "newRating": 1274.4501764560785,
+          "result": "W 104-103 vs Los Angeles Lakers on 1969-12-07"
+        },
+        {
+          "diff": 9.756140348150439,
+          "newRating": 1284.206316804229,
+          "result": "W 117-115 vs San Francisco Warriors on 1969-12-09"
+        },
+        {
+          "diff": -22.61165380006196,
+          "newRating": 1261.594663004167,
+          "result": "L 107-126 vs San Diego Rockets on 1969-12-10"
+        },
+        {
+          "diff": 8.847940497822492,
+          "newRating": 1270.4426035019894,
+          "result": "W 121-107 vs Los Angeles Lakers on 1969-12-12"
+        },
+        {
+          "diff": -13.363706459927016,
+          "newRating": 1257.0788970420624,
+          "result": "L 100-121 vs Milwaukee Bucks on 1969-12-13"
+        },
+        {
+          "diff": 20.94006069701686,
+          "newRating": 1278.0189577390793,
+          "result": "W 125-124 vs New York Knicks on 1969-12-16"
+        },
+        {
+          "diff": -11.229710886745352,
+          "newRating": 1266.789246852334,
+          "result": "L 133-138 vs Baltimore Bullets on 1969-12-17"
+        },
+        {
+          "diff": -16.350429124867787,
+          "newRating": 1250.4388177274661,
+          "result": "L 112-114 vs Chicago Bulls on 1969-12-18"
+        },
+        {
+          "diff": 5.254535052559049,
+          "newRating": 1255.6933527800252,
+          "result": "W 122-106 vs Boston Celtics on 1969-12-20"
+        },
+        {
+          "diff": 7.469699739194766,
+          "newRating": 1263.16305251922,
+          "result": "W 118-111 vs Chicago Bulls on 1969-12-21"
+        },
+        {
+          "diff": -14.637541857525775,
+          "newRating": 1248.5255106616942,
+          "result": "L 110-130 vs Cincinnati Royals on 1969-12-26"
+        },
+        {
+          "diff": 8.87524352177411,
+          "newRating": 1257.4007541834683,
+          "result": "W 112-107 vs Philadelphia 76ers on 1969-12-27"
+        },
+        {
+          "diff": 5.170775089068002,
+          "newRating": 1262.5715292725363,
+          "result": "W 122-118 vs San Diego Rockets on 1969-12-29"
+        },
+        {
+          "diff": 11.171929926140137,
+          "newRating": 1273.7434591986764,
+          "result": "W 122-111 vs Baltimore Bullets on 1969-12-31"
+        },
+        {
+          "diff": -11.770336152711252,
+          "newRating": 1261.9731230459652,
+          "result": "L 117-121 vs Philadelphia 76ers on 1970-01-02"
+        },
+        {
+          "diff": -11.958214368096378,
+          "newRating": 1250.0149086778688,
+          "result": "L 102-104 vs Cincinnati Royals on 1970-01-03"
+        },
+        {
+          "diff": 11.249784120627282,
+          "newRating": 1261.264692798496,
+          "result": "W 126-125 vs Milwaukee Bucks on 1970-01-04"
+        },
+        {
+          "diff": 3.221070701100871,
+          "newRating": 1264.485763499597,
+          "result": "W 101-97 vs Seattle SuperSonics on 1970-01-06"
+        },
+        {
+          "diff": 4.712618553881612,
+          "newRating": 1269.1983820534786,
+          "result": "W 112-106 vs Boston Celtics on 1970-01-07"
+        },
+        {
+          "diff": -11.381644304503425,
+          "newRating": 1257.8167377489751,
+          "result": "L 112-127 vs Los Angeles Lakers on 1970-01-09"
+        },
+        {
+          "diff": -7.751030216962363,
+          "newRating": 1250.0657075320128,
+          "result": "L 109-130 vs Baltimore Bullets on 1970-01-10"
+        },
+        {
+          "diff": -13.201043796682825,
+          "newRating": 1236.86466373533,
+          "result": "L 100-113 vs Detroit Pistons on 1970-01-12"
+        },
+        {
+          "diff": -9.435557841114814,
+          "newRating": 1227.4291058942151,
+          "result": "L 105-136 vs Philadelphia 76ers on 1970-01-13"
+        },
+        {
+          "diff": -10.661689797652343,
+          "newRating": 1216.7674160965628,
+          "result": "L 101-103 vs San Francisco Warriors on 1970-01-14"
+        },
+        {
+          "diff": 6.8220630756379705,
+          "newRating": 1223.5894791722008,
+          "result": "W 117-100 vs Cincinnati Royals on 1970-01-16"
+        },
+        {
+          "diff": 5.981809610380651,
+          "newRating": 1229.5712887825814,
+          "result": "W 125-107 vs Chicago Bulls on 1970-01-18"
+        },
+        {
+          "diff": -5.3282153070849745,
+          "newRating": 1224.2430734754964,
+          "result": "L 116-131 vs Milwaukee Bucks on 1970-01-25"
+        },
+        {
+          "diff": 4.914750290747634,
+          "newRating": 1229.157823766244,
+          "result": "W 131-104 vs San Francisco Warriors on 1970-01-26"
+        },
+        {
+          "diff": -11.328699012735797,
+          "newRating": 1217.8291247535083,
+          "result": "L 119-120 vs Seattle SuperSonics on 1970-01-28"
+        },
+        {
+          "diff": -8.791460986797802,
+          "newRating": 1209.0376637667105,
+          "result": "L 102-111 vs Phoenix Suns on 1970-01-29"
+        },
+        {
+          "diff": -7.482667099898663,
+          "newRating": 1201.5549966668118,
+          "result": "L 87-102 vs Los Angeles Lakers on 1970-01-30"
+        },
+        {
+          "diff": -5.608306295070179,
+          "newRating": 1195.9466903717416,
+          "result": "L 124-133 vs Baltimore Bullets on 1970-02-01"
+        },
+        {
+          "diff": 4.218162236024909,
+          "newRating": 1200.1648526077665,
+          "result": "W 125-121 vs Detroit Pistons on 1970-02-02"
+        },
+        {
+          "diff": 11.104185955795174,
+          "newRating": 1211.2690385635617,
+          "result": "W 111-96 vs New York Knicks on 1970-02-04"
+        },
+        {
+          "diff": 4.720929146770686,
+          "newRating": 1215.9899677103324,
+          "result": "W 104-93 vs Chicago Bulls on 1970-02-06"
+        },
+        {
+          "diff": -8.417475134261622,
+          "newRating": 1207.5724925760708,
+          "result": "L 107-117 vs Chicago Bulls on 1970-02-08"
+        },
+        {
+          "diff": -8.276619641548905,
+          "newRating": 1199.2958729345219,
+          "result": "L 104-113 vs San Francisco Warriors on 1970-02-10"
+        },
+        {
+          "diff": 3.630816835537189,
+          "newRating": 1202.926689770059,
+          "result": "W 155-131 vs San Diego Rockets on 1970-02-11"
+        },
+        {
+          "diff": -6.383549825314049,
+          "newRating": 1196.543139944745,
+          "result": "L 114-136 vs Los Angeles Lakers on 1970-02-12"
+        },
+        {
+          "diff": 4.61062831895083,
+          "newRating": 1201.1537682636958,
+          "result": "W 146-125 vs Boston Celtics on 1970-02-15"
+        },
+        {
+          "diff": 4.965440938297661,
+          "newRating": 1206.1192092019935,
+          "result": "W 139-125 vs Cincinnati Royals on 1970-02-18"
+        },
+        {
+          "diff": 9.613407161332361,
+          "newRating": 1215.7326163633259,
+          "result": "W 122-106 vs New York Knicks on 1970-02-21"
+        },
+        {
+          "diff": -8.06514321563327,
+          "newRating": 1207.6674731476926,
+          "result": "L 114-116 vs Detroit Pistons on 1970-02-22"
+        },
+        {
+          "diff": 5.5110478007195525,
+          "newRating": 1213.1785209484121,
+          "result": "W 118-106 vs Los Angeles Lakers on 1970-02-24"
+        },
+        {
+          "diff": -7.869732676398371,
+          "newRating": 1205.3087882720138,
+          "result": "L 112-120 vs Seattle SuperSonics on 1970-02-25"
+        },
+        {
+          "diff": -4.625499980650147,
+          "newRating": 1200.6832882913636,
+          "result": "L 107-114 vs Baltimore Bullets on 1970-02-27"
+        },
+        {
+          "diff": -6.280483320571648,
+          "newRating": 1194.402804970792,
+          "result": "L 98-109 vs Phoenix Suns on 1970-03-01"
+        },
+        {
+          "diff": 5.473705280119475,
+          "newRating": 1199.8765102509115,
+          "result": "W 101-93 vs Los Angeles Lakers on 1970-03-03"
+        },
+        {
+          "diff": 7.275458530729111,
+          "newRating": 1207.1519687816406,
+          "result": "W 126-117 vs Milwaukee Bucks on 1970-03-05"
+        },
+        {
+          "diff": -6.2228175350735455,
+          "newRating": 1200.929151246567,
+          "result": "L 119-130 vs Phoenix Suns on 1970-03-08"
+        },
+        {
+          "diff": 7.062751629163813,
+          "newRating": 1207.9919028757308,
+          "result": "W 140-127 vs Milwaukee Bucks on 1970-03-10"
+        },
+        {
+          "diff": 2.7300298736515742,
+          "newRating": 1210.7219327493824,
+          "result": "W 122-121 vs San Diego Rockets on 1970-03-11"
+        },
+        {
+          "diff": 4.1763595526242625,
+          "newRating": 1214.8982923020067,
+          "result": "W 126-111 vs Phoenix Suns on 1970-03-15"
+        },
+        {
+          "diff": 4.645070721922593,
+          "newRating": 1219.5433630239293,
+          "result": "W 128-125 vs Philadelphia 76ers on 1970-03-17"
+        },
+        {
+          "diff": 7.570880731547959,
+          "newRating": 1227.1142437554772,
+          "result": "W 110-102 vs New York Knicks on 1970-03-20"
+        },
+        {
+          "diff": 2.8919330362152778,
+          "newRating": 1230.0061767916925,
+          "result": "W 130-126 vs Detroit Pistons on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "Los Angeles Lakers",
+      "rating": 1215.9652888983169,
+      "wins": 46,
+      "losses": 36,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 126-131 vs Philadelphia 76ers on 1969-10-17"
+        },
+        {
+          "diff": -3.179225113302323,
+          "newRating": 796.8207748866977,
+          "result": "L 96-99 vs New York Knicks on 1969-10-18"
+        },
+        {
+          "diff": 264.1101008616182,
+          "newRating": 1060.9308757483159,
+          "result": "W 142-137 vs Baltimore Bullets on 1969-10-21"
+        },
+        {
+          "diff": 162.00776891848113,
+          "newRating": 1222.938644666797,
+          "result": "W 116-109 vs Cincinnati Royals on 1969-10-22"
+        },
+        {
+          "diff": 145.34080205243458,
+          "newRating": 1368.2794467192316,
+          "result": "W 123-112 vs Milwaukee Bucks on 1969-10-24"
+        },
+        {
+          "diff": 2.0095063201649737,
+          "newRating": 1370.2889530393966,
+          "result": "W 130-106 vs Seattle SuperSonics on 1969-10-25"
+        },
+        {
+          "diff": 18.679366606003214,
+          "newRating": 1388.9683196453998,
+          "result": "W 129-125 vs Chicago Bulls on 1969-10-26"
+        },
+        {
+          "diff": -88.32739361958375,
+          "newRating": 1300.640926025816,
+          "result": "L 116-124 vs Cincinnati Royals on 1969-11-02"
+        },
+        {
+          "diff": -59.140901269201095,
+          "newRating": 1241.500024756615,
+          "result": "L 120-122 vs Phoenix Suns on 1969-11-07"
+        },
+        {
+          "diff": -8.795635915086905,
+          "newRating": 1232.704388841528,
+          "result": "L 102-112 vs New York Knicks on 1969-11-09"
+        },
+        {
+          "diff": -55.11548819913082,
+          "newRating": 1177.5889006423972,
+          "result": "L 102-110 vs Detroit Pistons on 1969-11-11"
+        },
+        {
+          "diff": 36.55402873452704,
+          "newRating": 1214.1429293769243,
+          "result": "W 127-112 vs Phoenix Suns on 1969-11-14"
+        },
+        {
+          "diff": -34.00051967264562,
+          "newRating": 1180.1424097042786,
+          "result": "L 111-114 vs Phoenix Suns on 1969-11-15"
+        },
+        {
+          "diff": 25.99357532599356,
+          "newRating": 1206.1359850302722,
+          "result": "W 138-125 vs Philadelphia 76ers on 1969-11-16"
+        },
+        {
+          "diff": 14.543976705649584,
+          "newRating": 1220.6799617359218,
+          "result": "W 125-114 vs Detroit Pistons on 1969-11-18"
+        },
+        {
+          "diff": 17.476594644698707,
+          "newRating": 1238.1565563806205,
+          "result": "W 116-103 vs Cincinnati Royals on 1969-11-19"
+        },
+        {
+          "diff": 12.2418783738799,
+          "newRating": 1250.3984347545004,
+          "result": "W 100-98 vs San Diego Rockets on 1969-11-21"
+        },
+        {
+          "diff": 14.991581423106027,
+          "newRating": 1265.3900161776064,
+          "result": "W 106-98 vs San Francisco Warriors on 1969-11-22"
+        },
+        {
+          "diff": -15.634870251249367,
+          "newRating": 1249.755145926357,
+          "result": "L 97-129 vs Baltimore Bullets on 1969-11-23"
+        },
+        {
+          "diff": -4.146053833179394,
+          "newRating": 1245.6090920931777,
+          "result": "L 96-103 vs New York Knicks on 1969-11-25"
+        },
+        {
+          "diff": -19.51006903884013,
+          "newRating": 1226.0990230543375,
+          "result": "L 81-100 vs Milwaukee Bucks on 1969-11-26"
+        },
+        {
+          "diff": -22.78795628262742,
+          "newRating": 1203.31106677171,
+          "result": "L 108-114 vs San Francisco Warriors on 1969-11-28"
+        },
+        {
+          "diff": -19.32078226516228,
+          "newRating": 1183.9902845065478,
+          "result": "L 114-116 vs Chicago Bulls on 1969-11-30"
+        },
+        {
+          "diff": -18.851189136567427,
+          "newRating": 1165.1390953699804,
+          "result": "L 109-119 vs Phoenix Suns on 1969-12-04"
+        },
+        {
+          "diff": 11.445567043865822,
+          "newRating": 1176.5846624138462,
+          "result": "W 128-109 vs Detroit Pistons on 1969-12-05"
+        },
+        {
+          "diff": 9.825527512974986,
+          "newRating": 1186.4101899268212,
+          "result": "W 128-115 vs San Diego Rockets on 1969-12-06"
+        },
+        {
+          "diff": -11.607266161877988,
+          "newRating": 1174.8029237649432,
+          "result": "L 103-104 vs Atlanta Hawks on 1969-12-07"
+        },
+        {
+          "diff": -15.051830469050401,
+          "newRating": 1159.7510932958928,
+          "result": "L 99-123 vs Philadelphia 76ers on 1969-12-09"
+        },
+        {
+          "diff": -19.77021447891775,
+          "newRating": 1139.980878816975,
+          "result": "L 99-111 vs Boston Celtics on 1969-12-10"
+        },
+        {
+          "diff": -8.847940497822492,
+          "newRating": 1131.1329383191526,
+          "result": "L 107-121 vs Atlanta Hawks on 1969-12-12"
+        },
+        {
+          "diff": 7.834498683295806,
+          "newRating": 1138.9674370024484,
+          "result": "W 131-127 vs Seattle SuperSonics on 1969-12-14"
+        },
+        {
+          "diff": -12.123826117558338,
+          "newRating": 1126.84361088489,
+          "result": "L 109-117 vs Cincinnati Royals on 1969-12-19"
+        },
+        {
+          "diff": 14.818702050541788,
+          "newRating": 1141.6623129354318,
+          "result": "W 133-117 vs Philadelphia 76ers on 1969-12-21"
+        },
+        {
+          "diff": -14.264778187927504,
+          "newRating": 1127.3975347475043,
+          "result": "L 109-115 vs San Diego Rockets on 1969-12-23"
+        },
+        {
+          "diff": 20.81577798929493,
+          "newRating": 1148.2133127367993,
+          "result": "W 114-106 vs New York Knicks on 1969-12-26"
+        },
+        {
+          "diff": 8.47533600480574,
+          "newRating": 1156.688648741605,
+          "result": "W 109-99 vs Boston Celtics on 1969-12-28"
+        },
+        {
+          "diff": -12.103145172053928,
+          "newRating": 1144.585503569551,
+          "result": "L 100-105 vs San Francisco Warriors on 1969-12-30"
+        },
+        {
+          "diff": 9.986151737497494,
+          "newRating": 1154.5716553070486,
+          "result": "W 125-95 vs San Francisco Warriors on 1970-01-02"
+        },
+        {
+          "diff": 6.213407888317079,
+          "newRating": 1160.7850631953656,
+          "result": "W 126-109 vs Seattle SuperSonics on 1970-01-03"
+        },
+        {
+          "diff": 9.328673591818642,
+          "newRating": 1170.1137367871843,
+          "result": "W 120-112 vs Phoenix Suns on 1970-01-04"
+        },
+        {
+          "diff": -11.857396208197088,
+          "newRating": 1158.2563405789872,
+          "result": "L 100-105 vs Chicago Bulls on 1970-01-06"
+        },
+        {
+          "diff": 12.465610428741684,
+          "newRating": 1170.7219510077289,
+          "result": "W 127-112 vs Atlanta Hawks on 1970-01-09"
+        },
+        {
+          "diff": -10.796578370903717,
+          "newRating": 1159.9253726368252,
+          "result": "L 112-116 vs Chicago Bulls on 1970-01-10"
+        },
+        {
+          "diff": -4.926897249530157,
+          "newRating": 1154.998475387295,
+          "result": "L 113-115 vs Milwaukee Bucks on 1970-01-14"
+        },
+        {
+          "diff": 7.220642894459388,
+          "newRating": 1162.2191182817544,
+          "result": "W 108-103 vs Boston Celtics on 1970-01-16"
+        },
+        {
+          "diff": -11.76975514858782,
+          "newRating": 1150.4493631331666,
+          "result": "L 100-106 vs Detroit Pistons on 1970-01-18"
+        },
+        {
+          "diff": 7.4761141028227485,
+          "newRating": 1157.9254772359893,
+          "result": "W 122-108 vs San Francisco Warriors on 1970-01-22"
+        },
+        {
+          "diff": 5.187290940653838,
+          "newRating": 1163.1127681766432,
+          "result": "W 128-100 vs Seattle SuperSonics on 1970-01-23"
+        },
+        {
+          "diff": 4.880809663665559,
+          "newRating": 1167.9935778403087,
+          "result": "W 122-121 vs Seattle SuperSonics on 1970-01-24"
+        },
+        {
+          "diff": 7.426513393764253,
+          "newRating": 1175.420091234073,
+          "result": "W 118-106 vs Phoenix Suns on 1970-01-25"
+        },
+        {
+          "diff": 5.439266962905549,
+          "newRating": 1180.8593581969785,
+          "result": "W 124-109 vs San Diego Rockets on 1970-01-27"
+        },
+        {
+          "diff": 5.116443247475445,
+          "newRating": 1185.975801444454,
+          "result": "W 113-108 vs San Diego Rockets on 1970-01-28"
+        },
+        {
+          "diff": 8.047396692343682,
+          "newRating": 1194.0231981367976,
+          "result": "W 102-87 vs Atlanta Hawks on 1970-01-30"
+        },
+        {
+          "diff": 7.541885463265544,
+          "newRating": 1201.5650836000632,
+          "result": "W 113-112 vs Philadelphia 76ers on 1970-02-01"
+        },
+        {
+          "diff": 6.4032332264639535,
+          "newRating": 1207.9683168265271,
+          "result": "W 124-114 vs Cincinnati Royals on 1970-02-03"
+        },
+        {
+          "diff": -10.123856952468259,
+          "newRating": 1197.8444598740589,
+          "result": "L 109-125 vs Detroit Pistons on 1970-02-04"
+        },
+        {
+          "diff": -4.448558174032087,
+          "newRating": 1193.3959017000268,
+          "result": "L 105-118 vs Milwaukee Bucks on 1970-02-06"
+        },
+        {
+          "diff": -7.699865115899456,
+          "newRating": 1185.6960365841273,
+          "result": "L 117-121 vs Phoenix Suns on 1970-02-07"
+        },
+        {
+          "diff": 4.235265171071205,
+          "newRating": 1189.9313017551985,
+          "result": "W 125-113 vs San Diego Rockets on 1970-02-08"
+        },
+        {
+          "diff": -5.098275424732719,
+          "newRating": 1184.8330263304658,
+          "result": "L 106-111 vs Baltimore Bullets on 1970-02-10"
+        },
+        {
+          "diff": 5.118960533883637,
+          "newRating": 1189.9519868643495,
+          "result": "W 125-115 vs San Francisco Warriors on 1970-02-11"
+        },
+        {
+          "diff": 6.692431268474365,
+          "newRating": 1196.6444181328238,
+          "result": "W 136-114 vs Atlanta Hawks on 1970-02-12"
+        },
+        {
+          "diff": -7.6922104976838455,
+          "newRating": 1188.95220763514,
+          "result": "L 113-116 vs Chicago Bulls on 1970-02-14"
+        },
+        {
+          "diff": 8.776547095578053,
+          "newRating": 1197.728754730718,
+          "result": "W 98-96 vs Milwaukee Bucks on 1970-02-15"
+        },
+        {
+          "diff": -2.185645408928167,
+          "newRating": 1195.5431093217899,
+          "result": "L 93-114 vs New York Knicks on 1970-02-17"
+        },
+        {
+          "diff": -4.925505495689777,
+          "newRating": 1190.6176038261,
+          "result": "L 103-117 vs Baltimore Bullets on 1970-02-18"
+        },
+        {
+          "diff": 8.266962429639307,
+          "newRating": 1198.8845662557394,
+          "result": "W 119-114 vs Milwaukee Bucks on 1970-02-20"
+        },
+        {
+          "diff": -8.181812329266222,
+          "newRating": 1190.7027539264732,
+          "result": "L 106-121 vs San Diego Rockets on 1970-02-21"
+        },
+        {
+          "diff": 4.602390126687396,
+          "newRating": 1195.3051440531606,
+          "result": "W 108-96 vs Boston Celtics on 1970-02-22"
+        },
+        {
+          "diff": -5.5110478007195525,
+          "newRating": 1189.794096252441,
+          "result": "L 106-118 vs Atlanta Hawks on 1970-02-24"
+        },
+        {
+          "diff": 4.725261470119449,
+          "newRating": 1194.5193577225605,
+          "result": "W 111-101 vs Chicago Bulls on 1970-02-27"
+        },
+        {
+          "diff": 4.2736951883107395,
+          "newRating": 1198.7930529108712,
+          "result": "W 120-114 vs Boston Celtics on 1970-03-01"
+        },
+        {
+          "diff": -5.548687544230916,
+          "newRating": 1193.2443653666403,
+          "result": "L 93-101 vs Atlanta Hawks on 1970-03-03"
+        },
+        {
+          "diff": 6.472967277753014,
+          "newRating": 1199.7173326443933,
+          "result": "W 94-91 vs Baltimore Bullets on 1970-03-04"
+        },
+        {
+          "diff": -4.47230770702231,
+          "newRating": 1195.245024937371,
+          "result": "L 100-105 vs Baltimore Bullets on 1970-03-06"
+        },
+        {
+          "diff": 4.4983578482463145,
+          "newRating": 1199.7433827856173,
+          "result": "W 144-116 vs Cincinnati Royals on 1970-03-08"
+        },
+        {
+          "diff": 3.1602522128300734,
+          "newRating": 1202.9036349984474,
+          "result": "W 106-104 vs San Francisco Warriors on 1970-03-10"
+        },
+        {
+          "diff": 5.127876464424844,
+          "newRating": 1208.0315114628722,
+          "result": "W 128-117 vs Philadelphia 76ers on 1970-03-13"
+        },
+        {
+          "diff": 8.015046423645117,
+          "newRating": 1216.0465578865173,
+          "result": "W 106-101 vs New York Knicks on 1970-03-15"
+        },
+        {
+          "diff": -6.704856236822252,
+          "newRating": 1209.341701649695,
+          "result": "L 122-137 vs Boston Celtics on 1970-03-18"
+        },
+        {
+          "diff": 3.1820386060305736,
+          "newRating": 1212.5237402557257,
+          "result": "W 117-111 vs Detroit Pistons on 1970-03-20"
+        },
+        {
+          "diff": 3.441548642591215,
+          "newRating": 1215.9652888983169,
+          "result": "W 121-118 vs Seattle SuperSonics on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "Philadelphia 76ers",
+      "rating": 1191.54836578692,
+      "wins": 42,
+      "losses": 40,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 131-126 vs Los Angeles Lakers on 1969-10-17"
+        },
+        {
+          "diff": 83.50451196117865,
+          "newRating": 1683.5045119611787,
+          "result": "W 134-123 vs Cincinnati Royals on 1969-10-18"
+        },
+        {
+          "diff": 17.952645612110246,
+          "newRating": 1701.457157573289,
+          "result": "W 122-119 vs Phoenix Suns on 1969-10-22"
+        },
+        {
+          "diff": -193.56022856325922,
+          "newRating": 1507.8969290100297,
+          "result": "L 98-109 vs Cincinnati Royals on 1969-10-25"
+        },
+        {
+          "diff": 49.732189961962604,
+          "newRating": 1557.6291189719923,
+          "result": "W 129-105 vs Baltimore Bullets on 1969-10-29"
+        },
+        {
+          "diff": -112.80092707171252,
+          "newRating": 1444.8281919002798,
+          "result": "L 125-129 vs Milwaukee Bucks on 1969-10-31"
+        },
+        {
+          "diff": -110.23320948731612,
+          "newRating": 1334.5949824129636,
+          "result": "L 123-131 vs Boston Celtics on 1969-11-01"
+        },
+        {
+          "diff": 36.05524452437453,
+          "newRating": 1370.6502269373382,
+          "result": "W 113-109 vs Chicago Bulls on 1969-11-04"
+        },
+        {
+          "diff": -58.86794384192194,
+          "newRating": 1311.7822830954162,
+          "result": "L 130-139 vs Baltimore Bullets on 1969-11-05"
+        },
+        {
+          "diff": -68.98636379730556,
+          "newRating": 1242.7959192981107,
+          "result": "L 128-134 vs Detroit Pistons on 1969-11-07"
+        },
+        {
+          "diff": -67.23354066721004,
+          "newRating": 1175.5623786309006,
+          "result": "L 117-125 vs Seattle SuperSonics on 1969-11-08"
+        },
+        {
+          "diff": -16.760564038426082,
+          "newRating": 1158.8018145924746,
+          "result": "L 107-124 vs Atlanta Hawks on 1969-11-11"
+        },
+        {
+          "diff": 38.950828958388456,
+          "newRating": 1197.752643550863,
+          "result": "W 124-110 vs Phoenix Suns on 1969-11-13"
+        },
+        {
+          "diff": -49.043041301069024,
+          "newRating": 1148.709602249794,
+          "result": "L 136-146 vs Seattle SuperSonics on 1969-11-15"
+        },
+        {
+          "diff": -24.260670304260657,
+          "newRating": 1124.4489319455333,
+          "result": "L 125-138 vs Los Angeles Lakers on 1969-11-16"
+        },
+        {
+          "diff": -21.0838275044498,
+          "newRating": 1103.3651044410835,
+          "result": "L 119-127 vs Chicago Bulls on 1969-11-18"
+        },
+        {
+          "diff": -28.676782095798444,
+          "newRating": 1074.688322345285,
+          "result": "L 116-125 vs San Diego Rockets on 1969-11-19"
+        },
+        {
+          "diff": -1.8437756908358551,
+          "newRating": 1072.8445466544492,
+          "result": "L 94-98 vs New York Knicks on 1969-11-21"
+        },
+        {
+          "diff": 34.03418496052791,
+          "newRating": 1106.8787316149771,
+          "result": "W 132-116 vs Atlanta Hawks on 1969-11-22"
+        },
+        {
+          "diff": 12.73344360175156,
+          "newRating": 1119.6121752167287,
+          "result": "W 135-114 vs Boston Celtics on 1969-11-26"
+        },
+        {
+          "diff": 14.265456183612514,
+          "newRating": 1133.8776314003412,
+          "result": "W 110-91 vs Detroit Pistons on 1969-11-28"
+        },
+        {
+          "diff": 24.274782406631402,
+          "newRating": 1158.1524138069726,
+          "result": "W 129-111 vs Milwaukee Bucks on 1969-11-29"
+        },
+        {
+          "diff": -17.48521445911524,
+          "newRating": 1140.6671993478574,
+          "result": "L 107-115 vs Cincinnati Royals on 1969-11-30"
+        },
+        {
+          "diff": -11.993155688155866,
+          "newRating": 1128.6740436597015,
+          "result": "L 114-122 vs Milwaukee Bucks on 1969-12-02"
+        },
+        {
+          "diff": 11.189627631281382,
+          "newRating": 1139.863671290983,
+          "result": "W 105-104 vs Boston Celtics on 1969-12-05"
+        },
+        {
+          "diff": 16.289037815884512,
+          "newRating": 1156.1527091068674,
+          "result": "W 120-102 vs Cincinnati Royals on 1969-12-06"
+        },
+        {
+          "diff": 15.609305671607899,
+          "newRating": 1171.7620147784753,
+          "result": "W 123-99 vs Los Angeles Lakers on 1969-12-09"
+        },
+        {
+          "diff": -14.301210182854675,
+          "newRating": 1157.4608045956206,
+          "result": "L 121-122 vs Cincinnati Royals on 1969-12-10"
+        },
+        {
+          "diff": 10.960822990162114,
+          "newRating": 1168.4216275857827,
+          "result": "W 125-111 vs Detroit Pistons on 1969-12-12"
+        },
+        {
+          "diff": 24.19538088644572,
+          "newRating": 1192.6170084722285,
+          "result": "W 100-93 vs New York Knicks on 1969-12-13"
+        },
+        {
+          "diff": 11.332124379400511,
+          "newRating": 1203.949132851629,
+          "result": "W 126-121 vs Chicago Bulls on 1969-12-14"
+        },
+        {
+          "diff": 11.058000379563737,
+          "newRating": 1215.0071332311927,
+          "result": "W 141-119 vs Phoenix Suns on 1969-12-16"
+        },
+        {
+          "diff": -19.02656880202767,
+          "newRating": 1195.980564429165,
+          "result": "L 116-123 vs Seattle SuperSonics on 1969-12-19"
+        },
+        {
+          "diff": 9.498122968648204,
+          "newRating": 1205.4786873978132,
+          "result": "W 122-109 vs San Francisco Warriors on 1969-12-20"
+        },
+        {
+          "diff": -13.971919076225277,
+          "newRating": 1191.506768321588,
+          "result": "L 117-133 vs Los Angeles Lakers on 1969-12-21"
+        },
+        {
+          "diff": -7.356508168231585,
+          "newRating": 1184.1502601533564,
+          "result": "L 113-121 vs Baltimore Bullets on 1969-12-25"
+        },
+        {
+          "diff": 9.425703416164197,
+          "newRating": 1193.5759635695206,
+          "result": "W 141-121 vs San Francisco Warriors on 1969-12-26"
+        },
+        {
+          "diff": -8.87524352177411,
+          "newRating": 1184.7007200477465,
+          "result": "L 107-112 vs Atlanta Hawks on 1969-12-27"
+        },
+        {
+          "diff": 8.479486858850123,
+          "newRating": 1193.1802069065966,
+          "result": "W 138-112 vs San Francisco Warriors on 1969-12-28"
+        },
+        {
+          "diff": 7.78580808829679,
+          "newRating": 1200.9660149948934,
+          "result": "W 129-109 vs Chicago Bulls on 1969-12-31"
+        },
+        {
+          "diff": 11.770336152711252,
+          "newRating": 1212.7363511476046,
+          "result": "W 121-117 vs Atlanta Hawks on 1970-01-02"
+        },
+        {
+          "diff": 6.391465458999164,
+          "newRating": 1219.1278166066038,
+          "result": "W 130-120 vs Boston Celtics on 1970-01-04"
+        },
+        {
+          "diff": -14.658034489882539,
+          "newRating": 1204.4697821167213,
+          "result": "L 132-135 vs Seattle SuperSonics on 1970-01-09"
+        },
+        {
+          "diff": -11.584130984637113,
+          "newRating": 1192.8856511320841,
+          "result": "L 117-119 vs Phoenix Suns on 1970-01-10"
+        },
+        {
+          "diff": -10.615806356210669,
+          "newRating": 1182.2698447758735,
+          "result": "L 113-117 vs Chicago Bulls on 1970-01-12"
+        },
+        {
+          "diff": 10.050920309013463,
+          "newRating": 1192.320765084887,
+          "result": "W 136-105 vs Atlanta Hawks on 1970-01-13"
+        },
+        {
+          "diff": -12.974763401488417,
+          "newRating": 1179.3460016833985,
+          "result": "L 110-122 vs Seattle SuperSonics on 1970-01-14"
+        },
+        {
+          "diff": 6.896786150795833,
+          "newRating": 1186.2427878341944,
+          "result": "W 127-105 vs San Francisco Warriors on 1970-01-16"
+        },
+        {
+          "diff": 7.645512197557309,
+          "newRating": 1193.8883000317517,
+          "result": "W 141-116 vs Cincinnati Royals on 1970-01-18"
+        },
+        {
+          "diff": 10.026347927578172,
+          "newRating": 1203.9146479593298,
+          "result": "W 133-118 vs Baltimore Bullets on 1970-01-23"
+        },
+        {
+          "diff": -6.281694492671704,
+          "newRating": 1197.6329534666581,
+          "result": "L 111-112 vs Baltimore Bullets on 1970-01-24"
+        },
+        {
+          "diff": 5.000768765763723,
+          "newRating": 1202.6337222324219,
+          "result": "W 159-131 vs San Diego Rockets on 1970-01-25"
+        },
+        {
+          "diff": 10.38958409287602,
+          "newRating": 1213.0233063252979,
+          "result": "W 122-103 vs Milwaukee Bucks on 1970-01-26"
+        },
+        {
+          "diff": -10.147395074248152,
+          "newRating": 1202.8759112510497,
+          "result": "L 100-112 vs Boston Celtics on 1970-01-28"
+        },
+        {
+          "diff": -2.5444876360684248,
+          "newRating": 1200.3314236149813,
+          "result": "L 100-104 vs New York Knicks on 1970-01-30"
+        },
+        {
+          "diff": -7.272532411006068,
+          "newRating": 1193.0588912039752,
+          "result": "L 112-113 vs Los Angeles Lakers on 1970-02-01"
+        },
+        {
+          "diff": -8.101658071778957,
+          "newRating": 1184.9572331321963,
+          "result": "L 123-131 vs Phoenix Suns on 1970-02-03"
+        },
+        {
+          "diff": 4.400556094652302,
+          "newRating": 1189.3577892268486,
+          "result": "W 129-124 vs San Diego Rockets on 1970-02-06"
+        },
+        {
+          "diff": 5.143340673236253,
+          "newRating": 1194.5011299000848,
+          "result": "W 115-111 vs San Francisco Warriors on 1970-02-07"
+        },
+        {
+          "diff": -9.382009135236785,
+          "newRating": 1185.119120764848,
+          "result": "L 117-118 vs Seattle SuperSonics on 1970-02-08"
+        },
+        {
+          "diff": -4.010750711205901,
+          "newRating": 1181.1083700536421,
+          "result": "L 131-139 vs Milwaukee Bucks on 1970-02-10"
+        },
+        {
+          "diff": -2.1594943861457523,
+          "newRating": 1178.9488756674964,
+          "result": "L 106-151 vs New York Knicks on 1970-02-13"
+        },
+        {
+          "diff": -2.0819287644858377,
+          "newRating": 1176.8669469030106,
+          "result": "L 114-116 vs New York Knicks on 1970-02-14"
+        },
+        {
+          "diff": 5.715605547260111,
+          "newRating": 1182.5825524502707,
+          "result": "W 159-125 vs Phoenix Suns on 1970-02-15"
+        },
+        {
+          "diff": 4.250087624076286,
+          "newRating": 1186.832640074347,
+          "result": "W 133-114 vs Detroit Pistons on 1970-02-19"
+        },
+        {
+          "diff": -7.173600228161831,
+          "newRating": 1179.6590398461851,
+          "result": "L 119-126 vs Chicago Bulls on 1970-02-20"
+        },
+        {
+          "diff": 4.245224414249833,
+          "newRating": 1183.904264260435,
+          "result": "W 112-110 vs Detroit Pistons on 1970-02-21"
+        },
+        {
+          "diff": -6.57344510997018,
+          "newRating": 1177.3308191504648,
+          "result": "L 116-136 vs Cincinnati Royals on 1970-02-22"
+        },
+        {
+          "diff": 4.361033653909999,
+          "newRating": 1181.6918528043748,
+          "result": "W 122-105 vs Detroit Pistons on 1970-02-25"
+        },
+        {
+          "diff": 3.662729205023197,
+          "newRating": 1185.354582009398,
+          "result": "W 125-111 vs San Diego Rockets on 1970-02-27"
+        },
+        {
+          "diff": 6.915966068371745,
+          "newRating": 1192.2705480777697,
+          "result": "W 104-99 vs Baltimore Bullets on 1970-03-01"
+        },
+        {
+          "diff": -3.474805414270577,
+          "newRating": 1188.7957426634991,
+          "result": "L 116-127 vs Milwaukee Bucks on 1970-03-03"
+        },
+        {
+          "diff": 4.307311021252872,
+          "newRating": 1193.103053684752,
+          "result": "W 150-134 vs Boston Celtics on 1970-03-06"
+        },
+        {
+          "diff": -1.9687791882113288,
+          "newRating": 1191.1342744965407,
+          "result": "L 104-111 vs New York Knicks on 1970-03-07"
+        },
+        {
+          "diff": 8.760383373874902,
+          "newRating": 1199.8946578704156,
+          "result": "W 133-116 vs New York Knicks on 1970-03-08"
+        },
+        {
+          "diff": 2.9867101768841167,
+          "newRating": 1202.8813680472997,
+          "result": "W 131-112 vs San Diego Rockets on 1970-03-09"
+        },
+        {
+          "diff": -5.194472262664249,
+          "newRating": 1197.6868957846355,
+          "result": "L 117-128 vs Los Angeles Lakers on 1970-03-13"
+        },
+        {
+          "diff": -7.493167062073098,
+          "newRating": 1190.1937287225624,
+          "result": "L 128-137 vs San Diego Rockets on 1970-03-15"
+        },
+        {
+          "diff": -4.703869085491306,
+          "newRating": 1185.489859637071,
+          "result": "L 125-128 vs Atlanta Hawks on 1970-03-17"
+        },
+        {
+          "diff": 6.072303701703277,
+          "newRating": 1191.5621633387743,
+          "result": "W 119-113 vs Baltimore Bullets on 1970-03-18"
+        },
+        {
+          "diff": -3.145023242257821,
+          "newRating": 1188.4171400965165,
+          "result": "L 112-138 vs Milwaukee Bucks on 1970-03-20"
+        },
+        {
+          "diff": 3.1312256904034257,
+          "newRating": 1191.54836578692,
+          "result": "W 132-112 vs San Francisco Warriors on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "Phoenix Suns",
+      "rating": 1159.8505882678296,
+      "wins": 39,
+      "losses": 43,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 116-114 vs San Diego Rockets on 1969-10-16"
+        },
+        {
+          "diff": -347.2249022754322,
+          "newRating": 1252.7750977245678,
+          "result": "L 116-121 vs Atlanta Hawks on 1969-10-18"
+        },
+        {
+          "diff": -25.89931017640879,
+          "newRating": 1226.875787548159,
+          "result": "L 116-140 vs New York Knicks on 1969-10-21"
+        },
+        {
+          "diff": -13.464484209082684,
+          "newRating": 1213.4113033390763,
+          "result": "L 119-122 vs Philadelphia 76ers on 1969-10-22"
+        },
+        {
+          "diff": -135.36456311487154,
+          "newRating": 1078.0467402242048,
+          "result": "L 115-116 vs Chicago Bulls on 1969-10-24"
+        },
+        {
+          "diff": 79.13508522001689,
+          "newRating": 1157.1818254442217,
+          "result": "W 115-107 vs San Diego Rockets on 1969-10-25"
+        },
+        {
+          "diff": -34.40880214027243,
+          "newRating": 1122.7730233039492,
+          "result": "L 99-119 vs Milwaukee Bucks on 1969-10-26"
+        },
+        {
+          "diff": 66.17030446748959,
+          "newRating": 1188.9433277714388,
+          "result": "W 106-104 vs Cincinnati Royals on 1969-10-30"
+        },
+        {
+          "diff": -7.674540359460025,
+          "newRating": 1181.2687874119788,
+          "result": "L 99-116 vs New York Knicks on 1969-11-04"
+        },
+        {
+          "diff": 53.226811142280894,
+          "newRating": 1234.4955985542597,
+          "result": "W 122-120 vs Los Angeles Lakers on 1969-11-07"
+        },
+        {
+          "diff": 18.964612091315985,
+          "newRating": 1253.4602106455757,
+          "result": "W 140-129 vs Detroit Pistons on 1969-11-09"
+        },
+        {
+          "diff": -42.196731371587475,
+          "newRating": 1211.2634792739882,
+          "result": "L 110-124 vs Philadelphia 76ers on 1969-11-13"
+        },
+        {
+          "diff": -33.74218037033256,
+          "newRating": 1177.5212989036556,
+          "result": "L 112-127 vs Los Angeles Lakers on 1969-11-14"
+        },
+        {
+          "diff": 31.57191112459941,
+          "newRating": 1209.093210028255,
+          "result": "W 114-111 vs Los Angeles Lakers on 1969-11-15"
+        },
+        {
+          "diff": 36.535599913345095,
+          "newRating": 1245.6288099416001,
+          "result": "W 139-118 vs Atlanta Hawks on 1969-11-16"
+        },
+        {
+          "diff": -43.94531509065655,
+          "newRating": 1201.6834948509436,
+          "result": "L 119-120 vs Boston Celtics on 1969-11-18"
+        },
+        {
+          "diff": -15.188152661016375,
+          "newRating": 1186.4953421899272,
+          "result": "L 118-133 vs Baltimore Bullets on 1969-11-19"
+        },
+        {
+          "diff": -12.744879895800977,
+          "newRating": 1173.7504622941262,
+          "result": "L 116-126 vs Baltimore Bullets on 1969-11-21"
+        },
+        {
+          "diff": -2.967524107731151,
+          "newRating": 1170.782938186395,
+          "result": "L 114-128 vs New York Knicks on 1969-11-22"
+        },
+        {
+          "diff": -22.745658893967175,
+          "newRating": 1148.037279292428,
+          "result": "L 123-137 vs Cincinnati Royals on 1969-11-23"
+        },
+        {
+          "diff": -8.238699927277821,
+          "newRating": 1139.79857936515,
+          "result": "L 124-134 vs Baltimore Bullets on 1969-11-25"
+        },
+        {
+          "diff": -29.721233583651156,
+          "newRating": 1110.077345781499,
+          "result": "L 129-130 vs Seattle SuperSonics on 1969-11-29"
+        },
+        {
+          "diff": 8.377153074799253,
+          "newRating": 1118.4544988562982,
+          "result": "W 116-108 vs Seattle SuperSonics on 1969-11-30"
+        },
+        {
+          "diff": 19.733432287923506,
+          "newRating": 1138.1879311442217,
+          "result": "W 121-110 vs Chicago Bulls on 1969-12-02"
+        },
+        {
+          "diff": 18.097141571104657,
+          "newRating": 1156.2850727153264,
+          "result": "W 119-109 vs Los Angeles Lakers on 1969-12-04"
+        },
+        {
+          "diff": 14.808974127020974,
+          "newRating": 1171.0940468423473,
+          "result": "W 114-113 vs Chicago Bulls on 1969-12-05"
+        },
+        {
+          "diff": -19.721704474012768,
+          "newRating": 1151.3723423683346,
+          "result": "L 113-118 vs Detroit Pistons on 1969-12-07"
+        },
+        {
+          "diff": -15.128691030305617,
+          "newRating": 1136.243651338029,
+          "result": "L 102-109 vs Chicago Bulls on 1969-12-09"
+        },
+        {
+          "diff": 20.193519627814112,
+          "newRating": 1156.437170965843,
+          "result": "W 137-107 vs Baltimore Bullets on 1969-12-10"
+        },
+        {
+          "diff": 7.530663612014905,
+          "newRating": 1163.967834577858,
+          "result": "W 130-116 vs Seattle SuperSonics on 1969-12-12"
+        },
+        {
+          "diff": 13.032919727385206,
+          "newRating": 1177.0007543052432,
+          "result": "W 126-110 vs Cincinnati Royals on 1969-12-13"
+        },
+        {
+          "diff": -13.311007880513444,
+          "newRating": 1163.6897464247297,
+          "result": "L 130-137 vs Cincinnati Royals on 1969-12-14"
+        },
+        {
+          "diff": -10.72290945897089,
+          "newRating": 1152.9668369657588,
+          "result": "L 119-141 vs Philadelphia 76ers on 1969-12-16"
+        },
+        {
+          "diff": -15.706089841958601,
+          "newRating": 1137.2607471238002,
+          "result": "L 113-114 vs Detroit Pistons on 1969-12-20"
+        },
+        {
+          "diff": -6.805459954283833,
+          "newRating": 1130.4552871695164,
+          "result": "L 111-118 vs Milwaukee Bucks on 1969-12-21"
+        },
+        {
+          "diff": 8.593708379219379,
+          "newRating": 1139.0489955487358,
+          "result": "W 127-116 vs Boston Celtics on 1969-12-25"
+        },
+        {
+          "diff": -2.260075368643811,
+          "newRating": 1136.788920180092,
+          "result": "L 116-135 vs New York Knicks on 1969-12-28"
+        },
+        {
+          "diff": -14.38460765589548,
+          "newRating": 1122.4043125241965,
+          "result": "L 121-134 vs Seattle SuperSonics on 1969-12-30"
+        },
+        {
+          "diff": 8.2098799669252,
+          "newRating": 1130.6141924911217,
+          "result": "W 121-120 vs San Diego Rockets on 1970-01-02"
+        },
+        {
+          "diff": 6.811468074678487,
+          "newRating": 1137.4256605658002,
+          "result": "W 114-109 vs Detroit Pistons on 1970-01-03"
+        },
+        {
+          "diff": -9.101144967627988,
+          "newRating": 1128.3245155981722,
+          "result": "L 112-120 vs Los Angeles Lakers on 1970-01-04"
+        },
+        {
+          "diff": -7.7076617405907655,
+          "newRating": 1120.6168538575814,
+          "result": "L 124-128 vs Cincinnati Royals on 1970-01-06"
+        },
+        {
+          "diff": -9.716420601903337,
+          "newRating": 1110.900433255678,
+          "result": "L 123-152 vs Chicago Bulls on 1970-01-08"
+        },
+        {
+          "diff": -4.219346413303356,
+          "newRating": 1106.6810868423747,
+          "result": "L 116-120 vs Milwaukee Bucks on 1970-01-09"
+        },
+        {
+          "diff": 11.326705851645329,
+          "newRating": 1118.00779269402,
+          "result": "W 119-117 vs Philadelphia 76ers on 1970-01-10"
+        },
+        {
+          "diff": 10.629366705289158,
+          "newRating": 1128.6371593993092,
+          "result": "W 125-118 vs Cincinnati Royals on 1970-01-11"
+        },
+        {
+          "diff": -2.0282983359898026,
+          "newRating": 1126.6088610633194,
+          "result": "L 114-130 vs New York Knicks on 1970-01-12"
+        },
+        {
+          "diff": 12.19591142395143,
+          "newRating": 1138.8047724872708,
+          "result": "W 124-115 vs Baltimore Bullets on 1970-01-15"
+        },
+        {
+          "diff": -10.966721567450804,
+          "newRating": 1127.83805091982,
+          "result": "L 131-134 vs Seattle SuperSonics on 1970-01-17"
+        },
+        {
+          "diff": 11.527945964339551,
+          "newRating": 1139.3659968841596,
+          "result": "W 134-133 vs Baltimore Bullets on 1970-01-18"
+        },
+        {
+          "diff": 5.358904194652268,
+          "newRating": 1144.7249010788119,
+          "result": "W 129-120 vs Seattle SuperSonics on 1970-01-22"
+        },
+        {
+          "diff": -8.658895008277796,
+          "newRating": 1136.066006070534,
+          "result": "L 132-138 vs San Francisco Warriors on 1970-01-23"
+        },
+        {
+          "diff": 6.978569737442967,
+          "newRating": 1143.044575807977,
+          "result": "W 109-99 vs San Francisco Warriors on 1970-01-24"
+        },
+        {
+          "diff": -6.876401290522381,
+          "newRating": 1136.1681745174546,
+          "result": "L 106-118 vs Los Angeles Lakers on 1970-01-25"
+        },
+        {
+          "diff": 8.951305732012315,
+          "newRating": 1145.119480249467,
+          "result": "W 111-102 vs Atlanta Hawks on 1970-01-29"
+        },
+        {
+          "diff": -8.300144050028393,
+          "newRating": 1136.8193361994386,
+          "result": "L 116-125 vs San Francisco Warriors on 1970-01-30"
+        },
+        {
+          "diff": -3.3618100179662633,
+          "newRating": 1133.4575261814723,
+          "result": "L 106-107 vs Milwaukee Bucks on 1970-01-31"
+        },
+        {
+          "diff": 5.494119966273502,
+          "newRating": 1138.9516461477458,
+          "result": "W 105-103 vs San Diego Rockets on 1970-02-01"
+        },
+        {
+          "diff": 7.827025594769566,
+          "newRating": 1146.7786717425154,
+          "result": "W 131-123 vs Philadelphia 76ers on 1970-02-03"
+        },
+        {
+          "diff": 5.963249223787443,
+          "newRating": 1152.7419209663028,
+          "result": "W 122-117 vs San Francisco Warriors on 1970-02-06"
+        },
+        {
+          "diff": 7.321183224953529,
+          "newRating": 1160.0631041912563,
+          "result": "W 121-117 vs Los Angeles Lakers on 1970-02-07"
+        },
+        {
+          "diff": 5.501636507779722,
+          "newRating": 1165.564740699036,
+          "result": "W 122-117 vs Boston Celtics on 1970-02-10"
+        },
+        {
+          "diff": -3.5276523341381107,
+          "newRating": 1162.037088364898,
+          "result": "L 120-127 vs Milwaukee Bucks on 1970-02-11"
+        },
+        {
+          "diff": -7.092161136440609,
+          "newRating": 1154.9449272284573,
+          "result": "L 121-122 vs Chicago Bulls on 1970-02-12"
+        },
+        {
+          "diff": -7.857516852108802,
+          "newRating": 1147.0874103763485,
+          "result": "L 120-132 vs Detroit Pistons on 1970-02-13"
+        },
+        {
+          "diff": -5.54240537916121,
+          "newRating": 1141.5450049971873,
+          "result": "L 125-159 vs Philadelphia 76ers on 1970-02-15"
+        },
+        {
+          "diff": 4.812995764323205,
+          "newRating": 1146.3580007615105,
+          "result": "W 129-118 vs Seattle SuperSonics on 1970-02-17"
+        },
+        {
+          "diff": -6.447142501689541,
+          "newRating": 1139.910858259821,
+          "result": "L 113-116 vs Boston Celtics on 1970-02-18"
+        },
+        {
+          "diff": 4.4937408223859165,
+          "newRating": 1144.404599082207,
+          "result": "W 126-117 vs San Diego Rockets on 1970-02-20"
+        },
+        {
+          "diff": -2.98217994294464,
+          "newRating": 1141.4224191392623,
+          "result": "L 124-144 vs Milwaukee Bucks on 1970-02-22"
+        },
+        {
+          "diff": -1.6534945429712025,
+          "newRating": 1139.768924596291,
+          "result": "L 105-121 vs New York Knicks on 1970-02-24"
+        },
+        {
+          "diff": 4.69004631134203,
+          "newRating": 1144.458970907633,
+          "result": "W 131-123 vs Detroit Pistons on 1970-02-26"
+        },
+        {
+          "diff": 5.066803066643615,
+          "newRating": 1149.5257739742767,
+          "result": "W 134-125 vs Boston Celtics on 1970-02-27"
+        },
+        {
+          "diff": 6.195611924347759,
+          "newRating": 1155.7213858986245,
+          "result": "W 109-98 vs Atlanta Hawks on 1970-03-01"
+        },
+        {
+          "diff": -5.9466680914881636,
+          "newRating": 1149.7747178071363,
+          "result": "L 111-123 vs Chicago Bulls on 1970-03-03"
+        },
+        {
+          "diff": -6.688923298952432,
+          "newRating": 1143.0857945081839,
+          "result": "L 97-107 vs San Francisco Warriors on 1970-03-06"
+        },
+        {
+          "diff": 6.142001722929763,
+          "newRating": 1149.2277962311136,
+          "result": "W 130-119 vs Atlanta Hawks on 1970-03-08"
+        },
+        {
+          "diff": -4.229902623811768,
+          "newRating": 1144.9978936073019,
+          "result": "L 111-126 vs Atlanta Hawks on 1970-03-15"
+        },
+        {
+          "diff": 3.825159168092796,
+          "newRating": 1148.8230527753947,
+          "result": "W 133-121 vs San Francisco Warriors on 1970-03-17"
+        },
+        {
+          "diff": 4.293930643300655,
+          "newRating": 1153.1169834186953,
+          "result": "W 127-123 vs Boston Celtics on 1970-03-19"
+        },
+        {
+          "diff": 3.431143380154481,
+          "newRating": 1156.5481267988498,
+          "result": "W 127-104 vs San Diego Rockets on 1970-03-20"
+        },
+        {
+          "diff": 3.3024614689798,
+          "newRating": 1159.8505882678296,
+          "result": "W 130-129 vs San Diego Rockets on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "Chicago Bulls",
+      "rating": 1146.1446195758997,
+      "wins": 39,
+      "losses": 43,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 93-98 vs Baltimore Bullets on 1969-10-15"
+        },
+        {
+          "diff": -3.21841774456891,
+          "newRating": 796.7815822554311,
+          "result": "L 87-116 vs New York Knicks on 1969-10-17"
+        },
+        {
+          "diff": 120.65183409675069,
+          "newRating": 917.4334163521818,
+          "result": "W 131-126 vs Seattle SuperSonics on 1969-10-18"
+        },
+        {
+          "diff": 169.2057038935892,
+          "newRating": 1086.639120245771,
+          "result": "W 116-115 vs Phoenix Suns on 1969-10-24"
+        },
+        {
+          "diff": -26.1511132484045,
+          "newRating": 1060.4880069973665,
+          "result": "L 125-129 vs Los Angeles Lakers on 1969-10-26"
+        },
+        {
+          "diff": 10.869366880150437,
+          "newRating": 1071.357373877517,
+          "result": "W 116-114 vs Seattle SuperSonics on 1969-10-28"
+        },
+        {
+          "diff": 90.80483808412828,
+          "newRating": 1162.1622119616452,
+          "result": "W 101-87 vs San Francisco Warriors on 1969-10-29"
+        },
+        {
+          "diff": 72.8981761705461,
+          "newRating": 1235.0603881321913,
+          "result": "W 118-109 vs Baltimore Bullets on 1969-10-31"
+        },
+        {
+          "diff": -32.049106243888446,
+          "newRating": 1203.0112818883028,
+          "result": "L 109-113 vs Philadelphia 76ers on 1969-11-04"
+        },
+        {
+          "diff": -29.5139849249083,
+          "newRating": 1173.4972969633945,
+          "result": "L 137-142 vs Atlanta Hawks on 1969-11-06"
+        },
+        {
+          "diff": 15.654704639510328,
+          "newRating": 1189.1520016029049,
+          "result": "W 103-87 vs Boston Celtics on 1969-11-08"
+        },
+        {
+          "diff": -19.115406538166553,
+          "newRating": 1170.0365950647383,
+          "result": "L 132-133 vs Atlanta Hawks on 1969-11-10"
+        },
+        {
+          "diff": 9.516002188086532,
+          "newRating": 1179.5525972528249,
+          "result": "W 106-100 vs Seattle SuperSonics on 1969-11-11"
+        },
+        {
+          "diff": -4.3387310498721945,
+          "newRating": 1175.2138662029527,
+          "result": "L 99-114 vs New York Knicks on 1969-11-13"
+        },
+        {
+          "diff": -18.067567312521305,
+          "newRating": 1157.1462988904314,
+          "result": "L 100-122 vs Milwaukee Bucks on 1969-11-14"
+        },
+        {
+          "diff": 22.179174012802832,
+          "newRating": 1179.3254729032342,
+          "result": "W 124-105 vs San Francisco Warriors on 1969-11-15"
+        },
+        {
+          "diff": 19.843602357129384,
+          "newRating": 1199.1690752603636,
+          "result": "W 127-119 vs Philadelphia 76ers on 1969-11-18"
+        },
+        {
+          "diff": -35.9645501225682,
+          "newRating": 1163.2045251377954,
+          "result": "L 106-122 vs Boston Celtics on 1969-11-19"
+        },
+        {
+          "diff": -25.055202913222956,
+          "newRating": 1138.1493222245724,
+          "result": "L 119-133 vs Cincinnati Royals on 1969-11-21"
+        },
+        {
+          "diff": 27.05227964786377,
+          "newRating": 1165.2016018724362,
+          "result": "W 125-106 vs Milwaukee Bucks on 1969-11-22"
+        },
+        {
+          "diff": -26.81485703076123,
+          "newRating": 1138.386744841675,
+          "result": "L 103-104 vs Detroit Pistons on 1969-11-25"
+        },
+        {
+          "diff": 13.461069901058636,
+          "newRating": 1151.8478147427336,
+          "result": "W 129-109 vs Detroit Pistons on 1969-11-26"
+        },
+        {
+          "diff": 12.757687005354455,
+          "newRating": 1164.605501748088,
+          "result": "W 126-119 vs San Diego Rockets on 1969-11-28"
+        },
+        {
+          "diff": 18.51574967078045,
+          "newRating": 1183.1212514188685,
+          "result": "W 116-114 vs Los Angeles Lakers on 1969-11-30"
+        },
+        {
+          "diff": -18.944094996406648,
+          "newRating": 1164.1771564224618,
+          "result": "L 110-121 vs Phoenix Suns on 1969-12-02"
+        },
+        {
+          "diff": -20.898042186952807,
+          "newRating": 1143.279114235509,
+          "result": "L 131-146 vs San Diego Rockets on 1969-12-03"
+        },
+        {
+          "diff": -14.260493603798068,
+          "newRating": 1129.018620631711,
+          "result": "L 113-114 vs Phoenix Suns on 1969-12-05"
+        },
+        {
+          "diff": 9.546698233752977,
+          "newRating": 1138.565318865464,
+          "result": "W 116-114 vs Boston Celtics on 1969-12-06"
+        },
+        {
+          "diff": -7.718430104375784,
+          "newRating": 1130.8468887610882,
+          "result": "L 122-125 vs Baltimore Bullets on 1969-12-08"
+        },
+        {
+          "diff": 14.120111628285258,
+          "newRating": 1144.9670003893734,
+          "result": "W 109-102 vs Phoenix Suns on 1969-12-09"
+        },
+        {
+          "diff": 13.084576938219243,
+          "newRating": 1158.0515773275927,
+          "result": "W 110-104 vs San Francisco Warriors on 1969-12-11"
+        },
+        {
+          "diff": -7.949390556872004,
+          "newRating": 1150.1021867707207,
+          "result": "L 108-123 vs Baltimore Bullets on 1969-12-12"
+        },
+        {
+          "diff": -10.645328962467147,
+          "newRating": 1139.4568578082535,
+          "result": "L 121-126 vs Philadelphia 76ers on 1969-12-14"
+        },
+        {
+          "diff": -15.654111870519273,
+          "newRating": 1123.8027459377342,
+          "result": "L 101-110 vs San Diego Rockets on 1969-12-16"
+        },
+        {
+          "diff": 15.883274007014506,
+          "newRating": 1139.6860199447488,
+          "result": "W 114-112 vs Atlanta Hawks on 1969-12-18"
+        },
+        {
+          "diff": -2.2179233349072547,
+          "newRating": 1137.4680966098415,
+          "result": "L 99-108 vs New York Knicks on 1969-12-19"
+        },
+        {
+          "diff": -7.267815962459736,
+          "newRating": 1130.2002806473818,
+          "result": "L 111-118 vs Atlanta Hawks on 1969-12-21"
+        },
+        {
+          "diff": -13.354898292887128,
+          "newRating": 1116.8453823544946,
+          "result": "L 112-117 vs Boston Celtics on 1969-12-23"
+        },
+        {
+          "diff": -1.8895933693006555,
+          "newRating": 1114.955788985194,
+          "result": "L 96-116 vs New York Knicks on 1969-12-30"
+        },
+        {
+          "diff": -7.78580808829679,
+          "newRating": 1107.1699808968972,
+          "result": "L 109-129 vs Philadelphia 76ers on 1969-12-31"
+        },
+        {
+          "diff": 7.285874498095382,
+          "newRating": 1114.4558553949926,
+          "result": "W 114-111 vs Seattle SuperSonics on 1970-01-01"
+        },
+        {
+          "diff": -9.453773356463898,
+          "newRating": 1105.0020820385287,
+          "result": "L 102-116 vs San Francisco Warriors on 1970-01-03"
+        },
+        {
+          "diff": -10.91056334891232,
+          "newRating": 1094.0915186896164,
+          "result": "L 121-140 vs San Diego Rockets on 1970-01-04"
+        },
+        {
+          "diff": 11.04893737582006,
+          "newRating": 1105.1404560654364,
+          "result": "W 105-100 vs Los Angeles Lakers on 1970-01-06"
+        },
+        {
+          "diff": 9.284579686263214,
+          "newRating": 1114.4250357516996,
+          "result": "W 152-123 vs Phoenix Suns on 1970-01-08"
+        },
+        {
+          "diff": 10.092453694540382,
+          "newRating": 1124.51748944624,
+          "result": "W 116-112 vs Los Angeles Lakers on 1970-01-10"
+        },
+        {
+          "diff": 10.164069915520713,
+          "newRating": 1134.6815593617607,
+          "result": "W 117-113 vs Philadelphia 76ers on 1970-01-12"
+        },
+        {
+          "diff": 9.430889664633469,
+          "newRating": 1144.1124490263942,
+          "result": "W 130-120 vs Cincinnati Royals on 1970-01-15"
+        },
+        {
+          "diff": -11.310013198929028,
+          "newRating": 1132.8024358274652,
+          "result": "L 103-119 vs Seattle SuperSonics on 1970-01-16"
+        },
+        {
+          "diff": 12.217091664297413,
+          "newRating": 1145.0195274917626,
+          "result": "W 132-130 vs Milwaukee Bucks on 1970-01-17"
+        },
+        {
+          "diff": -6.099099994898097,
+          "newRating": 1138.9204274968645,
+          "result": "L 107-125 vs Atlanta Hawks on 1970-01-18"
+        },
+        {
+          "diff": -2.0465156599636884,
+          "newRating": 1136.8739118369008,
+          "result": "L 117-120 vs New York Knicks on 1970-01-23"
+        },
+        {
+          "diff": -9.384363491019712,
+          "newRating": 1127.489548345881,
+          "result": "L 122-128 vs Detroit Pistons on 1970-01-24"
+        },
+        {
+          "diff": 5.9890243013549025,
+          "newRating": 1133.478572647236,
+          "result": "W 120-111 vs Detroit Pistons on 1970-01-25"
+        },
+        {
+          "diff": -6.531120879451009,
+          "newRating": 1126.947451767785,
+          "result": "L 115-116 vs Cincinnati Royals on 1970-01-26"
+        },
+        {
+          "diff": -4.355739916199354,
+          "newRating": 1122.5917118515856,
+          "result": "L 115-123 vs Baltimore Bullets on 1970-01-28"
+        },
+        {
+          "diff": -3.2039256617861156,
+          "newRating": 1119.3877861897995,
+          "result": "L 105-121 vs Milwaukee Bucks on 1970-01-30"
+        },
+        {
+          "diff": -1.5782983954461542,
+          "newRating": 1117.8094877943533,
+          "result": "L 104-123 vs New York Knicks on 1970-01-31"
+        },
+        {
+          "diff": 7.746711015699248,
+          "newRating": 1125.5561988100526,
+          "result": "W 115-108 vs Cincinnati Royals on 1970-02-01"
+        },
+        {
+          "diff": -7.410536691357265,
+          "newRating": 1118.1456621186953,
+          "result": "L 85-93 vs Boston Celtics on 1970-02-03"
+        },
+        {
+          "diff": -6.849593778728831,
+          "newRating": 1111.2960683399665,
+          "result": "L 105-127 vs San Francisco Warriors on 1970-02-05"
+        },
+        {
+          "diff": -4.644785128274407,
+          "newRating": 1106.651283211692,
+          "result": "L 93-104 vs Atlanta Hawks on 1970-02-06"
+        },
+        {
+          "diff": 8.283864417844825,
+          "newRating": 1114.935147629537,
+          "result": "W 117-107 vs Atlanta Hawks on 1970-02-08"
+        },
+        {
+          "diff": 7.092161136440609,
+          "newRating": 1122.0273087659775,
+          "result": "W 122-121 vs Phoenix Suns on 1970-02-12"
+        },
+        {
+          "diff": 7.455527097755066,
+          "newRating": 1129.4828358637326,
+          "result": "W 116-113 vs Los Angeles Lakers on 1970-02-14"
+        },
+        {
+          "diff": -7.186814092716531,
+          "newRating": 1122.296021771016,
+          "result": "L 119-126 vs Detroit Pistons on 1970-02-15"
+        },
+        {
+          "diff": 7.066531568040091,
+          "newRating": 1129.3625533390561,
+          "result": "W 126-119 vs Philadelphia 76ers on 1970-02-20"
+        },
+        {
+          "diff": -5.749168009958339,
+          "newRating": 1123.6133853290978,
+          "result": "L 119-127 vs Cincinnati Royals on 1970-02-21"
+        },
+        {
+          "diff": 4.816443035485463,
+          "newRating": 1128.4298283645833,
+          "result": "W 127-125 vs San Diego Rockets on 1970-02-23"
+        },
+        {
+          "diff": 4.841251206378047,
+          "newRating": 1133.2710795709613,
+          "result": "W 112-104 vs San Francisco Warriors on 1970-02-25"
+        },
+        {
+          "diff": -4.725261470119449,
+          "newRating": 1128.5458181008419,
+          "result": "L 101-111 vs Los Angeles Lakers on 1970-02-27"
+        },
+        {
+          "diff": -6.314118353424192,
+          "newRating": 1122.2316997474177,
+          "result": "L 104-140 vs Seattle SuperSonics on 1970-02-28"
+        },
+        {
+          "diff": -6.643046586127866,
+          "newRating": 1115.5886531612898,
+          "result": "L 122-135 vs San Diego Rockets on 1970-03-01"
+        },
+        {
+          "diff": 6.027028471102767,
+          "newRating": 1121.6156816323926,
+          "result": "W 123-111 vs Phoenix Suns on 1970-03-03"
+        },
+        {
+          "diff": 4.043942265969918,
+          "newRating": 1125.6596238983625,
+          "result": "W 111-106 vs San Diego Rockets on 1970-03-10"
+        },
+        {
+          "diff": 4.97655314525332,
+          "newRating": 1130.6361770436158,
+          "result": "W 134-113 vs Boston Celtics on 1970-03-13"
+        },
+        {
+          "diff": 4.613607331871208,
+          "newRating": 1135.249784375487,
+          "result": "W 111-96 vs Detroit Pistons on 1970-03-14"
+        },
+        {
+          "diff": 7.6771616416895085,
+          "newRating": 1142.9269460171765,
+          "result": "W 130-107 vs Milwaukee Bucks on 1970-03-15"
+        },
+        {
+          "diff": 5.053798367245008,
+          "newRating": 1147.9807443844215,
+          "result": "W 142-140 vs Cincinnati Royals on 1970-03-16"
+        },
+        {
+          "diff": -5.735268136390914,
+          "newRating": 1142.2454762480306,
+          "result": "L 102-109 vs Seattle SuperSonics on 1970-03-17"
+        },
+        {
+          "diff": -3.388297339841756,
+          "newRating": 1138.8571789081889,
+          "result": "L 131-138 vs Baltimore Bullets on 1970-03-20"
+        },
+        {
+          "diff": 7.287440667710825,
+          "newRating": 1146.1446195758997,
+          "result": "W 129-115 vs Milwaukee Bucks on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "Cincinnati Royals",
+      "rating": 1139.3799975521151,
+      "wins": 36,
+      "losses": 46,
+      "log": [
+        {
+          "diff": -72.72727272727275,
+          "newRating": 1127.2727272727273,
+          "result": "L 89-94 vs New York Knicks on 1969-10-15"
+        },
+        {
+          "diff": 241.2642403511859,
+          "newRating": 1368.5369676239131,
+          "result": "W 110-108 vs Boston Celtics on 1969-10-17"
+        },
+        {
+          "diff": -55.66967464078584,
+          "newRating": 1312.8672929831273,
+          "result": "L 123-134 vs Philadelphia 76ers on 1969-10-18"
+        },
+        {
+          "diff": -162.00776891848113,
+          "newRating": 1150.8595240646462,
+          "result": "L 109-116 vs Los Angeles Lakers on 1969-10-22"
+        },
+        {
+          "diff": -40.58063561523113,
+          "newRating": 1110.278888449415,
+          "result": "L 126-131 vs Baltimore Bullets on 1969-10-24"
+        },
+        {
+          "diff": 129.04015237550607,
+          "newRating": 1239.319040824921,
+          "result": "W 109-98 vs Philadelphia 76ers on 1969-10-25"
+        },
+        {
+          "diff": -75.62320510570248,
+          "newRating": 1163.6958357192186,
+          "result": "L 104-106 vs Phoenix Suns on 1969-10-30"
+        },
+        {
+          "diff": -95.59992103067111,
+          "newRating": 1068.0959146885475,
+          "result": "L 121-129 vs Seattle SuperSonics on 1969-10-31"
+        },
+        {
+          "diff": -30.698624941084518,
+          "newRating": 1037.397289747463,
+          "result": "L 97-120 vs San Francisco Warriors on 1969-11-01"
+        },
+        {
+          "diff": 70.661914895667,
+          "newRating": 1108.05920464313,
+          "result": "W 124-116 vs Los Angeles Lakers on 1969-11-02"
+        },
+        {
+          "diff": 14.099765523658107,
+          "newRating": 1122.158970166788,
+          "result": "W 133-120 vs San Diego Rockets on 1969-11-05"
+        },
+        {
+          "diff": -29.15459662393073,
+          "newRating": 1093.0043735428574,
+          "result": "L 109-130 vs San Francisco Warriors on 1969-11-06"
+        },
+        {
+          "diff": 47.55199902354343,
+          "newRating": 1140.5563725664008,
+          "result": "W 130-121 vs Baltimore Bullets on 1969-11-08"
+        },
+        {
+          "diff": 12.71072937776853,
+          "newRating": 1153.2671019441693,
+          "result": "W 116-107 vs Boston Celtics on 1969-11-12"
+        },
+        {
+          "diff": -37.85758265879349,
+          "newRating": 1115.4095192853758,
+          "result": "L 104-105 vs Detroit Pistons on 1969-11-15"
+        },
+        {
+          "diff": -2.6252370511854224,
+          "newRating": 1112.7842822341904,
+          "result": "L 94-112 vs New York Knicks on 1969-11-18"
+        },
+        {
+          "diff": -16.44855966559885,
+          "newRating": 1096.3357225685916,
+          "result": "L 103-116 vs Los Angeles Lakers on 1969-11-19"
+        },
+        {
+          "diff": 26.447158630624244,
+          "newRating": 1122.7828811992158,
+          "result": "W 133-119 vs Chicago Bulls on 1969-11-21"
+        },
+        {
+          "diff": 23.942798835754957,
+          "newRating": 1146.7256800349708,
+          "result": "W 137-123 vs Phoenix Suns on 1969-11-23"
+        },
+        {
+          "diff": 25.195708852800408,
+          "newRating": 1171.9213888877712,
+          "result": "W 129-104 vs Milwaukee Bucks on 1969-11-24"
+        },
+        {
+          "diff": -2.5154489133356037,
+          "newRating": 1169.4059399744356,
+          "result": "L 105-106 vs New York Knicks on 1969-11-28"
+        },
+        {
+          "diff": -13.129637986153739,
+          "newRating": 1156.2763019882818,
+          "result": "L 111-128 vs Atlanta Hawks on 1969-11-29"
+        },
+        {
+          "diff": 17.48521445911524,
+          "newRating": 1173.761516447397,
+          "result": "W 115-107 vs Philadelphia 76ers on 1969-11-30"
+        },
+        {
+          "diff": -8.673418963812537,
+          "newRating": 1165.0880974835845,
+          "result": "L 107-129 vs Baltimore Bullets on 1969-12-02"
+        },
+        {
+          "diff": -26.25070737180681,
+          "newRating": 1138.8373901117777,
+          "result": "L 117-118 vs Seattle SuperSonics on 1969-12-03"
+        },
+        {
+          "diff": 21.4747141885955,
+          "newRating": 1160.3121043003732,
+          "result": "W 156-127 vs Atlanta Hawks on 1969-12-05"
+        },
+        {
+          "diff": -15.685740119000002,
+          "newRating": 1144.6263641813732,
+          "result": "L 102-120 vs Philadelphia 76ers on 1969-12-06"
+        },
+        {
+          "diff": 26.758782622561966,
+          "newRating": 1171.3851468039352,
+          "result": "W 103-101 vs New York Knicks on 1969-12-09"
+        },
+        {
+          "diff": 13.808065004135642,
+          "newRating": 1185.1932118080708,
+          "result": "W 122-121 vs Philadelphia 76ers on 1969-12-10"
+        },
+        {
+          "diff": -17.733087660191813,
+          "newRating": 1167.460124147879,
+          "result": "L 116-119 vs Detroit Pistons on 1969-12-11"
+        },
+        {
+          "diff": -13.032919727385206,
+          "newRating": 1154.4272044204938,
+          "result": "L 110-126 vs Phoenix Suns on 1969-12-13"
+        },
+        {
+          "diff": 13.311007880513444,
+          "newRating": 1167.7382123010073,
+          "result": "W 137-130 vs Phoenix Suns on 1969-12-14"
+        },
+        {
+          "diff": -18.31192175657793,
+          "newRating": 1149.4262905444293,
+          "result": "L 104-117 vs Seattle SuperSonics on 1969-12-17"
+        },
+        {
+          "diff": 11.410659875348983,
+          "newRating": 1160.8369504197783,
+          "result": "W 117-109 vs Los Angeles Lakers on 1969-12-19"
+        },
+        {
+          "diff": -14.487232897823105,
+          "newRating": 1146.3497175219552,
+          "result": "L 111-126 vs San Diego Rockets on 1969-12-20"
+        },
+        {
+          "diff": -11.730248704739779,
+          "newRating": 1134.6194688172154,
+          "result": "L 120-124 vs San Francisco Warriors on 1969-12-25"
+        },
+        {
+          "diff": 14.637541857525775,
+          "newRating": 1149.2570106747412,
+          "result": "W 130-110 vs Atlanta Hawks on 1969-12-26"
+        },
+        {
+          "diff": 14.762406220636649,
+          "newRating": 1164.0194168953778,
+          "result": "W 112-110 vs Milwaukee Bucks on 1969-12-27"
+        },
+        {
+          "diff": 6.793854745922317,
+          "newRating": 1170.8132716413002,
+          "result": "W 110-103 vs Detroit Pistons on 1969-12-29"
+        },
+        {
+          "diff": 6.997059269260262,
+          "newRating": 1177.8103309105604,
+          "result": "W 125-120 vs San Diego Rockets on 1969-12-30"
+        },
+        {
+          "diff": -6.659834631106833,
+          "newRating": 1171.1504962794536,
+          "result": "L 116-118 vs Baltimore Bullets on 1970-01-02"
+        },
+        {
+          "diff": 11.958214368096378,
+          "newRating": 1183.10871064755,
+          "result": "W 104-102 vs Atlanta Hawks on 1970-01-03"
+        },
+        {
+          "diff": 12.29131399743369,
+          "newRating": 1195.4000246449837,
+          "result": "W 129-128 vs Baltimore Bullets on 1970-01-04"
+        },
+        {
+          "diff": 7.357313479654977,
+          "newRating": 1202.7573381246386,
+          "result": "W 128-124 vs Phoenix Suns on 1970-01-06"
+        },
+        {
+          "diff": -6.175053953468023,
+          "newRating": 1196.5822841711706,
+          "result": "L 119-138 vs Milwaukee Bucks on 1970-01-07"
+        },
+        {
+          "diff": -10.629366705289158,
+          "newRating": 1185.9529174658815,
+          "result": "L 118-125 vs Phoenix Suns on 1970-01-11"
+        },
+        {
+          "diff": -5.244362121308768,
+          "newRating": 1180.7085553445727,
+          "result": "L 92-112 vs Milwaukee Bucks on 1970-01-13"
+        },
+        {
+          "diff": -9.430889664633469,
+          "newRating": 1171.2776656799392,
+          "result": "L 120-130 vs Chicago Bulls on 1970-01-15"
+        },
+        {
+          "diff": -7.100514629745476,
+          "newRating": 1164.1771510501937,
+          "result": "L 100-117 vs Atlanta Hawks on 1970-01-16"
+        },
+        {
+          "diff": -7.492601953606027,
+          "newRating": 1156.6845490965877,
+          "result": "L 116-141 vs Philadelphia 76ers on 1970-01-18"
+        },
+        {
+          "diff": 6.517657958200061,
+          "newRating": 1163.2022070547878,
+          "result": "W 111-104 vs Boston Celtics on 1970-01-22"
+        },
+        {
+          "diff": -4.250407080265177,
+          "newRating": 1158.9517999745226,
+          "result": "L 109-125 vs Milwaukee Bucks on 1970-01-24"
+        },
+        {
+          "diff": 10.078651826654777,
+          "newRating": 1169.0304518011774,
+          "result": "W 129-122 vs Baltimore Bullets on 1970-01-25"
+        },
+        {
+          "diff": 6.6520675624039995,
+          "newRating": 1175.6825193635814,
+          "result": "W 116-115 vs Chicago Bulls on 1970-01-26"
+        },
+        {
+          "diff": -4.241633629923854,
+          "newRating": 1171.4408857336575,
+          "result": "L 114-126 vs Milwaukee Bucks on 1970-01-28"
+        },
+        {
+          "diff": -8.81343895402756,
+          "newRating": 1162.62744677963,
+          "result": "L 103-108 vs Boston Celtics on 1970-01-30"
+        },
+        {
+          "diff": 5.080478810575414,
+          "newRating": 1167.7079255902054,
+          "result": "W 117-115 vs Detroit Pistons on 1970-01-31"
+        },
+        {
+          "diff": -7.88027499872851,
+          "newRating": 1159.8276505914769,
+          "result": "L 108-115 vs Chicago Bulls on 1970-02-01"
+        },
+        {
+          "diff": -5.969115719585034,
+          "newRating": 1153.8585348718918,
+          "result": "L 114-124 vs Los Angeles Lakers on 1970-02-03"
+        },
+        {
+          "diff": -8.639409429013767,
+          "newRating": 1145.219125442878,
+          "result": "L 115-121 vs Seattle SuperSonics on 1970-02-04"
+        },
+        {
+          "diff": -1.7712009263984783,
+          "newRating": 1143.4479245164796,
+          "result": "L 92-135 vs New York Knicks on 1970-02-06"
+        },
+        {
+          "diff": -1.711872862406608,
+          "newRating": 1141.736051654073,
+          "result": "L 114-121 vs New York Knicks on 1970-02-07"
+        },
+        {
+          "diff": -7.093398962070751,
+          "newRating": 1134.6426526920022,
+          "result": "L 117-130 vs Boston Celtics on 1970-02-08"
+        },
+        {
+          "diff": 5.036517395482861,
+          "newRating": 1139.679170087485,
+          "result": "W 117-115 vs Detroit Pistons on 1970-02-10"
+        },
+        {
+          "diff": 4.78561561441461,
+          "newRating": 1144.4647857018997,
+          "result": "W 124-113 vs Detroit Pistons on 1970-02-11"
+        },
+        {
+          "diff": 5.327686257116511,
+          "newRating": 1149.7924719590162,
+          "result": "W 128-110 vs San Francisco Warriors on 1970-02-13"
+        },
+        {
+          "diff": -7.66971287935894,
+          "newRating": 1142.1227590796573,
+          "result": "L 123-150 vs San Diego Rockets on 1970-02-15"
+        },
+        {
+          "diff": -4.892419748028715,
+          "newRating": 1137.2303393316286,
+          "result": "L 125-139 vs Atlanta Hawks on 1970-02-18"
+        },
+        {
+          "diff": 5.665846734451861,
+          "newRating": 1142.8961860660804,
+          "result": "W 127-119 vs Chicago Bulls on 1970-02-21"
+        },
+        {
+          "diff": 6.385632392542448,
+          "newRating": 1149.2818184586229,
+          "result": "W 136-116 vs Philadelphia 76ers on 1970-02-22"
+        },
+        {
+          "diff": -2.990922415739078,
+          "newRating": 1146.2908960428838,
+          "result": "L 114-120 vs Milwaukee Bucks on 1970-03-01"
+        },
+        {
+          "diff": -3.813774469236705,
+          "newRating": 1142.477121573647,
+          "result": "L 110-118 vs Baltimore Bullets on 1970-03-02"
+        },
+        {
+          "diff": 4.042569046573817,
+          "newRating": 1146.519690620221,
+          "result": "W 127-125 vs San Diego Rockets on 1970-03-04"
+        },
+        {
+          "diff": -6.245392129299944,
+          "newRating": 1140.274298490921,
+          "result": "L 122-126 vs Seattle SuperSonics on 1970-03-06"
+        },
+        {
+          "diff": 4.124241453291688,
+          "newRating": 1144.3985399442126,
+          "result": "W 121-119 vs San Francisco Warriors on 1970-03-07"
+        },
+        {
+          "diff": -4.4983578482463145,
+          "newRating": 1139.9001820959663,
+          "result": "L 116-144 vs Los Angeles Lakers on 1970-03-08"
+        },
+        {
+          "diff": -5.777115115945435,
+          "newRating": 1134.123066980021,
+          "result": "L 127-144 vs Boston Celtics on 1970-03-11"
+        },
+        {
+          "diff": 3.622049229848699,
+          "newRating": 1137.7451162098696,
+          "result": "W 165-151 vs San Diego Rockets on 1970-03-12"
+        },
+        {
+          "diff": 4.53044900180339,
+          "newRating": 1142.275565211673,
+          "result": "W 116-113 vs Seattle SuperSonics on 1970-03-15"
+        },
+        {
+          "diff": -4.99062588765446,
+          "newRating": 1137.2849393240185,
+          "result": "L 140-142 vs Chicago Bulls on 1970-03-16"
+        },
+        {
+          "diff": -6.093737156574889,
+          "newRating": 1131.1912021674436,
+          "result": "L 111-118 vs San Francisco Warriors on 1970-03-20"
+        },
+        {
+          "diff": 8.188795384671494,
+          "newRating": 1139.3799975521151,
+          "result": "W 136-120 vs New York Knicks on 1970-03-21"
+        }
+      ]
+    },
+    {
+      "team": "Seattle SuperSonics",
+      "rating": 1103.6468236813494,
+      "wins": 36,
+      "losses": 46,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 101-126 vs New York Knicks on 1969-10-14"
+        },
+        {
+          "diff": -36.363636363636374,
+          "newRating": 763.6363636363636,
+          "result": "L 119-124 vs Atlanta Hawks on 1969-10-15"
+        },
+        {
+          "diff": -120.65183409675069,
+          "newRating": 642.9845295396129,
+          "result": "L 126-131 vs Chicago Bulls on 1969-10-18"
+        },
+        {
+          "diff": -0.8067443891821995,
+          "newRating": 642.1777851504307,
+          "result": "L 106-130 vs Milwaukee Bucks on 1969-10-19"
+        },
+        {
+          "diff": -2.4114075841980593,
+          "newRating": 639.7663775662327,
+          "result": "L 106-130 vs Los Angeles Lakers on 1969-10-25"
+        },
+        {
+          "diff": -10.869366880150324,
+          "newRating": 628.8970106860824,
+          "result": "L 114-116 vs Chicago Bulls on 1969-10-28"
+        },
+        {
+          "diff": 109.25705260648112,
+          "newRating": 738.1540632925635,
+          "result": "W 129-121 vs Cincinnati Royals on 1969-10-31"
+        },
+        {
+          "diff": -4.217985549666764,
+          "newRating": 733.9360777428967,
+          "result": "L 113-125 vs Atlanta Hawks on 1969-11-02"
+        },
+        {
+          "diff": 78.27918870091571,
+          "newRating": 812.2152664438124,
+          "result": "W 116-102 vs Detroit Pistons on 1969-11-04"
+        },
+        {
+          "diff": -4.506750564624326,
+          "newRating": 807.7085158791881,
+          "result": "L 112-126 vs Baltimore Bullets on 1969-11-07"
+        },
+        {
+          "diff": 67.23354066720992,
+          "newRating": 874.942056546398,
+          "result": "W 125-117 vs Philadelphia 76ers on 1969-11-08"
+        },
+        {
+          "diff": -10.309002370427038,
+          "newRating": 864.633054175971,
+          "result": "L 100-106 vs Chicago Bulls on 1969-11-11"
+        },
+        {
+          "diff": 45.08413303287307,
+          "newRating": 909.717187208844,
+          "result": "W 117-113 vs Detroit Pistons on 1969-11-13"
+        },
+        {
+          "diff": -24.805443408264182,
+          "newRating": 884.9117438005799,
+          "result": "L 112-148 vs San Diego Rockets on 1969-11-14"
+        },
+        {
+          "diff": 45.77350521433107,
+          "newRating": 930.6852490149109,
+          "result": "W 146-136 vs Philadelphia 76ers on 1969-11-15"
+        },
+        {
+          "diff": -5.014008556604949,
+          "newRating": 925.671240458306,
+          "result": "L 116-137 vs Atlanta Hawks on 1969-11-19"
+        },
+        {
+          "diff": -5.968736669980785,
+          "newRating": 919.7025037883252,
+          "result": "L 115-117 vs Milwaukee Bucks on 1969-11-21"
+        },
+        {
+          "diff": -19.926263843071524,
+          "newRating": 899.7762399452537,
+          "result": "L 116-125 vs Boston Celtics on 1969-11-23"
+        },
+        {
+          "diff": -11.875492871600272,
+          "newRating": 887.9007470736534,
+          "result": "L 105-112 vs San Diego Rockets on 1969-11-24"
+        },
+        {
+          "diff": -8.398817402409122,
+          "newRating": 879.5019296712443,
+          "result": "L 106-114 vs San Francisco Warriors on 1969-11-25"
+        },
+        {
+          "diff": 31.1365304209678,
+          "newRating": 910.6384600922121,
+          "result": "W 130-129 vs Phoenix Suns on 1969-11-29"
+        },
+        {
+          "diff": -8.757932760017297,
+          "newRating": 901.8805273321948,
+          "result": "L 108-116 vs Phoenix Suns on 1969-11-30"
+        },
+        {
+          "diff": -0.6030685494066574,
+          "newRating": 901.2774587827881,
+          "result": "L 109-129 vs New York Knicks on 1969-12-02"
+        },
+        {
+          "diff": 27.344486845632105,
+          "newRating": 928.6219456284202,
+          "result": "W 118-117 vs Cincinnati Royals on 1969-12-03"
+        },
+        {
+          "diff": -3.72770185292336,
+          "newRating": 924.8942437754969,
+          "result": "L 111-119 vs Atlanta Hawks on 1969-12-04"
+        },
+        {
+          "diff": -4.0661866678510705,
+          "newRating": 920.8280571076458,
+          "result": "L 98-131 vs Milwaukee Bucks on 1969-12-05"
+        },
+        {
+          "diff": 27.06085542435801,
+          "newRating": 947.8889125320038,
+          "result": "W 132-129 vs Baltimore Bullets on 1969-12-06"
+        },
+        {
+          "diff": 19.70150968070311,
+          "newRating": 967.5904222127069,
+          "result": "W 109-104 vs Detroit Pistons on 1969-12-09"
+        },
+        {
+          "diff": 26.839555495442596,
+          "newRating": 994.4299777081495,
+          "result": "W 112-105 vs New York Knicks on 1969-12-11"
+        },
+        {
+          "diff": -7.530663612015019,
+          "newRating": 986.8993140961345,
+          "result": "L 116-130 vs Phoenix Suns on 1969-12-12"
+        },
+        {
+          "diff": -7.834498683295919,
+          "newRating": 979.0648154128386,
+          "result": "L 127-131 vs Los Angeles Lakers on 1969-12-14"
+        },
+        {
+          "diff": -7.1835758033350885,
+          "newRating": 971.8812396095035,
+          "result": "L 119-125 vs San Francisco Warriors on 1969-12-16"
+        },
+        {
+          "diff": 18.31192175657793,
+          "newRating": 990.1931613660814,
+          "result": "W 117-104 vs Cincinnati Royals on 1969-12-17"
+        },
+        {
+          "diff": 18.466963837262256,
+          "newRating": 1008.6601252033437,
+          "result": "W 123-116 vs Philadelphia 76ers on 1969-12-19"
+        },
+        {
+          "diff": 13.756813348278229,
+          "newRating": 1022.4169385516219,
+          "result": "W 112-96 vs San Diego Rockets on 1969-12-21"
+        },
+        {
+          "diff": -8.126071446247693,
+          "newRating": 1014.2908671053742,
+          "result": "L 115-119 vs San Francisco Warriors on 1969-12-23"
+        },
+        {
+          "diff": -9.982192043907617,
+          "newRating": 1004.3086750614666,
+          "result": "L 112-122 vs Boston Celtics on 1969-12-26"
+        },
+        {
+          "diff": -1.0801035206774259,
+          "newRating": 1003.2285715407892,
+          "result": "L 117-119 vs New York Knicks on 1969-12-27"
+        },
+        {
+          "diff": 14.015771562154555,
+          "newRating": 1017.2443431029437,
+          "result": "W 134-121 vs Phoenix Suns on 1969-12-30"
+        },
+        {
+          "diff": -7.468021360547823,
+          "newRating": 1009.7763217423959,
+          "result": "L 111-114 vs Chicago Bulls on 1970-01-01"
+        },
+        {
+          "diff": -5.910314820594408,
+          "newRating": 1003.8660069218015,
+          "result": "L 109-126 vs Los Angeles Lakers on 1970-01-03"
+        },
+        {
+          "diff": -9.382528177770155,
+          "newRating": 994.4834787440313,
+          "result": "L 110-116 vs Detroit Pistons on 1970-01-04"
+        },
+        {
+          "diff": -3.295979322056837,
+          "newRating": 991.1874994219745,
+          "result": "L 97-101 vs Atlanta Hawks on 1970-01-06"
+        },
+        {
+          "diff": 14.32489734238527,
+          "newRating": 1005.5123967643598,
+          "result": "W 135-132 vs Philadelphia 76ers on 1970-01-09"
+        },
+        {
+          "diff": -8.806618505519964,
+          "newRating": 996.7057782588398,
+          "result": "L 128-129 vs Detroit Pistons on 1970-01-10"
+        },
+        {
+          "diff": -6.792407692558868,
+          "newRating": 989.913370566281,
+          "result": "L 102-111 vs Boston Celtics on 1970-01-13"
+        },
+        {
+          "diff": 12.974763401488417,
+          "newRating": 1002.8881339677694,
+          "result": "W 122-110 vs Philadelphia 76ers on 1970-01-14"
+        },
+        {
+          "diff": 11.545638473906706,
+          "newRating": 1014.4337724416761,
+          "result": "W 119-103 vs Chicago Bulls on 1970-01-16"
+        },
+        {
+          "diff": 10.96672156745069,
+          "newRating": 1025.4004940091268,
+          "result": "W 134-131 vs Phoenix Suns on 1970-01-17"
+        },
+        {
+          "diff": -5.4660822785452865,
+          "newRating": 1019.9344117305815,
+          "result": "L 120-129 vs Phoenix Suns on 1970-01-22"
+        },
+        {
+          "diff": -4.882156179438766,
+          "newRating": 1015.0522555511427,
+          "result": "L 100-128 vs Los Angeles Lakers on 1970-01-23"
+        },
+        {
+          "diff": -4.599224490761799,
+          "newRating": 1010.4530310603809,
+          "result": "L 121-122 vs Los Angeles Lakers on 1970-01-24"
+        },
+        {
+          "diff": 11.75619708868794,
+          "newRating": 1022.2092281490688,
+          "result": "W 120-119 vs Atlanta Hawks on 1970-01-28"
+        },
+        {
+          "diff": 8.987647944690252,
+          "newRating": 1031.196876093759,
+          "result": "W 105-101 vs San Francisco Warriors on 1970-01-29"
+        },
+        {
+          "diff": -6.782899490438467,
+          "newRating": 1024.4139766033206,
+          "result": "L 117-119 vs San Diego Rockets on 1970-01-30"
+        },
+        {
+          "diff": 12.29725961654458,
+          "newRating": 1036.7112362198652,
+          "result": "W 118-116 vs Milwaukee Bucks on 1970-02-01"
+        },
+        {
+          "diff": 11.168094116972725,
+          "newRating": 1047.879330336838,
+          "result": "W 120-115 vs Baltimore Bullets on 1970-02-03"
+        },
+        {
+          "diff": 8.937320098979626,
+          "newRating": 1056.8166504358176,
+          "result": "W 121-115 vs Cincinnati Royals on 1970-02-04"
+        },
+        {
+          "diff": -6.0459088105942556,
+          "newRating": 1050.7707416252233,
+          "result": "L 117-127 vs Boston Celtics on 1970-02-06"
+        },
+        {
+          "diff": -6.490886670071177,
+          "newRating": 1044.2798549551521,
+          "result": "L 109-113 vs Detroit Pistons on 1970-02-07"
+        },
+        {
+          "diff": 9.228205706790277,
+          "newRating": 1053.5080606619424,
+          "result": "W 118-117 vs Philadelphia 76ers on 1970-02-08"
+        },
+        {
+          "diff": 10.126057603033814,
+          "newRating": 1063.6341182649762,
+          "result": "W 119-117 vs Baltimore Bullets on 1970-02-11"
+        },
+        {
+          "diff": 9.706995917108998,
+          "newRating": 1073.3411141820852,
+          "result": "W 141-138 vs Baltimore Bullets on 1970-02-13"
+        },
+        {
+          "diff": -5.03860494077594,
+          "newRating": 1068.3025092413093,
+          "result": "L 118-129 vs Phoenix Suns on 1970-02-17"
+        },
+        {
+          "diff": -6.414019444059477,
+          "newRating": 1061.8884897972498,
+          "result": "L 119-122 vs San Diego Rockets on 1970-02-18"
+        },
+        {
+          "diff": -5.060572426522867,
+          "newRating": 1056.827917370727,
+          "result": "L 125-127 vs Boston Celtics on 1970-02-20"
+        },
+        {
+          "diff": -2.1200395904020297,
+          "newRating": 1054.707877780325,
+          "result": "L 127-140 vs Milwaukee Bucks on 1970-02-21"
+        },
+        {
+          "diff": 6.439012646987294,
+          "newRating": 1061.1468904273122,
+          "result": "W 131-127 vs San Francisco Warriors on 1970-02-22"
+        },
+        {
+          "diff": 6.13049324749818,
+          "newRating": 1067.2773836748104,
+          "result": "W 130-122 vs San Francisco Warriors on 1970-02-24"
+        },
+        {
+          "diff": 7.982157428918299,
+          "newRating": 1075.2595411037287,
+          "result": "W 120-112 vs Atlanta Hawks on 1970-02-25"
+        },
+        {
+          "diff": 5.548814848259326,
+          "newRating": 1080.808355951988,
+          "result": "W 107-99 vs San Francisco Warriors on 1970-02-27"
+        },
+        {
+          "diff": 6.314118353424192,
+          "newRating": 1087.1224743054122,
+          "result": "W 140-104 vs Chicago Bulls on 1970-02-28"
+        },
+        {
+          "diff": 4.96557631444125,
+          "newRating": 1092.0880506198534,
+          "result": "W 126-114 vs San Diego Rockets on 1970-03-03"
+        },
+        {
+          "diff": 6.245392129299944,
+          "newRating": 1098.3334427491534,
+          "result": "W 126-122 vs Cincinnati Royals on 1970-03-06"
+        },
+        {
+          "diff": -3.0068570871585507,
+          "newRating": 1095.3265856619948,
+          "result": "L 106-109 vs Baltimore Bullets on 1970-03-08"
+        },
+        {
+          "diff": -2.169854478453999,
+          "newRating": 1093.1567311835408,
+          "result": "L 105-124 vs Milwaukee Bucks on 1970-03-09"
+        },
+        {
+          "diff": -1.198381356574373,
+          "newRating": 1091.9583498269665,
+          "result": "L 99-117 vs New York Knicks on 1970-03-10"
+        },
+        {
+          "diff": 9.088045175720026,
+          "newRating": 1101.0463950026865,
+          "result": "W 115-103 vs New York Knicks on 1970-03-13"
+        },
+        {
+          "diff": -4.53044900180339,
+          "newRating": 1096.515946000883,
+          "result": "L 113-116 vs Cincinnati Royals on 1970-03-15"
+        },
+        {
+          "diff": 5.735268136390914,
+          "newRating": 1102.251214137274,
+          "result": "W 109-102 vs Chicago Bulls on 1970-03-17"
+        },
+        {
+          "diff": 4.8371581866665565,
+          "newRating": 1107.0883723239406,
+          "result": "W 123-119 vs Boston Celtics on 1970-03-20"
+        },
+        {
+          "diff": -3.441548642591215,
+          "newRating": 1103.6468236813494,
+          "result": "L 118-121 vs Los Angeles Lakers on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "Boston Celtics",
+      "rating": 1098.7194177834604,
+      "wins": 34,
+      "losses": 48,
+      "log": [
+        {
+          "diff": -482.52848070237155,
+          "newRating": 717.4715192976284,
+          "result": "L 108-110 vs Cincinnati Royals on 1969-10-17"
+        },
+        {
+          "diff": -2.471989000660642,
+          "newRating": 714.9995302969678,
+          "result": "L 117-124 vs Baltimore Bullets on 1969-10-18"
+        },
+        {
+          "diff": -101.34880103886996,
+          "newRating": 613.6507292580978,
+          "result": "L 97-98 vs Detroit Pistons on 1969-10-21"
+        },
+        {
+          "diff": -2.7857948937088395,
+          "newRating": 610.864934364389,
+          "result": "L 110-122 vs Atlanta Hawks on 1969-10-24"
+        },
+        {
+          "diff": 157.67796870404334,
+          "newRating": 768.5429030684323,
+          "result": "W 120-107 vs Milwaukee Bucks on 1969-10-28"
+        },
+        {
+          "diff": 102.44972302467545,
+          "newRating": 870.9926260931078,
+          "result": "W 118-113 vs San Diego Rockets on 1969-10-31"
+        },
+        {
+          "diff": 110.233209487316,
+          "newRating": 981.2258355804238,
+          "result": "W 131-123 vs Philadelphia 76ers on 1969-11-01"
+        },
+        {
+          "diff": -14.867053818013915,
+          "newRating": 966.3587817624099,
+          "result": "L 121-128 vs Atlanta Hawks on 1969-11-05"
+        },
+        {
+          "diff": -17.574499510709188,
+          "newRating": 948.7842822517007,
+          "result": "L 110-111 vs San Francisco Warriors on 1969-11-07"
+        },
+        {
+          "diff": -17.22017510346143,
+          "newRating": 931.5641071482393,
+          "result": "L 87-103 vs Chicago Bulls on 1969-11-08"
+        },
+        {
+          "diff": -8.4183901443364,
+          "newRating": 923.1457170039029,
+          "result": "L 118-129 vs Milwaukee Bucks on 1969-11-11"
+        },
+        {
+          "diff": -14.829184274063323,
+          "newRating": 908.3165327298395,
+          "result": "L 107-116 vs Cincinnati Royals on 1969-11-12"
+        },
+        {
+          "diff": -6.099156003384678,
+          "newRating": 902.2173767264549,
+          "result": "L 108-109 vs Baltimore Bullets on 1969-11-14"
+        },
+        {
+          "diff": -0.9169810663910312,
+          "newRating": 901.3003956600638,
+          "result": "L 98-113 vs New York Knicks on 1969-11-15"
+        },
+        {
+          "diff": 46.875002763366865,
+          "newRating": 948.1753984234307,
+          "result": "W 120-119 vs Phoenix Suns on 1969-11-18"
+        },
+        {
+          "diff": 40.460118887889394,
+          "newRating": 988.6355173113201,
+          "result": "W 122-106 vs Chicago Bulls on 1969-11-19"
+        },
+        {
+          "diff": -15.156183592972297,
+          "newRating": 973.4793337183478,
+          "result": "L 115-118 vs San Francisco Warriors on 1969-11-21"
+        },
+        {
+          "diff": -17.751884633776058,
+          "newRating": 955.7274490845717,
+          "result": "L 116-125 vs San Diego Rockets on 1969-11-22"
+        },
+        {
+          "diff": 18.877513114488806,
+          "newRating": 974.6049621990605,
+          "result": "W 125-116 vs Seattle SuperSonics on 1969-11-23"
+        },
+        {
+          "diff": -12.73344360175156,
+          "newRating": 961.871518597309,
+          "result": "L 114-135 vs Philadelphia 76ers on 1969-11-26"
+        },
+        {
+          "diff": -5.710429271377279,
+          "newRating": 956.1610893259317,
+          "result": "L 105-130 vs Atlanta Hawks on 1969-11-28"
+        },
+        {
+          "diff": 33.55972324958282,
+          "newRating": 989.7208125755145,
+          "result": "W 121-106 vs Baltimore Bullets on 1969-11-29"
+        },
+        {
+          "diff": 31.167544288734234,
+          "newRating": 1020.8883568642487,
+          "result": "W 113-105 vs Baltimore Bullets on 1969-12-03"
+        },
+        {
+          "diff": -11.655862115918126,
+          "newRating": 1009.2324947483306,
+          "result": "L 104-105 vs Philadelphia 76ers on 1969-12-05"
+        },
+        {
+          "diff": -10.692302021803357,
+          "newRating": 998.5401927265273,
+          "result": "L 114-116 vs Chicago Bulls on 1969-12-06"
+        },
+        {
+          "diff": 22.05139307263903,
+          "newRating": 1020.5915857991663,
+          "result": "W 111-99 vs Los Angeles Lakers on 1969-12-10"
+        },
+        {
+          "diff": 15.87347644546253,
+          "newRating": 1036.4650622446288,
+          "result": "W 107-104 vs San Diego Rockets on 1969-12-12"
+        },
+        {
+          "diff": 15.363872930701291,
+          "newRating": 1051.8289351753301,
+          "result": "W 117-98 vs Detroit Pistons on 1969-12-16"
+        },
+        {
+          "diff": -5.944967421863339,
+          "newRating": 1045.8839677534668,
+          "result": "L 106-124 vs Milwaukee Bucks on 1969-12-17"
+        },
+        {
+          "diff": -5.4622377245350435,
+          "newRating": 1040.4217300289317,
+          "result": "L 111-115 vs Milwaukee Bucks on 1969-12-19"
+        },
+        {
+          "diff": -5.932539575469946,
+          "newRating": 1034.4891904534618,
+          "result": "L 106-122 vs Atlanta Hawks on 1969-12-20"
+        },
+        {
+          "diff": 15.858941722803365,
+          "newRating": 1050.3481321762652,
+          "result": "W 117-112 vs Chicago Bulls on 1969-12-23"
+        },
+        {
+          "diff": -9.374954595512236,
+          "newRating": 1040.973177580753,
+          "result": "L 116-127 vs Phoenix Suns on 1969-12-25"
+        },
+        {
+          "diff": 10.862973694840548,
+          "newRating": 1051.8361512755935,
+          "result": "W 122-112 vs Seattle SuperSonics on 1969-12-26"
+        },
+        {
+          "diff": 12.358196175900275,
+          "newRating": 1064.1943474514937,
+          "result": "W 111-110 vs San Diego Rockets on 1969-12-27"
+        },
+        {
+          "diff": -8.47533600480574,
+          "newRating": 1055.719011446688,
+          "result": "L 99-109 vs Los Angeles Lakers on 1969-12-28"
+        },
+        {
+          "diff": 10.159944596014611,
+          "newRating": 1065.8789560427026,
+          "result": "W 124-121 vs Detroit Pistons on 1969-12-31"
+        },
+        {
+          "diff": 9.290007747016716,
+          "newRating": 1075.1689637897193,
+          "result": "W 110-92 vs Detroit Pistons on 1970-01-02"
+        },
+        {
+          "diff": 18.886871225877712,
+          "newRating": 1094.055835015597,
+          "result": "W 111-104 vs New York Knicks on 1970-01-03"
+        },
+        {
+          "diff": -6.711038731949202,
+          "newRating": 1087.3447962836478,
+          "result": "L 120-130 vs Philadelphia 76ers on 1970-01-04"
+        },
+        {
+          "diff": -5.172386217675012,
+          "newRating": 1082.1724100659728,
+          "result": "L 106-112 vs Atlanta Hawks on 1970-01-07"
+        },
+        {
+          "diff": -4.5280939130273055,
+          "newRating": 1077.6443161529455,
+          "result": "L 130-142 vs Baltimore Bullets on 1970-01-09"
+        },
+        {
+          "diff": -3.643772924998075,
+          "newRating": 1074.0005432279474,
+          "result": "L 109-124 vs Milwaukee Bucks on 1970-01-10"
+        },
+        {
+          "diff": 7.101153496766074,
+          "newRating": 1081.1016967247135,
+          "result": "W 111-102 vs Seattle SuperSonics on 1970-01-13"
+        },
+        {
+          "diff": 7.908697308552746,
+          "newRating": 1089.0103940332663,
+          "result": "W 123-118 vs Detroit Pistons on 1970-01-14"
+        },
+        {
+          "diff": -7.063672396753645,
+          "newRating": 1081.9467216365126,
+          "result": "L 103-108 vs Los Angeles Lakers on 1970-01-16"
+        },
+        {
+          "diff": 15.452929525130912,
+          "newRating": 1097.3996511616435,
+          "result": "W 109-102 vs New York Knicks on 1970-01-18"
+        },
+        {
+          "diff": -6.925011580587579,
+          "newRating": 1090.474639581056,
+          "result": "L 104-111 vs Cincinnati Royals on 1970-01-22"
+        },
+        {
+          "diff": -9.303473514271445,
+          "newRating": 1081.1711660667845,
+          "result": "L 105-109 vs Detroit Pistons on 1970-01-23"
+        },
+        {
+          "diff": -1.556757935675023,
+          "newRating": 1079.6144081311095,
+          "result": "L 96-102 vs New York Knicks on 1970-01-25"
+        },
+        {
+          "diff": -1.5021860605593247,
+          "newRating": 1078.1122220705502,
+          "result": "L 100-133 vs New York Knicks on 1970-01-27"
+        },
+        {
+          "diff": 10.53767950018073,
+          "newRating": 1088.649901570731,
+          "result": "W 112-100 vs Philadelphia 76ers on 1970-01-28"
+        },
+        {
+          "diff": 9.312312857085544,
+          "newRating": 1097.9622144278164,
+          "result": "W 108-103 vs Cincinnati Royals on 1970-01-30"
+        },
+        {
+          "diff": -4.127315904815532,
+          "newRating": 1093.834898523001,
+          "result": "L 117-120 vs Baltimore Bullets on 1970-01-31"
+        },
+        {
+          "diff": -7.2078358849564665,
+          "newRating": 1086.6270626380444,
+          "result": "L 105-123 vs San Francisco Warriors on 1970-02-01"
+        },
+        {
+          "diff": 7.9398607407399595,
+          "newRating": 1094.5669233787844,
+          "result": "W 93-85 vs Chicago Bulls on 1970-02-03"
+        },
+        {
+          "diff": 6.258045961842981,
+          "newRating": 1100.8249693406274,
+          "result": "W 127-117 vs Seattle SuperSonics on 1970-02-06"
+        },
+        {
+          "diff": 7.704898872593958,
+          "newRating": 1108.5298682132213,
+          "result": "W 130-117 vs Cincinnati Royals on 1970-02-08"
+        },
+        {
+          "diff": -5.781380736988922,
+          "newRating": 1102.7484874762324,
+          "result": "L 117-122 vs Phoenix Suns on 1970-02-10"
+        },
+        {
+          "diff": 11.906789392950031,
+          "newRating": 1114.6552768691824,
+          "result": "W 125-118 vs New York Knicks on 1970-02-11"
+        },
+        {
+          "diff": -2.8775700695489377,
+          "newRating": 1111.7777067996335,
+          "result": "L 117-127 vs Milwaukee Bucks on 1970-02-14"
+        },
+        {
+          "diff": -4.908088210496089,
+          "newRating": 1106.8696185891374,
+          "result": "L 125-146 vs Atlanta Hawks on 1970-02-15"
+        },
+        {
+          "diff": 6.026544352733481,
+          "newRating": 1112.896162941871,
+          "result": "W 117-114 vs San Francisco Warriors on 1970-02-16"
+        },
+        {
+          "diff": 6.850088908045109,
+          "newRating": 1119.746251849916,
+          "result": "W 116-113 vs Phoenix Suns on 1970-02-18"
+        },
+        {
+          "diff": 5.138427386930971,
+          "newRating": 1124.884679236847,
+          "result": "W 127-125 vs Seattle SuperSonics on 1970-02-20"
+        },
+        {
+          "diff": -6.824469636044569,
+          "newRating": 1118.0602096008024,
+          "result": "L 111-116 vs San Francisco Warriors on 1970-02-21"
+        },
+        {
+          "diff": -4.739774906588536,
+          "newRating": 1113.3204346942139,
+          "result": "L 96-108 vs Los Angeles Lakers on 1970-02-22"
+        },
+        {
+          "diff": 4.924071745863557,
+          "newRating": 1118.2445064400774,
+          "result": "W 147-124 vs San Diego Rockets on 1970-02-25"
+        },
+        {
+          "diff": -5.36053078065197,
+          "newRating": 1112.8839756594255,
+          "result": "L 125-134 vs Phoenix Suns on 1970-02-27"
+        },
+        {
+          "diff": -4.395800765119702,
+          "newRating": 1108.4881748943058,
+          "result": "L 114-120 vs Los Angeles Lakers on 1970-03-01"
+        },
+        {
+          "diff": 4.819791352574839,
+          "newRating": 1113.3079662468806,
+          "result": "W 115-110 vs San Francisco Warriors on 1970-03-04"
+        },
+        {
+          "diff": -4.367134785436974,
+          "newRating": 1108.9408314614436,
+          "result": "L 134-150 vs Philadelphia 76ers on 1970-03-06"
+        },
+        {
+          "diff": -2.4280905524146874,
+          "newRating": 1106.512740909029,
+          "result": "L 134-138 vs Milwaukee Bucks on 1970-03-08"
+        },
+        {
+          "diff": -5.722593737757279,
+          "newRating": 1100.7901471712717,
+          "result": "L 112-115 vs Detroit Pistons on 1970-03-10"
+        },
+        {
+          "diff": 5.931171519037207,
+          "newRating": 1106.7213186903089,
+          "result": "W 144-127 vs Cincinnati Royals on 1970-03-11"
+        },
+        {
+          "diff": -4.97655314525332,
+          "newRating": 1101.7447655450555,
+          "result": "L 113-134 vs Chicago Bulls on 1970-03-13"
+        },
+        {
+          "diff": -3.0011542557383564,
+          "newRating": 1098.7436112893172,
+          "result": "L 127-130 vs Baltimore Bullets on 1970-03-15"
+        },
+        {
+          "diff": -6.103094685059887,
+          "newRating": 1092.6405166042573,
+          "result": "L 117-125 vs San Diego Rockets on 1970-03-17"
+        },
+        {
+          "diff": 6.789727834756832,
+          "newRating": 1099.4302444390141,
+          "result": "W 137-122 vs Los Angeles Lakers on 1970-03-18"
+        },
+        {
+          "diff": -4.293930643300655,
+          "newRating": 1095.1363137957135,
+          "result": "L 123-127 vs Phoenix Suns on 1970-03-19"
+        },
+        {
+          "diff": -4.8371581866665565,
+          "newRating": 1090.299155609047,
+          "result": "L 119-123 vs Seattle SuperSonics on 1970-03-20"
+        },
+        {
+          "diff": 8.420262174413438,
+          "newRating": 1098.7194177834604,
+          "result": "W 115-112 vs New York Knicks on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "Detroit Pistons",
+      "rating": 1074.0625299475273,
+      "wins": 31,
+      "losses": 51,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 110-119 vs Milwaukee Bucks on 1969-10-18"
+        },
+        {
+          "diff": 152.023201558305,
+          "newRating": 952.023201558305,
+          "result": "W 98-97 vs Boston Celtics on 1969-10-21"
+        },
+        {
+          "diff": -9.56688072445786,
+          "newRating": 942.4563208338471,
+          "result": "L 92-116 vs New York Knicks on 1969-10-24"
+        },
+        {
+          "diff": 183.1049129626182,
+          "newRating": 1125.5612337964653,
+          "result": "W 125-104 vs Atlanta Hawks on 1969-10-25"
+        },
+        {
+          "diff": -36.15536886130508,
+          "newRating": 1089.4058649351603,
+          "result": "L 110-125 vs Baltimore Bullets on 1969-10-28"
+        },
+        {
+          "diff": -40.90799727423746,
+          "newRating": 1048.4978676609228,
+          "result": "L 81-102 vs Milwaukee Bucks on 1969-10-30"
+        },
+        {
+          "diff": 32.61549178292603,
+          "newRating": 1081.1133594438488,
+          "result": "W 130-113 vs San Diego Rockets on 1969-11-01"
+        },
+        {
+          "diff": -88.06408728853023,
+          "newRating": 993.0492721553186,
+          "result": "L 102-116 vs Seattle SuperSonics on 1969-11-04"
+        },
+        {
+          "diff": 76.65151533033952,
+          "newRating": 1069.700787485658,
+          "result": "W 134-128 vs Philadelphia 76ers on 1969-11-07"
+        },
+        {
+          "diff": -16.219904635074954,
+          "newRating": 1053.4808828505832,
+          "result": "L 96-100 vs Milwaukee Bucks on 1969-11-08"
+        },
+        {
+          "diff": -18.964612091315985,
+          "newRating": 1034.5162707592672,
+          "result": "L 129-140 vs Phoenix Suns on 1969-11-09"
+        },
+        {
+          "diff": 50.52253084920335,
+          "newRating": 1085.0388016084705,
+          "result": "W 110-102 vs Los Angeles Lakers on 1969-11-11"
+        },
+        {
+          "diff": -45.30832383101074,
+          "newRating": 1039.7304777774598,
+          "result": "L 119-132 vs San Diego Rockets on 1969-11-12"
+        },
+        {
+          "diff": -41.8638378162392,
+          "newRating": 997.8666399612206,
+          "result": "L 113-117 vs Seattle SuperSonics on 1969-11-13"
+        },
+        {
+          "diff": 37.8575826587936,
+          "newRating": 1035.7242226200142,
+          "result": "W 105-104 vs Cincinnati Royals on 1969-11-15"
+        },
+        {
+          "diff": -13.634978161546542,
+          "newRating": 1022.0892444584676,
+          "result": "L 114-125 vs Los Angeles Lakers on 1969-11-18"
+        },
+        {
+          "diff": -7.308328545522841,
+          "newRating": 1014.7809159129448,
+          "result": "L 106-118 vs Atlanta Hawks on 1969-11-21"
+        },
+        {
+          "diff": 31.283999869221475,
+          "newRating": 1046.0649157821663,
+          "result": "W 104-103 vs Chicago Bulls on 1969-11-25"
+        },
+        {
+          "diff": -15.58650199069939,
+          "newRating": 1030.478413791467,
+          "result": "L 109-129 vs Chicago Bulls on 1969-11-26"
+        },
+        {
+          "diff": -14.978728992793208,
+          "newRating": 1015.4996847986737,
+          "result": "L 91-110 vs Philadelphia 76ers on 1969-11-28"
+        },
+        {
+          "diff": 37.04430097872262,
+          "newRating": 1052.5439857773963,
+          "result": "W 110-98 vs New York Knicks on 1969-11-29"
+        },
+        {
+          "diff": -12.783172372343415,
+          "newRating": 1039.7608134050529,
+          "result": "L 109-116 vs San Francisco Warriors on 1969-12-02"
+        },
+        {
+          "diff": 23.671007338167556,
+          "newRating": 1063.4318207432204,
+          "result": "W 106-102 vs San Francisco Warriors on 1969-12-03"
+        },
+        {
+          "diff": -11.922465670693555,
+          "newRating": 1051.509355072527,
+          "result": "L 109-128 vs Los Angeles Lakers on 1969-12-05"
+        },
+        {
+          "diff": 21.29944083193368,
+          "newRating": 1072.8087959044606,
+          "result": "W 118-113 vs Phoenix Suns on 1969-12-07"
+        },
+        {
+          "diff": 13.71205978035482,
+          "newRating": 1086.5208556848154,
+          "result": "W 111-102 vs San Diego Rockets on 1969-12-08"
+        },
+        {
+          "diff": -20.43119522443294,
+          "newRating": 1066.0896604603824,
+          "result": "L 104-109 vs Seattle SuperSonics on 1969-12-09"
+        },
+        {
+          "diff": 18.999736778777105,
+          "newRating": 1085.0893972391596,
+          "result": "W 119-116 vs Cincinnati Royals on 1969-12-11"
+        },
+        {
+          "diff": -10.960822990162114,
+          "newRating": 1074.1285742489974,
+          "result": "L 111-125 vs Philadelphia 76ers on 1969-12-12"
+        },
+        {
+          "diff": -11.392208943790592,
+          "newRating": 1062.7363653052068,
+          "result": "L 97-104 vs San Francisco Warriors on 1969-12-13"
+        },
+        {
+          "diff": -13.877046518052794,
+          "newRating": 1048.859318787154,
+          "result": "L 98-117 vs Boston Celtics on 1969-12-16"
+        },
+        {
+          "diff": -12.916396758041628,
+          "newRating": 1035.9429220291124,
+          "result": "L 107-114 vs San Diego Rockets on 1969-12-17"
+        },
+        {
+          "diff": -4.0468354347142395,
+          "newRating": 1031.8960865943982,
+          "result": "L 105-108 vs Baltimore Bullets on 1969-12-19"
+        },
+        {
+          "diff": 15.706089841958601,
+          "newRating": 1047.6021764363568,
+          "result": "W 114-113 vs Phoenix Suns on 1969-12-20"
+        },
+        {
+          "diff": -1.3428589025190831,
+          "newRating": 1046.2593175338377,
+          "result": "L 111-112 vs New York Knicks on 1969-12-25"
+        },
+        {
+          "diff": -4.321946669539784,
+          "newRating": 1041.937370864298,
+          "result": "L 101-114 vs Milwaukee Bucks on 1969-12-26"
+        },
+        {
+          "diff": -7.161090137593646,
+          "newRating": 1034.7762807267043,
+          "result": "L 103-110 vs Cincinnati Royals on 1969-12-29"
+        },
+        {
+          "diff": -9.892577632961547,
+          "newRating": 1024.8837030937427,
+          "result": "L 121-124 vs Boston Celtics on 1969-12-31"
+        },
+        {
+          "diff": -9.051802420170247,
+          "newRating": 1015.8319006735725,
+          "result": "L 92-110 vs Boston Celtics on 1970-01-02"
+        },
+        {
+          "diff": -6.811468074678601,
+          "newRating": 1009.0204325988939,
+          "result": "L 109-114 vs Phoenix Suns on 1970-01-03"
+        },
+        {
+          "diff": 9.611370328447492,
+          "newRating": 1018.6318029273414,
+          "result": "W 116-110 vs Seattle SuperSonics on 1970-01-04"
+        },
+        {
+          "diff": -6.647536668182511,
+          "newRating": 1011.9842662591589,
+          "result": "L 102-118 vs San Francisco Warriors on 1970-01-05"
+        },
+        {
+          "diff": -3.256116052351217,
+          "newRating": 1008.7281502068076,
+          "result": "L 116-121 vs Baltimore Bullets on 1970-01-07"
+        },
+        {
+          "diff": 9.006768926099994,
+          "newRating": 1017.7349191329076,
+          "result": "W 129-128 vs Seattle SuperSonics on 1970-01-10"
+        },
+        {
+          "diff": 14.081113383128468,
+          "newRating": 1031.816032516036,
+          "result": "W 113-100 vs Atlanta Hawks on 1970-01-12"
+        },
+        {
+          "diff": 10.816969777489021,
+          "newRating": 1042.6330022935251,
+          "result": "W 115-102 vs San Francisco Warriors on 1970-01-13"
+        },
+        {
+          "diff": -7.5721569975505645,
+          "newRating": 1035.0608452959746,
+          "result": "L 118-123 vs Boston Celtics on 1970-01-14"
+        },
+        {
+          "diff": -1.2062918937765517,
+          "newRating": 1033.854553402198,
+          "result": "L 102-104 vs New York Knicks on 1970-01-16"
+        },
+        {
+          "diff": 11.049157894592781,
+          "newRating": 1044.9037112967908,
+          "result": "W 106-100 vs Los Angeles Lakers on 1970-01-18"
+        },
+        {
+          "diff": -3.2766422410174982,
+          "newRating": 1041.6270690557733,
+          "result": "L 115-119 vs Baltimore Bullets on 1970-01-22"
+        },
+        {
+          "diff": 8.93863141567249,
+          "newRating": 1050.5657004714458,
+          "result": "W 109-105 vs Boston Celtics on 1970-01-23"
+        },
+        {
+          "diff": 9.564832019693085,
+          "newRating": 1060.1305324911389,
+          "result": "W 128-122 vs Chicago Bulls on 1970-01-24"
+        },
+        {
+          "diff": -6.102024759871028,
+          "newRating": 1054.0285077312678,
+          "result": "L 111-120 vs Chicago Bulls on 1970-01-25"
+        },
+        {
+          "diff": -1.231279405796613,
+          "newRating": 1052.7972283254712,
+          "result": "L 106-127 vs New York Knicks on 1970-01-29"
+        },
+        {
+          "diff": 11.373427062030032,
+          "newRating": 1064.1706553875013,
+          "result": "W 129-117 vs Baltimore Bullets on 1970-01-30"
+        },
+        {
+          "diff": -5.171201646478494,
+          "newRating": 1058.9994537410228,
+          "result": "L 115-117 vs Cincinnati Royals on 1970-01-31"
+        },
+        {
+          "diff": -1.163772288855398,
+          "newRating": 1057.8356814521674,
+          "result": "L 111-117 vs New York Knicks on 1970-02-01"
+        },
+        {
+          "diff": -4.290889171128811,
+          "newRating": 1053.5447922810386,
+          "result": "L 121-125 vs Atlanta Hawks on 1970-02-02"
+        },
+        {
+          "diff": 9.609084565054673,
+          "newRating": 1063.1538768460932,
+          "result": "W 125-109 vs Los Angeles Lakers on 1970-02-04"
+        },
+        {
+          "diff": -3.2201775012770213,
+          "newRating": 1059.9336993448162,
+          "result": "L 148-153 vs Baltimore Bullets on 1970-02-06"
+        },
+        {
+          "diff": 6.384478691873255,
+          "newRating": 1066.3181780366895,
+          "result": "W 113-109 vs Seattle SuperSonics on 1970-02-07"
+        },
+        {
+          "diff": -5.198985698562865,
+          "newRating": 1061.1191923381266,
+          "result": "L 115-117 vs Cincinnati Royals on 1970-02-10"
+        },
+        {
+          "diff": -4.937539919633991,
+          "newRating": 1056.1816524184926,
+          "result": "L 113-124 vs Cincinnati Royals on 1970-02-11"
+        },
+        {
+          "diff": 7.980290552922952,
+          "newRating": 1064.1619429714156,
+          "result": "W 132-120 vs Phoenix Suns on 1970-02-13"
+        },
+        {
+          "diff": 7.297380463373656,
+          "newRating": 1071.4593234347892,
+          "result": "W 126-119 vs Chicago Bulls on 1970-02-15"
+        },
+        {
+          "diff": -4.1856923570449,
+          "newRating": 1067.2736310777443,
+          "result": "L 114-133 vs Philadelphia 76ers on 1970-02-19"
+        },
+        {
+          "diff": 9.060547700218876,
+          "newRating": 1076.3341787779632,
+          "result": "W 122-119 vs Baltimore Bullets on 1970-02-20"
+        },
+        {
+          "diff": -4.182794643452098,
+          "newRating": 1072.151384134511,
+          "result": "L 110-112 vs Philadelphia 76ers on 1970-02-21"
+        },
+        {
+          "diff": 8.06514321563327,
+          "newRating": 1080.2165273501444,
+          "result": "W 116-114 vs Atlanta Hawks on 1970-02-22"
+        },
+        {
+          "diff": 9.218616241549398,
+          "newRating": 1089.4351435916938,
+          "result": "W 136-111 vs Milwaukee Bucks on 1970-02-24"
+        },
+        {
+          "diff": -4.238187635490021,
+          "newRating": 1085.1969559562037,
+          "result": "L 105-122 vs Philadelphia 76ers on 1970-02-25"
+        },
+        {
+          "diff": -4.69004631134203,
+          "newRating": 1080.5069096448617,
+          "result": "L 123-131 vs Phoenix Suns on 1970-02-26"
+        },
+        {
+          "diff": -2.166214146985112,
+          "newRating": 1078.3406954978766,
+          "result": "L 113-131 vs Milwaukee Bucks on 1970-02-27"
+        },
+        {
+          "diff": 5.188474893726834,
+          "newRating": 1083.5291703916034,
+          "result": "W 116-99 vs San Francisco Warriors on 1970-03-01"
+        },
+        {
+          "diff": -2.1259556187096678,
+          "newRating": 1081.4032147728938,
+          "result": "L 118-121 vs Milwaukee Bucks on 1970-03-06"
+        },
+        {
+          "diff": 4.698612372896832,
+          "newRating": 1086.1018271457906,
+          "result": "W 134-126 vs San Diego Rockets on 1970-03-07"
+        },
+        {
+          "diff": 5.499635540182226,
+          "newRating": 1091.6014626859728,
+          "result": "W 115-112 vs Boston Celtics on 1970-03-10"
+        },
+        {
+          "diff": -4.554458519924083,
+          "newRating": 1087.0470041660487,
+          "result": "L 96-111 vs Chicago Bulls on 1970-03-14"
+        },
+        {
+          "diff": -1.2252984219892369,
+          "newRating": 1085.8217057440595,
+          "result": "L 106-122 vs New York Knicks on 1970-03-17"
+        },
+        {
+          "diff": -5.685204154286339,
+          "newRating": 1080.1365015897732,
+          "result": "L 118-132 vs San Diego Rockets on 1970-03-19"
+        },
+        {
+          "diff": -3.1820386060305736,
+          "newRating": 1076.9544629837426,
+          "result": "L 111-117 vs Los Angeles Lakers on 1970-03-20"
+        },
+        {
+          "diff": -2.8919330362152778,
+          "newRating": 1074.0625299475273,
+          "result": "L 126-130 vs Atlanta Hawks on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "San Francisco Warriors",
+      "rating": 1055.1006697613157,
+      "wins": 30,
+      "losses": 52,
+      "log": [
+        {
+          "diff": -727.2727272727273,
+          "newRating": 472.72727272727275,
+          "result": "L 124-125 vs San Diego Rockets on 1969-10-18"
+        },
+        {
+          "diff": 399.4587353465067,
+          "newRating": 872.1860080737795,
+          "result": "W 94-93 vs Atlanta Hawks on 1969-10-22"
+        },
+        {
+          "diff": 263.7654060781724,
+          "newRating": 1135.951414151952,
+          "result": "W 112-109 vs New York Knicks on 1969-10-23"
+        },
+        {
+          "diff": 170.36383554457825,
+          "newRating": 1306.3152496965301,
+          "result": "W 118-104 vs Milwaukee Bucks on 1969-10-25"
+        },
+        {
+          "diff": -127.12677331777968,
+          "newRating": 1179.1884763787505,
+          "result": "L 87-101 vs Chicago Bulls on 1969-10-29"
+        },
+        {
+          "diff": 46.04793741162666,
+          "newRating": 1225.2364137903771,
+          "result": "W 120-97 vs Cincinnati Royals on 1969-11-01"
+        },
+        {
+          "diff": -59.29184616554858,
+          "newRating": 1165.9445676248286,
+          "result": "L 105-124 vs Baltimore Bullets on 1969-11-04"
+        },
+        {
+          "diff": 43.73189493589621,
+          "newRating": 1209.6764625607248,
+          "result": "W 130-109 vs Cincinnati Royals on 1969-11-06"
+        },
+        {
+          "diff": 17.574499510709302,
+          "newRating": 1227.250962071434,
+          "result": "W 111-110 vs Boston Celtics on 1969-11-07"
+        },
+        {
+          "diff": -29.23670921898156,
+          "newRating": 1198.0142528524525,
+          "result": "L 93-106 vs Atlanta Hawks on 1969-11-08"
+        },
+        {
+          "diff": -64.41614513605646,
+          "newRating": 1133.598107716396,
+          "result": "L 99-100 vs San Diego Rockets on 1969-11-10"
+        },
+        {
+          "diff": -4.020159708624078,
+          "newRating": 1129.577948007772,
+          "result": "L 103-116 vs New York Knicks on 1969-11-11"
+        },
+        {
+          "diff": -11.801509732732939,
+          "newRating": 1117.776438275039,
+          "result": "L 109-120 vs Atlanta Hawks on 1969-11-14"
+        },
+        {
+          "diff": -25.347627443203464,
+          "newRating": 1092.4288108318356,
+          "result": "L 105-124 vs Chicago Bulls on 1969-11-15"
+        },
+        {
+          "diff": -13.316603844791189,
+          "newRating": 1079.1122069870444,
+          "result": "L 123-129 vs Milwaukee Bucks on 1969-11-16"
+        },
+        {
+          "diff": 38.818016283398265,
+          "newRating": 1117.9302232704426,
+          "result": "W 127-110 vs Milwaukee Bucks on 1969-11-18"
+        },
+        {
+          "diff": 15.156183592972184,
+          "newRating": 1133.0864068634148,
+          "result": "W 118-115 vs Boston Celtics on 1969-11-21"
+        },
+        {
+          "diff": -14.991581423106027,
+          "newRating": 1118.0948254403088,
+          "result": "L 98-106 vs Los Angeles Lakers on 1969-11-22"
+        },
+        {
+          "diff": 8.840860423588538,
+          "newRating": 1126.9356858638973,
+          "result": "W 114-106 vs Seattle SuperSonics on 1969-11-25"
+        },
+        {
+          "diff": 16.974171521305607,
+          "newRating": 1143.909857385203,
+          "result": "W 126-125 vs San Diego Rockets on 1969-11-26"
+        },
+        {
+          "diff": -7.788347368754103,
+          "newRating": 1136.1215100164488,
+          "result": "L 116-118 vs Baltimore Bullets on 1969-11-27"
+        },
+        {
+          "diff": 22.78795628262742,
+          "newRating": 1158.9094662990763,
+          "result": "W 114-108 vs Los Angeles Lakers on 1969-11-28"
+        },
+        {
+          "diff": 12.227382269198188,
+          "newRating": 1171.1368485682744,
+          "result": "W 116-109 vs Detroit Pistons on 1969-12-02"
+        },
+        {
+          "diff": -22.68471536574407,
+          "newRating": 1148.4521332025304,
+          "result": "L 102-106 vs Detroit Pistons on 1969-12-03"
+        },
+        {
+          "diff": 11.904908776145021,
+          "newRating": 1160.3570419786754,
+          "result": "W 112-107 vs San Diego Rockets on 1969-12-05"
+        },
+        {
+          "diff": -10.506612682623427,
+          "newRating": 1149.850429296052,
+          "result": "L 115-117 vs Atlanta Hawks on 1969-12-09"
+        },
+        {
+          "diff": -15.023032780918584,
+          "newRating": 1134.8273965151334,
+          "result": "L 104-110 vs Chicago Bulls on 1969-12-11"
+        },
+        {
+          "diff": -9.755678651213202,
+          "newRating": 1125.0717178639202,
+          "result": "L 109-123 vs Milwaukee Bucks on 1969-12-12"
+        },
+        {
+          "diff": 11.785043734955707,
+          "newRating": 1136.856761598876,
+          "result": "W 104-97 vs Detroit Pistons on 1969-12-13"
+        },
+        {
+          "diff": 7.662480856890625,
+          "newRating": 1144.5192424557665,
+          "result": "W 125-119 vs Seattle SuperSonics on 1969-12-16"
+        },
+        {
+          "diff": -16.32258825239296,
+          "newRating": 1128.1966542033736,
+          "result": "L 111-119 vs San Diego Rockets on 1969-12-19"
+        },
+        {
+          "diff": -10.091755654188546,
+          "newRating": 1118.104898549185,
+          "result": "L 109-122 vs Philadelphia 76ers on 1969-12-20"
+        },
+        {
+          "diff": 8.864805214088392,
+          "newRating": 1126.9697037632734,
+          "result": "W 119-115 vs Seattle SuperSonics on 1969-12-23"
+        },
+        {
+          "diff": 12.420263334430274,
+          "newRating": 1139.3899670977037,
+          "result": "W 124-120 vs Cincinnati Royals on 1969-12-25"
+        },
+        {
+          "diff": -9.96431503994495,
+          "newRating": 1129.4256520577587,
+          "result": "L 121-141 vs Philadelphia 76ers on 1969-12-26"
+        },
+        {
+          "diff": -5.531486927206743,
+          "newRating": 1123.894165130552,
+          "result": "L 112-147 vs Baltimore Bullets on 1969-12-27"
+        },
+        {
+          "diff": -8.93783749986892,
+          "newRating": 1114.956327630683,
+          "result": "L 112-138 vs Philadelphia 76ers on 1969-12-28"
+        },
+        {
+          "diff": 11.784641351736582,
+          "newRating": 1126.7409689824196,
+          "result": "W 105-100 vs Los Angeles Lakers on 1969-12-30"
+        },
+        {
+          "diff": -9.730096564741189,
+          "newRating": 1117.0108724176785,
+          "result": "L 95-125 vs Los Angeles Lakers on 1970-01-02"
+        },
+        {
+          "diff": 9.926462024287048,
+          "newRating": 1126.9373344419655,
+          "result": "W 116-102 vs Chicago Bulls on 1970-01-03"
+        },
+        {
+          "diff": 6.809671708869928,
+          "newRating": 1133.7470061508354,
+          "result": "W 118-102 vs Detroit Pistons on 1970-01-05"
+        },
+        {
+          "diff": -2.1913450922600077,
+          "newRating": 1131.5556610585754,
+          "result": "L 94-99 vs New York Knicks on 1970-01-07"
+        },
+        {
+          "diff": -11.306835018920765,
+          "newRating": 1120.2488260396547,
+          "result": "L 103-120 vs San Diego Rockets on 1970-01-08"
+        },
+        {
+          "diff": -1.9312676921788352,
+          "newRating": 1118.3175583474758,
+          "result": "L 93-123 vs New York Knicks on 1970-01-09"
+        },
+        {
+          "diff": -11.057346883655555,
+          "newRating": 1107.2602114638203,
+          "result": "L 102-115 vs Detroit Pistons on 1970-01-13"
+        },
+        {
+          "diff": 11.588793258317764,
+          "newRating": 1118.849004722138,
+          "result": "W 103-101 vs Atlanta Hawks on 1970-01-14"
+        },
+        {
+          "diff": -7.043526281663617,
+          "newRating": 1111.8054784404744,
+          "result": "L 105-127 vs Philadelphia 76ers on 1970-01-16"
+        },
+        {
+          "diff": -3.7990772856771855,
+          "newRating": 1108.0064011547972,
+          "result": "L 107-123 vs Milwaukee Bucks on 1970-01-18"
+        },
+        {
+          "diff": -7.170966588421834,
+          "newRating": 1100.8354345663754,
+          "result": "L 108-122 vs Los Angeles Lakers on 1970-01-22"
+        },
+        {
+          "diff": 9.005250808608935,
+          "newRating": 1109.8406853749843,
+          "result": "W 138-132 vs Phoenix Suns on 1970-01-23"
+        },
+        {
+          "diff": -7.252239138911364,
+          "newRating": 1102.588446236073,
+          "result": "L 99-109 vs Phoenix Suns on 1970-01-24"
+        },
+        {
+          "diff": -5.103779148083959,
+          "newRating": 1097.484667087989,
+          "result": "L 104-131 vs Atlanta Hawks on 1970-01-26"
+        },
+        {
+          "diff": -9.157226207797748,
+          "newRating": 1088.3274408801913,
+          "result": "L 101-105 vs Seattle SuperSonics on 1970-01-29"
+        },
+        {
+          "diff": 8.607556792622063,
+          "newRating": 1096.9349976728133,
+          "result": "W 125-116 vs Phoenix Suns on 1970-01-30"
+        },
+        {
+          "diff": 7.2078358849564665,
+          "newRating": 1104.1428335577698,
+          "result": "W 123-105 vs Boston Celtics on 1970-02-01"
+        },
+        {
+          "diff": -1.4902223869578393,
+          "newRating": 1102.652611170812,
+          "result": "L 98-118 vs New York Knicks on 1970-02-03"
+        },
+        {
+          "diff": 7.330267026359024,
+          "newRating": 1109.982878197171,
+          "result": "W 127-105 vs Chicago Bulls on 1970-02-05"
+        },
+        {
+          "diff": -6.168878507366344,
+          "newRating": 1103.8139996898046,
+          "result": "L 117-122 vs Phoenix Suns on 1970-02-06"
+        },
+        {
+          "diff": -5.143340673236253,
+          "newRating": 1098.6706590165684,
+          "result": "L 111-115 vs Philadelphia 76ers on 1970-02-07"
+        },
+        {
+          "diff": 8.690450623626248,
+          "newRating": 1107.3611096401946,
+          "result": "W 113-104 vs Atlanta Hawks on 1970-02-10"
+        },
+        {
+          "diff": -5.118960533883637,
+          "newRating": 1102.242149106311,
+          "result": "L 115-125 vs Los Angeles Lakers on 1970-02-11"
+        },
+        {
+          "diff": -5.671407951123911,
+          "newRating": 1096.570741155187,
+          "result": "L 110-128 vs Cincinnati Royals on 1970-02-13"
+        },
+        {
+          "diff": -7.372766870984151,
+          "newRating": 1089.197974284203,
+          "result": "L 123-141 vs San Diego Rockets on 1970-02-14"
+        },
+        {
+          "diff": -5.932379597222052,
+          "newRating": 1083.2655946869809,
+          "result": "L 114-117 vs Boston Celtics on 1970-02-16"
+        },
+        {
+          "diff": -2.404934134140376,
+          "newRating": 1080.8606605528405,
+          "result": "L 102-109 vs Milwaukee Bucks on 1970-02-18"
+        },
+        {
+          "diff": 6.824469636044569,
+          "newRating": 1087.685130188885,
+          "result": "W 116-111 vs Boston Celtics on 1970-02-21"
+        },
+        {
+          "diff": -6.5351173133601606,
+          "newRating": 1081.150012875525,
+          "result": "L 127-131 vs Seattle SuperSonics on 1970-02-22"
+        },
+        {
+          "diff": -6.220647559961435,
+          "newRating": 1074.9293653155635,
+          "result": "L 122-130 vs Seattle SuperSonics on 1970-02-24"
+        },
+        {
+          "diff": -4.911414267339978,
+          "newRating": 1070.0179510482235,
+          "result": "L 104-112 vs Chicago Bulls on 1970-02-25"
+        },
+        {
+          "diff": -5.628083631806021,
+          "newRating": 1064.3898674164175,
+          "result": "L 99-107 vs Seattle SuperSonics on 1970-02-27"
+        },
+        {
+          "diff": -5.407706227264498,
+          "newRating": 1058.982161189153,
+          "result": "L 99-116 vs Detroit Pistons on 1970-03-01"
+        },
+        {
+          "diff": -1.0476989646422226,
+          "newRating": 1057.9344622245108,
+          "result": "L 100-115 vs New York Knicks on 1970-03-03"
+        },
+        {
+          "diff": -4.687742274422135,
+          "newRating": 1053.2467199500886,
+          "result": "L 110-115 vs Boston Celtics on 1970-03-04"
+        },
+        {
+          "diff": 6.869705009735071,
+          "newRating": 1060.1164249598237,
+          "result": "W 107-97 vs Phoenix Suns on 1970-03-06"
+        },
+        {
+          "diff": -4.124241453291688,
+          "newRating": 1055.992183506532,
+          "result": "L 119-121 vs Cincinnati Royals on 1970-03-07"
+        },
+        {
+          "diff": -3.2018344787882143,
+          "newRating": 1052.7903490277438,
+          "result": "L 104-106 vs Los Angeles Lakers on 1970-03-10"
+        },
+        {
+          "diff": 8.01107488805792,
+          "newRating": 1060.8014239158017,
+          "result": "W 115-112 vs Baltimore Bullets on 1970-03-11"
+        },
+        {
+          "diff": -2.519182374283673,
+          "newRating": 1058.282241541518,
+          "result": "L 108-114 vs Baltimore Bullets on 1970-03-13"
+        },
+        {
+          "diff": -3.825159168092796,
+          "newRating": 1054.4570823734252,
+          "result": "L 121-133 vs Phoenix Suns on 1970-03-17"
+        },
+        {
+          "diff": 6.1699088710322485,
+          "newRating": 1060.6269912444575,
+          "result": "W 118-111 vs Cincinnati Royals on 1970-03-20"
+        },
+        {
+          "diff": -2.3950957927384025,
+          "newRating": 1058.231895451719,
+          "result": "L 123-127 vs Baltimore Bullets on 1970-03-21"
+        },
+        {
+          "diff": -3.1312256904034257,
+          "newRating": 1055.1006697613157,
+          "result": "L 112-132 vs Philadelphia 76ers on 1970-03-22"
+        }
+      ]
+    },
+    {
+      "team": "San Diego Rockets",
+      "rating": 1036.8589799331905,
+      "wins": 27,
+      "losses": 55,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 114-116 vs Phoenix Suns on 1969-10-16"
+        },
+        {
+          "diff": 363.6363636363635,
+          "newRating": 1163.6363636363635,
+          "result": "W 125-124 vs San Francisco Warriors on 1969-10-18"
+        },
+        {
+          "diff": -19.836093166559976,
+          "newRating": 1143.8002704698035,
+          "result": "L 102-115 vs Milwaukee Bucks on 1969-10-22"
+        },
+        {
+          "diff": -118.70262783002545,
+          "newRating": 1025.097642639778,
+          "result": "L 107-115 vs Phoenix Suns on 1969-10-25"
+        },
+        {
+          "diff": -43.87611997175293,
+          "newRating": 981.2215226680252,
+          "result": "L 113-117 vs Atlanta Hawks on 1969-10-29"
+        },
+        {
+          "diff": -4.365529699092463,
+          "newRating": 976.8559929689327,
+          "result": "L 110-123 vs New York Knicks on 1969-10-30"
+        },
+        {
+          "diff": -87.81404830686472,
+          "newRating": 889.041944662068,
+          "result": "L 113-118 vs Boston Celtics on 1969-10-31"
+        },
+        {
+          "diff": -28.53855531006036,
+          "newRating": 860.5033893520076,
+          "result": "L 113-130 vs Detroit Pistons on 1969-11-01"
+        },
+        {
+          "diff": -17.233046751137636,
+          "newRating": 843.27034260087,
+          "result": "L 120-133 vs Cincinnati Royals on 1969-11-05"
+        },
+        {
+          "diff": -0.9900026011640648,
+          "newRating": 842.2803399997059,
+          "result": "L 111-129 vs New York Knicks on 1969-11-07"
+        },
+        {
+          "diff": 64.41614513605646,
+          "newRating": 906.6964851357624,
+          "result": "W 100-99 vs San Francisco Warriors on 1969-11-10"
+        },
+        {
+          "diff": 49.08401748359506,
+          "newRating": 955.7805026193574,
+          "result": "W 132-119 vs Detroit Pistons on 1969-11-12"
+        },
+        {
+          "diff": 26.71355443966911,
+          "newRating": 982.4940570590265,
+          "result": "W 148-112 vs Seattle SuperSonics on 1969-11-14"
+        },
+        {
+          "diff": 52.140718237274086,
+          "newRating": 1034.6347752963006,
+          "result": "W 133-118 vs Atlanta Hawks on 1969-11-15"
+        },
+        {
+          "diff": -8.524341101874825,
+          "newRating": 1026.1104341944258,
+          "result": "L 138-142 vs Baltimore Bullets on 1969-11-18"
+        },
+        {
+          "diff": 30.46908097678579,
+          "newRating": 1056.5795151712116,
+          "result": "W 125-116 vs Philadelphia 76ers on 1969-11-19"
+        },
+        {
+          "diff": -12.2418783738799,
+          "newRating": 1044.3376367973317,
+          "result": "L 98-100 vs Los Angeles Lakers on 1969-11-21"
+        },
+        {
+          "diff": 17.75188463377617,
+          "newRating": 1062.0895214311079,
+          "result": "W 125-116 vs Boston Celtics on 1969-11-22"
+        },
+        {
+          "diff": 11.875492871600272,
+          "newRating": 1073.9650143027081,
+          "result": "W 112-105 vs Seattle SuperSonics on 1969-11-24"
+        },
+        {
+          "diff": -16.974171521305607,
+          "newRating": 1056.9908427814025,
+          "result": "L 125-126 vs San Francisco Warriors on 1969-11-26"
+        },
+        {
+          "diff": -13.97270481538817,
+          "newRating": 1043.0181379660144,
+          "result": "L 119-126 vs Chicago Bulls on 1969-11-28"
+        },
+        {
+          "diff": -9.135442611373037,
+          "newRating": 1033.8826953546413,
+          "result": "L 99-111 vs Milwaukee Bucks on 1969-11-30"
+        },
+        {
+          "diff": 23.62387377655523,
+          "newRating": 1057.5065691311966,
+          "result": "W 146-131 vs Chicago Bulls on 1969-12-03"
+        },
+        {
+          "diff": -12.400946641817654,
+          "newRating": 1045.105622489379,
+          "result": "L 107-112 vs San Francisco Warriors on 1969-12-05"
+        },
+        {
+          "diff": -10.218548613494022,
+          "newRating": 1034.8870738758849,
+          "result": "L 115-128 vs Los Angeles Lakers on 1969-12-06"
+        },
+        {
+          "diff": -13.712059780354934,
+          "newRating": 1021.17501409553,
+          "result": "L 102-111 vs Detroit Pistons on 1969-12-08"
+        },
+        {
+          "diff": 24.28659111858508,
+          "newRating": 1045.461605214115,
+          "result": "W 126-107 vs Atlanta Hawks on 1969-12-10"
+        },
+        {
+          "diff": -15.306566572410247,
+          "newRating": 1030.1550386417048,
+          "result": "L 104-107 vs Boston Celtics on 1969-12-12"
+        },
+        {
+          "diff": -4.837407626647064,
+          "newRating": 1025.3176310150577,
+          "result": "L 105-117 vs Baltimore Bullets on 1969-12-13"
+        },
+        {
+          "diff": -5.205306116146517,
+          "newRating": 1020.1123248989112,
+          "result": "L 105-118 vs Milwaukee Bucks on 1969-12-14"
+        },
+        {
+          "diff": 17.169025922505057,
+          "newRating": 1037.2813508214163,
+          "result": "W 110-101 vs Chicago Bulls on 1969-12-16"
+        },
+        {
+          "diff": 12.916396758041628,
+          "newRating": 1050.1977475794579,
+          "result": "W 114-107 vs Detroit Pistons on 1969-12-17"
+        },
+        {
+          "diff": 15.33334047952053,
+          "newRating": 1065.5310880589784,
+          "result": "W 119-111 vs San Francisco Warriors on 1969-12-19"
+        },
+        {
+          "diff": 14.91332798305325,
+          "newRating": 1080.4444160420317,
+          "result": "W 126-111 vs Cincinnati Royals on 1969-12-20"
+        },
+        {
+          "diff": -13.756813348278229,
+          "newRating": 1066.6876026937534,
+          "result": "L 96-112 vs Seattle SuperSonics on 1969-12-21"
+        },
+        {
+          "diff": 13.472290510820358,
+          "newRating": 1080.1598932045738,
+          "result": "W 115-109 vs Los Angeles Lakers on 1969-12-23"
+        },
+        {
+          "diff": -11.690185571797429,
+          "newRating": 1068.4697076327764,
+          "result": "L 110-111 vs Boston Celtics on 1969-12-27"
+        },
+        {
+          "diff": -5.306848117727668,
+          "newRating": 1063.1628595150487,
+          "result": "L 118-122 vs Atlanta Hawks on 1969-12-29"
+        },
+        {
+          "diff": -7.176471045395147,
+          "newRating": 1055.9863884696535,
+          "result": "L 120-125 vs Cincinnati Royals on 1969-12-30"
+        },
+        {
+          "diff": -3.850923042816703,
+          "newRating": 1052.1354654268368,
+          "result": "L 126-143 vs Milwaukee Bucks on 1969-12-31"
+        },
+        {
+          "diff": -7.809398017319154,
+          "newRating": 1044.3260674095177,
+          "result": "L 120-121 vs Phoenix Suns on 1970-01-02"
+        },
+        {
+          "diff": 11.170338666743646,
+          "newRating": 1055.4964060762613,
+          "result": "W 140-121 vs Chicago Bulls on 1970-01-04"
+        },
+        {
+          "diff": 11.306835018920765,
+          "newRating": 1066.803241095182,
+          "result": "W 120-103 vs San Francisco Warriors on 1970-01-08"
+        },
+        {
+          "diff": 16.735455841809653,
+          "newRating": 1083.5386969369918,
+          "result": "W 123-115 vs New York Knicks on 1970-01-10"
+        },
+        {
+          "diff": -4.024704555680273,
+          "newRating": 1079.5139923813115,
+          "result": "L 126-144 vs Baltimore Bullets on 1970-01-13"
+        },
+        {
+          "diff": -4.016554232114004,
+          "newRating": 1075.4974381491975,
+          "result": "L 115-131 vs Baltimore Bullets on 1970-01-17"
+        },
+        {
+          "diff": -3.233067864179702,
+          "newRating": 1072.2643702850178,
+          "result": "L 106-115 vs Milwaukee Bucks on 1970-01-22"
+        },
+        {
+          "diff": -1.5600132721297086,
+          "newRating": 1070.704357012888,
+          "result": "L 114-127 vs New York Knicks on 1970-01-24"
+        },
+        {
+          "diff": -5.306938282034935,
+          "newRating": 1065.3974187308531,
+          "result": "L 131-159 vs Philadelphia 76ers on 1970-01-25"
+        },
+        {
+          "diff": -5.548052302163569,
+          "newRating": 1059.8493664286896,
+          "result": "L 109-124 vs Los Angeles Lakers on 1970-01-27"
+        },
+        {
+          "diff": -5.216765664092463,
+          "newRating": 1054.632600764597,
+          "result": "L 108-113 vs Los Angeles Lakers on 1970-01-28"
+        },
+        {
+          "diff": 7.174220614886735,
+          "newRating": 1061.8068213794838,
+          "result": "W 119-117 vs Seattle SuperSonics on 1970-01-30"
+        },
+        {
+          "diff": -6.012433170639042,
+          "newRating": 1055.7943882088448,
+          "result": "L 103-105 vs Phoenix Suns on 1970-02-01"
+        },
+        {
+          "diff": -2.5474878353791155,
+          "newRating": 1053.2469003734657,
+          "result": "L 123-141 vs Milwaukee Bucks on 1970-02-04"
+        },
+        {
+          "diff": -4.64058642708801,
+          "newRating": 1048.6063139463777,
+          "result": "L 124-129 vs Philadelphia 76ers on 1970-02-06"
+        },
+        {
+          "diff": -4.46215437666433,
+          "newRating": 1044.1441595697133,
+          "result": "L 113-125 vs Los Angeles Lakers on 1970-02-08"
+        },
+        {
+          "diff": -4.076706622357506,
+          "newRating": 1040.0674529473558,
+          "result": "L 131-155 vs Atlanta Hawks on 1970-02-11"
+        },
+        {
+          "diff": 8.008350221931096,
+          "newRating": 1048.075803169287,
+          "result": "W 141-123 vs San Francisco Warriors on 1970-02-14"
+        },
+        {
+          "diff": 8.709673947746523,
+          "newRating": 1056.7854771170335,
+          "result": "W 150-123 vs Cincinnati Royals on 1970-02-15"
+        },
+        {
+          "diff": -3.1806663082236355,
+          "newRating": 1053.6048108088098,
+          "result": "L 109-140 vs Baltimore Bullets on 1970-02-16"
+        },
+        {
+          "diff": 6.834610883014193,
+          "newRating": 1060.439421691824,
+          "result": "W 122-119 vs Seattle SuperSonics on 1970-02-18"
+        },
+        {
+          "diff": -5.001098657171497,
+          "newRating": 1055.4383230346525,
+          "result": "L 117-126 vs Phoenix Suns on 1970-02-20"
+        },
+        {
+          "diff": 8.831162514128664,
+          "newRating": 1064.2694855487812,
+          "result": "W 121-106 vs Los Angeles Lakers on 1970-02-21"
+        },
+        {
+          "diff": -5.192727647632864,
+          "newRating": 1059.0767579011483,
+          "result": "L 125-127 vs Chicago Bulls on 1970-02-23"
+        },
+        {
+          "diff": -2.8651196614732726,
+          "newRating": 1056.211638239675,
+          "result": "L 118-128 vs Baltimore Bullets on 1970-02-24"
+        },
+        {
+          "diff": -5.0732860411926595,
+          "newRating": 1051.1383521984824,
+          "result": "L 124-147 vs Boston Celtics on 1970-02-25"
+        },
+        {
+          "diff": -3.8267320052480045,
+          "newRating": 1047.3116201932344,
+          "result": "L 111-125 vs Philadelphia 76ers on 1970-02-27"
+        },
+        {
+          "diff": 7.1315058939314895,
+          "newRating": 1054.4431260871659,
+          "result": "W 135-122 vs Chicago Bulls on 1970-03-01"
+        },
+        {
+          "diff": -5.2534358109305686,
+          "newRating": 1049.1896902762353,
+          "result": "L 114-126 vs Seattle SuperSonics on 1970-03-03"
+        },
+        {
+          "diff": -4.215822005712653,
+          "newRating": 1044.9738682705226,
+          "result": "L 125-127 vs Cincinnati Royals on 1970-03-04"
+        },
+        {
+          "diff": -0.9817829240064384,
+          "newRating": 1043.9920853465162,
+          "result": "L 103-107 vs New York Knicks on 1970-03-06"
+        },
+        {
+          "diff": -4.959646393613184,
+          "newRating": 1039.032438952903,
+          "result": "L 126-134 vs Detroit Pistons on 1970-03-07"
+        },
+        {
+          "diff": -3.109451691002505,
+          "newRating": 1035.9229872619005,
+          "result": "L 112-131 vs Philadelphia 76ers on 1970-03-09"
+        },
+        {
+          "diff": -4.09859013442906,
+          "newRating": 1031.8243971274715,
+          "result": "L 106-111 vs Chicago Bulls on 1970-03-10"
+        },
+        {
+          "diff": -2.8392310685976554,
+          "newRating": 1028.9851660588738,
+          "result": "L 121-122 vs Atlanta Hawks on 1970-03-11"
+        },
+        {
+          "diff": -3.7173663148446394,
+          "newRating": 1025.2677997440292,
+          "result": "L 151-165 vs Cincinnati Royals on 1970-03-12"
+        },
+        {
+          "diff": -0.8794265000217365,
+          "newRating": 1024.3883732440074,
+          "result": "L 103-119 vs New York Knicks on 1970-03-14"
+        },
+        {
+          "diff": 7.493167062073098,
+          "newRating": 1031.8815403060805,
+          "result": "W 137-128 vs Philadelphia 76ers on 1970-03-15"
+        },
+        {
+          "diff": 6.025840321957958,
+          "newRating": 1037.9073806280385,
+          "result": "W 125-117 vs Boston Celtics on 1970-03-17"
+        },
+        {
+          "diff": 5.685204154286339,
+          "newRating": 1043.5925847823248,
+          "result": "W 132-118 vs Detroit Pistons on 1970-03-19"
+        },
+        {
+          "diff": -3.431143380154481,
+          "newRating": 1040.1614414021703,
+          "result": "L 104-127 vs Phoenix Suns on 1970-03-20"
+        },
+        {
+          "diff": -3.3024614689798,
+          "newRating": 1036.8589799331905,
+          "result": "L 129-130 vs Phoenix Suns on 1970-03-22"
+        }
+      ]
+    }
+  ]
+}

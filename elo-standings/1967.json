@@ -1,0 +1,4134 @@
+{
+  "standings": [
+    {
+      "team": "Philadelphia 76ers",
+      "rating": 1579.1198761352737,
+      "wins": 68,
+      "losses": 13,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 128-112 vs New York Knicks on 1966-10-15"
+        },
+        {
+          "diff": 29.889620300485603,
+          "newRating": 1629.8896203004856,
+          "result": "W 119-110 vs St. Louis Hawks on 1966-10-21"
+        },
+        {
+          "diff": 1.7790410660534235,
+          "newRating": 1631.668661366539,
+          "result": "W 141-112 vs Baltimore Bullets on 1966-10-22"
+        },
+        {
+          "diff": 1.3107365138084788,
+          "newRating": 1632.9793978803475,
+          "result": "W 130-110 vs Baltimore Bullets on 1966-10-25"
+        },
+        {
+          "diff": 86.97127881047868,
+          "newRating": 1719.9506766908262,
+          "result": "W 138-96 vs Boston Celtics on 1966-10-29"
+        },
+        {
+          "diff": 6.390058734139529,
+          "newRating": 1726.3407354249657,
+          "result": "W 120-108 vs St. Louis Hawks on 1966-11-03"
+        },
+        {
+          "diff": 3.4968083732233026,
+          "newRating": 1729.837543798189,
+          "result": "W 134-129 vs San Francisco Warriors on 1966-11-04"
+        },
+        {
+          "diff": -68.50506606502108,
+          "newRating": 1661.332477733168,
+          "result": "L 87-105 vs Boston Celtics on 1966-11-05"
+        },
+        {
+          "diff": 3.4562322795409273,
+          "newRating": 1664.7887100127089,
+          "result": "W 118-100 vs Detroit Pistons on 1966-11-08"
+        },
+        {
+          "diff": 5.513907216382222,
+          "newRating": 1670.302617229091,
+          "result": "W 126-113 vs Chicago Bulls on 1966-11-11"
+        },
+        {
+          "diff": 2.6429733952686547,
+          "newRating": 1672.9455906243597,
+          "result": "W 112-98 vs Cincinnati Royals on 1966-11-12"
+        },
+        {
+          "diff": 4.317266503244809,
+          "newRating": 1677.2628571276045,
+          "result": "W 132-126 vs Chicago Bulls on 1966-11-13"
+        },
+        {
+          "diff": 4.827305654408519,
+          "newRating": 1682.090162782013,
+          "result": "W 113-109 vs New York Knicks on 1966-11-15"
+        },
+        {
+          "diff": 4.27285541438232,
+          "newRating": 1686.3630181963954,
+          "result": "W 117-108 vs New York Knicks on 1966-11-16"
+        },
+        {
+          "diff": 2.3542904745472697,
+          "newRating": 1688.7173086709427,
+          "result": "W 145-120 vs Chicago Bulls on 1966-11-18"
+        },
+        {
+          "diff": 1.3155844841096496,
+          "newRating": 1690.0328931550523,
+          "result": "W 134-110 vs Cincinnati Royals on 1966-11-19"
+        },
+        {
+          "diff": -45.465141438368164,
+          "newRating": 1644.5677517166841,
+          "result": "L 106-111 vs Cincinnati Royals on 1966-11-23"
+        },
+        {
+          "diff": 3.0442146992493235,
+          "newRating": 1647.6119664159335,
+          "result": "W 140-123 vs San Francisco Warriors on 1966-11-24"
+        },
+        {
+          "diff": 0.49883418910326327,
+          "newRating": 1648.1108006050367,
+          "result": "W 129-115 vs Baltimore Bullets on 1966-11-25"
+        },
+        {
+          "diff": 2.10147806461282,
+          "newRating": 1650.2122786696495,
+          "result": "W 131-123 vs Detroit Pistons on 1966-11-26"
+        },
+        {
+          "diff": 3.654283704759564,
+          "newRating": 1653.866562374409,
+          "result": "W 137-116 vs St. Louis Hawks on 1966-11-29"
+        },
+        {
+          "diff": 2.1844521462192006,
+          "newRating": 1656.0510145206283,
+          "result": "W 128-119 vs Detroit Pistons on 1966-11-30"
+        },
+        {
+          "diff": 1.09058898323633,
+          "newRating": 1657.1416035038646,
+          "result": "W 138-130 vs Los Angeles Lakers on 1966-12-02"
+        },
+        {
+          "diff": 0.34281368770894005,
+          "newRating": 1657.4844171915736,
+          "result": "W 137-120 vs Baltimore Bullets on 1966-12-03"
+        },
+        {
+          "diff": 1.1644496273536333,
+          "newRating": 1658.6488668189272,
+          "result": "W 129-119 vs Chicago Bulls on 1966-12-06"
+        },
+        {
+          "diff": 1.1058176383394311,
+          "newRating": 1659.7546844572666,
+          "result": "W 117-103 vs Chicago Bulls on 1966-12-07"
+        },
+        {
+          "diff": 1.6914287816239266,
+          "newRating": 1661.4461132388906,
+          "result": "W 112-107 vs New York Knicks on 1966-12-09"
+        },
+        {
+          "diff": 2.051971900334138,
+          "newRating": 1663.4980851392247,
+          "result": "W 133-123 vs St. Louis Hawks on 1966-12-10"
+        },
+        {
+          "diff": -18.653453720869265,
+          "newRating": 1644.8446314183554,
+          "result": "L 103-117 vs Boston Celtics on 1966-12-11"
+        },
+        {
+          "diff": 1.6746126444825222,
+          "newRating": 1646.519244062838,
+          "result": "W 127-112 vs New York Knicks on 1966-12-13"
+        },
+        {
+          "diff": 2.2861746524110913,
+          "newRating": 1648.805418715249,
+          "result": "W 124-113 vs St. Louis Hawks on 1966-12-16"
+        },
+        {
+          "diff": 1.3615760742447947,
+          "newRating": 1650.1669947894939,
+          "result": "W 120-105 vs Detroit Pistons on 1966-12-17"
+        },
+        {
+          "diff": 0.999444787121547,
+          "newRating": 1651.1664395766154,
+          "result": "W 129-123 vs Los Angeles Lakers on 1966-12-21"
+        },
+        {
+          "diff": 2.0108670166628144,
+          "newRating": 1653.1773065932782,
+          "result": "W 116-114 vs San Francisco Warriors on 1966-12-22"
+        },
+        {
+          "diff": 0.9215398362223368,
+          "newRating": 1654.0988464295006,
+          "result": "W 118-107 vs Los Angeles Lakers on 1966-12-23"
+        },
+        {
+          "diff": 0.9412322144860354,
+          "newRating": 1655.0400786439866,
+          "result": "W 134-118 vs Cincinnati Royals on 1966-12-26"
+        },
+        {
+          "diff": 6.7578341410082885,
+          "newRating": 1661.7979127849949,
+          "result": "W 113-108 vs Boston Celtics on 1966-12-28"
+        },
+        {
+          "diff": 1.002357499021855,
+          "newRating": 1662.8002702840167,
+          "result": "W 137-113 vs Detroit Pistons on 1966-12-30"
+        },
+        {
+          "diff": 1.2441883245394365,
+          "newRating": 1664.0444586085562,
+          "result": "W 148-142 vs New York Knicks on 1967-01-03"
+        },
+        {
+          "diff": 0.8737980661092024,
+          "newRating": 1664.9182566746654,
+          "result": "W 136-115 vs Chicago Bulls on 1967-01-04"
+        },
+        {
+          "diff": -18.349651270907316,
+          "newRating": 1646.568605403758,
+          "result": "L 104-112 vs New York Knicks on 1967-01-05"
+        },
+        {
+          "diff": 0.25258836135299134,
+          "newRating": 1646.821193765111,
+          "result": "W 121-115 vs Baltimore Bullets on 1967-01-06"
+        },
+        {
+          "diff": 0.8857173367025553,
+          "newRating": 1647.7069111018136,
+          "result": "W 117-108 vs Chicago Bulls on 1967-01-08"
+        },
+        {
+          "diff": 1.3062814168777095,
+          "newRating": 1649.0131925186913,
+          "result": "W 125-107 vs St. Louis Hawks on 1967-01-13"
+        },
+        {
+          "diff": 4.641904761847172,
+          "newRating": 1653.6550972805385,
+          "result": "W 110-95 vs Boston Celtics on 1967-01-15"
+        },
+        {
+          "diff": 1.225219356914522,
+          "newRating": 1654.880316637453,
+          "result": "W 119-111 vs New York Knicks on 1967-01-17"
+        },
+        {
+          "diff": 0.7205626819259123,
+          "newRating": 1655.600879319379,
+          "result": "W 113-105 vs Detroit Pistons on 1967-01-18"
+        },
+        {
+          "diff": 0.8232227169730777,
+          "newRating": 1656.424102036352,
+          "result": "W 127-102 vs Chicago Bulls on 1967-01-19"
+        },
+        {
+          "diff": 0.7641075846336207,
+          "newRating": 1657.1882096209856,
+          "result": "W 119-108 vs Los Angeles Lakers on 1967-01-20"
+        },
+        {
+          "diff": 1.0014627085731718,
+          "newRating": 1658.1896723295588,
+          "result": "W 112-105 vs St. Louis Hawks on 1967-01-23"
+        },
+        {
+          "diff": -11.703367015203185,
+          "newRating": 1646.4863053143556,
+          "result": "L 106-118 vs Boston Celtics on 1967-01-24"
+        },
+        {
+          "diff": 0.7868451519175323,
+          "newRating": 1647.2731504662731,
+          "result": "W 110-107 vs Cincinnati Royals on 1967-01-27"
+        },
+        {
+          "diff": -14.114083339154604,
+          "newRating": 1633.1590671271185,
+          "result": "L 108-114 vs St. Louis Hawks on 1967-01-29"
+        },
+        {
+          "diff": -14.051291750701921,
+          "newRating": 1619.1077753764166,
+          "result": "L 133-143 vs Los Angeles Lakers on 1967-02-01"
+        },
+        {
+          "diff": -12.996382669083005,
+          "newRating": 1606.1113927073336,
+          "result": "L 120-137 vs San Francisco Warriors on 1967-02-02"
+        },
+        {
+          "diff": 1.6550286995263832,
+          "newRating": 1607.76642140686,
+          "result": "W 140-127 vs San Francisco Warriors on 1967-02-04"
+        },
+        {
+          "diff": 0.9440112705435695,
+          "newRating": 1608.7104326774036,
+          "result": "W 130-123 vs Los Angeles Lakers on 1967-02-05"
+        },
+        {
+          "diff": 1.6010844027096027,
+          "newRating": 1610.3115170801132,
+          "result": "W 126-123 vs San Francisco Warriors on 1967-02-07"
+        },
+        {
+          "diff": 0.8366359427930092,
+          "newRating": 1611.1481530229062,
+          "result": "W 118-106 vs Cincinnati Royals on 1967-02-08"
+        },
+        {
+          "diff": 0.9283621704928464,
+          "newRating": 1612.076515193399,
+          "result": "W 148-131 vs Los Angeles Lakers on 1967-02-10"
+        },
+        {
+          "diff": -12.83091689955836,
+          "newRating": 1599.2455982938407,
+          "result": "L 133-139 vs Baltimore Bullets on 1967-02-11"
+        },
+        {
+          "diff": -8.653328807164371,
+          "newRating": 1590.5922694866763,
+          "result": "L 112-113 vs Boston Celtics on 1967-02-12"
+        },
+        {
+          "diff": 0.9013539508837312,
+          "newRating": 1591.49362343756,
+          "result": "W 131-123 vs Cincinnati Royals on 1967-02-13"
+        },
+        {
+          "diff": 0.7633526128952326,
+          "newRating": 1592.2569760504553,
+          "result": "W 127-121 vs Detroit Pistons on 1967-02-15"
+        },
+        {
+          "diff": 0.9246446229337835,
+          "newRating": 1593.181620673389,
+          "result": "W 127-118 vs Cincinnati Royals on 1967-02-17"
+        },
+        {
+          "diff": 1.1957962985284212,
+          "newRating": 1594.3774169719175,
+          "result": "W 123-122 vs St. Louis Hawks on 1967-02-19"
+        },
+        {
+          "diff": 0.3089394143296431,
+          "newRating": 1594.686356386247,
+          "result": "W 149-118 vs Baltimore Bullets on 1967-02-24"
+        },
+        {
+          "diff": 0.8920160908392063,
+          "newRating": 1595.5783724770863,
+          "result": "W 127-107 vs Cincinnati Royals on 1967-02-28"
+        },
+        {
+          "diff": -10.952245000755966,
+          "newRating": 1584.6261274763303,
+          "result": "L 122-129 vs Chicago Bulls on 1967-03-01"
+        },
+        {
+          "diff": 1.3705708779300494,
+          "newRating": 1585.9966983542604,
+          "result": "W 136-128 vs San Francisco Warriors on 1967-03-02"
+        },
+        {
+          "diff": 0.7104756784631263,
+          "newRating": 1586.7071740327235,
+          "result": "W 129-103 vs Detroit Pistons on 1967-03-03"
+        },
+        {
+          "diff": 0.6952577317815667,
+          "newRating": 1587.402431764505,
+          "result": "W 131-106 vs Detroit Pistons on 1967-03-05"
+        },
+        {
+          "diff": 0.9408765708099054,
+          "newRating": 1588.343308335315,
+          "result": "W 119-117 vs Los Angeles Lakers on 1967-03-06"
+        },
+        {
+          "diff": 3.5115452583786464,
+          "newRating": 1591.8548535936936,
+          "result": "W 115-113 vs Boston Celtics on 1967-03-08"
+        },
+        {
+          "diff": -7.295838618417974,
+          "newRating": 1584.5590149752757,
+          "result": "L 114-116 vs Boston Celtics on 1967-03-11"
+        },
+        {
+          "diff": 0.9167883637687737,
+          "newRating": 1585.4758033390444,
+          "result": "W 131-120 vs New York Knicks on 1967-03-12"
+        },
+        {
+          "diff": 1.1679624268522275,
+          "newRating": 1586.6437657658967,
+          "result": "W 139-110 vs San Francisco Warriors on 1967-03-14"
+        },
+        {
+          "diff": 0.8990989937049108,
+          "newRating": 1587.5428647596016,
+          "result": "W 138-123 vs Los Angeles Lakers on 1967-03-15"
+        },
+        {
+          "diff": -9.00686947929512,
+          "newRating": 1578.5359952803065,
+          "result": "L 131-145 vs San Francisco Warriors on 1967-03-16"
+        },
+        {
+          "diff": 0.2942336457026613,
+          "newRating": 1578.830228926009,
+          "result": "W 135-119 vs Baltimore Bullets on 1967-03-18"
+        },
+        {
+          "diff": 0.2896472092645581,
+          "newRating": 1579.1198761352737,
+          "result": "W 132-129 vs Baltimore Bullets on 1967-03-19"
+        }
+      ]
+    },
+    {
+      "team": "Boston Celtics",
+      "rating": 1452.8516615305534,
+      "wins": 60,
+      "losses": 21,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 121-113 vs San Francisco Warriors on 1966-10-15"
+        },
+        {
+          "diff": 3.2044677604551453,
+          "newRating": 1603.2044677604551,
+          "result": "W 111-91 vs Baltimore Bullets on 1966-10-21"
+        },
+        {
+          "diff": 26.567594475276792,
+          "newRating": 1629.772062235732,
+          "result": "W 126-97 vs New York Knicks on 1966-10-22"
+        },
+        {
+          "diff": 33.56019970917214,
+          "newRating": 1663.332261944904,
+          "result": "W 123-100 vs Chicago Bulls on 1966-10-27"
+        },
+        {
+          "diff": -86.97127881047868,
+          "newRating": 1576.3609831344254,
+          "result": "L 96-138 vs Philadelphia 76ers on 1966-10-29"
+        },
+        {
+          "diff": 7.620681138618465,
+          "newRating": 1583.9816642730439,
+          "result": "W 133-108 vs Los Angeles Lakers on 1966-11-02"
+        },
+        {
+          "diff": 10.863084407174483,
+          "newRating": 1594.8447486802183,
+          "result": "W 137-108 vs Chicago Bulls on 1966-11-03"
+        },
+        {
+          "diff": 68.50506606502108,
+          "newRating": 1663.3498147452394,
+          "result": "W 105-87 vs Philadelphia 76ers on 1966-11-05"
+        },
+        {
+          "diff": 7.379224278786751,
+          "newRating": 1670.7290390240262,
+          "result": "W 112-101 vs Chicago Bulls on 1966-11-08"
+        },
+        {
+          "diff": 2.732242553733613,
+          "newRating": 1673.4612815777598,
+          "result": "W 113-112 vs Cincinnati Royals on 1966-11-10"
+        },
+        {
+          "diff": 5.832893976415562,
+          "newRating": 1679.2941755541754,
+          "result": "W 111-106 vs New York Knicks on 1966-11-11"
+        },
+        {
+          "diff": -61.85330361728688,
+          "newRating": 1617.4408719368885,
+          "result": "L 92-115 vs St. Louis Hawks on 1966-11-12"
+        },
+        {
+          "diff": 0.7775148056796297,
+          "newRating": 1618.218386742568,
+          "result": "W 143-119 vs Baltimore Bullets on 1966-11-18"
+        },
+        {
+          "diff": 0.7163692620033544,
+          "newRating": 1618.9347560045715,
+          "result": "W 147-125 vs Baltimore Bullets on 1966-11-19"
+        },
+        {
+          "diff": 7.7293799570368265,
+          "newRating": 1626.6641359616083,
+          "result": "W 123-103 vs St. Louis Hawks on 1966-11-23"
+        },
+        {
+          "diff": 6.7283213122816505,
+          "newRating": 1633.39245727389,
+          "result": "W 101-78 vs St. Louis Hawks on 1966-11-24"
+        },
+        {
+          "diff": -44.862049848208244,
+          "newRating": 1588.5304074256817,
+          "result": "L 105-107 vs Detroit Pistons on 1966-11-25"
+        },
+        {
+          "diff": 3.794141906499135,
+          "newRating": 1592.3245493321808,
+          "result": "W 118-87 vs Cincinnati Royals on 1966-11-26"
+        },
+        {
+          "diff": -39.145392190630446,
+          "newRating": 1553.1791571415504,
+          "result": "L 100-104 vs Detroit Pistons on 1966-11-29"
+        },
+        {
+          "diff": -35.94549543963785,
+          "newRating": 1517.2336617019125,
+          "result": "L 116-119 vs Detroit Pistons on 1966-12-02"
+        },
+        {
+          "diff": 4.587104402339719,
+          "newRating": 1521.8207661042522,
+          "result": "W 120-109 vs New York Knicks on 1966-12-03"
+        },
+        {
+          "diff": 5.277901150456728,
+          "newRating": 1527.098667254709,
+          "result": "W 130-111 vs Detroit Pistons on 1966-12-06"
+        },
+        {
+          "diff": 3.1867760810964683,
+          "newRating": 1530.2854433358054,
+          "result": "W 119-91 vs Cincinnati Royals on 1966-12-07"
+        },
+        {
+          "diff": 2.9514809203863024,
+          "newRating": 1533.2369242561917,
+          "result": "W 117-99 vs Cincinnati Royals on 1966-12-09"
+        },
+        {
+          "diff": 2.351592881097986,
+          "newRating": 1535.5885171372897,
+          "result": "W 125-110 vs Chicago Bulls on 1966-12-10"
+        },
+        {
+          "diff": 20.80577530404662,
+          "newRating": 1556.3942924413363,
+          "result": "W 117-103 vs Philadelphia 76ers on 1966-12-11"
+        },
+        {
+          "diff": -25.995583851037964,
+          "newRating": 1530.3987085902984,
+          "result": "L 114-116 vs St. Louis Hawks on 1966-12-15"
+        },
+        {
+          "diff": 4.411484381630771,
+          "newRating": 1534.8101929719292,
+          "result": "W 118-110 vs San Francisco Warriors on 1966-12-17"
+        },
+        {
+          "diff": -25.634677978541276,
+          "newRating": 1509.1755149933879,
+          "result": "L 125-127 vs Los Angeles Lakers on 1966-12-18"
+        },
+        {
+          "diff": 3.0184427180586226,
+          "newRating": 1512.1939577114465,
+          "result": "W 116-113 vs Detroit Pistons on 1966-12-20"
+        },
+        {
+          "diff": 3.8108236930891053,
+          "newRating": 1516.0047814045356,
+          "result": "W 114-103 vs St. Louis Hawks on 1966-12-23"
+        },
+        {
+          "diff": 2.1065137776010943,
+          "newRating": 1518.1112951821367,
+          "result": "W 121-106 vs Los Angeles Lakers on 1966-12-26"
+        },
+        {
+          "diff": -7.57696555203961,
+          "newRating": 1510.534329630097,
+          "result": "L 108-113 vs Philadelphia 76ers on 1966-12-28"
+        },
+        {
+          "diff": 3.7464209088191183,
+          "newRating": 1514.2807505389162,
+          "result": "W 112-110 vs St. Louis Hawks on 1966-12-29"
+        },
+        {
+          "diff": 2.149193241552439,
+          "newRating": 1516.4299437804686,
+          "result": "W 110-106 vs Chicago Bulls on 1966-12-30"
+        },
+        {
+          "diff": -20.341205702939305,
+          "newRating": 1496.0887380775293,
+          "result": "L 110-111 vs Los Angeles Lakers on 1967-01-01"
+        },
+        {
+          "diff": 4.07910571254115,
+          "newRating": 1500.1678437900705,
+          "result": "W 126-121 vs San Francisco Warriors on 1967-01-03"
+        },
+        {
+          "diff": -18.827759823297356,
+          "newRating": 1481.3400839667731,
+          "result": "L 99-102 vs Los Angeles Lakers on 1967-01-06"
+        },
+        {
+          "diff": -16.122717518027002,
+          "newRating": 1465.2173664487461,
+          "result": "L 108-110 vs San Francisco Warriors on 1967-01-07"
+        },
+        {
+          "diff": 2.365586425031097,
+          "newRating": 1467.5829528737772,
+          "result": "W 122-102 vs Chicago Bulls on 1967-01-13"
+        },
+        {
+          "diff": 0.7251533604110136,
+          "newRating": 1468.3081062341882,
+          "result": "W 115-106 vs Baltimore Bullets on 1967-01-14"
+        },
+        {
+          "diff": -4.973469387693285,
+          "newRating": 1463.334636846495,
+          "result": "L 95-110 vs Philadelphia 76ers on 1967-01-15"
+        },
+        {
+          "diff": 2.4236597860108304,
+          "newRating": 1465.7582966325058,
+          "result": "W 109-101 vs Chicago Bulls on 1967-01-17"
+        },
+        {
+          "diff": 2.3749912113596565,
+          "newRating": 1468.1332878438654,
+          "result": "W 119-106 vs Cincinnati Royals on 1967-01-18"
+        },
+        {
+          "diff": 0.7614173178944839,
+          "newRating": 1468.89470516176,
+          "result": "W 129-117 vs Baltimore Bullets on 1967-01-20"
+        },
+        {
+          "diff": 2.0507252266006617,
+          "newRating": 1470.9454303883606,
+          "result": "W 121-120 vs Los Angeles Lakers on 1967-01-22"
+        },
+        {
+          "diff": 12.699398250539616,
+          "newRating": 1483.6448286389002,
+          "result": "W 118-106 vs Philadelphia 76ers on 1967-01-24"
+        },
+        {
+          "diff": 1.701911325042147,
+          "newRating": 1485.3467399639424,
+          "result": "W 112-105 vs Detroit Pistons on 1967-01-25"
+        },
+        {
+          "diff": 1.7152028847494876,
+          "newRating": 1487.0619428486918,
+          "result": "W 112-106 vs Detroit Pistons on 1967-01-27"
+        },
+        {
+          "diff": 2.316526889488614,
+          "newRating": 1489.3784697381805,
+          "result": "W 114-112 vs New York Knicks on 1967-01-28"
+        },
+        {
+          "diff": 2.221676172026264,
+          "newRating": 1491.6001459102067,
+          "result": "W 141-106 vs New York Knicks on 1967-01-29"
+        },
+        {
+          "diff": 3.036227751063734,
+          "newRating": 1494.6363736612705,
+          "result": "W 121-108 vs San Francisco Warriors on 1967-01-30"
+        },
+        {
+          "diff": 0.5472118836546542,
+          "newRating": 1495.183585544925,
+          "result": "W 111-107 vs Baltimore Bullets on 1967-02-01"
+        },
+        {
+          "diff": -12.564352462617308,
+          "newRating": 1482.6192330823078,
+          "result": "L 113-131 vs St. Louis Hawks on 1967-02-03"
+        },
+        {
+          "diff": 1.7862612126984914,
+          "newRating": 1484.4054942950063,
+          "result": "W 137-121 vs Cincinnati Royals on 1967-02-05"
+        },
+        {
+          "diff": 1.7226719066673013,
+          "newRating": 1486.1281662016736,
+          "result": "W 138-123 vs Cincinnati Royals on 1967-02-07"
+        },
+        {
+          "diff": -13.461846118188987,
+          "newRating": 1472.6663200834846,
+          "result": "L 124-128 vs Baltimore Bullets on 1967-02-09"
+        },
+        {
+          "diff": 3.057357549035487,
+          "newRating": 1475.72367763252,
+          "result": "W 137-136 vs San Francisco Warriors on 1967-02-10"
+        },
+        {
+          "diff": 9.093328577020202,
+          "newRating": 1484.8170062095403,
+          "result": "W 113-112 vs Philadelphia 76ers on 1967-02-12"
+        },
+        {
+          "diff": -10.776342595969027,
+          "newRating": 1474.0406636135713,
+          "result": "L 122-128 vs San Francisco Warriors on 1967-02-14"
+        },
+        {
+          "diff": -11.216138481514008,
+          "newRating": 1462.8245251320573,
+          "result": "L 114-124 vs Los Angeles Lakers on 1967-02-15"
+        },
+        {
+          "diff": 2.083890757732661,
+          "newRating": 1464.90841588979,
+          "result": "W 120-119 vs Los Angeles Lakers on 1967-02-17"
+        },
+        {
+          "diff": -9.855239209380443,
+          "newRating": 1455.0531766804095,
+          "result": "L 124-130 vs San Francisco Warriors on 1967-02-18"
+        },
+        {
+          "diff": 2.281458663872172,
+          "newRating": 1457.3346353442817,
+          "result": "W 143-114 vs New York Knicks on 1967-02-21"
+        },
+        {
+          "diff": 0.6821697799953199,
+          "newRating": 1458.016805124277,
+          "result": "W 135-120 vs Baltimore Bullets on 1967-02-22"
+        },
+        {
+          "diff": 2.0865491982729054,
+          "newRating": 1460.1033543225499,
+          "result": "W 122-117 vs New York Knicks on 1967-02-23"
+        },
+        {
+          "diff": 2.0488358726697697,
+          "newRating": 1462.1521901952196,
+          "result": "W 130-119 vs St. Louis Hawks on 1967-02-26"
+        },
+        {
+          "diff": 2.5719689918139466,
+          "newRating": 1464.7241591870336,
+          "result": "W 137-125 vs San Francisco Warriors on 1967-03-01"
+        },
+        {
+          "diff": 1.3562548697336752,
+          "newRating": 1466.0804140567673,
+          "result": "W 114-108 vs Chicago Bulls on 1967-03-02"
+        },
+        {
+          "diff": 1.7195481263847796,
+          "newRating": 1467.799962183152,
+          "result": "W 111-104 vs Cincinnati Royals on 1967-03-03"
+        },
+        {
+          "diff": 1.7900526500545766,
+          "newRating": 1469.5900148332066,
+          "result": "W 130-105 vs Los Angeles Lakers on 1967-03-05"
+        },
+        {
+          "diff": 1.2823445843098398,
+          "newRating": 1470.8723594175165,
+          "result": "W 127-103 vs Detroit Pistons on 1967-03-06"
+        },
+        {
+          "diff": -9.641408564664971,
+          "newRating": 1461.2309508528515,
+          "result": "L 114-117 vs Chicago Bulls on 1967-03-07"
+        },
+        {
+          "diff": -3.5115452583786464,
+          "newRating": 1457.7194055944728,
+          "result": "L 113-115 vs Philadelphia 76ers on 1967-03-08"
+        },
+        {
+          "diff": 7.295838618417974,
+          "newRating": 1465.0152442128908,
+          "result": "W 116-114 vs Philadelphia 76ers on 1967-03-11"
+        },
+        {
+          "diff": 0.5641728855116526,
+          "newRating": 1465.5794170984025,
+          "result": "W 123-118 vs Baltimore Bullets on 1967-03-12"
+        },
+        {
+          "diff": -8.645477831568996,
+          "newRating": 1456.9339392668335,
+          "result": "L 122-123 vs St. Louis Hawks on 1967-03-13"
+        },
+        {
+          "diff": -8.603209630242645,
+          "newRating": 1448.3307296365908,
+          "result": "L 108-112 vs Cincinnati Royals on 1967-03-15"
+        },
+        {
+          "diff": 1.2704688335097671,
+          "newRating": 1449.6011984701006,
+          "result": "W 132-109 vs Detroit Pistons on 1967-03-16"
+        },
+        {
+          "diff": 1.648223303439181,
+          "newRating": 1451.2494217735398,
+          "result": "W 140-123 vs New York Knicks on 1967-03-18"
+        },
+        {
+          "diff": 1.602239757013649,
+          "newRating": 1452.8516615305534,
+          "result": "W 124-113 vs New York Knicks on 1967-03-19"
+        }
+      ]
+    },
+    {
+      "team": "San Francisco Warriors",
+      "rating": 1225.6394915360925,
+      "wins": 44,
+      "losses": 37,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 113-121 vs Boston Celtics on 1966-10-15"
+        },
+        {
+          "diff": -3.9603960396040065,
+          "newRating": 796.039603960396,
+          "result": "L 116-119 vs Chicago Bulls on 1966-10-18"
+        },
+        {
+          "diff": 264.46897535215055,
+          "newRating": 1060.5085793125465,
+          "result": "W 121-111 vs Chicago Bulls on 1966-10-20"
+        },
+        {
+          "diff": 70.30204252167027,
+          "newRating": 1130.8106218342168,
+          "result": "W 136-119 vs Detroit Pistons on 1966-10-21"
+        },
+        {
+          "diff": -128.8990122027477,
+          "newRating": 1001.9116096314691,
+          "result": "L 110-119 vs Detroit Pistons on 1966-10-23"
+        },
+        {
+          "diff": 42.58229277211683,
+          "newRating": 1044.493902403586,
+          "result": "W 105-104 vs Baltimore Bullets on 1966-10-28"
+        },
+        {
+          "diff": 53.65110948563097,
+          "newRating": 1098.145011889217,
+          "result": "W 127-115 vs Cincinnati Royals on 1966-10-29"
+        },
+        {
+          "diff": 70.09504593568568,
+          "newRating": 1168.2400578249026,
+          "result": "W 137-121 vs Chicago Bulls on 1966-11-01"
+        },
+        {
+          "diff": -42.229098453525694,
+          "newRating": 1126.0109593713769,
+          "result": "L 108-123 vs New York Knicks on 1966-11-03"
+        },
+        {
+          "diff": -2.4477658612563573,
+          "newRating": 1123.5631935101205,
+          "result": "L 129-134 vs Philadelphia 76ers on 1966-11-04"
+        },
+        {
+          "diff": -28.967225660145004,
+          "newRating": 1094.5959678499755,
+          "result": "L 120-122 vs St. Louis Hawks on 1966-11-05"
+        },
+        {
+          "diff": 10.092363987280123,
+          "newRating": 1104.6883318372556,
+          "result": "W 120-117 vs Baltimore Bullets on 1966-11-06"
+        },
+        {
+          "diff": 11.083435723273624,
+          "newRating": 1115.7717675605293,
+          "result": "W 128-122 vs Baltimore Bullets on 1966-11-09"
+        },
+        {
+          "diff": 20.009499092801207,
+          "newRating": 1135.7812666533305,
+          "result": "W 132-93 vs Los Angeles Lakers on 1966-11-11"
+        },
+        {
+          "diff": 22.85147783989828,
+          "newRating": 1158.6327444932288,
+          "result": "W 135-96 vs Detroit Pistons on 1966-11-13"
+        },
+        {
+          "diff": 18.17044194106893,
+          "newRating": 1176.8031864342977,
+          "result": "W 115-104 vs Detroit Pistons on 1966-11-14"
+        },
+        {
+          "diff": 14.388993799080254,
+          "newRating": 1191.192180233378,
+          "result": "W 144-109 vs Los Angeles Lakers on 1966-11-19"
+        },
+        {
+          "diff": 31.65215638121572,
+          "newRating": 1222.8443366145937,
+          "result": "W 134-117 vs St. Louis Hawks on 1966-11-21"
+        },
+        {
+          "diff": -37.71937776509162,
+          "newRating": 1185.124958849502,
+          "result": "L 117-125 vs Baltimore Bullets on 1966-11-22"
+        },
+        {
+          "diff": 6.031803853469228,
+          "newRating": 1191.1567627029713,
+          "result": "W 120-110 vs Baltimore Bullets on 1966-11-23"
+        },
+        {
+          "diff": -2.6093268850709137,
+          "newRating": 1188.5474358179004,
+          "result": "L 123-140 vs Philadelphia 76ers on 1966-11-24"
+        },
+        {
+          "diff": 14.878904275097966,
+          "newRating": 1203.4263400929983,
+          "result": "W 131-129 vs Chicago Bulls on 1966-11-26"
+        },
+        {
+          "diff": 12.874887873911348,
+          "newRating": 1216.3012279669097,
+          "result": "W 108-101 vs Chicago Bulls on 1966-11-29"
+        },
+        {
+          "diff": 19.33372380315427,
+          "newRating": 1235.634951770064,
+          "result": "W 123-111 vs St. Louis Hawks on 1966-12-03"
+        },
+        {
+          "diff": 12.927780578100737,
+          "newRating": 1248.5627323481647,
+          "result": "W 126-116 vs New York Knicks on 1966-12-06"
+        },
+        {
+          "diff": -27.7458587236506,
+          "newRating": 1220.816873624514,
+          "result": "L 106-116 vs Baltimore Bullets on 1966-12-07"
+        },
+        {
+          "diff": 15.385069045679302,
+          "newRating": 1236.2019426701934,
+          "result": "W 124-106 vs St. Louis Hawks on 1966-12-08"
+        },
+        {
+          "diff": 8.756756436127034,
+          "newRating": 1244.9586991063204,
+          "result": "W 119-118 vs Los Angeles Lakers on 1966-12-09"
+        },
+        {
+          "diff": 9.111932099505111,
+          "newRating": 1254.0706312058255,
+          "result": "W 123-120 vs Cincinnati Royals on 1966-12-10"
+        },
+        {
+          "diff": -19.07639490458746,
+          "newRating": 1234.994236301238,
+          "result": "L 112-126 vs Cincinnati Royals on 1966-12-13"
+        },
+        {
+          "diff": -3.984566538247009,
+          "newRating": 1231.009669762991,
+          "result": "L 110-118 vs Boston Celtics on 1966-12-17"
+        },
+        {
+          "diff": 8.384951026502677,
+          "newRating": 1239.3946207894937,
+          "result": "W 130-107 vs Los Angeles Lakers on 1966-12-20"
+        },
+        {
+          "diff": -2.0718023808040016,
+          "newRating": 1237.3228184086897,
+          "result": "L 114-116 vs Philadelphia 76ers on 1966-12-22"
+        },
+        {
+          "diff": 7.979573670637819,
+          "newRating": 1245.3023920793275,
+          "result": "W 124-112 vs Cincinnati Royals on 1966-12-25"
+        },
+        {
+          "diff": -12.785477345209074,
+          "newRating": 1232.5169147341185,
+          "result": "L 111-120 vs St. Louis Hawks on 1966-12-26"
+        },
+        {
+          "diff": 3.0410645923900574,
+          "newRating": 1235.5579793265085,
+          "result": "W 138-115 vs Baltimore Bullets on 1966-12-28"
+        },
+        {
+          "diff": 7.1199913171431035,
+          "newRating": 1242.6779706436516,
+          "result": "W 107-102 vs Cincinnati Royals on 1966-12-30"
+        },
+        {
+          "diff": -3.971760825369074,
+          "newRating": 1238.7062098182826,
+          "result": "L 121-126 vs Boston Celtics on 1967-01-03"
+        },
+        {
+          "diff": 7.323198031761422,
+          "newRating": 1246.029407850044,
+          "result": "W 122-91 vs Los Angeles Lakers on 1967-01-05"
+        },
+        {
+          "diff": 9.32526184286371,
+          "newRating": 1255.3546696929077,
+          "result": "W 129-118 vs St. Louis Hawks on 1967-01-06"
+        },
+        {
+          "diff": 15.336243492757376,
+          "newRating": 1270.690913185665,
+          "result": "W 110-108 vs Boston Celtics on 1967-01-07"
+        },
+        {
+          "diff": -12.971447675062564,
+          "newRating": 1257.7194655106025,
+          "result": "L 126-141 vs Los Angeles Lakers on 1967-01-11"
+        },
+        {
+          "diff": 8.133405300654886,
+          "newRating": 1265.8528708112574,
+          "result": "W 127-123 vs New York Knicks on 1967-01-12"
+        },
+        {
+          "diff": -10.640240720288148,
+          "newRating": 1255.2126300909692,
+          "result": "L 117-119 vs New York Knicks on 1967-01-13"
+        },
+        {
+          "diff": 5.763123812356753,
+          "newRating": 1260.975753903326,
+          "result": "W 136-121 vs Detroit Pistons on 1967-01-14"
+        },
+        {
+          "diff": -10.442684303540318,
+          "newRating": 1250.5330695997857,
+          "result": "L 112-114 vs St. Louis Hawks on 1967-01-15"
+        },
+        {
+          "diff": -11.31883095530452,
+          "newRating": 1239.2142386444812,
+          "result": "L 107-111 vs Chicago Bulls on 1967-01-18"
+        },
+        {
+          "diff": 7.499296122889518,
+          "newRating": 1246.7135347673707,
+          "result": "W 123-102 vs New York Knicks on 1967-01-19"
+        },
+        {
+          "diff": 6.926747421311347,
+          "newRating": 1253.640282188682,
+          "result": "W 142-115 vs St. Louis Hawks on 1967-01-20"
+        },
+        {
+          "diff": 2.2166231517890083,
+          "newRating": 1255.856905340471,
+          "result": "W 146-125 vs Baltimore Bullets on 1967-01-24"
+        },
+        {
+          "diff": 2.0869845943013843,
+          "newRating": 1257.9438899347724,
+          "result": "W 143-116 vs Baltimore Bullets on 1967-01-27"
+        },
+        {
+          "diff": -10.054107527303358,
+          "newRating": 1247.889782407469,
+          "result": "L 118-121 vs Cincinnati Royals on 1967-01-29"
+        },
+        {
+          "diff": -2.978940435006052,
+          "newRating": 1244.910841972463,
+          "result": "L 108-121 vs Boston Celtics on 1967-01-30"
+        },
+        {
+          "diff": 4.696564997856285,
+          "newRating": 1249.6074069703193,
+          "result": "W 108-106 vs Detroit Pistons on 1967-01-31"
+        },
+        {
+          "diff": 12.996382669083005,
+          "newRating": 1262.6037896394023,
+          "result": "W 137-120 vs Philadelphia 76ers on 1967-02-02"
+        },
+        {
+          "diff": -9.540955032978673,
+          "newRating": 1253.0628346064236,
+          "result": "L 80-129 vs Los Angeles Lakers on 1967-02-03"
+        },
+        {
+          "diff": -1.6259931083066022,
+          "newRating": 1251.436841498117,
+          "result": "L 127-140 vs Philadelphia 76ers on 1967-02-04"
+        },
+        {
+          "diff": 4.609028920629271,
+          "newRating": 1256.0458704187463,
+          "result": "W 142-141 vs Chicago Bulls on 1967-02-05"
+        },
+        {
+          "diff": -1.5739473789349177,
+          "newRating": 1254.4719230398114,
+          "result": "L 123-126 vs Philadelphia 76ers on 1967-02-07"
+        },
+        {
+          "diff": -2.955445630734175,
+          "newRating": 1251.5164774090772,
+          "result": "L 136-137 vs Boston Celtics on 1967-02-10"
+        },
+        {
+          "diff": -7.7407098003866395,
+          "newRating": 1243.7757676086906,
+          "result": "L 122-125 vs New York Knicks on 1967-02-11"
+        },
+        {
+          "diff": -8.855655396813745,
+          "newRating": 1234.9201122118768,
+          "result": "L 127-134 vs Detroit Pistons on 1967-02-12"
+        },
+        {
+          "diff": 10.26318342473246,
+          "newRating": 1245.1832956366093,
+          "result": "W 128-122 vs Boston Celtics on 1967-02-14"
+        },
+        {
+          "diff": 3.7795965973311922,
+          "newRating": 1248.9628922339405,
+          "result": "W 125-124 vs Chicago Bulls on 1967-02-16"
+        },
+        {
+          "diff": 9.552001079861157,
+          "newRating": 1258.5148933138016,
+          "result": "W 130-124 vs Boston Celtics on 1967-02-18"
+        },
+        {
+          "diff": 4.497773013862798,
+          "newRating": 1263.0126663276644,
+          "result": "W 136-133 vs Los Angeles Lakers on 1967-02-21"
+        },
+        {
+          "diff": -7.834642674242559,
+          "newRating": 1255.1780236534219,
+          "result": "L 122-137 vs Cincinnati Royals on 1967-02-24"
+        },
+        {
+          "diff": -7.476755575902416,
+          "newRating": 1247.7012680775194,
+          "result": "L 116-129 vs Cincinnati Royals on 1967-02-25"
+        },
+        {
+          "diff": -6.820718608851621,
+          "newRating": 1240.8805494686678,
+          "result": "L 123-127 vs New York Knicks on 1967-02-28"
+        },
+        {
+          "diff": -2.4984841634764052,
+          "newRating": 1238.3820653051914,
+          "result": "L 125-137 vs Boston Celtics on 1967-03-01"
+        },
+        {
+          "diff": -1.3512670627478656,
+          "newRating": 1237.0307982424436,
+          "result": "L 128-136 vs Philadelphia 76ers on 1967-03-02"
+        },
+        {
+          "diff": 4.649872608528312,
+          "newRating": 1241.6806708509719,
+          "result": "W 111-102 vs New York Knicks on 1967-03-04"
+        },
+        {
+          "diff": -6.512015005233707,
+          "newRating": 1235.1686558457382,
+          "result": "L 103-115 vs New York Knicks on 1967-03-05"
+        },
+        {
+          "diff": -6.312171773756518,
+          "newRating": 1228.8564840719816,
+          "result": "L 105-111 vs St. Louis Hawks on 1967-03-10"
+        },
+        {
+          "diff": -6.0788775847520355,
+          "newRating": 1222.7776064872296,
+          "result": "L 120-125 vs Los Angeles Lakers on 1967-03-11"
+        },
+        {
+          "diff": 3.7463299935729992,
+          "newRating": 1226.5239364808026,
+          "result": "W 135-109 vs Detroit Pistons on 1967-03-13"
+        },
+        {
+          "diff": -1.1679624268522275,
+          "newRating": 1225.3559740539504,
+          "result": "L 110-139 vs Philadelphia 76ers on 1967-03-14"
+        },
+        {
+          "diff": 9.122342164926977,
+          "newRating": 1234.4783162188774,
+          "result": "W 145-131 vs Philadelphia 76ers on 1967-03-16"
+        },
+        {
+          "diff": -6.5566487570208665,
+          "newRating": 1227.9216674618565,
+          "result": "L 117-120 vs Chicago Bulls on 1967-03-17"
+        },
+        {
+          "diff": -5.625915010539757,
+          "newRating": 1222.2957524513167,
+          "result": "L 112-127 vs Cincinnati Royals on 1967-03-18"
+        },
+        {
+          "diff": 3.3437390847757342,
+          "newRating": 1225.6394915360925,
+          "result": "W 135-127 vs Detroit Pistons on 1967-03-19"
+        }
+      ]
+    },
+    {
+      "team": "St. Louis Hawks",
+      "rating": 1198.5632393116834,
+      "wins": 39,
+      "losses": 42,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 97-104 vs Chicago Bulls on 1966-10-15"
+        },
+        {
+          "diff": 362.8756532245652,
+          "newRating": 1162.8756532245652,
+          "result": "W 113-105 vs Detroit Pistons on 1966-10-20"
+        },
+        {
+          "diff": -19.92641353365707,
+          "newRating": 1142.9492396909081,
+          "result": "L 110-119 vs Philadelphia 76ers on 1966-10-21"
+        },
+        {
+          "diff": 117.38211873027649,
+          "newRating": 1260.3313584211846,
+          "result": "W 133-123 vs Cincinnati Royals on 1966-10-22"
+        },
+        {
+          "diff": -143.9454247611293,
+          "newRating": 1116.3859336600553,
+          "result": "L 118-121 vs Cincinnati Royals on 1966-10-27"
+        },
+        {
+          "diff": 84.32280419348058,
+          "newRating": 1200.708737853536,
+          "result": "W 110-109 vs Los Angeles Lakers on 1966-10-29"
+        },
+        {
+          "diff": -5.47719320069109,
+          "newRating": 1195.2315446528448,
+          "result": "L 108-120 vs Philadelphia 76ers on 1966-11-03"
+        },
+        {
+          "diff": 39.829935282699125,
+          "newRating": 1235.061479935544,
+          "result": "W 122-120 vs San Francisco Warriors on 1966-11-05"
+        },
+        {
+          "diff": -47.21387435154338,
+          "newRating": 1187.8476055840006,
+          "result": "L 102-134 vs Chicago Bulls on 1966-11-06"
+        },
+        {
+          "diff": 47.880857660931724,
+          "newRating": 1235.7284632449323,
+          "result": "W 135-121 vs New York Knicks on 1966-11-08"
+        },
+        {
+          "diff": 67.47633121885838,
+          "newRating": 1303.2047944637907,
+          "result": "W 115-92 vs Boston Celtics on 1966-11-12"
+        },
+        {
+          "diff": 24.247678617495694,
+          "newRating": 1327.4524730812864,
+          "result": "W 107-99 vs Chicago Bulls on 1966-11-15"
+        },
+        {
+          "diff": 9.964615930229684,
+          "newRating": 1337.417089011516,
+          "result": "W 104-101 vs Detroit Pistons on 1966-11-16"
+        },
+        {
+          "diff": 11.157120114780582,
+          "newRating": 1348.5742091262966,
+          "result": "W 105-87 vs Detroit Pistons on 1966-11-19"
+        },
+        {
+          "diff": -37.98258765745891,
+          "newRating": 1310.5916214688377,
+          "result": "L 117-134 vs San Francisco Warriors on 1966-11-21"
+        },
+        {
+          "diff": -7.246293709722067,
+          "newRating": 1303.3453277591157,
+          "result": "L 103-123 vs Boston Celtics on 1966-11-23"
+        },
+        {
+          "diff": -6.332537705676941,
+          "newRating": 1297.0127900534387,
+          "result": "L 78-101 vs Boston Celtics on 1966-11-24"
+        },
+        {
+          "diff": -36.50967792045276,
+          "newRating": 1260.503112132986,
+          "result": "L 126-133 vs Los Angeles Lakers on 1966-11-26"
+        },
+        {
+          "diff": -4.038945147365894,
+          "newRating": 1256.46416698562,
+          "result": "L 116-137 vs Philadelphia 76ers on 1966-11-29"
+        },
+        {
+          "diff": 15.91689591927593,
+          "newRating": 1272.381062904896,
+          "result": "W 109-107 vs New York Knicks on 1966-12-02"
+        },
+        {
+          "diff": -22.09568434646212,
+          "newRating": 1250.2853785584339,
+          "result": "L 111-123 vs San Francisco Warriors on 1966-12-03"
+        },
+        {
+          "diff": 9.92436553151856,
+          "newRating": 1260.2097440899524,
+          "result": "W 123-118 vs Los Angeles Lakers on 1966-12-04"
+        },
+        {
+          "diff": -26.012713281464812,
+          "newRating": 1234.1970308084876,
+          "result": "L 128-130 vs Los Angeles Lakers on 1966-12-07"
+        },
+        {
+          "diff": -17.308202676389328,
+          "newRating": 1216.8888281320983,
+          "result": "L 106-124 vs San Francisco Warriors on 1966-12-08"
+        },
+        {
+          "diff": -2.298208528374289,
+          "newRating": 1214.590619603724,
+          "result": "L 123-133 vs Philadelphia 76ers on 1966-12-10"
+        },
+        {
+          "diff": 26.995413999154835,
+          "newRating": 1241.5860336028788,
+          "result": "W 116-114 vs Boston Celtics on 1966-12-15"
+        },
+        {
+          "diff": -2.6248671935088623,
+          "newRating": 1238.96116640937,
+          "result": "L 113-124 vs Philadelphia 76ers on 1966-12-16"
+        },
+        {
+          "diff": -17.751048603399113,
+          "newRating": 1221.2101178059709,
+          "result": "L 114-116 vs New York Knicks on 1966-12-17"
+        },
+        {
+          "diff": -18.128811844423353,
+          "newRating": 1203.0813059615475,
+          "result": "L 97-102 vs Chicago Bulls on 1966-12-19"
+        },
+        {
+          "diff": 4.585648627940827,
+          "newRating": 1207.6669545894883,
+          "result": "W 118-109 vs Baltimore Bullets on 1966-12-21"
+        },
+        {
+          "diff": -3.8108236930891053,
+          "newRating": 1203.8561308963992,
+          "result": "L 103-114 vs Boston Celtics on 1966-12-23"
+        },
+        {
+          "diff": 13.984115846322538,
+          "newRating": 1217.8402467427218,
+          "result": "W 120-111 vs San Francisco Warriors on 1966-12-26"
+        },
+        {
+          "diff": 3.6239302187734665,
+          "newRating": 1221.4641769614952,
+          "result": "W 113-111 vs Baltimore Bullets on 1966-12-27"
+        },
+        {
+          "diff": -3.7464209088191183,
+          "newRating": 1217.7177560526761,
+          "result": "L 110-112 vs Boston Celtics on 1966-12-29"
+        },
+        {
+          "diff": 10.721527511801014,
+          "newRating": 1228.4392835644771,
+          "result": "W 128-105 vs New York Knicks on 1967-01-01"
+        },
+        {
+          "diff": 8.352218656195646,
+          "newRating": 1236.7915022206728,
+          "result": "W 122-120 vs Detroit Pistons on 1967-01-02"
+        },
+        {
+          "diff": -14.240572680983632,
+          "newRating": 1222.5509295396892,
+          "result": "L 101-122 vs Los Angeles Lakers on 1967-01-04"
+        },
+        {
+          "diff": -9.816065097751334,
+          "newRating": 1212.7348644419378,
+          "result": "L 118-129 vs San Francisco Warriors on 1967-01-06"
+        },
+        {
+          "diff": 7.880691834166328,
+          "newRating": 1220.6155562761041,
+          "result": "W 117-115 vs Detroit Pistons on 1967-01-08"
+        },
+        {
+          "diff": -17.396983901160183,
+          "newRating": 1203.218572374944,
+          "result": "L 116-137 vs Baltimore Bullets on 1967-01-12"
+        },
+        {
+          "diff": -1.401862983966339,
+          "newRating": 1201.8167093909776,
+          "result": "L 107-125 vs Philadelphia 76ers on 1967-01-13"
+        },
+        {
+          "diff": -11.606389131650985,
+          "newRating": 1190.2103202593266,
+          "result": "L 105-116 vs Cincinnati Royals on 1967-01-14"
+        },
+        {
+          "diff": 11.171243673554727,
+          "newRating": 1201.3815639328814,
+          "result": "W 114-112 vs San Francisco Warriors on 1967-01-15"
+        },
+        {
+          "diff": -15.434086002484491,
+          "newRating": 1185.9474779303969,
+          "result": "L 98-100 vs Baltimore Bullets on 1967-01-16"
+        },
+        {
+          "diff": 7.730662888683355,
+          "newRating": 1193.6781408190802,
+          "result": "W 123-121 vs Los Angeles Lakers on 1967-01-18"
+        },
+        {
+          "diff": -7.3784918183534955,
+          "newRating": 1186.2996490007267,
+          "result": "L 115-142 vs San Francisco Warriors on 1967-01-20"
+        },
+        {
+          "diff": -8.249141404409329,
+          "newRating": 1178.0505075963174,
+          "result": "L 114-124 vs New York Knicks on 1967-01-21"
+        },
+        {
+          "diff": 8.972051978471427,
+          "newRating": 1187.0225595747888,
+          "result": "W 104-101 vs New York Knicks on 1967-01-22"
+        },
+        {
+          "diff": -1.021900723033923,
+          "newRating": 1186.000658851755,
+          "result": "L 105-112 vs Philadelphia 76ers on 1967-01-23"
+        },
+        {
+          "diff": 7.0160458426328205,
+          "newRating": 1193.0167046943877,
+          "result": "W 103-102 vs Chicago Bulls on 1967-01-25"
+        },
+        {
+          "diff": -9.068771287124491,
+          "newRating": 1183.9479334072632,
+          "result": "L 112-113 vs Cincinnati Royals on 1967-01-28"
+        },
+        {
+          "diff": 14.385508018753626,
+          "newRating": 1198.3334414260169,
+          "result": "W 114-108 vs Philadelphia 76ers on 1967-01-29"
+        },
+        {
+          "diff": 6.151869765179526,
+          "newRating": 1204.4853111911964,
+          "result": "W 106-99 vs Los Angeles Lakers on 1967-01-30"
+        },
+        {
+          "diff": -8.04906921586894,
+          "newRating": 1196.4362419753274,
+          "result": "L 120-139 vs New York Knicks on 1967-01-31"
+        },
+        {
+          "diff": 12.335909690569906,
+          "newRating": 1208.7721516658974,
+          "result": "W 131-113 vs Boston Celtics on 1967-02-03"
+        },
+        {
+          "diff": 5.689254167616809,
+          "newRating": 1214.4614058335142,
+          "result": "W 119-111 vs Chicago Bulls on 1967-02-04"
+        },
+        {
+          "diff": -9.176795260757672,
+          "newRating": 1205.2846105727565,
+          "result": "L 104-114 vs Detroit Pistons on 1967-02-05"
+        },
+        {
+          "diff": -11.422075011754714,
+          "newRating": 1193.8625355610018,
+          "result": "L 98-107 vs Baltimore Bullets on 1967-02-06"
+        },
+        {
+          "diff": 2.5911113380136612,
+          "newRating": 1196.4536468990154,
+          "result": "W 109-96 vs Baltimore Bullets on 1967-02-07"
+        },
+        {
+          "diff": 5.038720989397689,
+          "newRating": 1201.4923678884131,
+          "result": "W 104-98 vs Chicago Bulls on 1967-02-11"
+        },
+        {
+          "diff": 5.585487759821945,
+          "newRating": 1207.077855648235,
+          "result": "W 118-115 vs Cincinnati Royals on 1967-02-12"
+        },
+        {
+          "diff": 6.238919579995354,
+          "newRating": 1213.3167752282304,
+          "result": "W 139-109 vs New York Knicks on 1967-02-13"
+        },
+        {
+          "diff": -6.909082593084122,
+          "newRating": 1206.4076926351463,
+          "result": "L 120-121 vs New York Knicks on 1967-02-16"
+        },
+        {
+          "diff": 2.4616198425308085,
+          "newRating": 1208.869312477677,
+          "result": "W 133-132 vs Baltimore Bullets on 1967-02-17"
+        },
+        {
+          "diff": -1.2141931646594912,
+          "newRating": 1207.6551193130176,
+          "result": "L 122-123 vs Philadelphia 76ers on 1967-02-19"
+        },
+        {
+          "diff": -7.064848930539711,
+          "newRating": 1200.590270382478,
+          "result": "L 104-112 vs Cincinnati Royals on 1967-02-20"
+        },
+        {
+          "diff": -7.569540368746175,
+          "newRating": 1193.0207300137317,
+          "result": "L 109-112 vs Detroit Pistons on 1967-02-21"
+        },
+        {
+          "diff": -6.418713800264186,
+          "newRating": 1186.6020162134676,
+          "result": "L 133-134 vs Los Angeles Lakers on 1967-02-25"
+        },
+        {
+          "diff": -1.98944932563586,
+          "newRating": 1184.6125668878317,
+          "result": "L 119-130 vs Boston Celtics on 1967-02-26"
+        },
+        {
+          "diff": 4.6602454002604645,
+          "newRating": 1189.2728122880922,
+          "result": "W 105-94 vs Detroit Pistons on 1967-02-27"
+        },
+        {
+          "diff": -8.791263326691478,
+          "newRating": 1180.4815489614007,
+          "result": "L 112-122 vs Baltimore Bullets on 1967-03-01"
+        },
+        {
+          "diff": -6.6326619271123946,
+          "newRating": 1173.8488870342883,
+          "result": "L 122-125 vs Chicago Bulls on 1967-03-04"
+        },
+        {
+          "diff": 2.6467261456141387,
+          "newRating": 1176.4956131799024,
+          "result": "W 132-103 vs Baltimore Bullets on 1967-03-05"
+        },
+        {
+          "diff": -5.656235864768178,
+          "newRating": 1170.8393773151342,
+          "result": "L 122-129 vs Cincinnati Royals on 1967-03-06"
+        },
+        {
+          "diff": 5.490213999079515,
+          "newRating": 1176.3295913142138,
+          "result": "W 106-104 vs Los Angeles Lakers on 1967-03-08"
+        },
+        {
+          "diff": 6.146061990236603,
+          "newRating": 1182.4756533044504,
+          "result": "W 111-105 vs San Francisco Warriors on 1967-03-10"
+        },
+        {
+          "diff": 5.019958870163009,
+          "newRating": 1187.4956121746134,
+          "result": "W 120-119 vs Cincinnati Royals on 1967-03-12"
+        },
+        {
+          "diff": 8.534638372189875,
+          "newRating": 1196.0302505468032,
+          "result": "W 123-122 vs Boston Celtics on 1967-03-13"
+        },
+        {
+          "diff": 4.085168701930343,
+          "newRating": 1200.1154192487336,
+          "result": "W 111-98 vs Chicago Bulls on 1967-03-14"
+        },
+        {
+          "diff": -5.305017674726059,
+          "newRating": 1194.8104015740075,
+          "result": "L 111-114 vs Cincinnati Royals on 1967-03-16"
+        },
+        {
+          "diff": 3.752837737675918,
+          "newRating": 1198.5632393116834,
+          "result": "W 102-99 vs Detroit Pistons on 1967-03-18"
+        }
+      ]
+    },
+    {
+      "team": "Cincinnati Royals",
+      "rating": 1189.7557467859383,
+      "wins": 39,
+      "losses": 42,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 103-99 vs Detroit Pistons on 1966-10-15"
+        },
+        {
+          "diff": -396.0396039603961,
+          "newRating": 1203.960396039604,
+          "result": "L 112-114 vs Detroit Pistons on 1966-10-18"
+        },
+        {
+          "diff": -156.50949164036865,
+          "newRating": 1047.4509043992352,
+          "result": "L 123-133 vs St. Louis Hawks on 1966-10-22"
+        },
+        {
+          "diff": -168.15916429804656,
+          "newRating": 879.2917401011887,
+          "result": "L 116-122 vs Baltimore Bullets on 1966-10-26"
+        },
+        {
+          "diff": 143.9454247611293,
+          "newRating": 1023.237164862318,
+          "result": "W 121-118 vs St. Louis Hawks on 1966-10-27"
+        },
+        {
+          "diff": -62.5929610665695,
+          "newRating": 960.6442037957485,
+          "result": "L 115-127 vs San Francisco Warriors on 1966-10-29"
+        },
+        {
+          "diff": 97.905547967806,
+          "newRating": 1058.5497517635545,
+          "result": "W 131-129 vs New York Knicks on 1966-11-02"
+        },
+        {
+          "diff": 68.62780423511958,
+          "newRating": 1127.177555998674,
+          "result": "W 120-115 vs Detroit Pistons on 1966-11-04"
+        },
+        {
+          "diff": -37.04013969268317,
+          "newRating": 1090.1374163059909,
+          "result": "L 99-113 vs Chicago Bulls on 1966-11-05"
+        },
+        {
+          "diff": -2.732242553733613,
+          "newRating": 1087.4051737522573,
+          "result": "L 112-113 vs Boston Celtics on 1966-11-10"
+        },
+        {
+          "diff": 13.486265722824783,
+          "newRating": 1100.891439475082,
+          "result": "W 119-104 vs Baltimore Bullets on 1966-11-11"
+        },
+        {
+          "diff": -2.422725612329714,
+          "newRating": 1098.4687138627523,
+          "result": "L 98-112 vs Philadelphia 76ers on 1966-11-12"
+        },
+        {
+          "diff": -37.05989223670849,
+          "newRating": 1061.4088216260438,
+          "result": "L 112-124 vs Los Angeles Lakers on 1966-11-16"
+        },
+        {
+          "diff": -1.50352512469658,
+          "newRating": 1059.9052965013473,
+          "result": "L 110-134 vs Philadelphia 76ers on 1966-11-19"
+        },
+        {
+          "diff": 12.769696925730614,
+          "newRating": 1072.6749934270779,
+          "result": "W 125-123 vs Baltimore Bullets on 1966-11-20"
+        },
+        {
+          "diff": 35.24715805390542,
+          "newRating": 1107.9221514809833,
+          "result": "W 121-118 vs New York Knicks on 1966-11-22"
+        },
+        {
+          "diff": 45.465141438368164,
+          "newRating": 1153.3872929193515,
+          "result": "W 111-106 vs Philadelphia 76ers on 1966-11-23"
+        },
+        {
+          "diff": 23.163029687107155,
+          "newRating": 1176.5503226064586,
+          "result": "W 115-109 vs New York Knicks on 1966-11-25"
+        },
+        {
+          "diff": -3.5944502272097907,
+          "newRating": 1172.9558723792488,
+          "result": "L 87-118 vs Boston Celtics on 1966-11-26"
+        },
+        {
+          "diff": -20.30834711251555,
+          "newRating": 1152.6475252667333,
+          "result": "L 115-119 vs New York Knicks on 1966-11-30"
+        },
+        {
+          "diff": -24.060160236956108,
+          "newRating": 1128.5873650297772,
+          "result": "L 118-130 vs Los Angeles Lakers on 1966-12-03"
+        },
+        {
+          "diff": -3.3316295393281052,
+          "newRating": 1125.255735490449,
+          "result": "L 91-119 vs Boston Celtics on 1966-12-07"
+        },
+        {
+          "diff": -3.079806177794353,
+          "newRating": 1122.1759293126547,
+          "result": "L 99-117 vs Boston Celtics on 1966-12-09"
+        },
+        {
+          "diff": -11.010251286902076,
+          "newRating": 1111.1656780257526,
+          "result": "L 120-123 vs San Francisco Warriors on 1966-12-10"
+        },
+        {
+          "diff": -17.190638270438058,
+          "newRating": 1093.9750397553146,
+          "result": "L 118-119 vs Los Angeles Lakers on 1966-12-11"
+        },
+        {
+          "diff": 22.01122488990859,
+          "newRating": 1115.9862646452232,
+          "result": "W 126-112 vs San Francisco Warriors on 1966-12-13"
+        },
+        {
+          "diff": 14.159685007424969,
+          "newRating": 1130.1459496526481,
+          "result": "W 126-124 vs Los Angeles Lakers on 1966-12-14"
+        },
+        {
+          "diff": -16.01753647951091,
+          "newRating": 1114.1284131731372,
+          "result": "L 120-128 vs Chicago Bulls on 1966-12-16"
+        },
+        {
+          "diff": 7.295932107853787,
+          "newRating": 1121.424345280991,
+          "result": "W 138-114 vs Baltimore Bullets on 1966-12-18"
+        },
+        {
+          "diff": -9.043516826722907,
+          "newRating": 1112.380828454268,
+          "result": "L 112-124 vs San Francisco Warriors on 1966-12-25"
+        },
+        {
+          "diff": -1.0930438619836877,
+          "newRating": 1111.2877845922844,
+          "result": "L 118-134 vs Philadelphia 76ers on 1966-12-26"
+        },
+        {
+          "diff": 14.022745330659745,
+          "newRating": 1125.3105299229442,
+          "result": "W 131-123 vs Detroit Pistons on 1966-12-27"
+        },
+        {
+          "diff": -13.327496710948253,
+          "newRating": 1111.983033211996,
+          "result": "L 114-125 vs Los Angeles Lakers on 1966-12-29"
+        },
+        {
+          "diff": -7.748225845126399,
+          "newRating": 1104.2348073668695,
+          "result": "L 102-107 vs San Francisco Warriors on 1966-12-30"
+        },
+        {
+          "diff": -8.713703457808379,
+          "newRating": 1095.5211039090611,
+          "result": "L 103-107 vs New York Knicks on 1966-12-31"
+        },
+        {
+          "diff": -10.365987307454361,
+          "newRating": 1085.1551166016068,
+          "result": "L 111-116 vs Chicago Bulls on 1967-01-03"
+        },
+        {
+          "diff": 12.405955089908957,
+          "newRating": 1097.5610716915157,
+          "result": "W 125-112 vs Chicago Bulls on 1967-01-07"
+        },
+        {
+          "diff": 5.000096574887721,
+          "newRating": 1102.5611682664035,
+          "result": "W 126-94 vs Baltimore Bullets on 1967-01-08"
+        },
+        {
+          "diff": 10.933114826110796,
+          "newRating": 1113.4942830925143,
+          "result": "W 106-102 vs Chicago Bulls on 1967-01-11"
+        },
+        {
+          "diff": 11.101464766155004,
+          "newRating": 1124.5957478586693,
+          "result": "W 125-115 vs Los Angeles Lakers on 1967-01-13"
+        },
+        {
+          "diff": 11.88947179339857,
+          "newRating": 1136.4852196520678,
+          "result": "W 116-105 vs St. Louis Hawks on 1967-01-14"
+        },
+        {
+          "diff": -2.488086030948125,
+          "newRating": 1133.9971336211197,
+          "result": "L 106-119 vs Boston Celtics on 1967-01-18"
+        },
+        {
+          "diff": -14.482175161310352,
+          "newRating": 1119.5149584598093,
+          "result": "L 118-122 vs Baltimore Bullets on 1967-01-19"
+        },
+        {
+          "diff": 8.698872313408629,
+          "newRating": 1128.213830773218,
+          "result": "W 122-108 vs Detroit Pistons on 1967-01-21"
+        },
+        {
+          "diff": 10.608572030856749,
+          "newRating": 1138.8224028040747,
+          "result": "W 126-118 vs New York Knicks on 1967-01-24"
+        },
+        {
+          "diff": 9.896420344309263,
+          "newRating": 1148.718823148384,
+          "result": "W 132-125 vs New York Knicks on 1967-01-25"
+        },
+        {
+          "diff": -9.591417964921902,
+          "newRating": 1139.127405183462,
+          "result": "L 110-118 vs Detroit Pistons on 1967-01-26"
+        },
+        {
+          "diff": -0.8524155812440313,
+          "newRating": 1138.274989602218,
+          "result": "L 107-110 vs Philadelphia 76ers on 1967-01-27"
+        },
+        {
+          "diff": 9.438925217211363,
+          "newRating": 1147.7139148194294,
+          "result": "W 113-112 vs St. Louis Hawks on 1967-01-28"
+        },
+        {
+          "diff": 10.456271828395302,
+          "newRating": 1158.1701866478247,
+          "result": "W 121-118 vs San Francisco Warriors on 1967-01-29"
+        },
+        {
+          "diff": 3.2386155027866153,
+          "newRating": 1161.4088021506113,
+          "result": "W 131-125 vs Baltimore Bullets on 1967-02-02"
+        },
+        {
+          "diff": -8.395939739803907,
+          "newRating": 1153.0128624108074,
+          "result": "L 113-118 vs Chicago Bulls on 1967-02-03"
+        },
+        {
+          "diff": -11.94492938585995,
+          "newRating": 1141.0679330249475,
+          "result": "L 99-109 vs Baltimore Bullets on 1967-02-04"
+        },
+        {
+          "diff": -1.8193401240446292,
+          "newRating": 1139.2485929009028,
+          "result": "L 121-137 vs Boston Celtics on 1967-02-05"
+        },
+        {
+          "diff": -1.753993214061211,
+          "newRating": 1137.4945996868416,
+          "result": "L 123-138 vs Boston Celtics on 1967-02-07"
+        },
+        {
+          "diff": -0.88145572544272,
+          "newRating": 1136.613143961399,
+          "result": "L 106-118 vs Philadelphia 76ers on 1967-02-08"
+        },
+        {
+          "diff": 6.6889087714221205,
+          "newRating": 1143.302052732821,
+          "result": "W 133-104 vs Detroit Pistons on 1967-02-10"
+        },
+        {
+          "diff": 6.313692907569703,
+          "newRating": 1149.6157456403907,
+          "result": "W 132-117 vs Detroit Pistons on 1967-02-11"
+        },
+        {
+          "diff": -5.774826327951587,
+          "newRating": 1143.8409193124392,
+          "result": "L 115-118 vs St. Louis Hawks on 1967-02-12"
+        },
+        {
+          "diff": -0.9464216484279859,
+          "newRating": 1142.8944976640112,
+          "result": "L 123-131 vs Philadelphia 76ers on 1967-02-13"
+        },
+        {
+          "diff": 7.433157605594488,
+          "newRating": 1150.3276552696057,
+          "result": "W 127-118 vs New York Knicks on 1967-02-15"
+        },
+        {
+          "diff": 5.815838103260148,
+          "newRating": 1156.1434933728658,
+          "result": "W 122-110 vs Detroit Pistons on 1967-02-16"
+        },
+        {
+          "diff": -0.9539984204873235,
+          "newRating": 1155.1894949523785,
+          "result": "L 118-127 vs Philadelphia 76ers on 1967-02-17"
+        },
+        {
+          "diff": -5.640223065512373,
+          "newRating": 1149.549271886866,
+          "result": "L 123-124 vs New York Knicks on 1967-02-18"
+        },
+        {
+          "diff": 7.173538914086521,
+          "newRating": 1156.7228108009526,
+          "result": "W 112-104 vs St. Louis Hawks on 1967-02-20"
+        },
+        {
+          "diff": -5.964805680437166,
+          "newRating": 1150.7580051205155,
+          "result": "L 102-103 vs Los Angeles Lakers on 1967-02-22"
+        },
+        {
+          "diff": 7.834642674242559,
+          "newRating": 1158.592647794758,
+          "result": "W 137-122 vs San Francisco Warriors on 1967-02-24"
+        },
+        {
+          "diff": 7.476755575902416,
+          "newRating": 1166.0694033706604,
+          "result": "W 129-116 vs San Francisco Warriors on 1967-02-25"
+        },
+        {
+          "diff": -5.7687705016880955,
+          "newRating": 1160.3006328689723,
+          "result": "L 127-141 vs Los Angeles Lakers on 1967-02-26"
+        },
+        {
+          "diff": -0.8665299168153524,
+          "newRating": 1159.434102952157,
+          "result": "L 107-127 vs Philadelphia 76ers on 1967-02-28"
+        },
+        {
+          "diff": 5.941827848568437,
+          "newRating": 1165.3759308007254,
+          "result": "W 122-116 vs Los Angeles Lakers on 1967-03-01"
+        },
+        {
+          "diff": -1.671782900651806,
+          "newRating": 1163.7041479000736,
+          "result": "L 104-111 vs Boston Celtics on 1967-03-03"
+        },
+        {
+          "diff": 2.799173301690871,
+          "newRating": 1166.5033212017645,
+          "result": "W 109-102 vs Baltimore Bullets on 1967-03-04"
+        },
+        {
+          "diff": -6.141569102719586,
+          "newRating": 1160.361752099045,
+          "result": "L 106-113 vs Chicago Bulls on 1967-03-05"
+        },
+        {
+          "diff": 5.58081938657142,
+          "newRating": 1165.9425714856163,
+          "result": "W 129-122 vs St. Louis Hawks on 1967-03-06"
+        },
+        {
+          "diff": 4.834704688392321,
+          "newRating": 1170.7772761740086,
+          "result": "W 147-119 vs Chicago Bulls on 1967-03-11"
+        },
+        {
+          "diff": -5.019958870163009,
+          "newRating": 1165.7573173038456,
+          "result": "L 119-120 vs St. Louis Hawks on 1967-03-12"
+        },
+        {
+          "diff": 4.6426442951799345,
+          "newRating": 1170.3999615990256,
+          "result": "W 133-117 vs Chicago Bulls on 1967-03-13"
+        },
+        {
+          "diff": 8.494308242517945,
+          "newRating": 1178.8942698415435,
+          "result": "W 112-108 vs Boston Celtics on 1967-03-15"
+        },
+        {
+          "diff": 5.305017674726059,
+          "newRating": 1184.1992875162696,
+          "result": "W 114-111 vs St. Louis Hawks on 1967-03-16"
+        },
+        {
+          "diff": 5.556459269668721,
+          "newRating": 1189.7557467859383,
+          "result": "W 127-112 vs San Francisco Warriors on 1967-03-18"
+        }
+      ]
+    },
+    {
+      "team": "Los Angeles Lakers",
+      "rating": 1175.5807109823156,
+      "wins": 36,
+      "losses": 45,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 126-115 vs Baltimore Bullets on 1966-10-15"
+        },
+        {
+          "diff": -396.0396039603961,
+          "newRating": 1203.960396039604,
+          "result": "L 119-122 vs New York Knicks on 1966-10-18"
+        },
+        {
+          "diff": -24.24242424242425,
+          "newRating": 1179.7179717971796,
+          "result": "L 124-134 vs Chicago Bulls on 1966-10-19"
+        },
+        {
+          "diff": -38.3127254935157,
+          "newRating": 1141.405246303664,
+          "result": "L 101-108 vs Chicago Bulls on 1966-10-21"
+        },
+        {
+          "diff": -40.12231488728048,
+          "newRating": 1101.2829314163835,
+          "result": "L 122-133 vs New York Knicks on 1966-10-26"
+        },
+        {
+          "diff": 109.36526200081312,
+          "newRating": 1210.6481934171966,
+          "result": "W 124-114 vs New York Knicks on 1966-10-28"
+        },
+        {
+          "diff": -72.27668930869754,
+          "newRating": 1138.371504108499,
+          "result": "L 109-110 vs St. Louis Hawks on 1966-10-29"
+        },
+        {
+          "diff": -48.964600366316745,
+          "newRating": 1089.4069037421823,
+          "result": "L 121-124 vs Detroit Pistons on 1966-10-30"
+        },
+        {
+          "diff": -5.08045409241231,
+          "newRating": 1084.32644964977,
+          "result": "L 108-133 vs Boston Celtics on 1966-11-02"
+        },
+        {
+          "diff": 13.591014424306195,
+          "newRating": 1097.9174640740762,
+          "result": "W 131-98 vs Baltimore Bullets on 1966-11-04"
+        },
+        {
+          "diff": -62.46624773936355,
+          "newRating": 1035.4512163347126,
+          "result": "L 102-104 vs Baltimore Bullets on 1966-11-08"
+        },
+        {
+          "diff": -27.090652101826322,
+          "newRating": 1008.3605642328863,
+          "result": "L 132-133 vs Detroit Pistons on 1966-11-10"
+        },
+        {
+          "diff": -21.548691330708948,
+          "newRating": 986.8118729021774,
+          "result": "L 93-132 vs San Francisco Warriors on 1966-11-11"
+        },
+        {
+          "diff": 39.60959251300028,
+          "newRating": 1026.4214654151776,
+          "result": "W 144-88 vs Detroit Pistons on 1966-11-12"
+        },
+        {
+          "diff": 32.11857327181406,
+          "newRating": 1058.5400386869917,
+          "result": "W 124-112 vs Cincinnati Royals on 1966-11-16"
+        },
+        {
+          "diff": -24.183430484575638,
+          "newRating": 1034.356608202416,
+          "result": "L 118-121 vs Detroit Pistons on 1966-11-18"
+        },
+        {
+          "diff": -14.388993799080367,
+          "newRating": 1019.9676144033357,
+          "result": "L 109-144 vs San Francisco Warriors on 1966-11-19"
+        },
+        {
+          "diff": 29.283090376194536,
+          "newRating": 1049.2507047795302,
+          "result": "W 154-130 vs Chicago Bulls on 1966-11-23"
+        },
+        {
+          "diff": -17.38745445245081,
+          "newRating": 1031.8632503270794,
+          "result": "L 117-121 vs Chicago Bulls on 1966-11-25"
+        },
+        {
+          "diff": 32.85871012840744,
+          "newRating": 1064.7219604554869,
+          "result": "W 133-126 vs St. Louis Hawks on 1966-11-26"
+        },
+        {
+          "diff": -14.22677024039308,
+          "newRating": 1050.4951902150938,
+          "result": "L 114-118 vs New York Knicks on 1966-11-29"
+        },
+        {
+          "diff": 9.609448369855727,
+          "newRating": 1060.1046385849495,
+          "result": "W 126-111 vs Baltimore Bullets on 1966-11-30"
+        },
+        {
+          "diff": -1.09058898323633,
+          "newRating": 1059.0140496017132,
+          "result": "L 130-138 vs Philadelphia 76ers on 1966-12-02"
+        },
+        {
+          "diff": 21.05264020733648,
+          "newRating": 1080.0666898090496,
+          "result": "W 130-118 vs Cincinnati Royals on 1966-12-03"
+        },
+        {
+          "diff": -8.733441667736315,
+          "newRating": 1071.3332481413133,
+          "result": "L 118-123 vs St. Louis Hawks on 1966-12-04"
+        },
+        {
+          "diff": 23.01124636437271,
+          "newRating": 1094.344494505686,
+          "result": "W 130-128 vs St. Louis Hawks on 1966-12-07"
+        },
+        {
+          "diff": -9.081080748576369,
+          "newRating": 1085.2634137571097,
+          "result": "L 118-119 vs San Francisco Warriors on 1966-12-09"
+        },
+        {
+          "diff": 15.348784170033923,
+          "newRating": 1100.6121979271436,
+          "result": "W 119-118 vs Cincinnati Royals on 1966-12-11"
+        },
+        {
+          "diff": -13.183155006912784,
+          "newRating": 1087.4290429202308,
+          "result": "L 124-126 vs Cincinnati Royals on 1966-12-14"
+        },
+        {
+          "diff": 24.78018871258996,
+          "newRating": 1112.2092316328208,
+          "result": "W 127-125 vs Boston Celtics on 1966-12-18"
+        },
+        {
+          "diff": -8.655433317680263,
+          "newRating": 1103.5537983151405,
+          "result": "L 107-130 vs San Francisco Warriors on 1966-12-20"
+        },
+        {
+          "diff": -1.0306774367190883,
+          "newRating": 1102.5231208784214,
+          "result": "L 123-129 vs Philadelphia 76ers on 1966-12-21"
+        },
+        {
+          "diff": -0.9773907353874165,
+          "newRating": 1101.545730143034,
+          "result": "L 107-118 vs Philadelphia 76ers on 1966-12-23"
+        },
+        {
+          "diff": -1.982601202447995,
+          "newRating": 1099.563128940586,
+          "result": "L 106-121 vs Boston Celtics on 1966-12-26"
+        },
+        {
+          "diff": -8.943689984463617,
+          "newRating": 1090.6194389561224,
+          "result": "L 115-121 vs New York Knicks on 1966-12-28"
+        },
+        {
+          "diff": 12.21687198503605,
+          "newRating": 1102.8363109411584,
+          "result": "W 125-114 vs Cincinnati Royals on 1966-12-29"
+        },
+        {
+          "diff": 19.79144338664355,
+          "newRating": 1122.627754327802,
+          "result": "W 111-110 vs Boston Celtics on 1967-01-01"
+        },
+        {
+          "diff": 13.865820768326103,
+          "newRating": 1136.493575096128,
+          "result": "W 122-101 vs St. Louis Hawks on 1967-01-04"
+        },
+        {
+          "diff": -7.323198031761422,
+          "newRating": 1129.1703770643667,
+          "result": "L 91-122 vs San Francisco Warriors on 1967-01-05"
+        },
+        {
+          "diff": 17.886371832132454,
+          "newRating": 1147.0567488964991,
+          "result": "W 102-99 vs Boston Celtics on 1967-01-06"
+        },
+        {
+          "diff": -8.10920926747167,
+          "newRating": 1138.9475396290275,
+          "result": "L 118-121 vs New York Knicks on 1967-01-08"
+        },
+        {
+          "diff": 12.971447675062564,
+          "newRating": 1151.91898730409,
+          "result": "W 141-126 vs San Francisco Warriors on 1967-01-11"
+        },
+        {
+          "diff": -10.326943968516389,
+          "newRating": 1141.5920433355736,
+          "result": "L 115-125 vs Cincinnati Royals on 1967-01-13"
+        },
+        {
+          "diff": -9.805244946227049,
+          "newRating": 1131.7867983893466,
+          "result": "L 121-122 vs Chicago Bulls on 1967-01-14"
+        },
+        {
+          "diff": 8.63082631197858,
+          "newRating": 1140.4176247013252,
+          "result": "W 127-116 vs Detroit Pistons on 1967-01-15"
+        },
+        {
+          "diff": -7.562604999799078,
+          "newRating": 1132.855019701526,
+          "result": "L 121-123 vs St. Louis Hawks on 1967-01-18"
+        },
+        {
+          "diff": -0.7966228010011491,
+          "newRating": 1132.058396900525,
+          "result": "L 108-119 vs Philadelphia 76ers on 1967-01-20"
+        },
+        {
+          "diff": -12.737404180219528,
+          "newRating": 1119.3209927203054,
+          "result": "L 119-126 vs Baltimore Bullets on 1967-01-21"
+        },
+        {
+          "diff": -1.9251706208904125,
+          "newRating": 1117.395822099415,
+          "result": "L 120-121 vs Boston Celtics on 1967-01-22"
+        },
+        {
+          "diff": 4.131553469739401,
+          "newRating": 1121.5273755691544,
+          "result": "W 128-115 vs Baltimore Bullets on 1967-01-25"
+        },
+        {
+          "diff": 3.881815662538429,
+          "newRating": 1125.4091912316928,
+          "result": "W 133-118 vs Baltimore Bullets on 1967-01-28"
+        },
+        {
+          "diff": 7.944109376521737,
+          "newRating": 1133.3533006082146,
+          "result": "W 142-122 vs Chicago Bulls on 1967-01-29"
+        },
+        {
+          "diff": -6.151869765179526,
+          "newRating": 1127.201430843035,
+          "result": "L 99-106 vs St. Louis Hawks on 1967-01-30"
+        },
+        {
+          "diff": 14.051291750701921,
+          "newRating": 1141.252722593737,
+          "result": "W 143-133 vs Philadelphia 76ers on 1967-02-01"
+        },
+        {
+          "diff": 9.714426942669206,
+          "newRating": 1150.9671495364062,
+          "result": "W 129-80 vs San Francisco Warriors on 1967-02-03"
+        },
+        {
+          "diff": -0.960868614660285,
+          "newRating": 1150.0062809217459,
+          "result": "L 123-130 vs Philadelphia 76ers on 1967-02-05"
+        },
+        {
+          "diff": 7.71716286731089,
+          "newRating": 1157.7234437890568,
+          "result": "W 122-117 vs New York Knicks on 1967-02-07"
+        },
+        {
+          "diff": 3.0733797142117965,
+          "newRating": 1160.7968235032686,
+          "result": "W 121-108 vs Baltimore Bullets on 1967-02-08"
+        },
+        {
+          "diff": -0.9440971225351404,
+          "newRating": 1159.8527263807334,
+          "result": "L 131-148 vs Philadelphia 76ers on 1967-02-10"
+        },
+        {
+          "diff": 5.625411657981431,
+          "newRating": 1165.4781380387149,
+          "result": "W 129-121 vs Chicago Bulls on 1967-02-12"
+        },
+        {
+          "diff": 11.216138481514008,
+          "newRating": 1176.6942765202289,
+          "result": "W 124-114 vs Boston Celtics on 1967-02-15"
+        },
+        {
+          "diff": -2.083890757732661,
+          "newRating": 1174.6103857624962,
+          "result": "L 119-120 vs Boston Celtics on 1967-02-17"
+        },
+        {
+          "diff": -7.756852967189616,
+          "newRating": 1166.8535327953066,
+          "result": "L 119-133 vs Chicago Bulls on 1967-02-19"
+        },
+        {
+          "diff": -4.638328420546031,
+          "newRating": 1162.2152043747606,
+          "result": "L 133-136 vs San Francisco Warriors on 1967-02-21"
+        },
+        {
+          "diff": 6.056571921674504,
+          "newRating": 1168.271776296435,
+          "result": "W 103-102 vs Cincinnati Royals on 1967-02-22"
+        },
+        {
+          "diff": -7.0189264664427355,
+          "newRating": 1161.2528498299923,
+          "result": "L 101-102 vs Detroit Pistons on 1967-02-24"
+        },
+        {
+          "diff": 6.514515498775609,
+          "newRating": 1167.767365328768,
+          "result": "W 134-133 vs St. Louis Hawks on 1967-02-25"
+        },
+        {
+          "diff": 5.853605362007102,
+          "newRating": 1173.620970690775,
+          "result": "W 141-127 vs Cincinnati Royals on 1967-02-26"
+        },
+        {
+          "diff": 4.827941503743659,
+          "newRating": 1178.4489121945187,
+          "result": "W 119-117 vs Detroit Pistons on 1967-02-28"
+        },
+        {
+          "diff": -6.026711103547996,
+          "newRating": 1172.4222010909707,
+          "result": "L 116-122 vs Cincinnati Royals on 1967-03-01"
+        },
+        {
+          "diff": 5.845594644536277,
+          "newRating": 1178.267795735507,
+          "result": "W 138-132 vs New York Knicks on 1967-03-03"
+        },
+        {
+          "diff": -1.7651908076927612,
+          "newRating": 1176.5026049278142,
+          "result": "L 105-130 vs Boston Celtics on 1967-03-05"
+        },
+        {
+          "diff": -0.9408765708099054,
+          "newRating": 1175.5617283570043,
+          "result": "L 117-119 vs Philadelphia 76ers on 1967-03-06"
+        },
+        {
+          "diff": 5.5004591837484895,
+          "newRating": 1181.0621875407528,
+          "result": "W 131-119 vs New York Knicks on 1967-03-07"
+        },
+        {
+          "diff": -5.490213999079515,
+          "newRating": 1175.5719735416733,
+          "result": "L 104-106 vs St. Louis Hawks on 1967-03-08"
+        },
+        {
+          "diff": 4.396528844928525,
+          "newRating": 1179.9685023866018,
+          "result": "W 118-103 vs Detroit Pistons on 1967-03-10"
+        },
+        {
+          "diff": 5.920984660472641,
+          "newRating": 1185.8894870470745,
+          "result": "W 125-120 vs San Francisco Warriors on 1967-03-11"
+        },
+        {
+          "diff": -6.183147100398173,
+          "newRating": 1179.7063399466763,
+          "result": "L 104-120 vs Detroit Pistons on 1967-03-12"
+        },
+        {
+          "diff": -0.8877179937846904,
+          "newRating": 1178.8186219528916,
+          "result": "L 123-138 vs Philadelphia 76ers on 1967-03-15"
+        },
+        {
+          "diff": 2.347904287541496,
+          "newRating": 1181.166526240433,
+          "result": "W 135-133 vs Baltimore Bullets on 1967-03-17"
+        },
+        {
+          "diff": -5.585815258117464,
+          "newRating": 1175.5807109823156,
+          "result": "L 109-122 vs Chicago Bulls on 1967-03-19"
+        }
+      ]
+    },
+    {
+      "team": "New York Knicks",
+      "rating": 1164.4456058698404,
+      "wins": 36,
+      "losses": 45,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 112-128 vs Philadelphia 76ers on 1966-10-15"
+        },
+        {
+          "diff": 396.0396039603961,
+          "newRating": 1196.039603960396,
+          "result": "W 122-119 vs Los Angeles Lakers on 1966-10-18"
+        },
+        {
+          "diff": 24.749564516956525,
+          "newRating": 1220.7891684773526,
+          "result": "W 131-109 vs Baltimore Bullets on 1966-10-19"
+        },
+        {
+          "diff": -19.92569585645765,
+          "newRating": 1200.863472620895,
+          "result": "L 97-126 vs Boston Celtics on 1966-10-22"
+        },
+        {
+          "diff": 130.68272005491076,
+          "newRating": 1331.5461926758057,
+          "result": "W 124-105 vs Chicago Bulls on 1966-10-23"
+        },
+        {
+          "diff": 33.43526240606707,
+          "newRating": 1364.9814550818728,
+          "result": "W 133-122 vs Los Angeles Lakers on 1966-10-26"
+        },
+        {
+          "diff": -93.741653143554,
+          "newRating": 1271.2398019383188,
+          "result": "L 114-124 vs Los Angeles Lakers on 1966-10-28"
+        },
+        {
+          "diff": -85.66735447183032,
+          "newRating": 1185.5724474664885,
+          "result": "L 129-131 vs Cincinnati Royals on 1966-11-02"
+        },
+        {
+          "diff": 42.229098453525694,
+          "newRating": 1227.8015459200142,
+          "result": "W 123-108 vs San Francisco Warriors on 1966-11-03"
+        },
+        {
+          "diff": 29.405252079926186,
+          "newRating": 1257.2067979999404,
+          "result": "W 115-104 vs Detroit Pistons on 1966-11-05"
+        },
+        {
+          "diff": -43.52805241902888,
+          "newRating": 1213.6787455809115,
+          "result": "L 121-135 vs St. Louis Hawks on 1966-11-08"
+        },
+        {
+          "diff": 35.980319039936376,
+          "newRating": 1249.6590646208479,
+          "result": "W 103-98 vs Chicago Bulls on 1966-11-09"
+        },
+        {
+          "diff": -4.9355256723515595,
+          "newRating": 1244.7235389484963,
+          "result": "L 106-111 vs Boston Celtics on 1966-11-11"
+        },
+        {
+          "diff": 4.553837826349536,
+          "newRating": 1249.2773767748458,
+          "result": "W 134-124 vs Baltimore Bullets on 1966-11-12"
+        },
+        {
+          "diff": -4.183664900487429,
+          "newRating": 1245.0937118743584,
+          "result": "L 109-113 vs Philadelphia 76ers on 1966-11-15"
+        },
+        {
+          "diff": -3.738748487584644,
+          "newRating": 1241.3549633867738,
+          "result": "L 108-117 vs Philadelphia 76ers on 1966-11-16"
+        },
+        {
+          "diff": -36.12364723495534,
+          "newRating": 1205.2313161518184,
+          "result": "L 108-123 vs Detroit Pistons on 1966-11-17"
+        },
+        {
+          "diff": 18.743043806525066,
+          "newRating": 1223.9743599583435,
+          "result": "W 116-104 vs Chicago Bulls on 1966-11-19"
+        },
+        {
+          "diff": -29.6818173085519,
+          "newRating": 1194.2925426497916,
+          "result": "L 118-121 vs Cincinnati Royals on 1966-11-22"
+        },
+        {
+          "diff": -26.187302551621997,
+          "newRating": 1168.1052400981696,
+          "result": "L 100-118 vs Detroit Pistons on 1966-11-23"
+        },
+        {
+          "diff": -19.854025446091782,
+          "newRating": 1148.2512146520778,
+          "result": "L 109-115 vs Cincinnati Royals on 1966-11-25"
+        },
+        {
+          "diff": 6.35803549570187,
+          "newRating": 1154.6092501477797,
+          "result": "W 125-114 vs Baltimore Bullets on 1966-11-26"
+        },
+        {
+          "diff": 12.989659784706873,
+          "newRating": 1167.5989099324865,
+          "result": "W 118-114 vs Los Angeles Lakers on 1966-11-29"
+        },
+        {
+          "diff": 16.923622593762957,
+          "newRating": 1184.5225325262495,
+          "result": "W 119-115 vs Cincinnati Royals on 1966-11-30"
+        },
+        {
+          "diff": -12.733516735420835,
+          "newRating": 1171.7890157908287,
+          "result": "L 107-109 vs St. Louis Hawks on 1966-12-02"
+        },
+        {
+          "diff": -3.7049689403511366,
+          "newRating": 1168.0840468504775,
+          "result": "L 109-120 vs Boston Celtics on 1966-12-03"
+        },
+        {
+          "diff": -11.97016720194506,
+          "newRating": 1156.1138796485325,
+          "result": "L 116-126 vs San Francisco Warriors on 1966-12-06"
+        },
+        {
+          "diff": 16.46291727655762,
+          "newRating": 1172.57679692509,
+          "result": "W 118-116 vs Detroit Pistons on 1966-12-07"
+        },
+        {
+          "diff": -1.5747785208222922,
+          "newRating": 1171.0020184042678,
+          "result": "L 107-112 vs Philadelphia 76ers on 1966-12-09"
+        },
+        {
+          "diff": 4.287579074086807,
+          "newRating": 1175.2895974783546,
+          "result": "W 138-129 vs Baltimore Bullets on 1966-12-10"
+        },
+        {
+          "diff": -1.6205928817571476,
+          "newRating": 1173.6690045965975,
+          "result": "L 112-127 vs Philadelphia 76ers on 1966-12-13"
+        },
+        {
+          "diff": -20.700438753545768,
+          "newRating": 1152.9685658430517,
+          "result": "L 106-116 vs Baltimore Bullets on 1966-12-14"
+        },
+        {
+          "diff": 15.061495784702402,
+          "newRating": 1168.030061627754,
+          "result": "W 116-114 vs St. Louis Hawks on 1966-12-17"
+        },
+        {
+          "diff": -13.2746183981194,
+          "newRating": 1154.7554432296347,
+          "result": "L 107-110 vs Chicago Bulls on 1966-12-21"
+        },
+        {
+          "diff": 10.462727108476201,
+          "newRating": 1165.218170338111,
+          "result": "W 133-132 vs Chicago Bulls on 1966-12-25"
+        },
+        {
+          "diff": 11.112232399653749,
+          "newRating": 1176.3304027377646,
+          "result": "W 114-109 vs Detroit Pistons on 1966-12-26"
+        },
+        {
+          "diff": 8.460247282600676,
+          "newRating": 1184.7906500203653,
+          "result": "W 121-115 vs Los Angeles Lakers on 1966-12-28"
+        },
+        {
+          "diff": 3.5850605056264158,
+          "newRating": 1188.3757105259917,
+          "result": "W 130-115 vs Baltimore Bullets on 1966-12-30"
+        },
+        {
+          "diff": 7.819990282648632,
+          "newRating": 1196.1957008086404,
+          "result": "W 107-103 vs Cincinnati Royals on 1966-12-31"
+        },
+        {
+          "diff": -9.381336572826058,
+          "newRating": 1186.8143642358143,
+          "result": "L 105-128 vs St. Louis Hawks on 1967-01-01"
+        },
+        {
+          "diff": -1.1834962111472578,
+          "newRating": 1185.630868024667,
+          "result": "L 142-148 vs Philadelphia 76ers on 1967-01-03"
+        },
+        {
+          "diff": 17.912754812076173,
+          "newRating": 1203.5436228367432,
+          "result": "W 112-104 vs Philadelphia 76ers on 1967-01-05"
+        },
+        {
+          "diff": 2.7291570776590106,
+          "newRating": 1206.2727799144022,
+          "result": "W 129-126 vs Baltimore Bullets on 1967-01-07"
+        },
+        {
+          "diff": 7.556308635598725,
+          "newRating": 1213.829088550001,
+          "result": "W 121-118 vs Los Angeles Lakers on 1967-01-08"
+        },
+        {
+          "diff": -7.771920620625906,
+          "newRating": 1206.057167929375,
+          "result": "L 123-127 vs San Francisco Warriors on 1967-01-12"
+        },
+        {
+          "diff": 10.177621558536657,
+          "newRating": 1216.2347894879117,
+          "result": "W 119-117 vs San Francisco Warriors on 1967-01-13"
+        },
+        {
+          "diff": -10.736095494928804,
+          "newRating": 1205.498693992983,
+          "result": "L 116-131 vs Chicago Bulls on 1967-01-15"
+        },
+        {
+          "diff": -1.1741685503764074,
+          "newRating": 1204.3245254426065,
+          "result": "L 111-119 vs Philadelphia 76ers on 1967-01-17"
+        },
+        {
+          "diff": -7.346249263238633,
+          "newRating": 1196.9782761793679,
+          "result": "L 102-123 vs San Francisco Warriors on 1967-01-19"
+        },
+        {
+          "diff": 7.75419292014476,
+          "newRating": 1204.7324690995126,
+          "result": "W 124-114 vs St. Louis Hawks on 1967-01-21"
+        },
+        {
+          "diff": -8.444284215031985,
+          "newRating": 1196.2881848844806,
+          "result": "L 101-104 vs St. Louis Hawks on 1967-01-22"
+        },
+        {
+          "diff": -9.180495026702829,
+          "newRating": 1187.1076898577778,
+          "result": "L 118-126 vs Cincinnati Royals on 1967-01-24"
+        },
+        {
+          "diff": -8.589345959211869,
+          "newRating": 1178.518343898566,
+          "result": "L 125-132 vs Cincinnati Royals on 1967-01-25"
+        },
+        {
+          "diff": -2.144932305082193,
+          "newRating": 1176.3734115934838,
+          "result": "L 112-114 vs Boston Celtics on 1967-01-28"
+        },
+        {
+          "diff": -2.060099723151552,
+          "newRating": 1174.3133118703322,
+          "result": "L 106-141 vs Boston Celtics on 1967-01-29"
+        },
+        {
+          "diff": 7.761602458159132,
+          "newRating": 1182.0749143284913,
+          "result": "W 139-120 vs St. Louis Hawks on 1967-01-31"
+        },
+        {
+          "diff": -8.514687817830918,
+          "newRating": 1173.5602265106604,
+          "result": "L 101-104 vs Detroit Pistons on 1967-02-01"
+        },
+        {
+          "diff": 5.760144605314281,
+          "newRating": 1179.3203711159747,
+          "result": "W 124-111 vs Detroit Pistons on 1967-02-03"
+        },
+        {
+          "diff": 5.439193813039765,
+          "newRating": 1184.7595649290145,
+          "result": "W 102-101 vs Detroit Pistons on 1967-02-04"
+        },
+        {
+          "diff": -7.331304723945323,
+          "newRating": 1177.4282602050691,
+          "result": "L 117-122 vs Los Angeles Lakers on 1967-02-07"
+        },
+        {
+          "diff": 5.490398386716606,
+          "newRating": 1182.9186585917857,
+          "result": "W 106-103 vs Chicago Bulls on 1967-02-08"
+        },
+        {
+          "diff": 5.206001193335851,
+          "newRating": 1188.1246597851216,
+          "result": "W 122-121 vs Chicago Bulls on 1967-02-10"
+        },
+        {
+          "diff": 7.494972981326782,
+          "newRating": 1195.6196327664484,
+          "result": "W 125-122 vs San Francisco Warriors on 1967-02-11"
+        },
+        {
+          "diff": -6.043953343120393,
+          "newRating": 1189.575679423328,
+          "result": "L 109-139 vs St. Louis Hawks on 1967-02-13"
+        },
+        {
+          "diff": -6.975732522173303,
+          "newRating": 1182.5999469011547,
+          "result": "L 118-127 vs Cincinnati Royals on 1967-02-15"
+        },
+        {
+          "diff": 6.595033384307726,
+          "newRating": 1189.1949802854624,
+          "result": "W 121-120 vs St. Louis Hawks on 1967-02-16"
+        },
+        {
+          "diff": 5.387675764071446,
+          "newRating": 1194.5826560495339,
+          "result": "W 124-123 vs Cincinnati Royals on 1967-02-18"
+        },
+        {
+          "diff": -2.1472552130560416,
+          "newRating": 1192.4354008364778,
+          "result": "L 114-143 vs Boston Celtics on 1967-02-21"
+        },
+        {
+          "diff": -7.2482594184848494,
+          "newRating": 1185.187141417993,
+          "result": "L 103-117 vs Chicago Bulls on 1967-02-22"
+        },
+        {
+          "diff": -1.9673178155144342,
+          "newRating": 1183.2198236024785,
+          "result": "L 117-122 vs Boston Celtics on 1967-02-23"
+        },
+        {
+          "diff": 2.4835903317132306,
+          "newRating": 1185.7034139341918,
+          "result": "W 116-114 vs Baltimore Bullets on 1967-02-25"
+        },
+        {
+          "diff": 6.536522000149489,
+          "newRating": 1192.2399359343412,
+          "result": "W 127-123 vs San Francisco Warriors on 1967-02-28"
+        },
+        {
+          "diff": -6.750413647919004,
+          "newRating": 1185.4895222864222,
+          "result": "L 101-118 vs Detroit Pistons on 1967-03-01"
+        },
+        {
+          "diff": -5.608611077865817,
+          "newRating": 1179.8809112085564,
+          "result": "L 132-138 vs Los Angeles Lakers on 1967-03-03"
+        },
+        {
+          "diff": -4.463877704187325,
+          "newRating": 1175.417033504369,
+          "result": "L 102-111 vs San Francisco Warriors on 1967-03-04"
+        },
+        {
+          "diff": 6.2549617813428995,
+          "newRating": 1181.671995285712,
+          "result": "W 115-103 vs San Francisco Warriors on 1967-03-05"
+        },
+        {
+          "diff": -5.286155579186925,
+          "newRating": 1176.385839706525,
+          "result": "L 119-131 vs Los Angeles Lakers on 1967-03-07"
+        },
+        {
+          "diff": -0.8932809698260371,
+          "newRating": 1175.492558736699,
+          "result": "L 120-131 vs Philadelphia 76ers on 1967-03-12"
+        },
+        {
+          "diff": -7.796489806405816,
+          "newRating": 1167.6960689302932,
+          "result": "L 114-121 vs Baltimore Bullets on 1967-03-15"
+        },
+        {
+          "diff": -1.648223303439181,
+          "newRating": 1166.047845626854,
+          "result": "L 123-140 vs Boston Celtics on 1967-03-18"
+        },
+        {
+          "diff": -1.602239757013649,
+          "newRating": 1164.4456058698404,
+          "result": "L 113-124 vs Boston Celtics on 1967-03-19"
+        }
+      ]
+    },
+    {
+      "team": "Chicago Bulls",
+      "rating": 1140.9301060977616,
+      "wins": 33,
+      "losses": 48,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 104-97 vs St. Louis Hawks on 1966-10-15"
+        },
+        {
+          "diff": 3.960396039603893,
+          "newRating": 1603.960396039604,
+          "result": "W 119-116 vs San Francisco Warriors on 1966-10-18"
+        },
+        {
+          "diff": 24.24242424242425,
+          "newRating": 1628.2028202820281,
+          "result": "W 134-124 vs Los Angeles Lakers on 1966-10-19"
+        },
+        {
+          "diff": -198.351731514113,
+          "newRating": 1429.8510887679151,
+          "result": "L 111-121 vs San Francisco Warriors on 1966-10-20"
+        },
+        {
+          "diff": 30.650180394812423,
+          "newRating": 1460.5012691627276,
+          "result": "W 108-101 vs Los Angeles Lakers on 1966-10-21"
+        },
+        {
+          "diff": -108.90226671242567,
+          "newRating": 1351.599002450302,
+          "result": "L 105-124 vs New York Knicks on 1966-10-23"
+        },
+        {
+          "diff": -19.177256976669923,
+          "newRating": 1332.421745473632,
+          "result": "L 100-123 vs Boston Celtics on 1966-10-27"
+        },
+        {
+          "diff": -86.29905956834546,
+          "newRating": 1246.1226859052865,
+          "result": "L 117-129 vs Detroit Pistons on 1966-10-28"
+        },
+        {
+          "diff": -62.30670749838737,
+          "newRating": 1183.8159784068991,
+          "result": "L 121-137 vs San Francisco Warriors on 1966-11-01"
+        },
+        {
+          "diff": 8.700716682347547,
+          "newRating": 1192.5166950892467,
+          "result": "W 102-94 vs Baltimore Bullets on 1966-11-02"
+        },
+        {
+          "diff": -6.912871895474609,
+          "newRating": 1185.603823193772,
+          "result": "L 108-137 vs Boston Celtics on 1966-11-03"
+        },
+        {
+          "diff": 27.78010476951249,
+          "newRating": 1213.3839279632846,
+          "result": "W 113-99 vs Cincinnati Royals on 1966-11-05"
+        },
+        {
+          "diff": 32.686528397222446,
+          "newRating": 1246.070456360507,
+          "result": "W 134-102 vs St. Louis Hawks on 1966-11-06"
+        },
+        {
+          "diff": -4.743787036362846,
+          "newRating": 1241.3266693241442,
+          "result": "L 101-112 vs Boston Celtics on 1966-11-08"
+        },
+        {
+          "diff": -28.784255231949146,
+          "newRating": 1212.542414092195,
+          "result": "L 98-103 vs New York Knicks on 1966-11-09"
+        },
+        {
+          "diff": -3.4461920102387467,
+          "newRating": 1209.0962220819563,
+          "result": "L 113-126 vs Philadelphia 76ers on 1966-11-11"
+        },
+        {
+          "diff": -3.047482237584518,
+          "newRating": 1206.0487398443718,
+          "result": "L 126-132 vs Philadelphia 76ers on 1966-11-13"
+        },
+        {
+          "diff": -16.165119078330463,
+          "newRating": 1189.8836207660413,
+          "result": "L 99-107 vs St. Louis Hawks on 1966-11-15"
+        },
+        {
+          "diff": -37.73325528092596,
+          "newRating": 1152.1503654851153,
+          "result": "L 102-120 vs Baltimore Bullets on 1966-11-17"
+        },
+        {
+          "diff": -1.7657178559104523,
+          "newRating": 1150.384647629205,
+          "result": "L 120-145 vs Philadelphia 76ers on 1966-11-18"
+        },
+        {
+          "diff": -16.065466119878465,
+          "newRating": 1134.3191815093264,
+          "result": "L 104-116 vs New York Knicks on 1966-11-19"
+        },
+        {
+          "diff": -23.9588921259774,
+          "newRating": 1110.360289383349,
+          "result": "L 130-154 vs Los Angeles Lakers on 1966-11-23"
+        },
+        {
+          "diff": 14.363549330285423,
+          "newRating": 1124.7238387136344,
+          "result": "W 121-117 vs Los Angeles Lakers on 1966-11-25"
+        },
+        {
+          "diff": -13.638995585506336,
+          "newRating": 1111.084843128128,
+          "result": "L 129-131 vs San Francisco Warriors on 1966-11-26"
+        },
+        {
+          "diff": -11.844896843998413,
+          "newRating": 1099.2399462841297,
+          "result": "L 101-108 vs San Francisco Warriors on 1966-11-29"
+        },
+        {
+          "diff": -10.927928356958319,
+          "newRating": 1088.3120179271714,
+          "result": "L 98-104 vs Detroit Pistons on 1966-12-03"
+        },
+        {
+          "diff": -1.0781940994015713,
+          "newRating": 1087.2338238277698,
+          "result": "L 119-129 vs Philadelphia 76ers on 1966-12-06"
+        },
+        {
+          "diff": -1.0268306641723939,
+          "newRating": 1086.2069931635974,
+          "result": "L 103-117 vs Philadelphia 76ers on 1966-12-07"
+        },
+        {
+          "diff": 6.774239587167131,
+          "newRating": 1092.9812327507645,
+          "result": "W 132-120 vs Baltimore Bullets on 1966-12-08"
+        },
+        {
+          "diff": -1.959660734248473,
+          "newRating": 1091.021572016516,
+          "result": "L 110-125 vs Boston Celtics on 1966-12-10"
+        },
+        {
+          "diff": -19.917153212063113,
+          "newRating": 1071.104418804453,
+          "result": "L 94-122 vs Baltimore Bullets on 1966-12-13"
+        },
+        {
+          "diff": 16.71459867030353,
+          "newRating": 1087.8190174747565,
+          "result": "W 93-87 vs Detroit Pistons on 1966-12-14"
+        },
+        {
+          "diff": 13.590637012918478,
+          "newRating": 1101.409654487675,
+          "result": "W 128-120 vs Cincinnati Royals on 1966-12-16"
+        },
+        {
+          "diff": 6.761338972165049,
+          "newRating": 1108.17099345984,
+          "result": "W 110-106 vs Baltimore Bullets on 1966-12-17"
+        },
+        {
+          "diff": 15.021015528236603,
+          "newRating": 1123.1920089880766,
+          "result": "W 102-97 vs St. Louis Hawks on 1966-12-19"
+        },
+        {
+          "diff": 12.53713959822403,
+          "newRating": 1135.7291485863007,
+          "result": "W 110-107 vs New York Knicks on 1966-12-21"
+        },
+        {
+          "diff": -10.40616999979784,
+          "newRating": 1125.3229785865028,
+          "result": "L 102-103 vs Detroit Pistons on 1966-12-23"
+        },
+        {
+          "diff": -9.636722336754474,
+          "newRating": 1115.6862562497483,
+          "result": "L 132-133 vs New York Knicks on 1966-12-25"
+        },
+        {
+          "diff": 5.049840915533423,
+          "newRating": 1120.7360971652818,
+          "result": "W 108-96 vs Baltimore Bullets on 1966-12-26"
+        },
+        {
+          "diff": -1.8805440863582135,
+          "newRating": 1118.8555530789235,
+          "result": "L 106-110 vs Boston Celtics on 1966-12-30"
+        },
+        {
+          "diff": 9.101842513862266,
+          "newRating": 1127.9573955927858,
+          "result": "W 116-111 vs Cincinnati Royals on 1967-01-03"
+        },
+        {
+          "diff": -0.8321886343896949,
+          "newRating": 1127.1252069583961,
+          "result": "L 115-136 vs Philadelphia 76ers on 1967-01-04"
+        },
+        {
+          "diff": 9.671290931568592,
+          "newRating": 1136.7964978899647,
+          "result": "W 135-126 vs Detroit Pistons on 1967-01-06"
+        },
+        {
+          "diff": -10.432280416514232,
+          "newRating": 1126.3642174734505,
+          "result": "L 112-125 vs Cincinnati Royals on 1967-01-07"
+        },
+        {
+          "diff": -0.8463521217379366,
+          "newRating": 1125.5178653517125,
+          "result": "L 108-117 vs Philadelphia 76ers on 1967-01-08"
+        },
+        {
+          "diff": -9.26937996126776,
+          "newRating": 1116.2484853904448,
+          "result": "L 102-106 vs Cincinnati Royals on 1967-01-11"
+        },
+        {
+          "diff": -2.013265042579633,
+          "newRating": 1114.2352203478652,
+          "result": "L 102-122 vs Boston Celtics on 1967-01-13"
+        },
+        {
+          "diff": 8.988141200708242,
+          "newRating": 1123.2233615485734,
+          "result": "W 122-121 vs Los Angeles Lakers on 1967-01-14"
+        },
+        {
+          "diff": 10.297887515544062,
+          "newRating": 1133.5212490641175,
+          "result": "W 131-116 vs New York Knicks on 1967-01-15"
+        },
+        {
+          "diff": -2.0843474159694324,
+          "newRating": 1131.436901648148,
+          "result": "L 101-109 vs Boston Celtics on 1967-01-17"
+        },
+        {
+          "diff": 10.431079507829509,
+          "newRating": 1141.8679811559775,
+          "result": "W 111-107 vs San Francisco Warriors on 1967-01-18"
+        },
+        {
+          "diff": -0.7598978925905158,
+          "newRating": 1141.108083263387,
+          "result": "L 102-127 vs Philadelphia 76ers on 1967-01-19"
+        },
+        {
+          "diff": 6.923466743083054,
+          "newRating": 1148.03155000647,
+          "result": "W 125-124 vs Detroit Pistons on 1967-01-20"
+        },
+        {
+          "diff": 3.4318177482196006,
+          "newRating": 1151.4633677546897,
+          "result": "W 118-114 vs Baltimore Bullets on 1967-01-22"
+        },
+        {
+          "diff": -8.41275255897699,
+          "newRating": 1143.0506151957127,
+          "result": "L 95-108 vs Detroit Pistons on 1967-01-24"
+        },
+        {
+          "diff": -6.264326645207802,
+          "newRating": 1136.7862885505049,
+          "result": "L 102-103 vs St. Louis Hawks on 1967-01-25"
+        },
+        {
+          "diff": -7.247257676826848,
+          "newRating": 1129.539030873678,
+          "result": "L 122-142 vs Los Angeles Lakers on 1967-01-29"
+        },
+        {
+          "diff": 7.527394249479357,
+          "newRating": 1137.0664251231574,
+          "result": "W 118-113 vs Cincinnati Royals on 1967-02-03"
+        },
+        {
+          "diff": -5.399970057399059,
+          "newRating": 1131.6664550657583,
+          "result": "L 111-119 vs St. Louis Hawks on 1967-02-04"
+        },
+        {
+          "diff": -4.4553946232749695,
+          "newRating": 1127.2110604424834,
+          "result": "L 141-142 vs San Francisco Warriors on 1967-02-05"
+        },
+        {
+          "diff": -6.8225169130391805,
+          "newRating": 1120.3885435294442,
+          "result": "L 90-98 vs Detroit Pistons on 1967-02-07"
+        },
+        {
+          "diff": -5.40184357402768,
+          "newRating": 1114.9866999554165,
+          "result": "L 103-106 vs New York Knicks on 1967-02-08"
+        },
+        {
+          "diff": -5.123366253759059,
+          "newRating": 1109.8633337016574,
+          "result": "L 121-122 vs New York Knicks on 1967-02-10"
+        },
+        {
+          "diff": -4.723800927560205,
+          "newRating": 1105.1395327740972,
+          "result": "L 98-104 vs St. Louis Hawks on 1967-02-11"
+        },
+        {
+          "diff": -5.192687684290377,
+          "newRating": 1099.9468450898069,
+          "result": "L 121-129 vs Los Angeles Lakers on 1967-02-12"
+        },
+        {
+          "diff": -3.665063367109042,
+          "newRating": 1096.2817817226978,
+          "result": "L 124-125 vs San Francisco Warriors on 1967-02-16"
+        },
+        {
+          "diff": 7.293757267656019,
+          "newRating": 1103.5755389903538,
+          "result": "W 133-119 vs Los Angeles Lakers on 1967-02-19"
+        },
+        {
+          "diff": 7.3548514687565785,
+          "newRating": 1110.9303904591104,
+          "result": "W 117-103 vs New York Knicks on 1967-02-22"
+        },
+        {
+          "diff": -8.150659644616098,
+          "newRating": 1102.7797308144943,
+          "result": "L 106-124 vs Baltimore Bullets on 1967-02-26"
+        },
+        {
+          "diff": 10.795784357888124,
+          "newRating": 1113.5755151723824,
+          "result": "W 129-122 vs Philadelphia 76ers on 1967-03-01"
+        },
+        {
+          "diff": -1.3180505072059532,
+          "newRating": 1112.2574646651765,
+          "result": "L 108-114 vs Boston Celtics on 1967-03-02"
+        },
+        {
+          "diff": 6.6326619271123946,
+          "newRating": 1118.8901265922889,
+          "result": "W 125-122 vs St. Louis Hawks on 1967-03-04"
+        },
+        {
+          "diff": 6.225700186318363,
+          "newRating": 1125.1158267786072,
+          "result": "W 113-106 vs Cincinnati Royals on 1967-03-05"
+        },
+        {
+          "diff": 9.511119259737143,
+          "newRating": 1134.6269460383444,
+          "result": "W 117-114 vs Boston Celtics on 1967-03-07"
+        },
+        {
+          "diff": 2.969519069968783,
+          "newRating": 1137.5964651083132,
+          "result": "W 132-115 vs Baltimore Bullets on 1967-03-10"
+        },
+        {
+          "diff": -4.834704688392321,
+          "newRating": 1132.7617604199208,
+          "result": "L 119-147 vs Cincinnati Royals on 1967-03-11"
+        },
+        {
+          "diff": -4.702938376935435,
+          "newRating": 1128.0588220429854,
+          "result": "L 117-133 vs Cincinnati Royals on 1967-03-13"
+        },
+        {
+          "diff": -4.137542659647352,
+          "newRating": 1123.921279383338,
+          "result": "L 98-111 vs St. Louis Hawks on 1967-03-14"
+        },
+        {
+          "diff": 4.948320808747894,
+          "newRating": 1128.869600192086,
+          "result": "W 98-91 vs Detroit Pistons on 1967-03-15"
+        },
+        {
+          "diff": 6.474690647558191,
+          "newRating": 1135.3442908396441,
+          "result": "W 120-117 vs San Francisco Warriors on 1967-03-17"
+        },
+        {
+          "diff": 5.585815258117464,
+          "newRating": 1140.9301060977616,
+          "result": "W 122-109 vs Los Angeles Lakers on 1967-03-19"
+        }
+      ]
+    },
+    {
+      "team": "Detroit Pistons",
+      "rating": 1102.6051113085732,
+      "wins": 30,
+      "losses": 51,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 99-103 vs Cincinnati Royals on 1966-10-15"
+        },
+        {
+          "diff": 396.0396039603961,
+          "newRating": 1196.039603960396,
+          "result": "W 114-112 vs Cincinnati Royals on 1966-10-18"
+        },
+        {
+          "diff": -241.91710214971022,
+          "newRating": 954.1225018106859,
+          "result": "L 105-113 vs St. Louis Hawks on 1966-10-20"
+        },
+        {
+          "diff": -70.30204252167039,
+          "newRating": 883.8204592890155,
+          "result": "L 119-136 vs San Francisco Warriors on 1966-10-21"
+        },
+        {
+          "diff": 128.8990122027477,
+          "newRating": 1012.7194714917632,
+          "result": "W 119-110 vs San Francisco Warriors on 1966-10-23"
+        },
+        {
+          "diff": 115.06541275779409,
+          "newRating": 1127.7848842495573,
+          "result": "W 129-117 vs Chicago Bulls on 1966-10-28"
+        },
+        {
+          "diff": 17.78234209499942,
+          "newRating": 1145.5672263445567,
+          "result": "W 103-97 vs Baltimore Bullets on 1966-10-29"
+        },
+        {
+          "diff": 48.964600366316745,
+          "newRating": 1194.5318267108735,
+          "result": "W 124-121 vs Los Angeles Lakers on 1966-10-30"
+        },
+        {
+          "diff": -61.002492653439504,
+          "newRating": 1133.529334057434,
+          "result": "L 115-120 vs Cincinnati Royals on 1966-11-04"
+        },
+        {
+          "diff": -29.405252079926186,
+          "newRating": 1104.1240819775078,
+          "result": "L 104-115 vs New York Knicks on 1966-11-05"
+        },
+        {
+          "diff": -2.827826410533362,
+          "newRating": 1101.2962555669744,
+          "result": "L 100-118 vs Philadelphia 76ers on 1966-11-08"
+        },
+        {
+          "diff": 27.090652101826436,
+          "newRating": 1128.3869076688009,
+          "result": "W 133-132 vs Los Angeles Lakers on 1966-11-10"
+        },
+        {
+          "diff": -42.656484244769445,
+          "newRating": 1085.7304234240314,
+          "result": "L 88-144 vs Los Angeles Lakers on 1966-11-12"
+        },
+        {
+          "diff": -24.483726257033823,
+          "newRating": 1061.2466971669976,
+          "result": "L 96-135 vs San Francisco Warriors on 1966-11-13"
+        },
+        {
+          "diff": -19.3818047371401,
+          "newRating": 1041.8648924298575,
+          "result": "L 104-115 vs San Francisco Warriors on 1966-11-14"
+        },
+        {
+          "diff": -8.096250443311646,
+          "newRating": 1033.7686419865458,
+          "result": "L 101-104 vs St. Louis Hawks on 1966-11-16"
+        },
+        {
+          "diff": 36.12364723495534,
+          "newRating": 1069.8922892215012,
+          "result": "W 123-108 vs New York Knicks on 1966-11-17"
+        },
+        {
+          "diff": 21.496382652956072,
+          "newRating": 1091.3886718744573,
+          "result": "W 121-118 vs Los Angeles Lakers on 1966-11-18"
+        },
+        {
+          "diff": -8.221035874048766,
+          "newRating": 1083.1676360004085,
+          "result": "L 87-105 vs St. Louis Hawks on 1966-11-19"
+        },
+        {
+          "diff": 26.187302551621997,
+          "newRating": 1109.3549385520305,
+          "result": "W 118-100 vs New York Knicks on 1966-11-23"
+        },
+        {
+          "diff": 36.316897496168394,
+          "newRating": 1145.6718360481989,
+          "result": "W 107-105 vs Boston Celtics on 1966-11-25"
+        },
+        {
+          "diff": -1.9104346041933695,
+          "newRating": 1143.7614014440055,
+          "result": "L 123-131 vs Philadelphia 76ers on 1966-11-26"
+        },
+        {
+          "diff": 32.33749789660783,
+          "newRating": 1176.0988993406133,
+          "result": "W 104-100 vs Boston Celtics on 1966-11-29"
+        },
+        {
+          "diff": -2.0024144673675437,
+          "newRating": 1174.0964848732458,
+          "result": "L 119-128 vs Philadelphia 76ers on 1966-11-30"
+        },
+        {
+          "diff": 28.756396351710464,
+          "newRating": 1202.8528812249563,
+          "result": "W 119-116 vs Boston Celtics on 1966-12-02"
+        },
+        {
+          "diff": 10.927928356958319,
+          "newRating": 1213.7808095819146,
+          "result": "W 104-98 vs Chicago Bulls on 1966-12-03"
+        },
+        {
+          "diff": -4.300512048520204,
+          "newRating": 1209.4802975333944,
+          "result": "L 111-130 vs Boston Celtics on 1966-12-06"
+        },
+        {
+          "diff": -16.46291727655762,
+          "newRating": 1193.0173802568368,
+          "result": "L 116-118 vs New York Knicks on 1966-12-07"
+        },
+        {
+          "diff": -18.443695084472665,
+          "newRating": 1174.573685172364,
+          "result": "L 87-93 vs Chicago Bulls on 1966-12-14"
+        },
+        {
+          "diff": -21.598908686898994,
+          "newRating": 1152.974776485465,
+          "result": "L 113-121 vs Baltimore Bullets on 1966-12-16"
+        },
+        {
+          "diff": -1.405497883091357,
+          "newRating": 1151.5692786023737,
+          "result": "L 105-120 vs Philadelphia 76ers on 1966-12-17"
+        },
+        {
+          "diff": -2.8297900481800298,
+          "newRating": 1148.7394885541937,
+          "result": "L 113-116 vs Boston Celtics on 1966-12-20"
+        },
+        {
+          "diff": 11.667523939167495,
+          "newRating": 1160.4070124933612,
+          "result": "W 103-102 vs Chicago Bulls on 1966-12-23"
+        },
+        {
+          "diff": 4.846219643589848,
+          "newRating": 1165.253232136951,
+          "result": "W 129-127 vs Baltimore Bullets on 1966-12-25"
+        },
+        {
+          "diff": -11.429724753929577,
+          "newRating": 1153.8235073830215,
+          "result": "L 109-114 vs New York Knicks on 1966-12-26"
+        },
+        {
+          "diff": -12.46466251614197,
+          "newRating": 1141.3588448668795,
+          "result": "L 123-131 vs Cincinnati Royals on 1966-12-27"
+        },
+        {
+          "diff": -1.0294482422386864,
+          "newRating": 1140.3293966246408,
+          "result": "L 113-137 vs Philadelphia 76ers on 1966-12-30"
+        },
+        {
+          "diff": -7.9126282006063775,
+          "newRating": 1132.4167684240344,
+          "result": "L 120-122 vs St. Louis Hawks on 1967-01-02"
+        },
+        {
+          "diff": 4.3855709507681695,
+          "newRating": 1136.8023393748026,
+          "result": "W 117-110 vs Baltimore Bullets on 1967-01-03"
+        },
+        {
+          "diff": 4.110707973199396,
+          "newRating": 1140.913047348002,
+          "result": "W 132-126 vs Baltimore Bullets on 1967-01-04"
+        },
+        {
+          "diff": -10.143061220913523,
+          "newRating": 1130.7699861270885,
+          "result": "L 126-135 vs Chicago Bulls on 1967-01-06"
+        },
+        {
+          "diff": -7.317785274583002,
+          "newRating": 1123.4522008525055,
+          "result": "L 115-117 vs St. Louis Hawks on 1967-01-08"
+        },
+        {
+          "diff": 4.139102311725537,
+          "newRating": 1127.591303164231,
+          "result": "W 119-118 vs Baltimore Bullets on 1967-01-13"
+        },
+        {
+          "diff": -5.894103899001266,
+          "newRating": 1121.6971992652298,
+          "result": "L 121-136 vs San Francisco Warriors on 1967-01-14"
+        },
+        {
+          "diff": -8.63082631197858,
+          "newRating": 1113.0663729532512,
+          "result": "L 116-127 vs Los Angeles Lakers on 1967-01-15"
+        },
+        {
+          "diff": -0.7362270880546475,
+          "newRating": 1112.3301458651965,
+          "result": "L 105-113 vs Philadelphia 76ers on 1967-01-18"
+        },
+        {
+          "diff": -7.807313561349019,
+          "newRating": 1104.5228323038475,
+          "result": "L 124-125 vs Chicago Bulls on 1967-01-20"
+        },
+        {
+          "diff": -7.973966287291205,
+          "newRating": 1096.5488660165563,
+          "result": "L 108-122 vs Cincinnati Royals on 1967-01-21"
+        },
+        {
+          "diff": 9.44288552538228,
+          "newRating": 1105.9917515419386,
+          "result": "W 108-95 vs Chicago Bulls on 1967-01-24"
+        },
+        {
+          "diff": -1.633834872040552,
+          "newRating": 1104.357916669898,
+          "result": "L 105-112 vs Boston Celtics on 1967-01-25"
+        },
+        {
+          "diff": 8.839149889241753,
+          "newRating": 1113.1970665591398,
+          "result": "W 118-110 vs Cincinnati Royals on 1967-01-26"
+        },
+        {
+          "diff": -1.6162488721677164,
+          "newRating": 1111.580817686972,
+          "result": "L 106-112 vs Boston Celtics on 1967-01-27"
+        },
+        {
+          "diff": -4.785179431778033,
+          "newRating": 1106.795638255194,
+          "result": "L 106-108 vs San Francisco Warriors on 1967-01-31"
+        },
+        {
+          "diff": 8.987726029932674,
+          "newRating": 1115.7833642851267,
+          "result": "W 104-101 vs New York Knicks on 1967-02-01"
+        },
+        {
+          "diff": -6.074334311058692,
+          "newRating": 1109.709029974068,
+          "result": "L 111-124 vs New York Knicks on 1967-02-03"
+        },
+        {
+          "diff": -5.730579195881319,
+          "newRating": 1103.9784507781867,
+          "result": "L 101-102 vs New York Knicks on 1967-02-04"
+        },
+        {
+          "diff": 9.176795260757672,
+          "newRating": 1113.1552460389444,
+          "result": "W 114-104 vs St. Louis Hawks on 1967-02-05"
+        },
+        {
+          "diff": 7.175405718885941,
+          "newRating": 1120.3306517578303,
+          "result": "W 98-90 vs Chicago Bulls on 1967-02-07"
+        },
+        {
+          "diff": -6.462166101204275,
+          "newRating": 1113.868485656626,
+          "result": "L 104-133 vs Cincinnati Royals on 1967-02-10"
+        },
+        {
+          "diff": -6.103236477317523,
+          "newRating": 1107.7652491793085,
+          "result": "L 117-132 vs Cincinnati Royals on 1967-02-11"
+        },
+        {
+          "diff": 9.00083007545004,
+          "newRating": 1116.7660792547586,
+          "result": "W 134-127 vs San Francisco Warriors on 1967-02-12"
+        },
+        {
+          "diff": -0.7879768907307607,
+          "newRating": 1115.9781023640278,
+          "result": "L 121-127 vs Philadelphia 76ers on 1967-02-15"
+        },
+        {
+          "diff": -5.723523212732289,
+          "newRating": 1110.2545791512955,
+          "result": "L 110-122 vs Cincinnati Royals on 1967-02-16"
+        },
+        {
+          "diff": 3.700969945495217,
+          "newRating": 1113.9555490967907,
+          "result": "W 118-113 vs Baltimore Bullets on 1967-02-18"
+        },
+        {
+          "diff": -8.770372515250756,
+          "newRating": 1105.18517658154,
+          "result": "L 104-131 vs Baltimore Bullets on 1967-02-19"
+        },
+        {
+          "diff": 7.684230374333083,
+          "newRating": 1112.869406955873,
+          "result": "W 112-109 vs St. Louis Hawks on 1967-02-21"
+        },
+        {
+          "diff": 6.91416636992858,
+          "newRating": 1119.7835733258016,
+          "result": "W 102-101 vs Los Angeles Lakers on 1967-02-24"
+        },
+        {
+          "diff": -4.797311441444663,
+          "newRating": 1114.986261884357,
+          "result": "L 94-105 vs St. Louis Hawks on 1967-02-27"
+        },
+        {
+          "diff": -4.827941503743659,
+          "newRating": 1110.1583203806133,
+          "result": "L 117-119 vs Los Angeles Lakers on 1967-02-28"
+        },
+        {
+          "diff": 7.039717089972783,
+          "newRating": 1117.198037470586,
+          "result": "W 118-101 vs New York Knicks on 1967-03-01"
+        },
+        {
+          "diff": -0.7104756784631263,
+          "newRating": 1116.487561792123,
+          "result": "L 103-129 vs Philadelphia 76ers on 1967-03-03"
+        },
+        {
+          "diff": -0.6952577317815667,
+          "newRating": 1115.7923040603414,
+          "result": "L 106-131 vs Philadelphia 76ers on 1967-03-05"
+        },
+        {
+          "diff": -1.264778220141352,
+          "newRating": 1114.5275258402,
+          "result": "L 103-127 vs Boston Celtics on 1967-03-06"
+        },
+        {
+          "diff": 3.3102665042158606,
+          "newRating": 1117.837792344416,
+          "result": "W 120-113 vs Baltimore Bullets on 1967-03-08"
+        },
+        {
+          "diff": -4.455149229527706,
+          "newRating": 1113.3826431148882,
+          "result": "L 103-118 vs Los Angeles Lakers on 1967-03-10"
+        },
+        {
+          "diff": 6.345861497776923,
+          "newRating": 1119.7285046126651,
+          "result": "W 120-104 vs Los Angeles Lakers on 1967-03-12"
+        },
+        {
+          "diff": -3.6976763572929485,
+          "newRating": 1116.0308282553722,
+          "result": "L 109-135 vs San Francisco Warriors on 1967-03-13"
+        },
+        {
+          "diff": -5.011760819116489,
+          "newRating": 1111.0190674362557,
+          "result": "L 91-98 vs Chicago Bulls on 1967-03-15"
+        },
+        {
+          "diff": -1.2704688335097671,
+          "newRating": 1109.748598602746,
+          "result": "L 109-132 vs Boston Celtics on 1967-03-16"
+        },
+        {
+          "diff": -3.7997482093969666,
+          "newRating": 1105.948850393349,
+          "result": "L 99-102 vs St. Louis Hawks on 1967-03-18"
+        },
+        {
+          "diff": -3.3437390847757342,
+          "newRating": 1102.6051113085732,
+          "result": "L 127-135 vs San Francisco Warriors on 1967-03-19"
+        }
+      ]
+    },
+    {
+      "team": "Baltimore Bullets",
+      "rating": 970.6171146424344,
+      "wins": 20,
+      "losses": 61,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 115-126 vs Los Angeles Lakers on 1966-10-15"
+        },
+        {
+          "diff": -37.12434677543479,
+          "newRating": 762.8756532245652,
+          "result": "L 109-131 vs New York Knicks on 1966-10-19"
+        },
+        {
+          "diff": -2.1363118403033923,
+          "newRating": 760.7393413842618,
+          "result": "L 91-111 vs Boston Celtics on 1966-10-21"
+        },
+        {
+          "diff": -1.3342807995400108,
+          "newRating": 759.4050605847218,
+          "result": "L 112-141 vs Philadelphia 76ers on 1966-10-22"
+        },
+        {
+          "diff": -1.0485892110467603,
+          "newRating": 758.356471373675,
+          "result": "L 110-130 vs Philadelphia 76ers on 1966-10-25"
+        },
+        {
+          "diff": 112.10610953203104,
+          "newRating": 870.4625809057061,
+          "result": "W 122-116 vs Cincinnati Royals on 1966-10-26"
+        },
+        {
+          "diff": -36.4991080903859,
+          "newRating": 833.9634728153202,
+          "result": "L 104-105 vs San Francisco Warriors on 1966-10-28"
+        },
+        {
+          "diff": -15.559549333124437,
+          "newRating": 818.4039234821958,
+          "result": "L 97-103 vs Detroit Pistons on 1966-10-29"
+        },
+        {
+          "diff": -9.667462980386176,
+          "newRating": 808.7364605018096,
+          "result": "L 94-102 vs Chicago Bulls on 1966-11-02"
+        },
+        {
+          "diff": -13.591014424306195,
+          "newRating": 795.1454460775034,
+          "result": "L 98-131 vs Los Angeles Lakers on 1966-11-04"
+        },
+        {
+          "diff": -11.009851622487417,
+          "newRating": 784.135594455016,
+          "result": "L 117-120 vs San Francisco Warriors on 1966-11-06"
+        },
+        {
+          "diff": 57.26072709441655,
+          "newRating": 841.3963215494325,
+          "result": "W 104-102 vs Los Angeles Lakers on 1966-11-08"
+        },
+        {
+          "diff": -11.083435723273624,
+          "newRating": 830.3128858261589,
+          "result": "L 122-128 vs San Francisco Warriors on 1966-11-09"
+        },
+        {
+          "diff": -10.596351639362297,
+          "newRating": 819.7165341867966,
+          "result": "L 104-119 vs Cincinnati Royals on 1966-11-11"
+        },
+        {
+          "diff": -4.25024863792612,
+          "newRating": 815.4662855488705,
+          "result": "L 124-134 vs New York Knicks on 1966-11-12"
+        },
+        {
+          "diff": 44.80824064609965,
+          "newRating": 860.2745261949701,
+          "result": "W 120-102 vs Chicago Bulls on 1966-11-17"
+        },
+        {
+          "diff": -0.5945701455196968,
+          "newRating": 859.6799560494504,
+          "result": "L 119-143 vs Boston Celtics on 1966-11-18"
+        },
+        {
+          "diff": -0.5571760926693514,
+          "newRating": 859.1227799567811,
+          "result": "L 125-147 vs Boston Celtics on 1966-11-19"
+        },
+        {
+          "diff": -10.081339678208337,
+          "newRating": 849.0414402785727,
+          "result": "L 123-125 vs Cincinnati Royals on 1966-11-20"
+        },
+        {
+          "diff": 35.8334088768371,
+          "newRating": 884.8748491554098,
+          "result": "W 125-117 vs San Francisco Warriors on 1966-11-22"
+        },
+        {
+          "diff": -5.7445750985421,
+          "newRating": 879.1302740568677,
+          "result": "L 110-120 vs San Francisco Warriors on 1966-11-23"
+        },
+        {
+          "diff": -0.43081134513454344,
+          "newRating": 878.6994627117332,
+          "result": "L 115-129 vs Philadelphia 76ers on 1966-11-25"
+        },
+        {
+          "diff": -6.081599169801848,
+          "newRating": 872.6178635419313,
+          "result": "L 114-125 vs New York Knicks on 1966-11-26"
+        },
+        {
+          "diff": -8.808661005701083,
+          "newRating": 863.8092025362303,
+          "result": "L 111-126 vs Los Angeles Lakers on 1966-11-30"
+        },
+        {
+          "diff": -0.3291011402005779,
+          "newRating": 863.4801013960297,
+          "result": "L 120-137 vs Philadelphia 76ers on 1966-12-03"
+        },
+        {
+          "diff": 27.745858723650713,
+          "newRating": 891.2259601196804,
+          "result": "W 116-106 vs San Francisco Warriors on 1966-12-07"
+        },
+        {
+          "diff": -7.276035112142381,
+          "newRating": 883.949925007538,
+          "result": "L 120-132 vs Chicago Bulls on 1966-12-08"
+        },
+        {
+          "diff": -4.593834722235897,
+          "newRating": 879.3560902853021,
+          "result": "L 129-138 vs New York Knicks on 1966-12-10"
+        },
+        {
+          "diff": 21.290749985308707,
+          "newRating": 900.6468402706108,
+          "result": "W 122-94 vs Chicago Bulls on 1966-12-13"
+        },
+        {
+          "diff": 22.08046800378213,
+          "newRating": 922.727308274393,
+          "result": "W 116-106 vs New York Knicks on 1966-12-14"
+        },
+        {
+          "diff": 20.902169696998953,
+          "newRating": 943.6294779713919,
+          "result": "W 121-113 vs Detroit Pistons on 1966-12-16"
+        },
+        {
+          "diff": -7.183922657925336,
+          "newRating": 936.4455553134666,
+          "result": "L 106-110 vs Chicago Bulls on 1966-12-17"
+        },
+        {
+          "diff": -6.411576700841238,
+          "newRating": 930.0339786126253,
+          "result": "L 114-138 vs Cincinnati Royals on 1966-12-18"
+        },
+        {
+          "diff": -4.046160554065409,
+          "newRating": 925.9878180585599,
+          "result": "L 109-118 vs St. Louis Hawks on 1966-12-21"
+        },
+        {
+          "diff": -4.707756225201706,
+          "newRating": 921.2800618333582,
+          "result": "L 127-129 vs Detroit Pistons on 1966-12-25"
+        },
+        {
+          "diff": -5.470660991827799,
+          "newRating": 915.8094008415304,
+          "result": "L 96-108 vs Chicago Bulls on 1966-12-26"
+        },
+        {
+          "diff": -3.2321539789060125,
+          "newRating": 912.5772468626244,
+          "result": "L 111-113 vs St. Louis Hawks on 1966-12-27"
+        },
+        {
+          "diff": -2.8810085612116154,
+          "newRating": 909.6962383014128,
+          "result": "L 115-138 vs San Francisco Warriors on 1966-12-28"
+        },
+        {
+          "diff": -3.493135877276927,
+          "newRating": 906.2031024241359,
+          "result": "L 115-130 vs New York Knicks on 1966-12-30"
+        },
+        {
+          "diff": -4.27593167699888,
+          "newRating": 901.927170747137,
+          "result": "L 110-117 vs Detroit Pistons on 1967-01-03"
+        },
+        {
+          "diff": -4.01044680312134,
+          "newRating": 897.9167239440156,
+          "result": "L 126-132 vs Detroit Pistons on 1967-01-04"
+        },
+        {
+          "diff": -0.25258836135310503,
+          "newRating": 897.6641355826625,
+          "result": "L 115-121 vs Philadelphia 76ers on 1967-01-06"
+        },
+        {
+          "diff": -2.729157077658897,
+          "newRating": 894.9349785050036,
+          "result": "L 126-129 vs New York Knicks on 1967-01-07"
+        },
+        {
+          "diff": -4.31826522376673,
+          "newRating": 890.6167132812369,
+          "result": "L 94-126 vs Cincinnati Royals on 1967-01-08"
+        },
+        {
+          "diff": 15.463985689920037,
+          "newRating": 906.080698971157,
+          "result": "W 137-116 vs St. Louis Hawks on 1967-01-12"
+        },
+        {
+          "diff": -3.869160856613007,
+          "newRating": 902.2115381145439,
+          "result": "L 118-119 vs Detroit Pistons on 1967-01-13"
+        },
+        {
+          "diff": -0.6325805909968949,
+          "newRating": 901.578957523547,
+          "result": "L 106-115 vs Boston Celtics on 1967-01-14"
+        },
+        {
+          "diff": 14.14791216894423,
+          "newRating": 915.7268696924913,
+          "result": "W 100-98 vs St. Louis Hawks on 1967-01-16"
+        },
+        {
+          "diff": 12.70884759053763,
+          "newRating": 928.4357172830289,
+          "result": "W 122-118 vs Cincinnati Royals on 1967-01-19"
+        },
+        {
+          "diff": -0.6852755861049218,
+          "newRating": 927.750441696924,
+          "result": "L 117-129 vs Boston Celtics on 1967-01-20"
+        },
+        {
+          "diff": 11.98814511079479,
+          "newRating": 939.7385868077188,
+          "result": "W 126-119 vs Los Angeles Lakers on 1967-01-21"
+        },
+        {
+          "diff": -3.5638107385357216,
+          "newRating": 936.174776069183,
+          "result": "L 114-118 vs Chicago Bulls on 1967-01-22"
+        },
+        {
+          "diff": -2.091153916781991,
+          "newRating": 934.0836221524011,
+          "result": "L 125-146 vs San Francisco Warriors on 1967-01-24"
+        },
+        {
+          "diff": -3.825512471980801,
+          "newRating": 930.2581096804203,
+          "result": "L 115-128 vs Los Angeles Lakers on 1967-01-25"
+        },
+        {
+          "diff": -1.9352038965340626,
+          "newRating": 928.3229057838862,
+          "result": "L 116-143 vs San Francisco Warriors on 1967-01-27"
+        },
+        {
+          "diff": -3.535224978383212,
+          "newRating": 924.787680805503,
+          "result": "L 118-133 vs Los Angeles Lakers on 1967-01-28"
+        },
+        {
+          "diff": -0.5088110497139269,
+          "newRating": 924.2788697557891,
+          "result": "L 107-111 vs Boston Celtics on 1967-02-01"
+        },
+        {
+          "diff": -2.847748114519163,
+          "newRating": 921.4311216412699,
+          "result": "L 125-131 vs Cincinnati Royals on 1967-02-02"
+        },
+        {
+          "diff": 10.730190804247172,
+          "newRating": 932.1613124455171,
+          "result": "W 109-99 vs Cincinnati Royals on 1967-02-04"
+        },
+        {
+          "diff": 11.041339178029489,
+          "newRating": 943.2026516235466,
+          "result": "W 107-98 vs St. Louis Hawks on 1967-02-06"
+        },
+        {
+          "diff": -2.5061568679147967,
+          "newRating": 940.6964947556318,
+          "result": "L 96-109 vs St. Louis Hawks on 1967-02-07"
+        },
+        {
+          "diff": -2.875097152004514,
+          "newRating": 937.8213976036272,
+          "result": "L 108-121 vs Los Angeles Lakers on 1967-02-08"
+        },
+        {
+          "diff": 12.179765535504316,
+          "newRating": 950.0011631391316,
+          "result": "W 128-124 vs Boston Celtics on 1967-02-09"
+        },
+        {
+          "diff": 12.22946766989162,
+          "newRating": 962.2306308090232,
+          "result": "W 139-133 vs Philadelphia 76ers on 1967-02-11"
+        },
+        {
+          "diff": -2.4237487680302365,
+          "newRating": 959.806882040993,
+          "result": "L 132-133 vs St. Louis Hawks on 1967-02-17"
+        },
+        {
+          "diff": -3.588819341086378,
+          "newRating": 956.2180626999066,
+          "result": "L 113-118 vs Detroit Pistons on 1967-02-18"
+        },
+        {
+          "diff": 8.50857035061631,
+          "newRating": 964.7266330505229,
+          "result": "W 131-104 vs Detroit Pistons on 1967-02-19"
+        },
+        {
+          "diff": -0.6520740544071941,
+          "newRating": 964.0745589961157,
+          "result": "L 120-135 vs Boston Celtics on 1967-02-22"
+        },
+        {
+          "diff": -0.2999846486968636,
+          "newRating": 963.7745743474188,
+          "result": "L 118-149 vs Philadelphia 76ers on 1967-02-24"
+        },
+        {
+          "diff": -2.5190701935947573,
+          "newRating": 961.2555041538241,
+          "result": "L 114-116 vs New York Knicks on 1967-02-25"
+        },
+        {
+          "diff": 7.921063598288811,
+          "newRating": 969.1765677521129,
+          "result": "W 124-106 vs Chicago Bulls on 1967-02-26"
+        },
+        {
+          "diff": 8.669162447154008,
+          "newRating": 977.8457301992669,
+          "result": "W 122-112 vs St. Louis Hawks on 1967-03-01"
+        },
+        {
+          "diff": -2.799173301690871,
+          "newRating": 975.046556897576,
+          "result": "L 102-109 vs Cincinnati Royals on 1967-03-04"
+        },
+        {
+          "diff": -2.6109595760788125,
+          "newRating": 972.4355973214972,
+          "result": "L 103-132 vs St. Louis Hawks on 1967-03-05"
+        },
+        {
+          "diff": -3.266129617492993,
+          "newRating": 969.1694677040042,
+          "result": "L 113-120 vs Detroit Pistons on 1967-03-08"
+        },
+        {
+          "diff": -2.9304464506270733,
+          "newRating": 966.2390212533771,
+          "result": "L 115-132 vs Chicago Bulls on 1967-03-10"
+        },
+        {
+          "diff": -0.5568459649206261,
+          "newRating": 965.6821752884565,
+          "result": "L 118-123 vs Boston Celtics on 1967-03-12"
+        },
+        {
+          "diff": 7.896444803923828,
+          "newRating": 973.5786200923803,
+          "result": "W 121-114 vs New York Knicks on 1967-03-15"
+        },
+        {
+          "diff": -2.37762459497867,
+          "newRating": 971.2009954974017,
+          "result": "L 133-135 vs Los Angeles Lakers on 1967-03-17"
+        },
+        {
+          "diff": -0.2942336457026613,
+          "newRating": 970.906761851699,
+          "result": "L 119-135 vs Philadelphia 76ers on 1967-03-18"
+        },
+        {
+          "diff": -0.2896472092645581,
+          "newRating": 970.6171146424344,
+          "result": "L 129-132 vs Philadelphia 76ers on 1967-03-19"
+        }
+      ]
+    }
+  ]
+}

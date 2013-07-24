@@ -1,0 +1,2897 @@
+{
+  "year": 1965,
+  "source": "http://www.basketball-reference.com/leagues/NBA_1965_games.html",
+  "teams": [
+    "Baltimore Bullets",
+    "Boston Celtics",
+    "Cincinnati Royals",
+    "Detroit Pistons",
+    "Los Angeles Lakers",
+    "New York Knicks",
+    "Philadelphia 76ers",
+    "San Francisco Warriors",
+    "St. Louis Hawks"
+  ],
+  "results": [
+    {
+      "date": "1964-10-16",
+      "home": "Philadelphia 76ers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 125,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410160PHI.html"
+    },
+    {
+      "date": "1964-10-17",
+      "home": "Baltimore Bullets",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 121,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410170BAL.html"
+    },
+    {
+      "date": "1964-10-17",
+      "home": "Boston Celtics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 112,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410170BOS.html"
+    },
+    {
+      "date": "1964-10-17",
+      "home": "New York Knicks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 109,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410170NYK.html"
+    },
+    {
+      "date": "1964-10-17",
+      "home": "St. Louis Hawks",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 94,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410170STL.html"
+    },
+    {
+      "date": "1964-10-18",
+      "home": "Cincinnati Royals",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 117,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410180CIN.html"
+    },
+    {
+      "date": "1964-10-20",
+      "home": "Cincinnati Royals",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 121,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410200CIN.html"
+    },
+    {
+      "date": "1964-10-21",
+      "home": "Baltimore Bullets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 105,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410210BAL.html"
+    },
+    {
+      "date": "1964-10-21",
+      "home": "Detroit Pistons",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 108,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410210DET.html"
+    },
+    {
+      "date": "1964-10-22",
+      "home": "Boston Celtics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 104,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410220BOS.html"
+    },
+    {
+      "date": "1964-10-22",
+      "home": "Philadelphia 76ers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 135,
+      "visitorPoints": 138,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410220PHI.html"
+    },
+    {
+      "date": "1964-10-23",
+      "home": "San Francisco Warriors",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 92,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410230SFW.html"
+    },
+    {
+      "date": "1964-10-24",
+      "home": "Boston Celtics",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 131,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410240BOS.html"
+    },
+    {
+      "date": "1964-10-24",
+      "home": "New York Knicks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 108,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410240NYK.html"
+    },
+    {
+      "date": "1964-10-24",
+      "home": "St. Louis Hawks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 126,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410240STL.html"
+    },
+    {
+      "date": "1964-10-25",
+      "home": "Baltimore Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 100,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410250BAL.html"
+    },
+    {
+      "date": "1964-10-25",
+      "home": "Cincinnati Royals",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 109,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410250CIN.html"
+    },
+    {
+      "date": "1964-10-25",
+      "home": "Detroit Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 95,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410250DET.html"
+    },
+    {
+      "date": "1964-10-27",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 103,
+      "visitorPoints": 131,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410270NYK.html"
+    },
+    {
+      "date": "1964-10-27",
+      "home": "Philadelphia 76ers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 100,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410270PHI.html"
+    },
+    {
+      "date": "1964-10-27",
+      "home": "San Francisco Warriors",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 101,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410270SFW.html"
+    },
+    {
+      "date": "1964-10-28",
+      "home": "Los Angeles Lakers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 112,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410280LAL.html"
+    },
+    {
+      "date": "1964-10-28",
+      "home": "St. Louis Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 117,
+      "visitorPoints": 119,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410280STL.html"
+    },
+    {
+      "date": "1964-10-29",
+      "home": "Los Angeles Lakers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 95,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410290LAL.html"
+    },
+    {
+      "date": "1964-10-30",
+      "home": "Cincinnati Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 119,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410300CIN.html"
+    },
+    {
+      "date": "1964-10-30",
+      "home": "Detroit Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 90,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410300DET.html"
+    },
+    {
+      "date": "1964-10-30",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 94,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410300NYK.html"
+    },
+    {
+      "date": "1964-10-31",
+      "home": "Boston Celtics",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 122,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410310BOS.html"
+    },
+    {
+      "date": "1964-10-31",
+      "home": "Philadelphia 76ers",
+      "visitor": "New York Knicks",
+      "homePoints": 116,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410310PHI.html"
+    },
+    {
+      "date": "1964-10-31",
+      "home": "San Francisco Warriors",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 98,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410310SFW.html"
+    },
+    {
+      "date": "1964-10-31",
+      "home": "St. Louis Hawks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 107,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196410310STL.html"
+    },
+    {
+      "date": "1964-11-01",
+      "home": "Cincinnati Royals",
+      "visitor": "Detroit Pistons",
+      "homePoints": 114,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411010CIN.html"
+    },
+    {
+      "date": "1964-11-01",
+      "home": "Los Angeles Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 115,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411010LAL.html"
+    },
+    {
+      "date": "1964-11-04",
+      "home": "Detroit Pistons",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 108,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411040DET.html"
+    },
+    {
+      "date": "1964-11-04",
+      "home": "San Francisco Warriors",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 104,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411040SFW.html"
+    },
+    {
+      "date": "1964-11-05",
+      "home": "Los Angeles Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 106,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411050LAL.html"
+    },
+    {
+      "date": "1964-11-06",
+      "home": "Cincinnati Royals",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 106,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411060CIN.html"
+    },
+    {
+      "date": "1964-11-06",
+      "home": "San Francisco Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 133,
+      "visitorPoints": 127,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411060SFW.html"
+    },
+    {
+      "date": "1964-11-07",
+      "home": "Boston Celtics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 130,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411070BOS.html"
+    },
+    {
+      "date": "1964-11-07",
+      "home": "Los Angeles Lakers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 130,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411070LAL.html"
+    },
+    {
+      "date": "1964-11-07",
+      "home": "Philadelphia 76ers",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 105,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411070PHI.html"
+    },
+    {
+      "date": "1964-11-07",
+      "home": "St. Louis Hawks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 134,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411070STL.html"
+    },
+    {
+      "date": "1964-11-08",
+      "home": "Cincinnati Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 103,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411080CIN.html"
+    },
+    {
+      "date": "1964-11-08",
+      "home": "San Francisco Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 130,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411080SFW.html"
+    },
+    {
+      "date": "1964-11-10",
+      "home": "Baltimore Bullets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 117,
+      "visitorPoints": 119,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411100BAL.html"
+    },
+    {
+      "date": "1964-11-10",
+      "home": "Los Angeles Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 108,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411100LAL.html"
+    },
+    {
+      "date": "1964-11-10",
+      "home": "Philadelphia 76ers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 99,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411100PHI.html"
+    },
+    {
+      "date": "1964-11-11",
+      "home": "Baltimore Bullets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 114,
+      "visitorPoints": 123,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411110BAL.html"
+    },
+    {
+      "date": "1964-11-11",
+      "home": "Boston Celtics",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 110,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411110BOS.html"
+    },
+    {
+      "date": "1964-11-11",
+      "home": "St. Louis Hawks",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 116,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411110STL.html"
+    },
+    {
+      "date": "1964-11-12",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 109,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411120BOS.html"
+    },
+    {
+      "date": "1964-11-12",
+      "home": "Detroit Pistons",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 121,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411120DET.html"
+    },
+    {
+      "date": "1964-11-12",
+      "home": "New York Knicks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 123,
+      "visitorPoints": 132,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411120NYK.html"
+    },
+    {
+      "date": "1964-11-13",
+      "home": "Boston Celtics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 112,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411130BOS.html"
+    },
+    {
+      "date": "1964-11-13",
+      "home": "Cincinnati Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 123,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411130CIN.html"
+    },
+    {
+      "date": "1964-11-14",
+      "home": "Baltimore Bullets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 127,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411140BAL.html"
+    },
+    {
+      "date": "1964-11-14",
+      "home": "New York Knicks",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 110,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411140NYK.html"
+    },
+    {
+      "date": "1964-11-14",
+      "home": "Philadelphia 76ers",
+      "visitor": "Boston Celtics",
+      "homePoints": 102,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411140PHI.html"
+    },
+    {
+      "date": "1964-11-14",
+      "home": "St. Louis Hawks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 108,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411140STL.html"
+    },
+    {
+      "date": "1964-11-15",
+      "home": "Cincinnati Royals",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 106,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411150CIN.html"
+    },
+    {
+      "date": "1964-11-15",
+      "home": "Detroit Pistons",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 105,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411150DET.html"
+    },
+    {
+      "date": "1964-11-17",
+      "home": "Baltimore Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 102,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411170BAL.html"
+    },
+    {
+      "date": "1964-11-17",
+      "home": "San Francisco Warriors",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 108,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411170SFW.html"
+    },
+    {
+      "date": "1964-11-17",
+      "home": "St. Louis Hawks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 114,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411170STL.html"
+    },
+    {
+      "date": "1964-11-18",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 100,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411180BOS.html"
+    },
+    {
+      "date": "1964-11-18",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 124,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411180DET.html"
+    },
+    {
+      "date": "1964-11-18",
+      "home": "Los Angeles Lakers",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 90,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411180LAL.html"
+    },
+    {
+      "date": "1964-11-20",
+      "home": "Baltimore Bullets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 105,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411200BAL.html"
+    },
+    {
+      "date": "1964-11-20",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 127,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411200BOS.html"
+    },
+    {
+      "date": "1964-11-20",
+      "home": "Los Angeles Lakers",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 131,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411200LAL.html"
+    },
+    {
+      "date": "1964-11-20",
+      "home": "Philadelphia 76ers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 115,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411200PHI.html"
+    },
+    {
+      "date": "1964-11-21",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 96,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411210BOS.html"
+    },
+    {
+      "date": "1964-11-21",
+      "home": "New York Knicks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 103,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411210NYK.html"
+    },
+    {
+      "date": "1964-11-21",
+      "home": "San Francisco Warriors",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 104,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411210SFW.html"
+    },
+    {
+      "date": "1964-11-21",
+      "home": "St. Louis Hawks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 100,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411210STL.html"
+    },
+    {
+      "date": "1964-11-22",
+      "home": "San Francisco Warriors",
+      "visitor": "Detroit Pistons",
+      "homePoints": 97,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411220SFW.html"
+    },
+    {
+      "date": "1964-11-24",
+      "home": "New York Knicks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 101,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411240NYK.html"
+    },
+    {
+      "date": "1964-11-24",
+      "home": "St. Louis Hawks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 108,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411240STL.html"
+    },
+    {
+      "date": "1964-11-25",
+      "home": "Baltimore Bullets",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 125,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411250BAL.html"
+    },
+    {
+      "date": "1964-11-25",
+      "home": "Boston Celtics",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 122,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411250BOS.html"
+    },
+    {
+      "date": "1964-11-25",
+      "home": "Los Angeles Lakers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 130,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411250LAL.html"
+    },
+    {
+      "date": "1964-11-25",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 93,
+      "visitorPoints": 124,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411250NYK.html"
+    },
+    {
+      "date": "1964-11-26",
+      "home": "Philadelphia 76ers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 128,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411260PHI.html"
+    },
+    {
+      "date": "1964-11-26",
+      "home": "St. Louis Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 110,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411260STL.html"
+    },
+    {
+      "date": "1964-11-27",
+      "home": "Cincinnati Royals",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 133,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411270CIN.html"
+    },
+    {
+      "date": "1964-11-27",
+      "home": "Los Angeles Lakers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 117,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411270LAL.html"
+    },
+    {
+      "date": "1964-11-28",
+      "home": "Boston Celtics",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 129,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411280BOS.html"
+    },
+    {
+      "date": "1964-11-28",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 93,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411280DET.html"
+    },
+    {
+      "date": "1964-11-28",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 106,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411280NYK.html"
+    },
+    {
+      "date": "1964-11-28",
+      "home": "San Francisco Warriors",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 109,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411280SFW.html"
+    },
+    {
+      "date": "1964-11-29",
+      "home": "Cincinnati Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 105,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411290CIN.html"
+    },
+    {
+      "date": "1964-11-29",
+      "home": "Los Angeles Lakers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 126,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411290LAL.html"
+    },
+    {
+      "date": "1964-11-29",
+      "home": "St. Louis Hawks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 94,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196411290STL.html"
+    },
+    {
+      "date": "1964-12-01",
+      "home": "Cincinnati Royals",
+      "visitor": "Detroit Pistons",
+      "homePoints": 129,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412010CIN.html"
+    },
+    {
+      "date": "1964-12-01",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 113,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412010NYK.html"
+    },
+    {
+      "date": "1964-12-01",
+      "home": "Philadelphia 76ers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 117,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412010PHI.html"
+    },
+    {
+      "date": "1964-12-01",
+      "home": "San Francisco Warriors",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 137,
+      "visitorPoints": 136,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412010SFW.html"
+    },
+    {
+      "date": "1964-12-02",
+      "home": "Baltimore Bullets",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 120,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412020BAL.html"
+    },
+    {
+      "date": "1964-12-02",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 116,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412020BOS.html"
+    },
+    {
+      "date": "1964-12-02",
+      "home": "Detroit Pistons",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 125,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412020DET.html"
+    },
+    {
+      "date": "1964-12-02",
+      "home": "St. Louis Hawks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 105,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412020STL.html"
+    },
+    {
+      "date": "1964-12-04",
+      "home": "Baltimore Bullets",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 108,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412040BAL.html"
+    },
+    {
+      "date": "1964-12-04",
+      "home": "Cincinnati Royals",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 104,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412040CIN.html"
+    },
+    {
+      "date": "1964-12-04",
+      "home": "Philadelphia 76ers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 119,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412040PHI.html"
+    },
+    {
+      "date": "1964-12-04",
+      "home": "San Francisco Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 112,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412040SFW.html"
+    },
+    {
+      "date": "1964-12-05",
+      "home": "Baltimore Bullets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 108,
+      "visitorPoints": 125,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412050BAL.html"
+    },
+    {
+      "date": "1964-12-05",
+      "home": "Detroit Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 110,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412050DET.html"
+    },
+    {
+      "date": "1964-12-05",
+      "home": "San Francisco Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 81,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412050SFW.html"
+    },
+    {
+      "date": "1964-12-06",
+      "home": "Baltimore Bullets",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 113,
+      "visitorPoints": 124,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412060BAL.html"
+    },
+    {
+      "date": "1964-12-06",
+      "home": "Los Angeles Lakers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 109,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412060LAL.html"
+    },
+    {
+      "date": "1964-12-06",
+      "home": "St. Louis Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 115,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412060STL.html"
+    },
+    {
+      "date": "1964-12-08",
+      "home": "Baltimore Bullets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 97,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412080BAL.html"
+    },
+    {
+      "date": "1964-12-08",
+      "home": "Los Angeles Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 98,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412080LAL.html"
+    },
+    {
+      "date": "1964-12-08",
+      "home": "New York Knicks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 100,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412080NYK.html"
+    },
+    {
+      "date": "1964-12-08",
+      "home": "San Francisco Warriors",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 93,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412080SFW.html"
+    },
+    {
+      "date": "1964-12-09",
+      "home": "Baltimore Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 90,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412090BAL.html"
+    },
+    {
+      "date": "1964-12-09",
+      "home": "Detroit Pistons",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 114,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412090DET.html"
+    },
+    {
+      "date": "1964-12-10",
+      "home": "Cincinnati Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 101,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412100CIN.html"
+    },
+    {
+      "date": "1964-12-10",
+      "home": "Los Angeles Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 91,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412100LAL.html"
+    },
+    {
+      "date": "1964-12-11",
+      "home": "Philadelphia 76ers",
+      "visitor": "Boston Celtics",
+      "homePoints": 109,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412110PHI.html"
+    },
+    {
+      "date": "1964-12-11",
+      "home": "San Francisco Warriors",
+      "visitor": "Detroit Pistons",
+      "homePoints": 100,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412110SFW.html"
+    },
+    {
+      "date": "1964-12-12",
+      "home": "Boston Celtics",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 112,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412120BOS.html"
+    },
+    {
+      "date": "1964-12-12",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 133,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412120NYK.html"
+    },
+    {
+      "date": "1964-12-12",
+      "home": "San Francisco Warriors",
+      "visitor": "Detroit Pistons",
+      "homePoints": 124,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412120SFW.html"
+    },
+    {
+      "date": "1964-12-12",
+      "home": "St. Louis Hawks",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 109,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412120STL.html"
+    },
+    {
+      "date": "1964-12-13",
+      "home": "Los Angeles Lakers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 116,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412130LAL.html"
+    },
+    {
+      "date": "1964-12-13",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 115,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412130NYK.html"
+    },
+    {
+      "date": "1964-12-14",
+      "home": "Philadelphia 76ers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 119,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412140PHI.html"
+    },
+    {
+      "date": "1964-12-15",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 124,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412150BOS.html"
+    },
+    {
+      "date": "1964-12-15",
+      "home": "Los Angeles Lakers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 116,
+      "visitorPoints": 131,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412150LAL.html"
+    },
+    {
+      "date": "1964-12-15",
+      "home": "New York Knicks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 132,
+      "visitorPoints": 134,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412150NYK.html"
+    },
+    {
+      "date": "1964-12-16",
+      "home": "Baltimore Bullets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 140,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412160BAL.html"
+    },
+    {
+      "date": "1964-12-16",
+      "home": "Boston Celtics",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 107,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412160BOS.html"
+    },
+    {
+      "date": "1964-12-16",
+      "home": "Detroit Pistons",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 120,
+      "visitorPoints": 126,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412160DET.html"
+    },
+    {
+      "date": "1964-12-16",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 103,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412160NYK.html"
+    },
+    {
+      "date": "1964-12-17",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 112,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412170BOS.html"
+    },
+    {
+      "date": "1964-12-18",
+      "home": "Cincinnati Royals",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 111,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412180CIN.html"
+    },
+    {
+      "date": "1964-12-18",
+      "home": "Detroit Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 114,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412180DET.html"
+    },
+    {
+      "date": "1964-12-18",
+      "home": "San Francisco Warriors",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 117,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412180SFW.html"
+    },
+    {
+      "date": "1964-12-19",
+      "home": "Baltimore Bullets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 104,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412190BAL.html"
+    },
+    {
+      "date": "1964-12-19",
+      "home": "Los Angeles Lakers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 113,
+      "visitorPoints": 140,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412190LAL.html"
+    },
+    {
+      "date": "1964-12-19",
+      "home": "New York Knicks",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 105,
+      "visitorPoints": 133,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412190NYK.html"
+    },
+    {
+      "date": "1964-12-19",
+      "home": "St. Louis Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 105,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412190STL.html"
+    },
+    {
+      "date": "1964-12-20",
+      "home": "San Francisco Warriors",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 111,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412200SFW.html"
+    },
+    {
+      "date": "1964-12-21",
+      "home": "Los Angeles Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 125,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412210LAL.html"
+    },
+    {
+      "date": "1964-12-22",
+      "home": "New York Knicks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 124,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412220NYK.html"
+    },
+    {
+      "date": "1964-12-23",
+      "home": "Los Angeles Lakers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 135,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412230LAL.html"
+    },
+    {
+      "date": "1964-12-25",
+      "home": "Boston Celtics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 118,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412250BOS.html"
+    },
+    {
+      "date": "1964-12-25",
+      "home": "Cincinnati Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 130,
+      "visitorPoints": 125,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412250CIN.html"
+    },
+    {
+      "date": "1964-12-25",
+      "home": "New York Knicks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 108,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412250NYK.html"
+    },
+    {
+      "date": "1964-12-26",
+      "home": "Baltimore Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 116,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412260BAL.html"
+    },
+    {
+      "date": "1964-12-26",
+      "home": "Los Angeles Lakers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 129,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412260LAL.html"
+    },
+    {
+      "date": "1964-12-26",
+      "home": "Philadelphia 76ers",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 125,
+      "visitorPoints": 135,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412260PHI.html"
+    },
+    {
+      "date": "1964-12-26",
+      "home": "St. Louis Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 84,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412260STL.html"
+    },
+    {
+      "date": "1964-12-27",
+      "home": "Baltimore Bullets",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 126,
+      "visitorPoints": 119,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412270BAL.html"
+    },
+    {
+      "date": "1964-12-27",
+      "home": "Boston Celtics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 112,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412270BOS.html"
+    },
+    {
+      "date": "1964-12-27",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 89,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412270NYK.html"
+    },
+    {
+      "date": "1964-12-28",
+      "home": "Boston Celtics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 133,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412280BOS.html"
+    },
+    {
+      "date": "1964-12-28",
+      "home": "Cincinnati Royals",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 113,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412280CIN.html"
+    },
+    {
+      "date": "1964-12-28",
+      "home": "Detroit Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 123,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412280DET.html"
+    },
+    {
+      "date": "1964-12-29",
+      "home": "St. Louis Hawks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 122,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412290STL.html"
+    },
+    {
+      "date": "1964-12-30",
+      "home": "Baltimore Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 114,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412300BAL.html"
+    },
+    {
+      "date": "1964-12-30",
+      "home": "Detroit Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 120,
+      "visitorPoints": 125,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412300DET.html"
+    },
+    {
+      "date": "1964-12-30",
+      "home": "New York Knicks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 118,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412300NYK.html"
+    },
+    {
+      "date": "1964-12-30",
+      "home": "Philadelphia 76ers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 117,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196412300PHI.html"
+    },
+    {
+      "date": "1965-01-01",
+      "home": "Baltimore Bullets",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 124,
+      "visitorPoints": 140,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501010BAL.html"
+    },
+    {
+      "date": "1965-01-01",
+      "home": "New York Knicks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 101,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501010NYK.html"
+    },
+    {
+      "date": "1965-01-02",
+      "home": "Baltimore Bullets",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 129,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501020BAL.html"
+    },
+    {
+      "date": "1965-01-02",
+      "home": "Detroit Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 89,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501020DET.html"
+    },
+    {
+      "date": "1965-01-02",
+      "home": "St. Louis Hawks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 112,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501020STL.html"
+    },
+    {
+      "date": "1965-01-03",
+      "home": "Baltimore Bullets",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 142,
+      "visitorPoints": 132,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501030BAL.html"
+    },
+    {
+      "date": "1965-01-03",
+      "home": "Cincinnati Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 85,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501030CIN.html"
+    },
+    {
+      "date": "1965-01-03",
+      "home": "St. Louis Hawks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 92,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501030STL.html"
+    },
+    {
+      "date": "1965-01-05",
+      "home": "Detroit Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 108,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501050DET.html"
+    },
+    {
+      "date": "1965-01-05",
+      "home": "New York Knicks",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 116,
+      "visitorPoints": 125,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501050NYK.html"
+    },
+    {
+      "date": "1965-01-06",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 138,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501060BOS.html"
+    },
+    {
+      "date": "1965-01-06",
+      "home": "Cincinnati Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 116,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501060CIN.html"
+    },
+    {
+      "date": "1965-01-06",
+      "home": "Detroit Pistons",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 121,
+      "visitorPoints": 129,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501060DET.html"
+    },
+    {
+      "date": "1965-01-06",
+      "home": "Philadelphia 76ers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 121,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501060PHI.html"
+    },
+    {
+      "date": "1965-01-07",
+      "home": "Baltimore Bullets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 110,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501070BAL.html"
+    },
+    {
+      "date": "1965-01-07",
+      "home": "Los Angeles Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 104,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501070LAL.html"
+    },
+    {
+      "date": "1965-01-08",
+      "home": "Cincinnati Royals",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 114,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501080CIN.html"
+    },
+    {
+      "date": "1965-01-08",
+      "home": "San Francisco Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 91,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501080SFW.html"
+    },
+    {
+      "date": "1965-01-08",
+      "home": "St. Louis Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 83,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501080STL.html"
+    },
+    {
+      "date": "1965-01-09",
+      "home": "Baltimore Bullets",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 119,
+      "visitorPoints": 128,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501090BAL.html"
+    },
+    {
+      "date": "1965-01-09",
+      "home": "Los Angeles Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 103,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501090LAL.html"
+    },
+    {
+      "date": "1965-01-09",
+      "home": "New York Knicks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 115,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501090NYK.html"
+    },
+    {
+      "date": "1965-01-09",
+      "home": "St. Louis Hawks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 102,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501090STL.html"
+    },
+    {
+      "date": "1965-01-10",
+      "home": "Baltimore Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 120,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501100BAL.html"
+    },
+    {
+      "date": "1965-01-10",
+      "home": "Cincinnati Royals",
+      "visitor": "Detroit Pistons",
+      "homePoints": 140,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501100CIN.html"
+    },
+    {
+      "date": "1965-01-11",
+      "home": "Detroit Pistons",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 128,
+      "visitorPoints": 127,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501110DET.html"
+    },
+    {
+      "date": "1965-01-11",
+      "home": "Philadelphia 76ers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 90,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501110PHI.html"
+    },
+    {
+      "date": "1965-01-14",
+      "home": "Detroit Pistons",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 100,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501140DET.html"
+    },
+    {
+      "date": "1965-01-14",
+      "home": "Philadelphia 76ers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 126,
+      "visitorPoints": 138,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501140PHI.html"
+    },
+    {
+      "date": "1965-01-15",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 104,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501150BOS.html"
+    },
+    {
+      "date": "1965-01-15",
+      "home": "Cincinnati Royals",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 124,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501150CIN.html"
+    },
+    {
+      "date": "1965-01-15",
+      "home": "San Francisco Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 87,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501150SFW.html"
+    },
+    {
+      "date": "1965-01-16",
+      "home": "Baltimore Bullets",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 87,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501160BAL.html"
+    },
+    {
+      "date": "1965-01-16",
+      "home": "San Francisco Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 89,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501160SFW.html"
+    },
+    {
+      "date": "1965-01-17",
+      "home": "Boston Celtics",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 101,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501170BOS.html"
+    },
+    {
+      "date": "1965-01-17",
+      "home": "St. Louis Hawks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 118,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501170STL.html"
+    },
+    {
+      "date": "1965-01-18",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 95,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501180DET.html"
+    },
+    {
+      "date": "1965-01-19",
+      "home": "Cincinnati Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 103,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501190CIN.html"
+    },
+    {
+      "date": "1965-01-19",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 103,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501190DET.html"
+    },
+    {
+      "date": "1965-01-20",
+      "home": "Baltimore Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 105,
+      "visitorPoints": 131,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501200BAL.html"
+    },
+    {
+      "date": "1965-01-20",
+      "home": "Detroit Pistons",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 90,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501200DET.html"
+    },
+    {
+      "date": "1965-01-20",
+      "home": "Los Angeles Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 119,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501200LAL.html"
+    },
+    {
+      "date": "1965-01-21",
+      "home": "Philadelphia 76ers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 111,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501210PHI.html"
+    },
+    {
+      "date": "1965-01-22",
+      "home": "Boston Celtics",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 104,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501220BOS.html"
+    },
+    {
+      "date": "1965-01-22",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 103,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501220DET.html"
+    },
+    {
+      "date": "1965-01-22",
+      "home": "Los Angeles Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 117,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501220LAL.html"
+    },
+    {
+      "date": "1965-01-22",
+      "home": "St. Louis Hawks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 110,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501220STL.html"
+    },
+    {
+      "date": "1965-01-23",
+      "home": "Baltimore Bullets",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 106,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501230BAL.html"
+    },
+    {
+      "date": "1965-01-23",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 100,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501230BOS.html"
+    },
+    {
+      "date": "1965-01-23",
+      "home": "Cincinnati Royals",
+      "visitor": "Detroit Pistons",
+      "homePoints": 102,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501230CIN.html"
+    },
+    {
+      "date": "1965-01-24",
+      "home": "Baltimore Bullets",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 114,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501240BAL.html"
+    },
+    {
+      "date": "1965-01-24",
+      "home": "Boston Celtics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 117,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501240BOS.html"
+    },
+    {
+      "date": "1965-01-24",
+      "home": "Cincinnati Royals",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 124,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501240CIN.html"
+    },
+    {
+      "date": "1965-01-25",
+      "home": "Baltimore Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 104,
+      "visitorPoints": 142,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501250BAL.html"
+    },
+    {
+      "date": "1965-01-26",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 107,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501260DET.html"
+    },
+    {
+      "date": "1965-01-26",
+      "home": "New York Knicks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 99,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501260NYK.html"
+    },
+    {
+      "date": "1965-01-26",
+      "home": "San Francisco Warriors",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 107,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501260SFW.html"
+    },
+    {
+      "date": "1965-01-27",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 115,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501270BOS.html"
+    },
+    {
+      "date": "1965-01-27",
+      "home": "Detroit Pistons",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 122,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501270DET.html"
+    },
+    {
+      "date": "1965-01-27",
+      "home": "Los Angeles Lakers",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 119,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501270LAL.html"
+    },
+    {
+      "date": "1965-01-27",
+      "home": "St. Louis Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 117,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501270STL.html"
+    },
+    {
+      "date": "1965-01-28",
+      "home": "San Francisco Warriors",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 105,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501280SFW.html"
+    },
+    {
+      "date": "1965-01-29",
+      "home": "Detroit Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 99,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501290DET.html"
+    },
+    {
+      "date": "1965-01-29",
+      "home": "Los Angeles Lakers",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 137,
+      "visitorPoints": 133,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501290LAL.html"
+    },
+    {
+      "date": "1965-01-29",
+      "home": "Philadelphia 76ers",
+      "visitor": "Boston Celtics",
+      "homePoints": 118,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501290PHI.html"
+    },
+    {
+      "date": "1965-01-29",
+      "home": "St. Louis Hawks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 124,
+      "visitorPoints": 119,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501290STL.html"
+    },
+    {
+      "date": "1965-01-30",
+      "home": "Detroit Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 121,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501300DET.html"
+    },
+    {
+      "date": "1965-01-30",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 90,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501300NYK.html"
+    },
+    {
+      "date": "1965-01-30",
+      "home": "San Francisco Warriors",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 99,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501300SFW.html"
+    },
+    {
+      "date": "1965-01-31",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 123,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501310BOS.html"
+    },
+    {
+      "date": "1965-01-31",
+      "home": "Los Angeles Lakers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 96,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501310LAL.html"
+    },
+    {
+      "date": "1965-01-31",
+      "home": "Philadelphia 76ers",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 127,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501310PHI.html"
+    },
+    {
+      "date": "1965-01-31",
+      "home": "St. Louis Hawks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 107,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196501310STL.html"
+    },
+    {
+      "date": "1965-02-02",
+      "home": "Detroit Pistons",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 121,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502020DET.html"
+    },
+    {
+      "date": "1965-02-02",
+      "home": "New York Knicks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 113,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502020NYK.html"
+    },
+    {
+      "date": "1965-02-02",
+      "home": "Philadelphia 76ers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 119,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502020PHI.html"
+    },
+    {
+      "date": "1965-02-03",
+      "home": "Boston Celtics",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 114,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502030BOS.html"
+    },
+    {
+      "date": "1965-02-03",
+      "home": "Cincinnati Royals",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 130,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502030CIN.html"
+    },
+    {
+      "date": "1965-02-03",
+      "home": "Detroit Pistons",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 111,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502030DET.html"
+    },
+    {
+      "date": "1965-02-03",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 95,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502030NYK.html"
+    },
+    {
+      "date": "1965-02-04",
+      "home": "Philadelphia 76ers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 123,
+      "visitorPoints": 119,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502040PHI.html"
+    },
+    {
+      "date": "1965-02-05",
+      "home": "Baltimore Bullets",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 112,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502050BAL.html"
+    },
+    {
+      "date": "1965-02-05",
+      "home": "Boston Celtics",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 114,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502050BOS.html"
+    },
+    {
+      "date": "1965-02-05",
+      "home": "Detroit Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 112,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502050DET.html"
+    },
+    {
+      "date": "1965-02-06",
+      "home": "Baltimore Bullets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 116,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502060BAL.html"
+    },
+    {
+      "date": "1965-02-06",
+      "home": "Cincinnati Royals",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 122,
+      "visitorPoints": 127,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502060CIN.html"
+    },
+    {
+      "date": "1965-02-06",
+      "home": "New York Knicks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 109,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502060NYK.html"
+    },
+    {
+      "date": "1965-02-06",
+      "home": "St. Louis Hawks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 108,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502060STL.html"
+    },
+    {
+      "date": "1965-02-07",
+      "home": "Boston Celtics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 101,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502070BOS.html"
+    },
+    {
+      "date": "1965-02-07",
+      "home": "Detroit Pistons",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 119,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502070DET.html"
+    },
+    {
+      "date": "1965-02-07",
+      "home": "St. Louis Hawks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 126,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502070STL.html"
+    },
+    {
+      "date": "1965-02-08",
+      "home": "Los Angeles Lakers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 117,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502080LAL.html"
+    },
+    {
+      "date": "1965-02-09",
+      "home": "Cincinnati Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 134,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502090CIN.html"
+    },
+    {
+      "date": "1965-02-09",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 103,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502090NYK.html"
+    },
+    {
+      "date": "1965-02-09",
+      "home": "Philadelphia 76ers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 132,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502090PHI.html"
+    },
+    {
+      "date": "1965-02-10",
+      "home": "Cincinnati Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 112,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502100CIN.html"
+    },
+    {
+      "date": "1965-02-10",
+      "home": "Detroit Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 106,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502100DET.html"
+    },
+    {
+      "date": "1965-02-10",
+      "home": "Los Angeles Lakers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 99,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502100LAL.html"
+    },
+    {
+      "date": "1965-02-11",
+      "home": "Baltimore Bullets",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 94,
+      "visitorPoints": 124,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502110BAL.html"
+    },
+    {
+      "date": "1965-02-11",
+      "home": "Cincinnati Royals",
+      "visitor": "Detroit Pistons",
+      "homePoints": 130,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502110CIN.html"
+    },
+    {
+      "date": "1965-02-11",
+      "home": "San Francisco Warriors",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 106,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502110SFW.html"
+    },
+    {
+      "date": "1965-02-12",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 94,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502120BOS.html"
+    },
+    {
+      "date": "1965-02-12",
+      "home": "Los Angeles Lakers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 114,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502120LAL.html"
+    },
+    {
+      "date": "1965-02-12",
+      "home": "St. Louis Hawks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 144,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502120STL.html"
+    },
+    {
+      "date": "1965-02-13",
+      "home": "Baltimore Bullets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 123,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502130BAL.html"
+    },
+    {
+      "date": "1965-02-13",
+      "home": "Cincinnati Royals",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 108,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502130CIN.html"
+    },
+    {
+      "date": "1965-02-13",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 123,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502130NYK.html"
+    },
+    {
+      "date": "1965-02-13",
+      "home": "San Francisco Warriors",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 105,
+      "visitorPoints": 129,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502130SFW.html"
+    },
+    {
+      "date": "1965-02-14",
+      "home": "Boston Celtics",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 126,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502140BOS.html"
+    },
+    {
+      "date": "1965-02-14",
+      "home": "St. Louis Hawks",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 92,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502140STL.html"
+    },
+    {
+      "date": "1965-02-16",
+      "home": "Baltimore Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 102,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502160BAL.html"
+    },
+    {
+      "date": "1965-02-16",
+      "home": "Cincinnati Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 111,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502160CIN.html"
+    },
+    {
+      "date": "1965-02-16",
+      "home": "San Francisco Warriors",
+      "visitor": "Detroit Pistons",
+      "homePoints": 106,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502160SFW.html"
+    },
+    {
+      "date": "1965-02-17",
+      "home": "Baltimore Bullets",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 125,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502170BAL.html"
+    },
+    {
+      "date": "1965-02-17",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 121,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502170BOS.html"
+    },
+    {
+      "date": "1965-02-17",
+      "home": "New York Knicks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 98,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502170NYK.html"
+    },
+    {
+      "date": "1965-02-18",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 119,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502180BOS.html"
+    },
+    {
+      "date": "1965-02-18",
+      "home": "Philadelphia 76ers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 110,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502180PHI.html"
+    },
+    {
+      "date": "1965-02-18",
+      "home": "San Francisco Warriors",
+      "visitor": "Detroit Pistons",
+      "homePoints": 106,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502180SFW.html"
+    },
+    {
+      "date": "1965-02-19",
+      "home": "Baltimore Bullets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 111,
+      "visitorPoints": 119,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502190BAL.html"
+    },
+    {
+      "date": "1965-02-20",
+      "home": "Detroit Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 98,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502200DET.html"
+    },
+    {
+      "date": "1965-02-20",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 92,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502200NYK.html"
+    },
+    {
+      "date": "1965-02-20",
+      "home": "San Francisco Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 108,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502200SFW.html"
+    },
+    {
+      "date": "1965-02-21",
+      "home": "Baltimore Bullets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 106,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502210BAL.html"
+    },
+    {
+      "date": "1965-02-21",
+      "home": "Los Angeles Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 129,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502210LAL.html"
+    },
+    {
+      "date": "1965-02-21",
+      "home": "New York Knicks",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 109,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502210NYK.html"
+    },
+    {
+      "date": "1965-02-21",
+      "home": "St. Louis Hawks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 112,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502210STL.html"
+    },
+    {
+      "date": "1965-02-22",
+      "home": "Baltimore Bullets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 112,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502220BAL.html"
+    },
+    {
+      "date": "1965-02-22",
+      "home": "San Francisco Warriors",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 97,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502220SFW.html"
+    },
+    {
+      "date": "1965-02-23",
+      "home": "Baltimore Bullets",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 131,
+      "visitorPoints": 127,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502230BAL.html"
+    },
+    {
+      "date": "1965-02-23",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 132,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502230NYK.html"
+    },
+    {
+      "date": "1965-02-24",
+      "home": "Baltimore Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 111,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502240BAL.html"
+    },
+    {
+      "date": "1965-02-24",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 106,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502240DET.html"
+    },
+    {
+      "date": "1965-02-24",
+      "home": "Los Angeles Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 95,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502240LAL.html"
+    },
+    {
+      "date": "1965-02-24",
+      "home": "San Francisco Warriors",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 103,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502240SFW.html"
+    },
+    {
+      "date": "1965-02-26",
+      "home": "Los Angeles Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 106,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502260LAL.html"
+    },
+    {
+      "date": "1965-02-26",
+      "home": "San Francisco Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 112,
+      "visitorPoints": 130,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502260SFW.html"
+    },
+    {
+      "date": "1965-02-27",
+      "home": "Detroit Pistons",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 117,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502270DET.html"
+    },
+    {
+      "date": "1965-02-27",
+      "home": "New York Knicks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 102,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502270NYK.html"
+    },
+    {
+      "date": "1965-02-28",
+      "home": "Baltimore Bullets",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 129,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502280BAL.html"
+    },
+    {
+      "date": "1965-02-28",
+      "home": "Cincinnati Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 126,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502280CIN.html"
+    },
+    {
+      "date": "1965-02-28",
+      "home": "Los Angeles Lakers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 122,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502280LAL.html"
+    },
+    {
+      "date": "1965-02-28",
+      "home": "St. Louis Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 102,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196502280STL.html"
+    },
+    {
+      "date": "1965-03-01",
+      "home": "Cincinnati Royals",
+      "visitor": "Detroit Pistons",
+      "homePoints": 110,
+      "visitorPoints": 130,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503010CIN.html"
+    },
+    {
+      "date": "1965-03-02",
+      "home": "Cincinnati Royals",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 121,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503020CIN.html"
+    },
+    {
+      "date": "1965-03-02",
+      "home": "Los Angeles Lakers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 126,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503020LAL.html"
+    },
+    {
+      "date": "1965-03-02",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 98,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503020NYK.html"
+    },
+    {
+      "date": "1965-03-03",
+      "home": "Baltimore Bullets",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 151,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503030BAL.html"
+    },
+    {
+      "date": "1965-03-03",
+      "home": "Boston Celtics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 102,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503030BOS.html"
+    },
+    {
+      "date": "1965-03-03",
+      "home": "Detroit Pistons",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 110,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503030DET.html"
+    },
+    {
+      "date": "1965-03-03",
+      "home": "St. Louis Hawks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 124,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503030STL.html"
+    },
+    {
+      "date": "1965-03-04",
+      "home": "Detroit Pistons",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 110,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503040DET.html"
+    },
+    {
+      "date": "1965-03-05",
+      "home": "Baltimore Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 128,
+      "visitorPoints": 124,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503050BAL.html"
+    },
+    {
+      "date": "1965-03-05",
+      "home": "Cincinnati Royals",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 109,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503050CIN.html"
+    },
+    {
+      "date": "1965-03-05",
+      "home": "New York Knicks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 103,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503050NYK.html"
+    },
+    {
+      "date": "1965-03-06",
+      "home": "Detroit Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 93,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503060DET.html"
+    },
+    {
+      "date": "1965-03-06",
+      "home": "Philadelphia 76ers",
+      "visitor": "Boston Celtics",
+      "homePoints": 103,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503060PHI.html"
+    },
+    {
+      "date": "1965-03-06",
+      "home": "San Francisco Warriors",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 93,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503060SFW.html"
+    },
+    {
+      "date": "1965-03-06",
+      "home": "St. Louis Hawks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 109,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503060STL.html"
+    },
+    {
+      "date": "1965-03-07",
+      "home": "Baltimore Bullets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 111,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503070BAL.html"
+    },
+    {
+      "date": "1965-03-07",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 133,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503070BOS.html"
+    },
+    {
+      "date": "1965-03-07",
+      "home": "Los Angeles Lakers",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 106,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503070LAL.html"
+    },
+    {
+      "date": "1965-03-07",
+      "home": "St. Louis Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 132,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503070STL.html"
+    },
+    {
+      "date": "1965-03-08",
+      "home": "San Francisco Warriors",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 102,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503080SFW.html"
+    },
+    {
+      "date": "1965-03-09",
+      "home": "Los Angeles Lakers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 123,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503090LAL.html"
+    },
+    {
+      "date": "1965-03-09",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 124,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503090NYK.html"
+    },
+    {
+      "date": "1965-03-10",
+      "home": "Detroit Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 106,
+      "visitorPoints": 124,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503100DET.html"
+    },
+    {
+      "date": "1965-03-10",
+      "home": "Philadelphia 76ers",
+      "visitor": "New York Knicks",
+      "homePoints": 123,
+      "visitorPoints": 134,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503100PHI.html"
+    },
+    {
+      "date": "1965-03-10",
+      "home": "St. Louis Hawks",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 137,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503100STL.html"
+    },
+    {
+      "date": "1965-03-11",
+      "home": "Boston Celtics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 112,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503110BOS.html"
+    },
+    {
+      "date": "1965-03-11",
+      "home": "Los Angeles Lakers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 121,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503110LAL.html"
+    },
+    {
+      "date": "1965-03-11",
+      "home": "San Francisco Warriors",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 99,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503110SFW.html"
+    },
+    {
+      "date": "1965-03-12",
+      "home": "Cincinnati Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 118,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503120CIN.html"
+    },
+    {
+      "date": "1965-03-12",
+      "home": "San Francisco Warriors",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 93,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503120SFW.html"
+    },
+    {
+      "date": "1965-03-13",
+      "home": "Baltimore Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 102,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503130BAL.html"
+    },
+    {
+      "date": "1965-03-13",
+      "home": "Los Angeles Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 106,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503130LAL.html"
+    },
+    {
+      "date": "1965-03-13",
+      "home": "Philadelphia 76ers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 131,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503130PHI.html"
+    },
+    {
+      "date": "1965-03-14",
+      "home": "Baltimore Bullets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 143,
+      "visitorPoints": 126,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503140BAL.html"
+    },
+    {
+      "date": "1965-03-14",
+      "home": "Boston Celtics",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 106,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503140BOS.html"
+    },
+    {
+      "date": "1965-03-14",
+      "home": "Los Angeles Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 108,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503140LAL.html"
+    },
+    {
+      "date": "1965-03-14",
+      "home": "New York Knicks",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 103,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503140NYK.html"
+    },
+    {
+      "date": "1965-03-16",
+      "home": "Cincinnati Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 111,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503160CIN.html"
+    },
+    {
+      "date": "1965-03-16",
+      "home": "Detroit Pistons",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 99,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503160DET.html"
+    },
+    {
+      "date": "1965-03-16",
+      "home": "Philadelphia 76ers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 107,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503160PHI.html"
+    },
+    {
+      "date": "1965-03-17",
+      "home": "Baltimore Bullets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 117,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503170BAL.html"
+    },
+    {
+      "date": "1965-03-17",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 119,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503170NYK.html"
+    },
+    {
+      "date": "1965-03-17",
+      "home": "St. Louis Hawks",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 101,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503170STL.html"
+    },
+    {
+      "date": "1965-03-18",
+      "home": "Cincinnati Royals",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 113,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503180CIN.html"
+    },
+    {
+      "date": "1965-03-20",
+      "home": "Los Angeles Lakers",
+      "visitor": "San Francisco Warriors",
+      "homePoints": 98,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503200LAL.html"
+    },
+    {
+      "date": "1965-03-20",
+      "home": "New York Knicks",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 118,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503200NYK.html"
+    },
+    {
+      "date": "1965-03-20",
+      "home": "Philadelphia 76ers",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 122,
+      "visitorPoints": 125,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503200PHI.html"
+    },
+    {
+      "date": "1965-03-20",
+      "home": "St. Louis Hawks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 107,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503200STL.html"
+    },
+    {
+      "date": "1965-03-21",
+      "home": "Boston Celtics",
+      "visitor": "Cincinnati Royals",
+      "homePoints": 116,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503210BOS.html"
+    },
+    {
+      "date": "1965-03-21",
+      "home": "Philadelphia 76ers",
+      "visitor": "Baltimore Bullets",
+      "homePoints": 127,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503210PHI.html"
+    },
+    {
+      "date": "1965-03-21",
+      "home": "St. Louis Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 112,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/196503210STL.html"
+    }
+  ]
+}

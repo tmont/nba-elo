@@ -1,0 +1,3384 @@
+{
+  "standings": [
+    {
+      "team": "Syracuse Nationals",
+      "rating": 1367.43059766762,
+      "wins": 40,
+      "losses": 26,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 90-75 vs Fort Wayne Pistons on 1951-11-01"
+        },
+        {
+          "diff": 347.2249022754322,
+          "newRating": 1947.2249022754322,
+          "result": "W 98-67 vs Minneapolis Lakers on 1951-11-04"
+        },
+        {
+          "diff": -265.413976665448,
+          "newRating": 1681.8109256099842,
+          "result": "L 82-91 vs Baltimore Bullets on 1951-11-10"
+        },
+        {
+          "diff": 3.788559765788932,
+          "newRating": 1685.5994853757732,
+          "result": "W 93-79 vs Indianapolis Olympians on 1951-11-11"
+        },
+        {
+          "diff": 93.30304146004278,
+          "newRating": 1778.902526835816,
+          "result": "W 97-95 vs Boston Celtics on 1951-11-15"
+        },
+        {
+          "diff": 2.1238639955745384,
+          "newRating": 1781.0263908313905,
+          "result": "W 97-90 vs Philadelphia Warriors on 1951-11-16"
+        },
+        {
+          "diff": 3.934142069753534,
+          "newRating": 1784.960532901144,
+          "result": "W 79-72 vs New York Knicks on 1951-11-17"
+        },
+        {
+          "diff": 2.7168280092200803,
+          "newRating": 1787.677360910364,
+          "result": "W 71-68 vs Baltimore Bullets on 1951-11-18"
+        },
+        {
+          "diff": 0.573386651794408,
+          "newRating": 1788.2507475621585,
+          "result": "W 96-72 vs Fort Wayne Pistons on 1951-11-22"
+        },
+        {
+          "diff": -78.90379208464651,
+          "newRating": 1709.346955477512,
+          "result": "L 68-82 vs Indianapolis Olympians on 1951-11-23"
+        },
+        {
+          "diff": 7.0382200916997135,
+          "newRating": 1716.3851755692117,
+          "result": "W 100-73 vs New York Knicks on 1951-11-25"
+        },
+        {
+          "diff": 0.8440155565017449,
+          "newRating": 1717.2291911257134,
+          "result": "W 82-78 vs Fort Wayne Pistons on 1951-11-29"
+        },
+        {
+          "diff": -60.05749274830691,
+          "newRating": 1657.1716983774065,
+          "result": "L 75-82 vs Philadelphia Warriors on 1951-11-30"
+        },
+        {
+          "diff": -51.533509385961,
+          "newRating": 1605.6381889914455,
+          "result": "L 79-81 vs Rochester Royals on 1951-12-02"
+        },
+        {
+          "diff": -49.20015650166556,
+          "newRating": 1556.43803248978,
+          "result": "L 77-83 vs Indianapolis Olympians on 1951-12-04"
+        },
+        {
+          "diff": 18.486805779350334,
+          "newRating": 1574.9248382691303,
+          "result": "W 83-81 vs Minneapolis Lakers on 1951-12-05"
+        },
+        {
+          "diff": -46.22366242522162,
+          "newRating": 1528.7011758439087,
+          "result": "L 70-73 vs Milwaukee Hawks on 1951-12-06"
+        },
+        {
+          "diff": 9.286882834981043,
+          "newRating": 1537.9880586788897,
+          "result": "W 95-75 vs Rochester Royals on 1951-12-08"
+        },
+        {
+          "diff": 4.6559743487630385,
+          "newRating": 1542.6440330276528,
+          "result": "W 93-74 vs Philadelphia Warriors on 1951-12-09"
+        },
+        {
+          "diff": 2.3350937164216248,
+          "newRating": 1544.9791267440744,
+          "result": "W 80-62 vs Fort Wayne Pistons on 1951-12-11"
+        },
+        {
+          "diff": 1.1043953576913736,
+          "newRating": 1546.0835221017658,
+          "result": "W 89-82 vs Milwaukee Hawks on 1951-12-13"
+        },
+        {
+          "diff": -29.24442931806584,
+          "newRating": 1516.8390927837,
+          "result": "L 92-96 vs Indianapolis Olympians on 1951-12-16"
+        },
+        {
+          "diff": -23.592587385702927,
+          "newRating": 1493.246505397997,
+          "result": "L 97-103 vs Boston Celtics on 1951-12-19"
+        },
+        {
+          "diff": -27.719374076845043,
+          "newRating": 1465.527131321152,
+          "result": "L 73-92 vs New York Knicks on 1951-12-22"
+        },
+        {
+          "diff": -24.988185676887724,
+          "newRating": 1440.5389456442642,
+          "result": "L 72-75 vs New York Knicks on 1951-12-23"
+        },
+        {
+          "diff": 1.5012837781805501,
+          "newRating": 1442.0402294224448,
+          "result": "W 70-65 vs Milwaukee Hawks on 1951-12-25"
+        },
+        {
+          "diff": -27.98015945343036,
+          "newRating": 1414.0600699690144,
+          "result": "L 68-69 vs Milwaukee Hawks on 1951-12-27"
+        },
+        {
+          "diff": 5.696535439956051,
+          "newRating": 1419.7566054089705,
+          "result": "W 108-91 vs Baltimore Bullets on 1951-12-30"
+        },
+        {
+          "diff": -16.47865011175213,
+          "newRating": 1403.2779552972183,
+          "result": "L 80-82 vs Minneapolis Lakers on 1952-01-01"
+        },
+        {
+          "diff": 11.468412091883238,
+          "newRating": 1414.7463673891016,
+          "result": "W 107-81 vs Boston Celtics on 1952-01-03"
+        },
+        {
+          "diff": 5.673292087107029,
+          "newRating": 1420.4196594762086,
+          "result": "W 98-93 vs Philadelphia Warriors on 1952-01-06"
+        },
+        {
+          "diff": 6.952858739788098,
+          "newRating": 1427.3725182159967,
+          "result": "W 110-96 vs New York Knicks on 1952-01-10"
+        },
+        {
+          "diff": 3.7342040874050326,
+          "newRating": 1431.1067223034017,
+          "result": "W 92-88 vs Baltimore Bullets on 1952-01-12"
+        },
+        {
+          "diff": 7.2055911639336045,
+          "newRating": 1438.3123134673353,
+          "result": "W 103-85 vs Indianapolis Olympians on 1952-01-13"
+        },
+        {
+          "diff": 9.643229883358572,
+          "newRating": 1447.955543350694,
+          "result": "W 110-105 vs Minneapolis Lakers on 1952-01-17"
+        },
+        {
+          "diff": 2.650790670739525,
+          "newRating": 1450.6063340214334,
+          "result": "W 99-80 vs Baltimore Bullets on 1952-01-20"
+        },
+        {
+          "diff": 1.3941175127338283,
+          "newRating": 1452.0004515341673,
+          "result": "W 93-82 vs Milwaukee Hawks on 1952-01-22"
+        },
+        {
+          "diff": 8.10416234777108,
+          "newRating": 1460.1046138819383,
+          "result": "W 99-97 vs Minneapolis Lakers on 1952-01-23"
+        },
+        {
+          "diff": -16.83700104992863,
+          "newRating": 1443.2676128320097,
+          "result": "L 94-95 vs Philadelphia Warriors on 1952-01-25"
+        },
+        {
+          "diff": 2.2955959867156253,
+          "newRating": 1445.5632088187253,
+          "result": "W 78-73 vs Baltimore Bullets on 1952-01-26"
+        },
+        {
+          "diff": 6.914615118728079,
+          "newRating": 1452.4778239374534,
+          "result": "W 91-86 vs Boston Celtics on 1952-01-27"
+        },
+        {
+          "diff": 1.1823565152787978,
+          "newRating": 1453.6601804527322,
+          "result": "W 88-79 vs Milwaukee Hawks on 1952-01-31"
+        },
+        {
+          "diff": 1.8725732099535435,
+          "newRating": 1455.5327536626858,
+          "result": "W 95-73 vs Baltimore Bullets on 1952-02-03"
+        },
+        {
+          "diff": -12.463699308684,
+          "newRating": 1443.0690543540018,
+          "result": "L 88-99 vs Boston Celtics on 1952-02-06"
+        },
+        {
+          "diff": 4.006423535257454,
+          "newRating": 1447.0754778892592,
+          "result": "W 96-87 vs Philadelphia Warriors on 1952-02-08"
+        },
+        {
+          "diff": -15.56253498540741,
+          "newRating": 1431.5129429038518,
+          "result": "L 76-84 vs Baltimore Bullets on 1952-02-09"
+        },
+        {
+          "diff": 3.8335342642965315,
+          "newRating": 1435.3464771681483,
+          "result": "W 91-84 vs Philadelphia Warriors on 1952-02-10"
+        },
+        {
+          "diff": -12.177602123110546,
+          "newRating": 1423.1688750450378,
+          "result": "L 69-78 vs New York Knicks on 1952-02-12"
+        },
+        {
+          "diff": -10.98485035068552,
+          "newRating": 1412.1840246943523,
+          "result": "L 76-78 vs Rochester Royals on 1952-02-14"
+        },
+        {
+          "diff": -10.315020958430068,
+          "newRating": 1401.8690037359222,
+          "result": "L 84-92 vs Rochester Royals on 1952-02-16"
+        },
+        {
+          "diff": 5.154364352879611,
+          "newRating": 1407.0233680888018,
+          "result": "W 66-61 vs New York Knicks on 1952-02-17"
+        },
+        {
+          "diff": 5.976497745571351,
+          "newRating": 1412.9998658343732,
+          "result": "W 88-80 vs Minneapolis Lakers on 1952-02-21"
+        },
+        {
+          "diff": -13.003151216448941,
+          "newRating": 1399.9967146179242,
+          "result": "L 80-81 vs Baltimore Bullets on 1952-02-23"
+        },
+        {
+          "diff": -9.556220394911179,
+          "newRating": 1390.440494223013,
+          "result": "L 75-77 vs Boston Celtics on 1952-02-24"
+        },
+        {
+          "diff": -9.00694509287814,
+          "newRating": 1381.433549130135,
+          "result": "L 81-88 vs Boston Celtics on 1952-02-27"
+        },
+        {
+          "diff": 3.3739906851017167,
+          "newRating": 1384.8075398152366,
+          "result": "W 88-83 vs Fort Wayne Pistons on 1952-02-28"
+        },
+        {
+          "diff": -8.394068843264677,
+          "newRating": 1376.413470971972,
+          "result": "L 83-98 vs Rochester Royals on 1952-03-01"
+        },
+        {
+          "diff": 5.8669923807560735,
+          "newRating": 1382.280463352728,
+          "result": "W 76-72 vs Rochester Royals on 1952-03-02"
+        },
+        {
+          "diff": 3.2328213270552624,
+          "newRating": 1385.5132846797833,
+          "result": "W 83-81 vs Fort Wayne Pistons on 1952-03-06"
+        },
+        {
+          "diff": -9.275009194469476,
+          "newRating": 1376.2382754853138,
+          "result": "L 76-81 vs Indianapolis Olympians on 1952-03-07"
+        },
+        {
+          "diff": -8.794104090216706,
+          "newRating": 1367.444171395097,
+          "result": "L 83-92 vs Philadelphia Warriors on 1952-03-08"
+        },
+        {
+          "diff": 4.544377836141166,
+          "newRating": 1371.9885492312383,
+          "result": "W 99-82 vs Philadelphia Warriors on 1952-03-09"
+        },
+        {
+          "diff": 5.565803071819573,
+          "newRating": 1377.5543523030578,
+          "result": "W 89-71 vs Boston Celtics on 1952-03-12"
+        },
+        {
+          "diff": 5.282483511241708,
+          "newRating": 1382.8368358142995,
+          "result": "W 89-70 vs Boston Celtics on 1952-03-13"
+        },
+        {
+          "diff": -7.891137692552775,
+          "newRating": 1374.9456981217468,
+          "result": "L 90-97 vs New York Knicks on 1952-03-15"
+        },
+        {
+          "diff": -7.515100454126696,
+          "newRating": 1367.43059766762,
+          "result": "L 84-90 vs New York Knicks on 1952-03-16"
+        }
+      ]
+    },
+    {
+      "team": "Boston Celtics",
+      "rating": 1329.0176824382486,
+      "wins": 39,
+      "losses": 27,
+      "log": [
+        {
+          "diff": 482.52848070237155,
+          "newRating": 1682.5284807023716,
+          "result": "W 97-65 vs Indianapolis Olympians on 1951-11-04"
+        },
+        {
+          "diff": 18.282545710370414,
+          "newRating": 1700.811026412742,
+          "result": "W 83-69 vs Philadelphia Warriors on 1951-11-10"
+        },
+        {
+          "diff": 41.31684319316173,
+          "newRating": 1742.1278696059037,
+          "result": "W 77-72 vs Minneapolis Lakers on 1951-11-11"
+        },
+        {
+          "diff": 1.7875241420445036,
+          "newRating": 1743.9153937479482,
+          "result": "W 98-91 vs Fort Wayne Pistons on 1951-11-14"
+        },
+        {
+          "diff": -93.30304146004278,
+          "newRating": 1650.6123522879054,
+          "result": "L 95-97 vs Syracuse Nationals on 1951-11-15"
+        },
+        {
+          "diff": 7.9435727956749815,
+          "newRating": 1658.5559250835804,
+          "result": "W 88-75 vs Baltimore Bullets on 1951-11-17"
+        },
+        {
+          "diff": -106.75557697886734,
+          "newRating": 1551.800348104713,
+          "result": "L 92-93 vs New York Knicks on 1951-11-18"
+        },
+        {
+          "diff": 1.7581355452302887,
+          "newRating": 1553.5584836499434,
+          "result": "W 103-72 vs Milwaukee Hawks on 1951-11-22"
+        },
+        {
+          "diff": 4.784569862324361,
+          "newRating": 1558.3430535122677,
+          "result": "W 102-100 vs Philadelphia Warriors on 1951-11-23"
+        },
+        {
+          "diff": 17.503197473674163,
+          "newRating": 1575.8462509859419,
+          "result": "W 70-68 vs New York Knicks on 1951-11-24"
+        },
+        {
+          "diff": 2.925631581473681,
+          "newRating": 1578.7718825674156,
+          "result": "W 103-85 vs Philadelphia Warriors on 1951-11-25"
+        },
+        {
+          "diff": -43.15964705589954,
+          "newRating": 1535.612235511516,
+          "result": "L 76-90 vs Minneapolis Lakers on 1951-11-28"
+        },
+        {
+          "diff": -56.67191900469879,
+          "newRating": 1478.9403165068172,
+          "result": "L 87-92 vs Indianapolis Olympians on 1951-11-30"
+        },
+        {
+          "diff": 8.328252353713879,
+          "newRating": 1487.268568860531,
+          "result": "W 103-82 vs Baltimore Bullets on 1951-12-02"
+        },
+        {
+          "diff": -50.157198405838244,
+          "newRating": 1437.1113704546929,
+          "result": "L 88-91 vs Fort Wayne Pistons on 1951-12-05"
+        },
+        {
+          "diff": 9.701470758263667,
+          "newRating": 1446.8128412129565,
+          "result": "W 103-94 vs New York Knicks on 1951-12-09"
+        },
+        {
+          "diff": -39.07642703056695,
+          "newRating": 1407.7364141823896,
+          "result": "L 78-79 vs Philadelphia Warriors on 1951-12-11"
+        },
+        {
+          "diff": 2.7806870097711,
+          "newRating": 1410.5171011921607,
+          "result": "W 89-84 vs Milwaukee Hawks on 1951-12-12"
+        },
+        {
+          "diff": 10.44112836414729,
+          "newRating": 1420.958229556308,
+          "result": "W 92-90 vs Philadelphia Warriors on 1951-12-16"
+        },
+        {
+          "diff": -33.697000268860165,
+          "newRating": 1387.2612292874478,
+          "result": "L 80-92 vs Baltimore Bullets on 1951-12-17"
+        },
+        {
+          "diff": 25.839500470055555,
+          "newRating": 1413.1007297575034,
+          "result": "W 103-97 vs Syracuse Nationals on 1951-12-19"
+        },
+        {
+          "diff": 6.413186449552768,
+          "newRating": 1419.5139162070561,
+          "result": "W 106-89 vs Baltimore Bullets on 1951-12-21"
+        },
+        {
+          "diff": 13.21960625705151,
+          "newRating": 1432.7335224641076,
+          "result": "W 91-88 vs Indianapolis Olympians on 1951-12-23"
+        },
+        {
+          "diff": -21.892512116026637,
+          "newRating": 1410.841010348081,
+          "result": "L 93-100 vs Minneapolis Lakers on 1951-12-25"
+        },
+        {
+          "diff": -28.685582525404243,
+          "newRating": 1382.1554278226768,
+          "result": "L 86-94 vs Fort Wayne Pistons on 1951-12-26"
+        },
+        {
+          "diff": 9.376953113041964,
+          "newRating": 1391.5323809357187,
+          "result": "W 100-90 vs New York Knicks on 1951-12-30"
+        },
+        {
+          "diff": -21.239915089114447,
+          "newRating": 1370.2924658466043,
+          "result": "L 86-87 vs New York Knicks on 1951-12-31"
+        },
+        {
+          "diff": -15.930680477930991,
+          "newRating": 1354.3617853686733,
+          "result": "L 91-106 vs Rochester Royals on 1952-01-01"
+        },
+        {
+          "diff": -11.863874577810293,
+          "newRating": 1342.497910790863,
+          "result": "L 81-107 vs Syracuse Nationals on 1952-01-03"
+        },
+        {
+          "diff": 6.2690652723651965,
+          "newRating": 1348.7669760632282,
+          "result": "W 94-73 vs Baltimore Bullets on 1952-01-05"
+        },
+        {
+          "diff": 13.084083759745681,
+          "newRating": 1361.8510598229739,
+          "result": "W 91-80 vs Rochester Royals on 1952-01-06"
+        },
+        {
+          "diff": 2.177446603038561,
+          "newRating": 1364.0285064260124,
+          "result": "W 83-76 vs Milwaukee Hawks on 1952-01-08"
+        },
+        {
+          "diff": 4.759434213121949,
+          "newRating": 1368.7879406391344,
+          "result": "W 94-85 vs Fort Wayne Pistons on 1952-01-10"
+        },
+        {
+          "diff": -14.461873283754358,
+          "newRating": 1354.32606735538,
+          "result": "L 79-100 vs Indianapolis Olympians on 1952-01-11"
+        },
+        {
+          "diff": -10.812384750817273,
+          "newRating": 1343.5136826045627,
+          "result": "L 94-108 vs Minneapolis Lakers on 1952-01-16"
+        },
+        {
+          "diff": 8.525238221239533,
+          "newRating": 1352.0389208258023,
+          "result": "W 117-98 vs Indianapolis Olympians on 1952-01-20"
+        },
+        {
+          "diff": 3.957070900697545,
+          "newRating": 1355.9959917264998,
+          "result": "W 117-75 vs Baltimore Bullets on 1952-01-23"
+        },
+        {
+          "diff": -14.640428380511594,
+          "newRating": 1341.3555633459882,
+          "result": "L 85-89 vs Philadelphia Warriors on 1952-01-26"
+        },
+        {
+          "diff": -7.269210765842445,
+          "newRating": 1334.0863525801458,
+          "result": "L 86-91 vs Syracuse Nationals on 1952-01-27"
+        },
+        {
+          "diff": -13.00163512956101,
+          "newRating": 1321.0847174505848,
+          "result": "L 96-97 vs Philadelphia Warriors on 1952-01-29"
+        },
+        {
+          "diff": 2.3972347316362175,
+          "newRating": 1323.481952182221,
+          "result": "W 100-77 vs Milwaukee Hawks on 1952-02-01"
+        },
+        {
+          "diff": -11.374355239625402,
+          "newRating": 1312.1075969425956,
+          "result": "L 83-91 vs New York Knicks on 1952-02-02"
+        },
+        {
+          "diff": 8.067643383623817,
+          "newRating": 1320.1752403262194,
+          "result": "W 100-95 vs New York Knicks on 1952-02-03"
+        },
+        {
+          "diff": 12.463699308684,
+          "newRating": 1332.6389396349034,
+          "result": "W 99-88 vs Syracuse Nationals on 1952-02-06"
+        },
+        {
+          "diff": -10.094091844040122,
+          "newRating": 1322.5448477908633,
+          "result": "L 100-104 vs Rochester Royals on 1952-02-09"
+        },
+        {
+          "diff": -9.380757848883604,
+          "newRating": 1313.1640899419797,
+          "result": "L 97-111 vs Rochester Royals on 1952-02-10"
+        },
+        {
+          "diff": -11.989347892573278,
+          "newRating": 1301.1747420494064,
+          "result": "L 90-94 vs Fort Wayne Pistons on 1952-02-14"
+        },
+        {
+          "diff": 9.593999653667652,
+          "newRating": 1310.768741703074,
+          "result": "W 77-75 vs Minneapolis Lakers on 1952-02-16"
+        },
+        {
+          "diff": -13.690656728571867,
+          "newRating": 1297.0780849745022,
+          "result": "L 95-97 vs Milwaukee Hawks on 1952-02-17"
+        },
+        {
+          "diff": 2.9321333055186187,
+          "newRating": 1300.0102182800208,
+          "result": "W 106-84 vs Milwaukee Hawks on 1952-02-18"
+        },
+        {
+          "diff": -9.047352533975982,
+          "newRating": 1290.9628657460448,
+          "result": "L 81-82 vs Indianapolis Olympians on 1952-02-19"
+        },
+        {
+          "diff": 5.267256438559571,
+          "newRating": 1296.2301221846044,
+          "result": "W 88-67 vs Fort Wayne Pistons on 1952-02-21"
+        },
+        {
+          "diff": 9.736526440098032,
+          "newRating": 1305.9666486247024,
+          "result": "W 77-75 vs Syracuse Nationals on 1952-02-24"
+        },
+        {
+          "diff": 9.17374037237596,
+          "newRating": 1315.1403889970784,
+          "result": "W 88-81 vs Syracuse Nationals on 1952-02-27"
+        },
+        {
+          "diff": 7.438630281471205,
+          "newRating": 1322.5790192785496,
+          "result": "W 91-72 vs Rochester Royals on 1952-02-28"
+        },
+        {
+          "diff": -7.97303006112179,
+          "newRating": 1314.6059892174278,
+          "result": "L 86-105 vs New York Knicks on 1952-03-01"
+        },
+        {
+          "diff": -7.519469040960985,
+          "newRating": 1307.0865201764668,
+          "result": "L 87-89 vs New York Knicks on 1952-03-02"
+        },
+        {
+          "diff": 3.4625664008592594,
+          "newRating": 1310.549086577326,
+          "result": "W 91-80 vs Baltimore Bullets on 1952-03-04"
+        },
+        {
+          "diff": 7.042928186130894,
+          "newRating": 1317.592014763457,
+          "result": "W 82-74 vs Minneapolis Lakers on 1952-03-05"
+        },
+        {
+          "diff": 3.1058787388217297,
+          "newRating": 1320.6978935022787,
+          "result": "W 100-77 vs Baltimore Bullets on 1952-03-08"
+        },
+        {
+          "diff": 2.9732974300145543,
+          "newRating": 1323.6711909322933,
+          "result": "W 89-72 vs Baltimore Bullets on 1952-03-09"
+        },
+        {
+          "diff": 5.2291106018947175,
+          "newRating": 1328.900301534188,
+          "result": "W 88-84 vs Philadelphia Warriors on 1952-03-11"
+        },
+        {
+          "diff": -5.565803071819573,
+          "newRating": 1323.3344984623684,
+          "result": "L 71-89 vs Syracuse Nationals on 1952-03-12"
+        },
+        {
+          "diff": -5.282483511241708,
+          "newRating": 1318.0520149511267,
+          "result": "L 70-89 vs Syracuse Nationals on 1952-03-13"
+        },
+        {
+          "diff": 6.058687350592663,
+          "newRating": 1324.1107023017194,
+          "result": "W 118-106 vs Rochester Royals on 1952-03-15"
+        },
+        {
+          "diff": 4.906980136529228,
+          "newRating": 1329.0176824382486,
+          "result": "W 96-89 vs Philadelphia Warriors on 1952-03-16"
+        }
+      ]
+    },
+    {
+      "team": "Minneapolis Lakers",
+      "rating": 1325.3086299861695,
+      "wins": 40,
+      "losses": 26,
+      "log": [
+        {
+          "diff": 727.2727272727273,
+          "newRating": 1927.2727272727273,
+          "result": "W 93-74 vs Rochester Royals on 1951-11-03"
+        },
+        {
+          "diff": -347.224902275432,
+          "newRating": 1580.0478249972953,
+          "result": "L 67-98 vs Syracuse Nationals on 1951-11-04"
+        },
+        {
+          "diff": -261.6537687459586,
+          "newRating": 1318.3940562513367,
+          "result": "L 86-98 vs Philadelphia Warriors on 1951-11-09"
+        },
+        {
+          "diff": 87.72493404510692,
+          "newRating": 1406.1189902964436,
+          "result": "W 89-73 vs New York Knicks on 1951-11-10"
+        },
+        {
+          "diff": -24.79010591589713,
+          "newRating": 1381.3288843805465,
+          "result": "L 72-77 vs Boston Celtics on 1951-11-11"
+        },
+        {
+          "diff": 37.11619877840144,
+          "newRating": 1418.445083158948,
+          "result": "W 90-80 vs Baltimore Bullets on 1951-11-12"
+        },
+        {
+          "diff": 9.114774173126307,
+          "newRating": 1427.5598573320742,
+          "result": "W 77-71 vs Indianapolis Olympians on 1951-11-13"
+        },
+        {
+          "diff": 5.1976434858836456,
+          "newRating": 1432.7575008179579,
+          "result": "W 68-64 vs Fort Wayne Pistons on 1951-11-17"
+        },
+        {
+          "diff": 29.486274863322933,
+          "newRating": 1462.2437756812808,
+          "result": "W 70-65 vs Rochester Royals on 1951-11-22"
+        },
+        {
+          "diff": 2.307384462663549,
+          "newRating": 1464.5511601439443,
+          "result": "W 72-59 vs Milwaukee Hawks on 1951-11-24"
+        },
+        {
+          "diff": 8.668596468375881,
+          "newRating": 1473.2197566123202,
+          "result": "W 82-73 vs Indianapolis Olympians on 1951-11-25"
+        },
+        {
+          "diff": 43.15964705589954,
+          "newRating": 1516.3794036682198,
+          "result": "W 90-76 vs Boston Celtics on 1951-11-28"
+        },
+        {
+          "diff": 2.38781818508005,
+          "newRating": 1518.7672218532998,
+          "result": "W 89-69 vs Fort Wayne Pistons on 1951-12-01"
+        },
+        {
+          "diff": -54.98140836445441,
+          "newRating": 1463.7858134888454,
+          "result": "L 61-63 vs Fort Wayne Pistons on 1951-12-02"
+        },
+        {
+          "diff": -19.719259497973553,
+          "newRating": 1444.0665539908719,
+          "result": "L 81-83 vs Syracuse Nationals on 1951-12-05"
+        },
+        {
+          "diff": 6.990140603685859,
+          "newRating": 1451.0566945945577,
+          "result": "W 85-64 vs Baltimore Bullets on 1951-12-08"
+        },
+        {
+          "diff": -36.09104468444457,
+          "newRating": 1414.9656499101131,
+          "result": "L 78-85 vs Indianapolis Olympians on 1951-12-09"
+        },
+        {
+          "diff": -30.43219780532172,
+          "newRating": 1384.5334521047914,
+          "result": "L 69-85 vs Indianapolis Olympians on 1951-12-11"
+        },
+        {
+          "diff": 8.063683985211128,
+          "newRating": 1392.5971360900026,
+          "result": "W 99-79 vs Baltimore Bullets on 1951-12-12"
+        },
+        {
+          "diff": 2.6629575791916977,
+          "newRating": 1395.2600936691942,
+          "result": "W 99-52 vs Milwaukee Hawks on 1951-12-16"
+        },
+        {
+          "diff": -29.23265398425451,
+          "newRating": 1366.0274396849397,
+          "result": "L 67-69 vs New York Knicks on 1951-12-18"
+        },
+        {
+          "diff": -25.224914599643625,
+          "newRating": 1340.802525085296,
+          "result": "L 103-105 vs Philadelphia Warriors on 1951-12-21"
+        },
+        {
+          "diff": 8.308760139440437,
+          "newRating": 1349.1112852247365,
+          "result": "W 96-90 vs Baltimore Bullets on 1951-12-22"
+        },
+        {
+          "diff": -29.113122633586272,
+          "newRating": 1319.9981625911503,
+          "result": "L 79-81 vs Fort Wayne Pistons on 1951-12-23"
+        },
+        {
+          "diff": 21.016811631385508,
+          "newRating": 1341.0149742225358,
+          "result": "W 100-93 vs Boston Celtics on 1951-12-25"
+        },
+        {
+          "diff": 10.220395029101155,
+          "newRating": 1351.235369251637,
+          "result": "W 93-64 vs Philadelphia Warriors on 1951-12-30"
+        },
+        {
+          "diff": 17.699290860770816,
+          "newRating": 1368.9346601124078,
+          "result": "W 82-80 vs Syracuse Nationals on 1952-01-01"
+        },
+        {
+          "diff": 5.125405010076975,
+          "newRating": 1374.0600651224847,
+          "result": "W 79-64 vs Fort Wayne Pistons on 1952-01-04"
+        },
+        {
+          "diff": 11.391901035556657,
+          "newRating": 1385.4519661580414,
+          "result": "W 86-65 vs Indianapolis Olympians on 1952-01-05"
+        },
+        {
+          "diff": 8.290063796447384,
+          "newRating": 1393.7420299544888,
+          "result": "W 107-92 vs New York Knicks on 1952-01-06"
+        },
+        {
+          "diff": -16.97711233662949,
+          "newRating": 1376.7649176178593,
+          "result": "L 75-82 vs Indianapolis Olympians on 1952-01-08"
+        },
+        {
+          "diff": 9.703887775238627,
+          "newRating": 1386.468805393098,
+          "result": "W 91-74 vs Indianapolis Olympians on 1952-01-09"
+        },
+        {
+          "diff": 1.8324676512274891,
+          "newRating": 1388.3012730443254,
+          "result": "W 75-63 vs Milwaukee Hawks on 1952-01-11"
+        },
+        {
+          "diff": 1.744194299269111,
+          "newRating": 1390.0454673435945,
+          "result": "W 96-84 vs Milwaukee Hawks on 1952-01-12"
+        },
+        {
+          "diff": -16.968763518011883,
+          "newRating": 1373.0767038255826,
+          "result": "L 81-88 vs Philadelphia Warriors on 1952-01-13"
+        },
+        {
+          "diff": 10.5120407299612,
+          "newRating": 1383.5887445555438,
+          "result": "W 108-94 vs Boston Celtics on 1952-01-16"
+        },
+        {
+          "diff": -9.121974213987869,
+          "newRating": 1374.466770341556,
+          "result": "L 105-110 vs Syracuse Nationals on 1952-01-17"
+        },
+        {
+          "diff": -12.729315628869472,
+          "newRating": 1361.7374547126865,
+          "result": "L 85-96 vs Rochester Royals on 1952-01-19"
+        },
+        {
+          "diff": 8.858878170648268,
+          "newRating": 1370.5963328833348,
+          "result": "W 91-81 vs Rochester Royals on 1952-01-20"
+        },
+        {
+          "diff": -7.698954230382469,
+          "newRating": 1362.8973786529523,
+          "result": "L 97-99 vs Syracuse Nationals on 1952-01-23"
+        },
+        {
+          "diff": 1.9864681987542099,
+          "newRating": 1364.8838468517065,
+          "result": "W 57-56 vs Milwaukee Hawks on 1952-01-26"
+        },
+        {
+          "diff": 1.8996985716621566,
+          "newRating": 1366.7835454233687,
+          "result": "W 91-62 vs Milwaukee Hawks on 1952-01-27"
+        },
+        {
+          "diff": 6.567185142787139,
+          "newRating": 1373.3507305661558,
+          "result": "W 77-65 vs New York Knicks on 1952-01-30"
+        },
+        {
+          "diff": 4.353386325707788,
+          "newRating": 1377.7041168918636,
+          "result": "W 85-78 vs Fort Wayne Pistons on 1952-01-31"
+        },
+        {
+          "diff": -11.980703736340956,
+          "newRating": 1365.7234131555226,
+          "result": "L 77-85 vs Indianapolis Olympians on 1952-02-01"
+        },
+        {
+          "diff": 7.057489397197742,
+          "newRating": 1372.7809025527204,
+          "result": "W 77-75 vs Rochester Royals on 1952-02-03"
+        },
+        {
+          "diff": 6.569109152110059,
+          "newRating": 1379.3500117048304,
+          "result": "W 86-75 vs Rochester Royals on 1952-02-07"
+        },
+        {
+          "diff": -12.89629615292597,
+          "newRating": 1366.4537155519045,
+          "result": "L 67-70 vs Fort Wayne Pistons on 1952-02-09"
+        },
+        {
+          "diff": -14.443731137868099,
+          "newRating": 1352.0099844140364,
+          "result": "L 69-70 vs Milwaukee Hawks on 1952-02-10"
+        },
+        {
+          "diff": 2.131352367876616,
+          "newRating": 1354.141336781913,
+          "result": "W 109-74 vs Milwaukee Hawks on 1952-02-14"
+        },
+        {
+          "diff": -9.029646732863512,
+          "newRating": 1345.1116900490495,
+          "result": "L 75-77 vs Boston Celtics on 1952-02-16"
+        },
+        {
+          "diff": -11.215948180677742,
+          "newRating": 1333.8957418683717,
+          "result": "L 87-99 vs Fort Wayne Pistons on 1952-02-17"
+        },
+        {
+          "diff": -8.861308207085813,
+          "newRating": 1325.034433661286,
+          "result": "L 96-98 vs New York Knicks on 1952-02-19"
+        },
+        {
+          "diff": 3.1665427619973343,
+          "newRating": 1328.2009764232832,
+          "result": "W 93-78 vs Baltimore Bullets on 1952-02-20"
+        },
+        {
+          "diff": -5.650506959449331,
+          "newRating": 1322.550469463834,
+          "result": "L 80-88 vs Syracuse Nationals on 1952-02-21"
+        },
+        {
+          "diff": 7.194023816319486,
+          "newRating": 1329.7444932801534,
+          "result": "W 83-73 vs Rochester Royals on 1952-02-23"
+        },
+        {
+          "diff": -10.076158371492511,
+          "newRating": 1319.6683349086609,
+          "result": "L 70-83 vs Fort Wayne Pistons on 1952-02-24"
+        },
+        {
+          "diff": 5.354050246124643,
+          "newRating": 1325.0223851547855,
+          "result": "W 108-95 vs Philadelphia Warriors on 1952-02-25"
+        },
+        {
+          "diff": 5.327389932968572,
+          "newRating": 1330.349775087754,
+          "result": "W 98-88 vs Indianapolis Olympians on 1952-03-01"
+        },
+        {
+          "diff": 1.8770866750899131,
+          "newRating": 1332.226861762844,
+          "result": "W 96-85 vs Milwaukee Hawks on 1952-03-02"
+        },
+        {
+          "diff": -8.179401142371944,
+          "newRating": 1324.047460620472,
+          "result": "L 81-83 vs Philadelphia Warriors on 1952-03-04"
+        },
+        {
+          "diff": -6.702141338414776,
+          "newRating": 1317.3453192820573,
+          "result": "L 74-82 vs Boston Celtics on 1952-03-05"
+        },
+        {
+          "diff": -6.61006727466247,
+          "newRating": 1310.7352520073948,
+          "result": "L 92-94 vs Rochester Royals on 1952-03-08"
+        },
+        {
+          "diff": 6.23280459710918,
+          "newRating": 1316.968056604504,
+          "result": "W 96-90 vs Rochester Royals on 1952-03-09"
+        },
+        {
+          "diff": 5.637368897006809,
+          "newRating": 1322.6054255015108,
+          "result": "W 85-83 vs New York Knicks on 1952-03-12"
+        },
+        {
+          "diff": 2.703204484658727,
+          "newRating": 1325.3086299861695,
+          "result": "W 126-82 vs Baltimore Bullets on 1952-03-16"
+        }
+      ]
+    },
+    {
+      "team": "Rochester Royals",
+      "rating": 1306.7121950086039,
+      "wins": 41,
+      "losses": 25,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 101-97 vs Baltimore Bullets on 1951-11-01"
+        },
+        {
+          "diff": -363.6363636363635,
+          "newRating": 1236.3636363636365,
+          "result": "L 74-93 vs Minneapolis Lakers on 1951-11-03"
+        },
+        {
+          "diff": 63.459455195788905,
+          "newRating": 1299.8230915594254,
+          "result": "W 100-89 vs Indianapolis Olympians on 1951-11-10"
+        },
+        {
+          "diff": 68.83120129414738,
+          "newRating": 1368.6542928535728,
+          "result": "W 80-78 vs New York Knicks on 1951-11-11"
+        },
+        {
+          "diff": 9.457762870508759,
+          "newRating": 1378.1120557240815,
+          "result": "W 91-75 vs Milwaukee Hawks on 1951-11-13"
+        },
+        {
+          "diff": 18.453246993241237,
+          "newRating": 1396.5653027173228,
+          "result": "W 86-72 vs Philadelphia Warriors on 1951-11-17"
+        },
+        {
+          "diff": 6.834266408897065,
+          "newRating": 1403.3995691262198,
+          "result": "W 76-71 vs Fort Wayne Pistons on 1951-11-18"
+        },
+        {
+          "diff": -92.31632712057853,
+          "newRating": 1311.0832420056413,
+          "result": "L 65-69 vs Indianapolis Olympians on 1951-11-20"
+        },
+        {
+          "diff": -29.486274863322933,
+          "newRating": 1281.5969671423184,
+          "result": "L 65-70 vs Minneapolis Lakers on 1951-11-22"
+        },
+        {
+          "diff": 8.521164835158743,
+          "newRating": 1290.118131977477,
+          "result": "W 74-63 vs Fort Wayne Pistons on 1951-11-24"
+        },
+        {
+          "diff": -67.40635307970524,
+          "newRating": 1222.7117788977719,
+          "result": "L 73-75 vs Milwaukee Hawks on 1951-11-25"
+        },
+        {
+          "diff": 9.760594016737514,
+          "newRating": 1232.4723729145094,
+          "result": "W 77-73 vs Milwaukee Hawks on 1951-11-27"
+        },
+        {
+          "diff": 33.46308606396292,
+          "newRating": 1265.9354589784723,
+          "result": "W 78-74 vs New York Knicks on 1951-11-29"
+        },
+        {
+          "diff": 5.9652981240544705,
+          "newRating": 1271.9007571025268,
+          "result": "W 71-66 vs Milwaukee Hawks on 1951-12-01"
+        },
+        {
+          "diff": 48.09794209356346,
+          "newRating": 1319.9986991960902,
+          "result": "W 81-79 vs Syracuse Nationals on 1951-12-02"
+        },
+        {
+          "diff": 14.438393720877002,
+          "newRating": 1334.4370929169672,
+          "result": "W 77-70 vs Baltimore Bullets on 1951-12-03"
+        },
+        {
+          "diff": -36.99542908953413,
+          "newRating": 1297.441663827433,
+          "result": "L 80-96 vs Philadelphia Warriors on 1951-12-04"
+        },
+        {
+          "diff": -9.286882834981043,
+          "newRating": 1288.154780992452,
+          "result": "L 75-95 vs Syracuse Nationals on 1951-12-08"
+        },
+        {
+          "diff": -34.585305548718,
+          "newRating": 1253.569475443734,
+          "result": "L 84-86 vs Fort Wayne Pistons on 1951-12-09"
+        },
+        {
+          "diff": 24.03700793752364,
+          "newRating": 1277.6064833812577,
+          "result": "W 75-66 vs Indianapolis Olympians on 1951-12-15"
+        },
+        {
+          "diff": 11.954660424575877,
+          "newRating": 1289.5611438058336,
+          "result": "W 99-95 vs Baltimore Bullets on 1951-12-16"
+        },
+        {
+          "diff": 4.105796507158402,
+          "newRating": 1293.666940312992,
+          "result": "W 94-68 vs Milwaukee Hawks on 1951-12-18"
+        },
+        {
+          "diff": 5.951147667288524,
+          "newRating": 1299.6180879802805,
+          "result": "W 69-54 vs Fort Wayne Pistons on 1951-12-20"
+        },
+        {
+          "diff": 14.215988290342011,
+          "newRating": 1313.8340762706225,
+          "result": "W 105-89 vs Philadelphia Warriors on 1951-12-22"
+        },
+        {
+          "diff": 16.343674678835896,
+          "newRating": 1330.1777509494584,
+          "result": "W 87-78 vs Indianapolis Olympians on 1951-12-25"
+        },
+        {
+          "diff": 11.910584135064028,
+          "newRating": 1342.0883350845224,
+          "result": "W 98-85 vs New York Knicks on 1951-12-27"
+        },
+        {
+          "diff": 4.962490944858928,
+          "newRating": 1347.0508260293814,
+          "result": "W 75-61 vs Fort Wayne Pistons on 1951-12-29"
+        },
+        {
+          "diff": -16.94298031089511,
+          "newRating": 1330.1078457184863,
+          "result": "L 73-77 vs Indianapolis Olympians on 1951-12-31"
+        },
+        {
+          "diff": 15.381346668347078,
+          "newRating": 1345.4891923868333,
+          "result": "W 106-91 vs Boston Celtics on 1952-01-01"
+        },
+        {
+          "diff": 8.147930515770668,
+          "newRating": 1353.637122902604,
+          "result": "W 103-94 vs Philadelphia Warriors on 1952-01-05"
+        },
+        {
+          "diff": -13.084083759745681,
+          "newRating": 1340.5530391428583,
+          "result": "L 80-91 vs Boston Celtics on 1952-01-06"
+        },
+        {
+          "diff": -16.03211903763622,
+          "newRating": 1324.520920105222,
+          "result": "L 74-107 vs New York Knicks on 1952-01-08"
+        },
+        {
+          "diff": -16.62190706096908,
+          "newRating": 1307.899013044253,
+          "result": "L 83-85 vs Philadelphia Warriors on 1952-01-11"
+        },
+        {
+          "diff": -17.713384661934242,
+          "newRating": 1290.1856283823188,
+          "result": "L 76-88 vs Fort Wayne Pistons on 1952-01-12"
+        },
+        {
+          "diff": 10.47767214698024,
+          "newRating": 1300.663300529299,
+          "result": "W 97-70 vs New York Knicks on 1952-01-13"
+        },
+        {
+          "diff": 13.436499830473394,
+          "newRating": 1314.0998003597724,
+          "result": "W 96-85 vs Minneapolis Lakers on 1952-01-19"
+        },
+        {
+          "diff": -9.337736450142756,
+          "newRating": 1304.7620639096297,
+          "result": "L 81-91 vs Minneapolis Lakers on 1952-01-20"
+        },
+        {
+          "diff": 2.938603156441104,
+          "newRating": 1307.7006670660708,
+          "result": "W 78-76 vs Milwaukee Hawks on 1952-01-21"
+        },
+        {
+          "diff": -11.855970764994481,
+          "newRating": 1295.8446963010763,
+          "result": "L 65-68 vs Indianapolis Olympians on 1952-01-22"
+        },
+        {
+          "diff": -14.051907767806824,
+          "newRating": 1281.7927885332695,
+          "result": "L 90-94 vs Fort Wayne Pistons on 1952-01-24"
+        },
+        {
+          "diff": 6.316764420831305,
+          "newRating": 1288.1095529541008,
+          "result": "W 104-71 vs Fort Wayne Pistons on 1952-01-26"
+        },
+        {
+          "diff": 8.81865736344048,
+          "newRating": 1296.9282103175412,
+          "result": "W 102-95 vs Indianapolis Olympians on 1952-01-27"
+        },
+        {
+          "diff": 2.5510244634256196,
+          "newRating": 1299.4792347809669,
+          "result": "W 100-79 vs Milwaukee Hawks on 1952-02-02"
+        },
+        {
+          "diff": -7.378284369797484,
+          "newRating": 1292.1009504111694,
+          "result": "L 75-77 vs Minneapolis Lakers on 1952-02-03"
+        },
+        {
+          "diff": -6.86106955887044,
+          "newRating": 1285.239880852299,
+          "result": "L 75-86 vs Minneapolis Lakers on 1952-02-07"
+        },
+        {
+          "diff": 9.874655064821809,
+          "newRating": 1295.1145359171207,
+          "result": "W 104-100 vs Boston Celtics on 1952-02-09"
+        },
+        {
+          "diff": 9.181167256354229,
+          "newRating": 1304.295703173475,
+          "result": "W 111-97 vs Boston Celtics on 1952-02-10"
+        },
+        {
+          "diff": 6.195558562706765,
+          "newRating": 1310.4912617361817,
+          "result": "W 86-75 vs Philadelphia Warriors on 1952-02-12"
+        },
+        {
+          "diff": -12.56888909860254,
+          "newRating": 1297.9223726375792,
+          "result": "L 91-96 vs Baltimore Bullets on 1952-02-13"
+        },
+        {
+          "diff": 10.765153343671727,
+          "newRating": 1308.687525981251,
+          "result": "W 78-76 vs Syracuse Nationals on 1952-02-14"
+        },
+        {
+          "diff": 10.11276564551963,
+          "newRating": 1318.8002916267706,
+          "result": "W 92-84 vs Syracuse Nationals on 1952-02-16"
+        },
+        {
+          "diff": 6.239017649399557,
+          "newRating": 1325.0393092761701,
+          "result": "W 100-92 vs Indianapolis Olympians on 1952-02-17"
+        },
+        {
+          "diff": -7.601232711582952,
+          "newRating": 1317.4380765645872,
+          "result": "L 73-83 vs Minneapolis Lakers on 1952-02-23"
+        },
+        {
+          "diff": 3.4190071776645254,
+          "newRating": 1320.8570837422517,
+          "result": "W 124-100 vs Baltimore Bullets on 1952-02-24"
+        },
+        {
+          "diff": 2.210264169990751,
+          "newRating": 1323.0673479122424,
+          "result": "W 99-67 vs Milwaukee Hawks on 1952-02-26"
+        },
+        {
+          "diff": -7.305797597873607,
+          "newRating": 1315.7615503143688,
+          "result": "L 72-91 vs Boston Celtics on 1952-02-28"
+        },
+        {
+          "diff": 8.394068843264677,
+          "newRating": 1324.1556191576335,
+          "result": "W 98-83 vs Syracuse Nationals on 1952-03-01"
+        },
+        {
+          "diff": -5.8669923807560735,
+          "newRating": 1318.2886267768774,
+          "result": "L 72-76 vs Syracuse Nationals on 1952-03-02"
+        },
+        {
+          "diff": -10.463432029976275,
+          "newRating": 1307.8251947469012,
+          "result": "L 96-99 vs Baltimore Bullets on 1952-03-03"
+        },
+        {
+          "diff": -6.8747381776443035,
+          "newRating": 1300.9504565692569,
+          "result": "L 90-92 vs New York Knicks on 1952-03-04"
+        },
+        {
+          "diff": 2.112224583842817,
+          "newRating": 1303.0626811530997,
+          "result": "W 77-74 vs Milwaukee Hawks on 1952-03-06"
+        },
+        {
+          "diff": 6.716681262963448,
+          "newRating": 1309.7793624160631,
+          "result": "W 94-92 vs Minneapolis Lakers on 1952-03-08"
+        },
+        {
+          "diff": -6.331738003412511,
+          "newRating": 1303.4476244126506,
+          "result": "L 90-96 vs Minneapolis Lakers on 1952-03-09"
+        },
+        {
+          "diff": 5.309396998816965,
+          "newRating": 1308.7570214114676,
+          "result": "W 82-81 vs Indianapolis Olympians on 1952-03-11"
+        },
+        {
+          "diff": 3.9220626545381947,
+          "newRating": 1312.6790840660058,
+          "result": "W 86-84 vs Fort Wayne Pistons on 1952-03-13"
+        },
+        {
+          "diff": -5.966889057401886,
+          "newRating": 1306.7121950086039,
+          "result": "L 106-118 vs Boston Celtics on 1952-03-15"
+        }
+      ]
+    },
+    {
+      "team": "New York Knicks",
+      "rating": 1297.4206674955915,
+      "wins": 37,
+      "losses": 29,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 68-66 vs Milwaukee Hawks on 1951-11-03"
+        },
+        {
+          "diff": -396.781582255431,
+          "newRating": 1203.218417744569,
+          "result": "L 75-84 vs Fort Wayne Pistons on 1951-11-04"
+        },
+        {
+          "diff": 72.31153111149229,
+          "newRating": 1275.5299488560613,
+          "result": "W 83-73 vs Indianapolis Olympians on 1951-11-06"
+        },
+        {
+          "diff": -87.72493404510692,
+          "newRating": 1187.8050148109544,
+          "result": "L 73-89 vs Minneapolis Lakers on 1951-11-10"
+        },
+        {
+          "diff": -55.06496103531799,
+          "newRating": 1132.7400537756364,
+          "result": "L 78-80 vs Rochester Royals on 1951-11-11"
+        },
+        {
+          "diff": 69.11494266743443,
+          "newRating": 1201.8549964430708,
+          "result": "W 85-82 vs Philadelphia Warriors on 1951-11-13"
+        },
+        {
+          "diff": -3.934142069753534,
+          "newRating": 1197.9208543733173,
+          "result": "L 72-79 vs Syracuse Nationals on 1951-11-17"
+        },
+        {
+          "diff": 93.41112985650898,
+          "newRating": 1291.3319842298263,
+          "result": "W 93-92 vs Boston Celtics on 1951-11-18"
+        },
+        {
+          "diff": 30.521882594984163,
+          "newRating": 1321.8538668248104,
+          "result": "W 88-86 vs Baltimore Bullets on 1951-11-20"
+        },
+        {
+          "diff": 15.393024342544095,
+          "newRating": 1337.2468911673545,
+          "result": "W 102-88 vs Philadelphia Warriors on 1951-11-22"
+        },
+        {
+          "diff": -15.911997703340148,
+          "newRating": 1321.3348934640144,
+          "result": "L 68-70 vs Boston Celtics on 1951-11-24"
+        },
+        {
+          "diff": -6.451701750724624,
+          "newRating": 1314.8831917132898,
+          "result": "L 73-100 vs Syracuse Nationals on 1951-11-25"
+        },
+        {
+          "diff": -51.914651901194475,
+          "newRating": 1262.9685398120953,
+          "result": "L 81-83 vs Philadelphia Warriors on 1951-11-27"
+        },
+        {
+          "diff": -31.072865630822662,
+          "newRating": 1231.8956741812726,
+          "result": "L 74-78 vs Rochester Royals on 1951-11-29"
+        },
+        {
+          "diff": -34.10153734706205,
+          "newRating": 1197.7941368342106,
+          "result": "L 82-84 vs Baltimore Bullets on 1951-12-01"
+        },
+        {
+          "diff": 20.168140248138343,
+          "newRating": 1217.962277082349,
+          "result": "W 86-72 vs Philadelphia Warriors on 1951-12-02"
+        },
+        {
+          "diff": -28.231553501202598,
+          "newRating": 1189.7307235811463,
+          "result": "L 91-93 vs Philadelphia Warriors on 1951-12-07"
+        },
+        {
+          "diff": -8.623529562901012,
+          "newRating": 1181.1071940182453,
+          "result": "L 94-103 vs Boston Celtics on 1951-12-09"
+        },
+        {
+          "diff": 8.650660227684511,
+          "newRating": 1189.7578542459298,
+          "result": "W 88-83 vs Milwaukee Hawks on 1951-12-11"
+        },
+        {
+          "diff": -13.307874969421164,
+          "newRating": 1176.4499792765087,
+          "result": "L 79-83 vs Indianapolis Olympians on 1951-12-14"
+        },
+        {
+          "diff": 11.48696394826652,
+          "newRating": 1187.9369432247752,
+          "result": "W 80-71 vs Fort Wayne Pistons on 1951-12-16"
+        },
+        {
+          "diff": 27.903896984970288,
+          "newRating": 1215.8408402097455,
+          "result": "W 69-67 vs Minneapolis Lakers on 1951-12-18"
+        },
+        {
+          "diff": 28.924564254099323,
+          "newRating": 1244.7654044638448,
+          "result": "W 92-73 vs Syracuse Nationals on 1951-12-22"
+        },
+        {
+          "diff": 26.029360080091465,
+          "newRating": 1270.7947645439363,
+          "result": "W 75-72 vs Syracuse Nationals on 1951-12-23"
+        },
+        {
+          "diff": 6.784120745135397,
+          "newRating": 1277.5788852890716,
+          "result": "W 72-65 vs Fort Wayne Pistons on 1951-12-25"
+        },
+        {
+          "diff": -27.232119013542388,
+          "newRating": 1250.3467662755293,
+          "result": "L 76-78 vs Milwaukee Hawks on 1951-12-26"
+        },
+        {
+          "diff": -11.469451389320966,
+          "newRating": 1238.8773148862083,
+          "result": "L 85-98 vs Rochester Royals on 1951-12-27"
+        },
+        {
+          "diff": -8.707170747824648,
+          "newRating": 1230.1701441383836,
+          "result": "L 90-100 vs Boston Celtics on 1951-12-30"
+        },
+        {
+          "diff": 19.775093358830645,
+          "newRating": 1249.9452374972143,
+          "result": "W 87-86 vs Boston Celtics on 1951-12-31"
+        },
+        {
+          "diff": 4.2673326229253234,
+          "newRating": 1254.2125701201396,
+          "result": "W 68-65 vs Milwaukee Hawks on 1952-01-01"
+        },
+        {
+          "diff": 3.9620880467375628,
+          "newRating": 1258.1746581668772,
+          "result": "W 89-67 vs Milwaukee Hawks on 1952-01-02"
+        },
+        {
+          "diff": -11.00563495682627,
+          "newRating": 1247.169023210051,
+          "result": "L 73-83 vs Indianapolis Olympians on 1952-01-04"
+        },
+        {
+          "diff": -7.5364216331340685,
+          "newRating": 1239.6326015769168,
+          "result": "L 92-107 vs Minneapolis Lakers on 1952-01-06"
+        },
+        {
+          "diff": 15.08905321189286,
+          "newRating": 1254.7216547888097,
+          "result": "W 107-74 vs Rochester Royals on 1952-01-08"
+        },
+        {
+          "diff": -6.356899419234878,
+          "newRating": 1248.3647553695748,
+          "result": "L 96-110 vs Syracuse Nationals on 1952-01-10"
+        },
+        {
+          "diff": 12.84596435236358,
+          "newRating": 1261.2107197219384,
+          "result": "W 86-77 vs Indianapolis Olympians on 1952-01-12"
+        },
+        {
+          "diff": -9.911311490386652,
+          "newRating": 1251.2994082315518,
+          "result": "L 70-97 vs Rochester Royals on 1952-01-13"
+        },
+        {
+          "diff": 9.402438203852398,
+          "newRating": 1260.7018464354041,
+          "result": "W 94-88 vs Philadelphia Warriors on 1952-01-19"
+        },
+        {
+          "diff": 5.7780623657474735,
+          "newRating": 1266.4799088011516,
+          "result": "W 99-83 vs Baltimore Bullets on 1952-01-21"
+        },
+        {
+          "diff": 8.23213389142802,
+          "newRating": 1274.7120426925796,
+          "result": "W 82-78 vs Philadelphia Warriors on 1952-01-22"
+        },
+        {
+          "diff": 9.680460204900555,
+          "newRating": 1284.3925028974802,
+          "result": "W 99-93 vs Indianapolis Olympians on 1952-01-26"
+        },
+        {
+          "diff": -13.093328928177698,
+          "newRating": 1271.2991739693025,
+          "result": "L 92-100 vs Fort Wayne Pistons on 1952-01-27"
+        },
+        {
+          "diff": -9.77795416517597,
+          "newRating": 1261.5212198041265,
+          "result": "L 72-100 vs Indianapolis Olympians on 1952-01-29"
+        },
+        {
+          "diff": -6.417930934996548,
+          "newRating": 1255.10328886913,
+          "result": "L 65-77 vs Minneapolis Lakers on 1952-01-30"
+        },
+        {
+          "diff": 10.616064890317148,
+          "newRating": 1265.7193537594471,
+          "result": "W 91-83 vs Boston Celtics on 1952-02-02"
+        },
+        {
+          "diff": -7.541492728169942,
+          "newRating": 1258.1778610312772,
+          "result": "L 95-100 vs Boston Celtics on 1952-02-03"
+        },
+        {
+          "diff": -12.6917917071778,
+          "newRating": 1245.4860693240994,
+          "result": "L 81-82 vs Baltimore Bullets on 1952-02-04"
+        },
+        {
+          "diff": 4.734350261000827,
+          "newRating": 1250.2204195851002,
+          "result": "W 73-70 vs Baltimore Bullets on 1952-02-06"
+        },
+        {
+          "diff": 4.4530148817300415,
+          "newRating": 1254.6734344668303,
+          "result": "W 103-83 vs Baltimore Bullets on 1952-02-08"
+        },
+        {
+          "diff": 7.310670460228039,
+          "newRating": 1261.9841049270583,
+          "result": "W 96-86 vs Philadelphia Warriors on 1952-02-09"
+        },
+        {
+          "diff": 11.461272586456971,
+          "newRating": 1273.4453775135153,
+          "result": "W 78-69 vs Syracuse Nationals on 1952-02-12"
+        },
+        {
+          "diff": 4.290813875108142,
+          "newRating": 1277.7361913886234,
+          "result": "W 102-82 vs Baltimore Bullets on 1952-02-16"
+        },
+        {
+          "diff": -4.959860037676663,
+          "newRating": 1272.7763313509467,
+          "result": "L 61-66 vs Syracuse Nationals on 1952-02-17"
+        },
+        {
+          "diff": 8.69720990695464,
+          "newRating": 1281.4735412579014,
+          "result": "W 98-96 vs Minneapolis Lakers on 1952-02-19"
+        },
+        {
+          "diff": -8.371897337175142,
+          "newRating": 1273.1016439207262,
+          "result": "L 95-118 vs Philadelphia Warriors on 1952-02-22"
+        },
+        {
+          "diff": 5.132236129055173,
+          "newRating": 1278.2338800497814,
+          "result": "W 82-77 vs Fort Wayne Pistons on 1952-02-23"
+        },
+        {
+          "diff": 3.781404786221401,
+          "newRating": 1282.0152848360028,
+          "result": "W 89-84 vs Baltimore Bullets on 1952-02-25"
+        },
+        {
+          "diff": 7.698097990048609,
+          "newRating": 1289.7133828260514,
+          "result": "W 105-86 vs Boston Celtics on 1952-03-01"
+        },
+        {
+          "diff": 7.2645717853351925,
+          "newRating": 1296.9779546113866,
+          "result": "W 89-87 vs Boston Celtics on 1952-03-02"
+        },
+        {
+          "diff": 6.8747381776443035,
+          "newRating": 1303.852692789031,
+          "result": "W 92-90 vs Rochester Royals on 1952-03-04"
+        },
+        {
+          "diff": 3.290668015371466,
+          "newRating": 1307.1433608044024,
+          "result": "W 88-82 vs Baltimore Bullets on 1952-03-05"
+        },
+        {
+          "diff": -10.814974760946825,
+          "newRating": 1296.3283860434556,
+          "result": "L 99-103 vs Milwaukee Hawks on 1952-03-08"
+        },
+        {
+          "diff": -8.588503908521034,
+          "newRating": 1287.7398821349345,
+          "result": "L 79-80 vs Fort Wayne Pistons on 1952-03-09"
+        },
+        {
+          "diff": -5.725452786022515,
+          "newRating": 1282.014429348912,
+          "result": "L 83-85 vs Minneapolis Lakers on 1952-03-12"
+        },
+        {
+          "diff": 7.891137692552775,
+          "newRating": 1289.9055670414648,
+          "result": "W 97-90 vs Syracuse Nationals on 1952-03-15"
+        },
+        {
+          "diff": 7.515100454126696,
+          "newRating": 1297.4206674955915,
+          "result": "W 90-84 vs Syracuse Nationals on 1952-03-16"
+        }
+      ]
+    },
+    {
+      "team": "Philadelphia Warriors",
+      "rating": 1252.2534007042732,
+      "wins": 33,
+      "losses": 33,
+      "log": [
+        {
+          "diff": 72.72727272727275,
+          "newRating": 1272.7272727272727,
+          "result": "W 70-69 vs Fort Wayne Pistons on 1951-11-03"
+        },
+        {
+          "diff": -379.73470112446694,
+          "newRating": 892.9925716028058,
+          "result": "L 90-96 vs Baltimore Bullets on 1951-11-05"
+        },
+        {
+          "diff": 261.6537687459588,
+          "newRating": 1154.6463403487646,
+          "result": "W 98-86 vs Minneapolis Lakers on 1951-11-09"
+        },
+        {
+          "diff": -9.141272855185207,
+          "newRating": 1145.5050674935794,
+          "result": "L 69-83 vs Boston Celtics on 1951-11-10"
+        },
+        {
+          "diff": -82.93793120092118,
+          "newRating": 1062.5671362926582,
+          "result": "L 82-85 vs New York Knicks on 1951-11-13"
+        },
+        {
+          "diff": -2.1238639955745384,
+          "newRating": 1060.4432722970837,
+          "result": "L 90-97 vs Syracuse Nationals on 1951-11-16"
+        },
+        {
+          "diff": -15.817068851349632,
+          "newRating": 1044.626203445734,
+          "result": "L 72-86 vs Rochester Royals on 1951-11-17"
+        },
+        {
+          "diff": 28.045481212318464,
+          "newRating": 1072.6716846580525,
+          "result": "W 80-64 vs Milwaukee Hawks on 1951-11-20"
+        },
+        {
+          "diff": -17.1033603806045,
+          "newRating": 1055.568324277448,
+          "result": "L 88-102 vs New York Knicks on 1951-11-22"
+        },
+        {
+          "diff": -4.306112876091902,
+          "newRating": 1051.2622114013561,
+          "result": "L 100-102 vs Boston Celtics on 1951-11-23"
+        },
+        {
+          "diff": -26.474359706829773,
+          "newRating": 1024.7878516945264,
+          "result": "L 74-81 vs Baltimore Bullets on 1951-11-24"
+        },
+        {
+          "diff": -2.6818289496842453,
+          "newRating": 1022.1060227448421,
+          "result": "L 85-103 vs Boston Celtics on 1951-11-25"
+        },
+        {
+          "diff": 51.91465190119459,
+          "newRating": 1074.0206746460367,
+          "result": "W 83-81 vs New York Knicks on 1951-11-27"
+        },
+        {
+          "diff": 55.76767183771358,
+          "newRating": 1129.7883464837503,
+          "result": "W 82-75 vs Syracuse Nationals on 1951-11-30"
+        },
+        {
+          "diff": -21.512682931347626,
+          "newRating": 1108.2756635524026,
+          "result": "L 72-86 vs New York Knicks on 1951-12-02"
+        },
+        {
+          "diff": 39.30764340762994,
+          "newRating": 1147.5833069600326,
+          "result": "W 96-80 vs Rochester Royals on 1951-12-04"
+        },
+        {
+          "diff": 28.231553501202598,
+          "newRating": 1175.8148604612352,
+          "result": "W 93-91 vs New York Knicks on 1951-12-07"
+        },
+        {
+          "diff": -4.914639590361048,
+          "newRating": 1170.9002208708741,
+          "result": "L 74-93 vs Syracuse Nationals on 1951-12-09"
+        },
+        {
+          "diff": 34.96311892208632,
+          "newRating": 1205.8633397929605,
+          "result": "W 79-78 vs Boston Celtics on 1951-12-11"
+        },
+        {
+          "diff": 11.925685158508031,
+          "newRating": 1217.7890249514685,
+          "result": "W 72-62 vs Fort Wayne Pistons on 1951-12-14"
+        },
+        {
+          "diff": -9.44673518660943,
+          "newRating": 1208.342289764859,
+          "result": "L 90-92 vs Boston Celtics on 1951-12-16"
+        },
+        {
+          "diff": 15.687410393305981,
+          "newRating": 1224.029700158165,
+          "result": "W 82-78 vs Baltimore Bullets on 1951-12-18"
+        },
+        {
+          "diff": 24.128179182267786,
+          "newRating": 1248.1578793404328,
+          "result": "W 105-103 vs Minneapolis Lakers on 1951-12-21"
+        },
+        {
+          "diff": -14.215988290342011,
+          "newRating": 1233.9418910500908,
+          "result": "L 89-105 vs Rochester Royals on 1951-12-22"
+        },
+        {
+          "diff": -20.570868893539682,
+          "newRating": 1213.3710221565511,
+          "result": "L 99-103 vs Baltimore Bullets on 1951-12-26"
+        },
+        {
+          "diff": 6.316136664365331,
+          "newRating": 1219.6871588209165,
+          "result": "W 68-61 vs Milwaukee Hawks on 1951-12-29"
+        },
+        {
+          "diff": -9.841861879875296,
+          "newRating": 1209.8452969410412,
+          "result": "L 64-93 vs Minneapolis Lakers on 1951-12-30"
+        },
+        {
+          "diff": -19.138692011199055,
+          "newRating": 1190.7066049298421,
+          "result": "L 74-89 vs Fort Wayne Pistons on 1952-01-01"
+        },
+        {
+          "diff": 12.156976541318045,
+          "newRating": 1202.8635814711602,
+          "result": "W 92-79 vs Baltimore Bullets on 1952-01-04"
+        },
+        {
+          "diff": -8.147930515770668,
+          "newRating": 1194.7156509553895,
+          "result": "L 94-103 vs Rochester Royals on 1952-01-05"
+        },
+        {
+          "diff": -5.673292087107029,
+          "newRating": 1189.0423588682825,
+          "result": "L 93-98 vs Syracuse Nationals on 1952-01-06"
+        },
+        {
+          "diff": 17.141341656624263,
+          "newRating": 1206.1837005249067,
+          "result": "W 85-83 vs Rochester Royals on 1952-01-11"
+        },
+        {
+          "diff": 17.9971734281944,
+          "newRating": 1224.1808739531011,
+          "result": "W 88-81 vs Minneapolis Lakers on 1952-01-13"
+        },
+        {
+          "diff": -9.829999403765669,
+          "newRating": 1214.3508745493355,
+          "result": "L 68-101 vs Indianapolis Olympians on 1952-01-15"
+        },
+        {
+          "diff": -14.25380988947586,
+          "newRating": 1200.0970646598596,
+          "result": "L 78-82 vs Fort Wayne Pistons on 1952-01-17"
+        },
+        {
+          "diff": 13.965285064489763,
+          "newRating": 1214.0623497243494,
+          "result": "W 98-83 vs Indianapolis Olympians on 1952-01-18"
+        },
+        {
+          "diff": -9.656558155307948,
+          "newRating": 1204.4057915690414,
+          "result": "L 88-94 vs New York Knicks on 1952-01-19"
+        },
+        {
+          "diff": -8.665404096239854,
+          "newRating": 1195.7403874728016,
+          "result": "L 78-82 vs New York Knicks on 1952-01-22"
+        },
+        {
+          "diff": 16.83700104992863,
+          "newRating": 1212.5773885227302,
+          "result": "W 95-94 vs Syracuse Nationals on 1952-01-25"
+        },
+        {
+          "diff": 13.90840696148598,
+          "newRating": 1226.4857954842162,
+          "result": "W 89-85 vs Boston Celtics on 1952-01-26"
+        },
+        {
+          "diff": 12.684522077620613,
+          "newRating": 1239.1703175618368,
+          "result": "W 97-96 vs Boston Celtics on 1952-01-29"
+        },
+        {
+          "diff": 5.579773051415941,
+          "newRating": 1244.7500906132527,
+          "result": "W 81-79 vs Baltimore Bullets on 1952-02-01"
+        },
+        {
+          "diff": -15.355582160950235,
+          "newRating": 1229.3945084523025,
+          "result": "L 73-83 vs Milwaukee Hawks on 1952-02-03"
+        },
+        {
+          "diff": -8.48182025074152,
+          "newRating": 1220.912688201561,
+          "result": "L 85-94 vs Indianapolis Olympians on 1952-02-05"
+        },
+        {
+          "diff": 7.668449576527337,
+          "newRating": 1228.5811377780883,
+          "result": "W 105-91 vs Fort Wayne Pistons on 1952-02-07"
+        },
+        {
+          "diff": -3.91932737144748,
+          "newRating": 1224.6618104066408,
+          "result": "L 87-96 vs Syracuse Nationals on 1952-02-08"
+        },
+        {
+          "diff": -7.777309000242667,
+          "newRating": 1216.8845014063982,
+          "result": "L 86-96 vs New York Knicks on 1952-02-09"
+        },
+        {
+          "diff": -3.753668967123758,
+          "newRating": 1213.1308324392744,
+          "result": "L 84-91 vs Syracuse Nationals on 1952-02-10"
+        },
+        {
+          "diff": -6.069118592039331,
+          "newRating": 1207.061713847235,
+          "result": "L 75-86 vs Rochester Royals on 1952-02-12"
+        },
+        {
+          "diff": 9.237581952065511,
+          "newRating": 1216.2992957993006,
+          "result": "W 112-91 vs Indianapolis Olympians on 1952-02-15"
+        },
+        {
+          "diff": 5.393898456871966,
+          "newRating": 1221.6931942561725,
+          "result": "W 90-83 vs Baltimore Bullets on 1952-02-17"
+        },
+        {
+          "diff": 6.8649801711912914,
+          "newRating": 1228.5581744273638,
+          "result": "W 98-80 vs Fort Wayne Pistons on 1952-02-19"
+        },
+        {
+          "diff": 8.68781799140811,
+          "newRating": 1237.245992418772,
+          "result": "W 118-95 vs New York Knicks on 1952-02-22"
+        },
+        {
+          "diff": 3.3778296033328843,
+          "newRating": 1240.6238220221048,
+          "result": "W 76-71 vs Milwaukee Hawks on 1952-02-24"
+        },
+        {
+          "diff": -5.646089350458624,
+          "newRating": 1234.9777326716462,
+          "result": "L 95-108 vs Minneapolis Lakers on 1952-02-25"
+        },
+        {
+          "diff": 7.7370283326586105,
+          "newRating": 1242.7147610043048,
+          "result": "W 88-86 vs Indianapolis Olympians on 1952-02-26"
+        },
+        {
+          "diff": 7.295339759077024,
+          "newRating": 1250.0101007633818,
+          "result": "W 97-89 vs Indianapolis Olympians on 1952-02-27"
+        },
+        {
+          "diff": 4.10922378474379,
+          "newRating": 1254.1193245481256,
+          "result": "W 103-86 vs Baltimore Bullets on 1952-02-29"
+        },
+        {
+          "diff": -9.653779089203908,
+          "newRating": 1244.4655454589217,
+          "result": "L 77-90 vs Baltimore Bullets on 1952-03-01"
+        },
+        {
+          "diff": 8.3157244947447,
+          "newRating": 1252.7812699536664,
+          "result": "W 83-81 vs Minneapolis Lakers on 1952-03-04"
+        },
+        {
+          "diff": 8.794104090216706,
+          "newRating": 1261.5753740438831,
+          "result": "W 92-83 vs Syracuse Nationals on 1952-03-08"
+        },
+        {
+          "diff": -4.544377836141166,
+          "newRating": 1257.030996207742,
+          "result": "L 82-99 vs Syracuse Nationals on 1952-03-09"
+        },
+        {
+          "diff": -5.146108846309062,
+          "newRating": 1251.884887361433,
+          "result": "L 84-88 vs Boston Celtics on 1952-03-11"
+        },
+        {
+          "diff": 2.6901021141366073,
+          "newRating": 1254.5749894755695,
+          "result": "W 85-82 vs Milwaukee Hawks on 1952-03-14"
+        },
+        {
+          "diff": 2.5853913652329084,
+          "newRating": 1257.1603808408024,
+          "result": "W 105-86 vs Milwaukee Hawks on 1952-03-15"
+        },
+        {
+          "diff": -4.906980136529228,
+          "newRating": 1252.2534007042732,
+          "result": "L 89-96 vs Boston Celtics on 1952-03-16"
+        }
+      ]
+    },
+    {
+      "team": "Indianapolis Olympians",
+      "rating": 1241.9402598710483,
+      "wins": 34,
+      "losses": 32,
+      "log": [
+        {
+          "diff": 72.72727272727275,
+          "newRating": 1272.7272727272727,
+          "result": "W 90-86 vs Baltimore Bullets on 1951-11-03"
+        },
+        {
+          "diff": -241.2642403511859,
+          "newRating": 1031.4630323760869,
+          "result": "L 65-97 vs Boston Celtics on 1951-11-04"
+        },
+        {
+          "diff": -72.31153111149229,
+          "newRating": 959.1515012645946,
+          "result": "L 73-83 vs New York Knicks on 1951-11-06"
+        },
+        {
+          "diff": 75.03502433405265,
+          "newRating": 1034.1865255986472,
+          "result": "W 92-77 vs Fort Wayne Pistons on 1951-11-09"
+        },
+        {
+          "diff": -38.07567311747334,
+          "newRating": 996.1108524811739,
+          "result": "L 89-100 vs Rochester Royals on 1951-11-10"
+        },
+        {
+          "diff": -2.525706510525879,
+          "newRating": 993.585145970648,
+          "result": "L 79-93 vs Syracuse Nationals on 1951-11-11"
+        },
+        {
+          "diff": -9.114774173126307,
+          "newRating": 984.4703717975217,
+          "result": "L 71-77 vs Minneapolis Lakers on 1951-11-13"
+        },
+        {
+          "diff": -65.11098991490996,
+          "newRating": 919.3593818826117,
+          "result": "L 68-78 vs Milwaukee Hawks on 1951-11-16"
+        },
+        {
+          "diff": 52.156327148665696,
+          "newRating": 971.5157090312774,
+          "result": "W 68-58 vs Milwaukee Hawks on 1951-11-17"
+        },
+        {
+          "diff": 73.85306169646276,
+          "newRating": 1045.3687707277402,
+          "result": "W 69-65 vs Rochester Royals on 1951-11-20"
+        },
+        {
+          "diff": 71.73072007695146,
+          "newRating": 1117.0994908046916,
+          "result": "W 82-68 vs Syracuse Nationals on 1951-11-23"
+        },
+        {
+          "diff": -7.9462134293446525,
+          "newRating": 1109.153277375347,
+          "result": "L 73-82 vs Minneapolis Lakers on 1951-11-25"
+        },
+        {
+          "diff": 56.67191900469879,
+          "newRating": 1165.8251963800458,
+          "result": "W 92-87 vs Boston Celtics on 1951-11-30"
+        },
+        {
+          "diff": 9.539993444041329,
+          "newRating": 1175.365189824087,
+          "result": "W 80-71 vs Milwaukee Hawks on 1951-12-02"
+        },
+        {
+          "diff": 49.20015650166556,
+          "newRating": 1224.5653463257527,
+          "result": "W 83-77 vs Syracuse Nationals on 1951-12-04"
+        },
+        {
+          "diff": 19.579040860977784,
+          "newRating": 1244.1443871867305,
+          "result": "W 88-80 vs Baltimore Bullets on 1951-12-07"
+        },
+        {
+          "diff": 36.09104468444457,
+          "newRating": 1280.235431871175,
+          "result": "W 85-78 vs Minneapolis Lakers on 1951-12-09"
+        },
+        {
+          "diff": 30.43219780532172,
+          "newRating": 1310.6676296764967,
+          "result": "W 85-69 vs Minneapolis Lakers on 1951-12-11"
+        },
+        {
+          "diff": 14.00828944149589,
+          "newRating": 1324.6759191179926,
+          "result": "W 83-79 vs New York Knicks on 1951-12-14"
+        },
+        {
+          "diff": -24.03700793752364,
+          "newRating": 1300.638911180469,
+          "result": "L 66-75 vs Rochester Royals on 1951-12-15"
+        },
+        {
+          "diff": 30.637021190354517,
+          "newRating": 1331.2759323708235,
+          "result": "W 96-92 vs Syracuse Nationals on 1951-12-16"
+        },
+        {
+          "diff": 3.241699023433057,
+          "newRating": 1334.5176313942566,
+          "result": "W 69-64 vs Milwaukee Hawks on 1951-12-21"
+        },
+        {
+          "diff": -13.21960625705151,
+          "newRating": 1321.298025137205,
+          "result": "L 88-91 vs Boston Celtics on 1951-12-23"
+        },
+        {
+          "diff": -17.024661123787382,
+          "newRating": 1304.2733640134177,
+          "result": "L 78-87 vs Rochester Royals on 1951-12-25"
+        },
+        {
+          "diff": -22.6097544982847,
+          "newRating": 1281.663609515133,
+          "result": "L 65-75 vs Baltimore Bullets on 1951-12-29"
+        },
+        {
+          "diff": 18.246286488656324,
+          "newRating": 1299.9098960037893,
+          "result": "W 77-73 vs Rochester Royals on 1951-12-31"
+        },
+        {
+          "diff": 13.043715504386682,
+          "newRating": 1312.953611508176,
+          "result": "W 83-73 vs New York Knicks on 1952-01-04"
+        },
+        {
+          "diff": -11.79875464396946,
+          "newRating": 1301.1548568642065,
+          "result": "L 65-86 vs Minneapolis Lakers on 1952-01-05"
+        },
+        {
+          "diff": -20.98707371921023,
+          "newRating": 1280.1677831449963,
+          "result": "L 75-79 vs Fort Wayne Pistons on 1952-01-06"
+        },
+        {
+          "diff": 17.54301608118385,
+          "newRating": 1297.7107992261801,
+          "result": "W 82-75 vs Minneapolis Lakers on 1952-01-08"
+        },
+        {
+          "diff": -10.016916413149374,
+          "newRating": 1287.6938828130308,
+          "result": "L 74-91 vs Minneapolis Lakers on 1952-01-09"
+        },
+        {
+          "diff": 15.365740363988834,
+          "newRating": 1303.0596231770196,
+          "result": "W 100-79 vs Boston Celtics on 1952-01-11"
+        },
+        {
+          "diff": -14.01377929348746,
+          "newRating": 1289.0458438835321,
+          "result": "L 77-86 vs New York Knicks on 1952-01-12"
+        },
+        {
+          "diff": -7.2055911639336045,
+          "newRating": 1281.8402527195985,
+          "result": "L 85-103 vs Syracuse Nationals on 1952-01-13"
+        },
+        {
+          "diff": 9.549142277943929,
+          "newRating": 1291.3893949975425,
+          "result": "W 101-68 vs Philadelphia Warriors on 1952-01-15"
+        },
+        {
+          "diff": -13.965285064489763,
+          "newRating": 1277.4241099330527,
+          "result": "L 83-98 vs Philadelphia Warriors on 1952-01-18"
+        },
+        {
+          "diff": -16.277797378410014,
+          "newRating": 1261.1463125546427,
+          "result": "L 78-81 vs Baltimore Bullets on 1952-01-19"
+        },
+        {
+          "diff": -8.076541472753206,
+          "newRating": 1253.0697710818895,
+          "result": "L 98-117 vs Boston Celtics on 1952-01-20"
+        },
+        {
+          "diff": 11.855970764994481,
+          "newRating": 1264.925741846884,
+          "result": "W 68-65 vs Rochester Royals on 1952-01-22"
+        },
+        {
+          "diff": 7.092638193809535,
+          "newRating": 1272.0183800406935,
+          "result": "W 83-79 vs Fort Wayne Pistons on 1952-01-25"
+        },
+        {
+          "diff": -9.680460204900555,
+          "newRating": 1262.337919835793,
+          "result": "L 93-99 vs New York Knicks on 1952-01-26"
+        },
+        {
+          "diff": -8.81865736344048,
+          "newRating": 1253.5192624723525,
+          "result": "L 95-102 vs Rochester Royals on 1952-01-27"
+        },
+        {
+          "diff": 9.77795416517597,
+          "newRating": 1263.2972166375284,
+          "result": "W 100-72 vs New York Knicks on 1952-01-29"
+        },
+        {
+          "diff": -11.70249237968278,
+          "newRating": 1251.5947242578457,
+          "result": "L 77-81 vs Fort Wayne Pistons on 1952-01-30"
+        },
+        {
+          "diff": 11.980703736340956,
+          "newRating": 1263.5754279941866,
+          "result": "W 85-77 vs Minneapolis Lakers on 1952-02-01"
+        },
+        {
+          "diff": -10.867888697172475,
+          "newRating": 1252.7075392970141,
+          "result": "L 70-85 vs Fort Wayne Pistons on 1952-02-03"
+        },
+        {
+          "diff": 7.940427468779262,
+          "newRating": 1260.6479667657934,
+          "result": "W 94-85 vs Philadelphia Warriors on 1952-02-05"
+        },
+        {
+          "diff": 3.070568257375271,
+          "newRating": 1263.7185350231687,
+          "result": "W 80-76 vs Milwaukee Hawks on 1952-02-08"
+        },
+        {
+          "diff": -13.404403477459255,
+          "newRating": 1250.3141315457094,
+          "result": "L 83-90 vs Milwaukee Hawks on 1952-02-09"
+        },
+        {
+          "diff": 6.147314035821182,
+          "newRating": 1256.4614455815306,
+          "result": "W 80-78 vs Fort Wayne Pistons on 1952-02-12"
+        },
+        {
+          "diff": 4.782783971413664,
+          "newRating": 1261.2442295529443,
+          "result": "W 89-66 vs Baltimore Bullets on 1952-02-14"
+        },
+        {
+          "diff": -8.882290338524626,
+          "newRating": 1252.3619392144196,
+          "result": "L 91-112 vs Philadelphia Warriors on 1952-02-15"
+        },
+        {
+          "diff": -6.121300335260003,
+          "newRating": 1246.2406388791596,
+          "result": "L 92-100 vs Rochester Royals on 1952-02-17"
+        },
+        {
+          "diff": 8.544721837644147,
+          "newRating": 1254.7853607168038,
+          "result": "W 82-81 vs Boston Celtics on 1952-02-19"
+        },
+        {
+          "diff": 3.196939715446206,
+          "newRating": 1257.98230043225,
+          "result": "W 95-80 vs Milwaukee Hawks on 1952-02-20"
+        },
+        {
+          "diff": 3.0497987280614325,
+          "newRating": 1261.0320991603114,
+          "result": "W 82-73 vs Milwaukee Hawks on 1952-02-22"
+        },
+        {
+          "diff": 2.913642792894052,
+          "newRating": 1263.9457419532055,
+          "result": "W 86-59 vs Milwaukee Hawks on 1952-02-23"
+        },
+        {
+          "diff": -7.470234252222099,
+          "newRating": 1256.4755077009834,
+          "result": "L 86-88 vs Philadelphia Warriors on 1952-02-26"
+        },
+        {
+          "diff": -7.048040106227063,
+          "newRating": 1249.4274675947563,
+          "result": "L 89-97 vs Philadelphia Warriors on 1952-02-27"
+        },
+        {
+          "diff": -5.238600100752365,
+          "newRating": 1244.188867494004,
+          "result": "L 88-98 vs Minneapolis Lakers on 1952-03-01"
+        },
+        {
+          "diff": -7.787517948274626,
+          "newRating": 1236.4013495457293,
+          "result": "L 88-101 vs Fort Wayne Pistons on 1952-03-02"
+        },
+        {
+          "diff": 5.524888105019272,
+          "newRating": 1241.9262376507486,
+          "result": "W 86-68 vs Fort Wayne Pistons on 1952-03-04"
+        },
+        {
+          "diff": 8.833342089970984,
+          "newRating": 1250.7595797407196,
+          "result": "W 81-76 vs Syracuse Nationals on 1952-03-07"
+        },
+        {
+          "diff": -5.309396998816965,
+          "newRating": 1245.4501827419026,
+          "result": "L 81-82 vs Rochester Royals on 1952-03-11"
+        },
+        {
+          "diff": 3.8637722036507967,
+          "newRating": 1249.3139549455534,
+          "result": "W 103-87 vs Baltimore Bullets on 1952-03-14"
+        },
+        {
+          "diff": -7.373695074505122,
+          "newRating": 1241.9402598710483,
+          "result": "L 92-111 vs Fort Wayne Pistons on 1952-03-16"
+        }
+      ]
+    },
+    {
+      "team": "Fort Wayne Pistons",
+      "rating": 1180.2001934666873,
+      "wins": 29,
+      "losses": 37,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 75-90 vs Syracuse Nationals on 1951-11-01"
+        },
+        {
+          "diff": -36.363636363636374,
+          "newRating": 763.6363636363636,
+          "result": "L 69-70 vs Philadelphia Warriors on 1951-11-03"
+        },
+        {
+          "diff": 264.521054836954,
+          "newRating": 1028.1574184733176,
+          "result": "W 84-75 vs New York Knicks on 1951-11-04"
+        },
+        {
+          "diff": -157.61562970437194,
+          "newRating": 870.5417887689457,
+          "result": "L 62-65 vs Milwaukee Hawks on 1951-11-06"
+        },
+        {
+          "diff": -60.02801946724219,
+          "newRating": 810.5137693017035,
+          "result": "L 77-92 vs Indianapolis Olympians on 1951-11-09"
+        },
+        {
+          "diff": 113.66247219551474,
+          "newRating": 924.1762414972183,
+          "result": "W 74-59 vs Milwaukee Hawks on 1951-11-11"
+        },
+        {
+          "diff": -1.0214423668825248,
+          "newRating": 923.1547991303357,
+          "result": "L 91-98 vs Boston Celtics on 1951-11-14"
+        },
+        {
+          "diff": -5.197643485883532,
+          "newRating": 917.9571556444522,
+          "result": "L 64-68 vs Minneapolis Lakers on 1951-11-17"
+        },
+        {
+          "diff": -5.315540540253323,
+          "newRating": 912.6416151041989,
+          "result": "L 71-76 vs Rochester Royals on 1951-11-18"
+        },
+        {
+          "diff": -0.5160479866149217,
+          "newRating": 912.125567117584,
+          "result": "L 72-96 vs Syracuse Nationals on 1951-11-22"
+        },
+        {
+          "diff": -7.746513486507865,
+          "newRating": 904.3790536310761,
+          "result": "L 63-74 vs Rochester Royals on 1951-11-24"
+        },
+        {
+          "diff": 55.196154423487314,
+          "newRating": 959.5752080545634,
+          "result": "W 83-66 vs Baltimore Bullets on 1951-11-25"
+        },
+        {
+          "diff": -0.7790912829246963,
+          "newRating": 958.7961167716387,
+          "result": "L 78-82 vs Syracuse Nationals on 1951-11-29"
+        },
+        {
+          "diff": -2.2172597432886505,
+          "newRating": 956.5788570283501,
+          "result": "L 69-89 vs Minneapolis Lakers on 1951-12-01"
+        },
+        {
+          "diff": 51.31598114015742,
+          "newRating": 1007.8948381685075,
+          "result": "W 63-61 vs Minneapolis Lakers on 1951-12-02"
+        },
+        {
+          "diff": 47.022373505473524,
+          "newRating": 1054.917211673981,
+          "result": "W 91-88 vs Boston Celtics on 1951-12-05"
+        },
+        {
+          "diff": -31.832920455097565,
+          "newRating": 1023.0842912188834,
+          "result": "L 71-82 vs Milwaukee Hawks on 1951-12-08"
+        },
+        {
+          "diff": 36.50671141253588,
+          "newRating": 1059.5910026314193,
+          "result": "W 86-84 vs Rochester Royals on 1951-12-09"
+        },
+        {
+          "diff": -2.457993385707141,
+          "newRating": 1057.1330092457122,
+          "result": "L 62-80 vs Syracuse Nationals on 1951-12-11"
+        },
+        {
+          "diff": -11.925685158508031,
+          "newRating": 1045.2073240872041,
+          "result": "L 62-72 vs Philadelphia Warriors on 1951-12-14"
+        },
+        {
+          "diff": -14.681924181007616,
+          "newRating": 1030.5253999061965,
+          "result": "L 80-90 vs Baltimore Bullets on 1951-12-15"
+        },
+        {
+          "diff": -10.964829223345305,
+          "newRating": 1019.5605706828512,
+          "result": "L 71-80 vs New York Knicks on 1951-12-16"
+        },
+        {
+          "diff": -5.951147667288637,
+          "newRating": 1013.6094230155626,
+          "result": "L 54-69 vs Rochester Royals on 1951-12-20"
+        },
+        {
+          "diff": 29.11312263358616,
+          "newRating": 1042.7225456491487,
+          "result": "W 81-79 vs Minneapolis Lakers on 1951-12-23"
+        },
+        {
+          "diff": -6.784120745135397,
+          "newRating": 1035.9384249040133,
+          "result": "L 65-72 vs New York Knicks on 1951-12-25"
+        },
+        {
+          "diff": 27.582290889811702,
+          "newRating": 1063.520715793825,
+          "result": "W 94-86 vs Boston Celtics on 1951-12-26"
+        },
+        {
+          "diff": -4.962490944858928,
+          "newRating": 1058.5582248489661,
+          "result": "L 61-75 vs Rochester Royals on 1951-12-29"
+        },
+        {
+          "diff": 10.812157580048506,
+          "newRating": 1069.3703824290146,
+          "result": "W 77-60 vs Milwaukee Hawks on 1951-12-30"
+        },
+        {
+          "diff": 17.565095273455654,
+          "newRating": 1086.9354777024703,
+          "result": "W 95-86 vs Baltimore Bullets on 1951-12-31"
+        },
+        {
+          "diff": 17.862779210452345,
+          "newRating": 1104.7982569129226,
+          "result": "W 89-74 vs Philadelphia Warriors on 1952-01-01"
+        },
+        {
+          "diff": -4.629398073617949,
+          "newRating": 1100.1688588393047,
+          "result": "L 64-79 vs Minneapolis Lakers on 1952-01-04"
+        },
+        {
+          "diff": 19.01953555803425,
+          "newRating": 1119.188394397339,
+          "result": "W 79-75 vs Indianapolis Olympians on 1952-01-06"
+        },
+        {
+          "diff": -4.759434213121949,
+          "newRating": 1114.428960184217,
+          "result": "L 85-94 vs Boston Celtics on 1952-01-10"
+        },
+        {
+          "diff": 17.713384661934242,
+          "newRating": 1132.1423448461512,
+          "result": "W 88-76 vs Rochester Royals on 1952-01-12"
+        },
+        {
+          "diff": 11.280138924495077,
+          "newRating": 1143.4224837706463,
+          "result": "W 81-71 vs Baltimore Bullets on 1952-01-13"
+        },
+        {
+          "diff": -16.777301509816425,
+          "newRating": 1126.6451822608299,
+          "result": "L 63-76 vs Milwaukee Hawks on 1952-01-15"
+        },
+        {
+          "diff": 13.483333679233965,
+          "newRating": 1140.1285159400638,
+          "result": "W 82-78 vs Philadelphia Warriors on 1952-01-17"
+        },
+        {
+          "diff": 6.373141797216704,
+          "newRating": 1146.5016577372805,
+          "result": "W 83-76 vs Milwaukee Hawks on 1952-01-20"
+        },
+        {
+          "diff": 14.412213095186416,
+          "newRating": 1160.913870832467,
+          "result": "W 94-90 vs Rochester Royals on 1952-01-24"
+        },
+        {
+          "diff": -7.092638193809535,
+          "newRating": 1153.8212326386574,
+          "result": "L 79-83 vs Indianapolis Olympians on 1952-01-25"
+        },
+        {
+          "diff": -6.316764420831305,
+          "newRating": 1147.5044682178261,
+          "result": "L 71-104 vs Rochester Royals on 1952-01-26"
+        },
+        {
+          "diff": 13.093328928177698,
+          "newRating": 1160.5977971460038,
+          "result": "W 100-92 vs New York Knicks on 1952-01-27"
+        },
+        {
+          "diff": 11.974643365256725,
+          "newRating": 1172.5724405112605,
+          "result": "W 81-77 vs Indianapolis Olympians on 1952-01-30"
+        },
+        {
+          "diff": -4.353386325707788,
+          "newRating": 1168.2190541855527,
+          "result": "L 78-85 vs Minneapolis Lakers on 1952-01-31"
+        },
+        {
+          "diff": 6.68832151123388,
+          "newRating": 1174.9073756967866,
+          "result": "W 76-63 vs Baltimore Bullets on 1952-02-02"
+        },
+        {
+          "diff": 10.867888697172475,
+          "newRating": 1185.775264393959,
+          "result": "W 85-70 vs Indianapolis Olympians on 1952-02-03"
+        },
+        {
+          "diff": -12.86846818639583,
+          "newRating": 1172.9067962075633,
+          "result": "L 64-75 vs Milwaukee Hawks on 1952-02-05"
+        },
+        {
+          "diff": -7.18917147799425,
+          "newRating": 1165.717624729569,
+          "result": "L 91-105 vs Philadelphia Warriors on 1952-02-07"
+        },
+        {
+          "diff": 12.633106435519267,
+          "newRating": 1178.3507311650883,
+          "result": "W 70-67 vs Minneapolis Lakers on 1952-02-09"
+        },
+        {
+          "diff": -9.98429603933755,
+          "newRating": 1168.3664351257507,
+          "result": "L 77-82 vs Baltimore Bullets on 1952-02-10"
+        },
+        {
+          "diff": -6.026778466491351,
+          "newRating": 1162.3396566592594,
+          "result": "L 78-80 vs Indianapolis Olympians on 1952-02-12"
+        },
+        {
+          "diff": 10.836525979825865,
+          "newRating": 1173.1761826390853,
+          "result": "W 94-90 vs Boston Celtics on 1952-02-14"
+        },
+        {
+          "diff": 11.004326516891297,
+          "newRating": 1184.1805091559766,
+          "result": "W 99-87 vs Minneapolis Lakers on 1952-02-17"
+        },
+        {
+          "diff": -6.610721646332195,
+          "newRating": 1177.5697875096444,
+          "result": "L 80-98 vs Philadelphia Warriors on 1952-02-19"
+        },
+        {
+          "diff": -4.97995154191085,
+          "newRating": 1172.5898359677335,
+          "result": "L 67-88 vs Boston Celtics on 1952-02-21"
+        },
+        {
+          "diff": -5.132236129055173,
+          "newRating": 1167.4575998386783,
+          "result": "L 77-82 vs New York Knicks on 1952-02-23"
+        },
+        {
+          "diff": 10.076158371492511,
+          "newRating": 1177.5337582101708,
+          "result": "W 83-70 vs Minneapolis Lakers on 1952-02-24"
+        },
+        {
+          "diff": -3.2576461787189146,
+          "newRating": 1174.276112031452,
+          "result": "L 83-88 vs Syracuse Nationals on 1952-02-28"
+        },
+        {
+          "diff": 3.9539108084572945,
+          "newRating": 1178.2300228399092,
+          "result": "W 66-58 vs Milwaukee Hawks on 1952-03-01"
+        },
+        {
+          "diff": 7.917309914079169,
+          "newRating": 1186.1473327539884,
+          "result": "W 101-88 vs Indianapolis Olympians on 1952-03-02"
+        },
+        {
+          "diff": -5.615460041167125,
+          "newRating": 1180.5318727128213,
+          "result": "L 68-86 vs Indianapolis Olympians on 1952-03-04"
+        },
+        {
+          "diff": -3.076394488649157,
+          "newRating": 1177.455478224172,
+          "result": "L 81-83 vs Syracuse Nationals on 1952-03-06"
+        },
+        {
+          "diff": -9.161225712402256,
+          "newRating": 1168.2942525117699,
+          "result": "L 74-75 vs Milwaukee Hawks on 1952-03-07"
+        },
+        {
+          "diff": 8.454308534950542,
+          "newRating": 1176.7485610467204,
+          "result": "W 80-79 vs New York Knicks on 1952-03-09"
+        },
+        {
+          "diff": -3.9220626545381947,
+          "newRating": 1172.8264983921822,
+          "result": "L 84-86 vs Rochester Royals on 1952-03-13"
+        },
+        {
+          "diff": 7.373695074505122,
+          "newRating": 1180.2001934666873,
+          "result": "W 111-92 vs Indianapolis Olympians on 1952-03-16"
+        }
+      ]
+    },
+    {
+      "team": "Baltimore Bullets",
+      "rating": 1103.070165423276,
+      "wins": 20,
+      "losses": 46,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 97-101 vs Rochester Royals on 1951-11-01"
+        },
+        {
+          "diff": -36.363636363636374,
+          "newRating": 763.6363636363636,
+          "result": "L 86-90 vs Indianapolis Olympians on 1951-11-03"
+        },
+        {
+          "diff": 253.15646741631133,
+          "newRating": 1016.792831052675,
+          "result": "W 96-90 vs Philadelphia Warriors on 1951-11-05"
+        },
+        {
+          "diff": 199.060482499086,
+          "newRating": 1215.853313551761,
+          "result": "W 91-82 vs Syracuse Nationals on 1951-11-10"
+        },
+        {
+          "diff": -44.53943853408168,
+          "newRating": 1171.3138750176793,
+          "result": "L 80-90 vs Minneapolis Lakers on 1951-11-12"
+        },
+        {
+          "diff": -7.9435727956749815,
+          "newRating": 1163.3703022220043,
+          "result": "L 75-88 vs Boston Celtics on 1951-11-17"
+        },
+        {
+          "diff": -3.1049462962514554,
+          "newRating": 1160.2653559257528,
+          "result": "L 68-71 vs Syracuse Nationals on 1951-11-18"
+        },
+        {
+          "diff": 18.444187909679613,
+          "newRating": 1178.7095438354324,
+          "result": "W 71-70 vs Milwaukee Hawks on 1951-11-19"
+        },
+        {
+          "diff": -30.521882594984163,
+          "newRating": 1148.1876612404483,
+          "result": "L 86-88 vs New York Knicks on 1951-11-20"
+        },
+        {
+          "diff": 29.121795677512637,
+          "newRating": 1177.309456917961,
+          "result": "W 81-74 vs Philadelphia Warriors on 1951-11-24"
+        },
+        {
+          "diff": -60.213986643804446,
+          "newRating": 1117.0954702741565,
+          "result": "L 66-83 vs Fort Wayne Pistons on 1951-11-25"
+        },
+        {
+          "diff": 15.298557996872887,
+          "newRating": 1132.3940282710294,
+          "result": "W 77-64 vs Milwaukee Hawks on 1951-11-29"
+        },
+        {
+          "diff": 39.34792770814852,
+          "newRating": 1171.7419559791779,
+          "result": "W 84-82 vs New York Knicks on 1951-12-01"
+        },
+        {
+          "diff": -8.328252353713879,
+          "newRating": 1163.413703625464,
+          "result": "L 82-103 vs Boston Celtics on 1951-12-02"
+        },
+        {
+          "diff": -15.400953302268817,
+          "newRating": 1148.0127503231952,
+          "result": "L 70-77 vs Rochester Royals on 1951-12-03"
+        },
+        {
+          "diff": -19.579040860977784,
+          "newRating": 1128.4337094622174,
+          "result": "L 80-88 vs Indianapolis Olympians on 1951-12-07"
+        },
+        {
+          "diff": -6.57895586229256,
+          "newRating": 1121.8547535999248,
+          "result": "L 64-85 vs Minneapolis Lakers on 1951-12-08"
+        },
+        {
+          "diff": 12.488218861987662,
+          "newRating": 1134.3429724619125,
+          "result": "W 73-71 vs Milwaukee Hawks on 1951-12-09"
+        },
+        {
+          "diff": -8.063683985211128,
+          "newRating": 1126.2792884767014,
+          "result": "L 79-99 vs Minneapolis Lakers on 1951-12-12"
+        },
+        {
+          "diff": 15.416020390058065,
+          "newRating": 1141.6953088667594,
+          "result": "W 90-80 vs Fort Wayne Pistons on 1951-12-15"
+        },
+        {
+          "diff": -11.954660424575877,
+          "newRating": 1129.7406484421836,
+          "result": "L 95-99 vs Rochester Royals on 1951-12-16"
+        },
+        {
+          "diff": 30.633636608054758,
+          "newRating": 1160.3742850502383,
+          "result": "W 92-80 vs Boston Celtics on 1951-12-17"
+        },
+        {
+          "diff": -15.005349071858063,
+          "newRating": 1145.3689359783803,
+          "result": "L 78-82 vs Philadelphia Warriors on 1951-12-18"
+        },
+        {
+          "diff": -5.878754245423352,
+          "newRating": 1139.490181732957,
+          "result": "L 89-106 vs Boston Celtics on 1951-12-21"
+        },
+        {
+          "diff": -7.644059328285266,
+          "newRating": 1131.8461224046716,
+          "result": "L 90-96 vs Minneapolis Lakers on 1951-12-22"
+        },
+        {
+          "diff": 19.779681628403523,
+          "newRating": 1151.6258040330752,
+          "result": "W 103-99 vs Philadelphia Warriors on 1951-12-26"
+        },
+        {
+          "diff": 20.93495786878202,
+          "newRating": 1172.5607619018572,
+          "result": "W 75-65 vs Indianapolis Olympians on 1951-12-29"
+        },
+        {
+          "diff": -5.696535439956051,
+          "newRating": 1166.8642264619011,
+          "result": "L 91-108 vs Syracuse Nationals on 1951-12-30"
+        },
+        {
+          "diff": -17.565095273455654,
+          "newRating": 1149.2991311884455,
+          "result": "L 86-95 vs Fort Wayne Pistons on 1951-12-31"
+        },
+        {
+          "diff": -11.751743989940906,
+          "newRating": 1137.5473871985046,
+          "result": "L 79-92 vs Philadelphia Warriors on 1952-01-04"
+        },
+        {
+          "diff": -6.066837360353475,
+          "newRating": 1131.480549838151,
+          "result": "L 73-94 vs Boston Celtics on 1952-01-05"
+        },
+        {
+          "diff": -3.8508979651364825,
+          "newRating": 1127.6296518730146,
+          "result": "L 88-92 vs Syracuse Nationals on 1952-01-12"
+        },
+        {
+          "diff": -11.963783707797802,
+          "newRating": 1115.6658681652168,
+          "result": "L 71-81 vs Fort Wayne Pistons on 1952-01-13"
+        },
+        {
+          "diff": -16.563762344267616,
+          "newRating": 1099.1021058209492,
+          "result": "L 71-77 vs Milwaukee Hawks on 1952-01-16"
+        },
+        {
+          "diff": -15.175384813195251,
+          "newRating": 1083.926721007754,
+          "result": "L 76-87 vs Milwaukee Hawks on 1952-01-17"
+        },
+        {
+          "diff": 16.72995841669922,
+          "newRating": 1100.6566794244532,
+          "result": "W 81-78 vs Indianapolis Olympians on 1952-01-19"
+        },
+        {
+          "diff": -2.579147679638254,
+          "newRating": 1098.077531744815,
+          "result": "L 80-99 vs Syracuse Nationals on 1952-01-20"
+        },
+        {
+          "diff": -5.930116638530308,
+          "newRating": 1092.1474151062846,
+          "result": "L 83-99 vs New York Knicks on 1952-01-21"
+        },
+        {
+          "diff": -3.7541441878411206,
+          "newRating": 1088.3932709184435,
+          "result": "L 75-117 vs Boston Celtics on 1952-01-23"
+        },
+        {
+          "diff": -2.2955959867156253,
+          "newRating": 1086.0976749317279,
+          "result": "L 73-78 vs Syracuse Nationals on 1952-01-26"
+        },
+        {
+          "diff": -5.7158650770602435,
+          "newRating": 1080.3818098546676,
+          "result": "L 79-81 vs Philadelphia Warriors on 1952-02-01"
+        },
+        {
+          "diff": -7.1660587620363,
+          "newRating": 1073.2157510926313,
+          "result": "L 63-76 vs Fort Wayne Pistons on 1952-02-02"
+        },
+        {
+          "diff": -1.8725732099535435,
+          "newRating": 1071.3431778826778,
+          "result": "L 73-95 vs Syracuse Nationals on 1952-02-03"
+        },
+        {
+          "diff": 13.557141141758166,
+          "newRating": 1084.900319024436,
+          "result": "W 82-81 vs New York Knicks on 1952-02-04"
+        },
+        {
+          "diff": -5.049973611734231,
+          "newRating": 1079.8503454127017,
+          "result": "L 70-73 vs New York Knicks on 1952-02-06"
+        },
+        {
+          "diff": -4.743428895755869,
+          "newRating": 1075.1069165169458,
+          "result": "L 83-103 vs New York Knicks on 1952-02-08"
+        },
+        {
+          "diff": 15.231417219760488,
+          "newRating": 1090.3383337367063,
+          "result": "W 84-76 vs Syracuse Nationals on 1952-02-09"
+        },
+        {
+          "diff": 10.400308374309816,
+          "newRating": 1100.7386421110161,
+          "result": "W 82-77 vs Fort Wayne Pistons on 1952-02-10"
+        },
+        {
+          "diff": 12.56888909860254,
+          "newRating": 1113.3075312096187,
+          "result": "W 96-91 vs Rochester Royals on 1952-02-13"
+        },
+        {
+          "diff": -4.878439650841983,
+          "newRating": 1108.4290915587767,
+          "result": "L 66-89 vs Indianapolis Olympians on 1952-02-14"
+        },
+        {
+          "diff": -4.374947480502442,
+          "newRating": 1104.0541440782742,
+          "result": "L 82-102 vs New York Knicks on 1952-02-16"
+        },
+        {
+          "diff": -5.290169640393515,
+          "newRating": 1098.7639744378807,
+          "result": "L 83-90 vs Philadelphia Warriors on 1952-02-17"
+        },
+        {
+          "diff": -3.226288851846448,
+          "newRating": 1095.5376855860343,
+          "result": "L 78-93 vs Minneapolis Lakers on 1952-02-20"
+        },
+        {
+          "diff": 12.762352119848174,
+          "newRating": 1108.3000377058825,
+          "result": "W 81-80 vs Syracuse Nationals on 1952-02-23"
+        },
+        {
+          "diff": -3.3568434107978646,
+          "newRating": 1104.9431942950846,
+          "result": "L 100-124 vs Rochester Royals on 1952-02-24"
+        },
+        {
+          "diff": -3.8489298716895064,
+          "newRating": 1101.094264423395,
+          "result": "L 84-89 vs New York Knicks on 1952-02-25"
+        },
+        {
+          "diff": -4.1813154300900806,
+          "newRating": 1096.912948993305,
+          "result": "L 86-103 vs Philadelphia Warriors on 1952-02-29"
+        },
+        {
+          "diff": 9.82022355625918,
+          "newRating": 1106.7331725495642,
+          "result": "W 90-77 vs Philadelphia Warriors on 1952-03-01"
+        },
+        {
+          "diff": 10.463432029976275,
+          "newRating": 1117.1966045795405,
+          "result": "W 99-96 vs Rochester Royals on 1952-03-03"
+        },
+        {
+          "diff": -3.3471475208305037,
+          "newRating": 1113.84945705871,
+          "result": "L 80-91 vs Boston Celtics on 1952-03-04"
+        },
+        {
+          "diff": -3.290668015371466,
+          "newRating": 1110.5587890433385,
+          "result": "L 82-88 vs New York Knicks on 1952-03-05"
+        },
+        {
+          "diff": -3.0056891020856256,
+          "newRating": 1107.5530999412529,
+          "result": "L 77-100 vs Boston Celtics on 1952-03-08"
+        },
+        {
+          "diff": -2.8789070354109754,
+          "newRating": 1104.674192905842,
+          "result": "L 72-89 vs Boston Celtics on 1952-03-09"
+        },
+        {
+          "diff": 4.962949205743598,
+          "newRating": 1109.6371421115855,
+          "result": "W 91-80 vs Milwaukee Hawks on 1952-03-10"
+        },
+        {
+          "diff": -3.8637722036507967,
+          "newRating": 1105.7733699079347,
+          "result": "L 87-103 vs Indianapolis Olympians on 1952-03-14"
+        },
+        {
+          "diff": -2.703204484658727,
+          "newRating": 1103.070165423276,
+          "result": "L 82-126 vs Minneapolis Lakers on 1952-03-16"
+        }
+      ]
+    },
+    {
+      "team": "Milwaukee Hawks",
+      "rating": 1021.9316642988726,
+      "wins": 17,
+      "losses": 49,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 66-68 vs New York Knicks on 1951-11-03"
+        },
+        {
+          "diff": 315.2312594087439,
+          "newRating": 1115.2312594087439,
+          "result": "W 65-62 vs Fort Wayne Pistons on 1951-11-06"
+        },
+        {
+          "diff": -227.32494439102948,
+          "newRating": 887.9063150177144,
+          "result": "L 59-74 vs Fort Wayne Pistons on 1951-11-11"
+        },
+        {
+          "diff": -11.822203588135949,
+          "newRating": 876.0841114295785,
+          "result": "L 75-91 vs Rochester Royals on 1951-11-13"
+        },
+        {
+          "diff": 104.17758386385606,
+          "newRating": 980.2616952934345,
+          "result": "W 78-68 vs Indianapolis Olympians on 1951-11-16"
+        },
+        {
+          "diff": -78.23449072299854,
+          "newRating": 902.027204570436,
+          "result": "L 58-68 vs Indianapolis Olympians on 1951-11-17"
+        },
+        {
+          "diff": -21.07907189677678,
+          "newRating": 880.9481326736592,
+          "result": "L 70-71 vs Baltimore Bullets on 1951-11-19"
+        },
+        {
+          "diff": -28.045481212318464,
+          "newRating": 852.9026514613407,
+          "result": "L 64-80 vs Philadelphia Warriors on 1951-11-20"
+        },
+        {
+          "diff": -1.5627871513157743,
+          "newRating": 851.339864310025,
+          "result": "L 72-103 vs Boston Celtics on 1951-11-22"
+        },
+        {
+          "diff": -2.307384462663549,
+          "newRating": 849.0324798473614,
+          "result": "L 59-72 vs Minneapolis Lakers on 1951-11-24"
+        },
+        {
+          "diff": 67.40635307970535,
+          "newRating": 916.4388329270668,
+          "result": "W 75-73 vs Rochester Royals on 1951-11-25"
+        },
+        {
+          "diff": -9.760594016737514,
+          "newRating": 906.6782389103292,
+          "result": "L 73-77 vs Rochester Royals on 1951-11-27"
+        },
+        {
+          "diff": -14.121745843267263,
+          "newRating": 892.556493067062,
+          "result": "L 64-77 vs Baltimore Bullets on 1951-11-29"
+        },
+        {
+          "diff": -5.9652981240544705,
+          "newRating": 886.5911949430075,
+          "result": "L 66-71 vs Rochester Royals on 1951-12-01"
+        },
+        {
+          "diff": -8.903993881105293,
+          "newRating": 877.6872010619022,
+          "result": "L 71-80 vs Indianapolis Olympians on 1951-12-02"
+        },
+        {
+          "diff": 49.112641326797984,
+          "newRating": 926.7998423887002,
+          "result": "W 73-70 vs Syracuse Nationals on 1951-12-06"
+        },
+        {
+          "diff": 31.832920455097565,
+          "newRating": 958.6327628437978,
+          "result": "W 82-71 vs Fort Wayne Pistons on 1951-12-08"
+        },
+        {
+          "diff": -12.488218861987662,
+          "newRating": 946.1445439818101,
+          "result": "L 71-73 vs Baltimore Bullets on 1951-12-09"
+        },
+        {
+          "diff": -8.650660227684625,
+          "newRating": 937.4938837541255,
+          "result": "L 83-88 vs New York Knicks on 1951-12-11"
+        },
+        {
+          "diff": -2.502618308793899,
+          "newRating": 934.9912654453316,
+          "result": "L 84-89 vs Boston Celtics on 1951-12-12"
+        },
+        {
+          "diff": -1.1043953576913736,
+          "newRating": 933.8868700876402,
+          "result": "L 82-89 vs Syracuse Nationals on 1951-12-13"
+        },
+        {
+          "diff": -2.4208705265380104,
+          "newRating": 931.4659995611022,
+          "result": "L 52-99 vs Minneapolis Lakers on 1951-12-16"
+        },
+        {
+          "diff": -3.9272836155428195,
+          "newRating": 927.5387159455594,
+          "result": "L 68-94 vs Rochester Royals on 1951-12-18"
+        },
+        {
+          "diff": -2.971557438146988,
+          "newRating": 924.5671585074124,
+          "result": "L 64-69 vs Indianapolis Olympians on 1951-12-21"
+        },
+        {
+          "diff": -1.5613351293077358,
+          "newRating": 923.0058233781047,
+          "result": "L 65-70 vs Syracuse Nationals on 1951-12-25"
+        },
+        {
+          "diff": 27.2321190135425,
+          "newRating": 950.2379423916472,
+          "result": "W 78-76 vs New York Knicks on 1951-12-26"
+        },
+        {
+          "diff": 27.98015945343036,
+          "newRating": 978.2181018450775,
+          "result": "W 69-68 vs Syracuse Nationals on 1951-12-27"
+        },
+        {
+          "diff": -5.8649840454820605,
+          "newRating": 972.3531177995955,
+          "result": "L 61-68 vs Philadelphia Warriors on 1951-12-29"
+        },
+        {
+          "diff": -10.439324560046884,
+          "newRating": 961.9137932395486,
+          "result": "L 60-77 vs Fort Wayne Pistons on 1951-12-30"
+        },
+        {
+          "diff": -4.2673326229253234,
+          "newRating": 957.6464606166232,
+          "result": "L 65-68 vs New York Knicks on 1952-01-01"
+        },
+        {
+          "diff": -3.9620880467376764,
+          "newRating": 953.6843725698856,
+          "result": "L 67-89 vs New York Knicks on 1952-01-02"
+        },
+        {
+          "diff": -2.1774466030386748,
+          "newRating": 951.5069259668469,
+          "result": "L 76-83 vs Boston Celtics on 1952-01-08"
+        },
+        {
+          "diff": -1.8324676512273754,
+          "newRating": 949.6744583156195,
+          "result": "L 63-75 vs Minneapolis Lakers on 1952-01-11"
+        },
+        {
+          "diff": -1.7441942992689974,
+          "newRating": 947.9302640163505,
+          "result": "L 84-96 vs Minneapolis Lakers on 1952-01-12"
+        },
+        {
+          "diff": 17.256652981525463,
+          "newRating": 965.186916997876,
+          "result": "W 76-63 vs Fort Wayne Pistons on 1952-01-15"
+        },
+        {
+          "diff": 15.643553325141625,
+          "newRating": 980.8304703230176,
+          "result": "W 77-71 vs Baltimore Bullets on 1952-01-16"
+        },
+        {
+          "diff": 14.355093742211807,
+          "newRating": 995.1855640652294,
+          "result": "W 87-76 vs Baltimore Bullets on 1952-01-17"
+        },
+        {
+          "diff": -6.373141797216704,
+          "newRating": 988.8124222680127,
+          "result": "L 76-83 vs Fort Wayne Pistons on 1952-01-20"
+        },
+        {
+          "diff": -2.8632543575580485,
+          "newRating": 985.9491679104547,
+          "result": "L 76-78 vs Rochester Royals on 1952-01-21"
+        },
+        {
+          "diff": -1.289558699278814,
+          "newRating": 984.6596092111758,
+          "result": "L 82-93 vs Syracuse Nationals on 1952-01-22"
+        },
+        {
+          "diff": -1.9864681987543236,
+          "newRating": 982.6731410124215,
+          "result": "L 56-57 vs Minneapolis Lakers on 1952-01-26"
+        },
+        {
+          "diff": -1.899698571662043,
+          "newRating": 980.7734424407595,
+          "result": "L 62-91 vs Minneapolis Lakers on 1952-01-27"
+        },
+        {
+          "diff": -1.154859852132745,
+          "newRating": 979.6185825886267,
+          "result": "L 79-88 vs Syracuse Nationals on 1952-01-31"
+        },
+        {
+          "diff": -2.233786909024616,
+          "newRating": 977.3847956796021,
+          "result": "L 77-100 vs Boston Celtics on 1952-02-01"
+        },
+        {
+          "diff": -2.4376455983845062,
+          "newRating": 974.9471500812176,
+          "result": "L 79-100 vs Rochester Royals on 1952-02-02"
+        },
+        {
+          "diff": 14.354131150453554,
+          "newRating": 989.3012812316712,
+          "result": "W 83-73 vs Philadelphia Warriors on 1952-02-03"
+        },
+        {
+          "diff": 12.868468186395944,
+          "newRating": 1002.1697494180671,
+          "result": "W 75-64 vs Fort Wayne Pistons on 1952-02-05"
+        },
+        {
+          "diff": -3.0705682573753847,
+          "newRating": 999.0991811606917,
+          "result": "L 76-80 vs Indianapolis Olympians on 1952-02-08"
+        },
+        {
+          "diff": 13.404403477459368,
+          "newRating": 1012.5035846381511,
+          "result": "W 90-83 vs Indianapolis Olympians on 1952-02-09"
+        },
+        {
+          "diff": 14.15485651511085,
+          "newRating": 1026.658441153262,
+          "result": "W 70-69 vs Minneapolis Lakers on 1952-02-10"
+        },
+        {
+          "diff": -2.0895611449770968,
+          "newRating": 1024.5688800082849,
+          "result": "L 74-109 vs Minneapolis Lakers on 1952-02-14"
+        },
+        {
+          "diff": 12.90081114807731,
+          "newRating": 1037.4696911563622,
+          "result": "W 97-95 vs Boston Celtics on 1952-02-17"
+        },
+        {
+          "diff": -2.766163495772389,
+          "newRating": 1034.7035276605898,
+          "result": "L 84-106 vs Boston Celtics on 1952-02-18"
+        },
+        {
+          "diff": -3.2561423027693763,
+          "newRating": 1031.4473853578204,
+          "result": "L 80-95 vs Indianapolis Olympians on 1952-02-20"
+        },
+        {
+          "diff": -3.1052496140262065,
+          "newRating": 1028.3421357437942,
+          "result": "L 73-82 vs Indianapolis Olympians on 1952-02-22"
+        },
+        {
+          "diff": -2.965672128481401,
+          "newRating": 1025.3764636153128,
+          "result": "L 59-86 vs Indianapolis Olympians on 1952-02-23"
+        },
+        {
+          "diff": -3.2000490978942935,
+          "newRating": 1022.1764145174185,
+          "result": "L 71-76 vs Philadelphia Warriors on 1952-02-24"
+        },
+        {
+          "diff": -2.0959401611982003,
+          "newRating": 1020.0804743562203,
+          "result": "L 67-99 vs Rochester Royals on 1952-02-26"
+        },
+        {
+          "diff": -3.9539108084572945,
+          "newRating": 1016.126563547763,
+          "result": "L 58-66 vs Fort Wayne Pistons on 1952-03-01"
+        },
+        {
+          "diff": -1.8770866750897994,
+          "newRating": 1014.2494768726732,
+          "result": "L 85-96 vs Minneapolis Lakers on 1952-03-02"
+        },
+        {
+          "diff": -2.1122245838429308,
+          "newRating": 1012.1372522888303,
+          "result": "L 74-77 vs Rochester Royals on 1952-03-06"
+        },
+        {
+          "diff": 9.308987417440903,
+          "newRating": 1021.4462397062712,
+          "result": "W 75-74 vs Fort Wayne Pistons on 1952-03-07"
+        },
+        {
+          "diff": 10.643308494900111,
+          "newRating": 1032.0895482011713,
+          "result": "W 103-99 vs New York Knicks on 1952-03-08"
+        },
+        {
+          "diff": -4.962949205743598,
+          "newRating": 1027.1265989954277,
+          "result": "L 80-91 vs Baltimore Bullets on 1952-03-10"
+        },
+        {
+          "diff": -2.6487159277651244,
+          "newRating": 1024.4778830676626,
+          "result": "L 82-85 vs Philadelphia Warriors on 1952-03-14"
+        },
+        {
+          "diff": -2.546218768789913,
+          "newRating": 1021.9316642988726,
+          "result": "L 86-105 vs Philadelphia Warriors on 1952-03-15"
+        }
+      ]
+    }
+  ]
+}

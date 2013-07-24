@@ -1,0 +1,2320 @@
+{
+  "year": 1956,
+  "source": "http://www.basketball-reference.com/leagues/NBA_1956_games.html",
+  "teams": [
+    "Boston Celtics",
+    "Fort Wayne Pistons",
+    "Minneapolis Lakers",
+    "New York Knicks",
+    "Philadelphia Warriors",
+    "Rochester Royals",
+    "St. Louis Hawks",
+    "Syracuse Nationals"
+  ],
+  "results": [
+    {
+      "date": "1955-11-05",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 98,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511050BOS.html"
+    },
+    {
+      "date": "1955-11-05",
+      "home": "Rochester Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 98,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511050ROC.html"
+    },
+    {
+      "date": "1955-11-05",
+      "home": "St. Louis Hawks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 101,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511050STL.html"
+    },
+    {
+      "date": "1955-11-05",
+      "home": "Syracuse Nationals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 114,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511050SYR.html"
+    },
+    {
+      "date": "1955-11-06",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 95,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511060FTW.html"
+    },
+    {
+      "date": "1955-11-06",
+      "home": "Rochester Royals",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 83,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511060ROC.html"
+    },
+    {
+      "date": "1955-11-09",
+      "home": "Philadelphia Warriors",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 117,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511090PHW.html"
+    },
+    {
+      "date": "1955-11-10",
+      "home": "New York Knicks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 112,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511100NYK.html"
+    },
+    {
+      "date": "1955-11-10",
+      "home": "Philadelphia Warriors",
+      "visitor": "Rochester Royals",
+      "homePoints": 89,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511100PHW.html"
+    },
+    {
+      "date": "1955-11-11",
+      "home": "Boston Celtics",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 119,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511110BOS.html"
+    },
+    {
+      "date": "1955-11-12",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Rochester Royals",
+      "homePoints": 79,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511120FTW.html"
+    },
+    {
+      "date": "1955-11-12",
+      "home": "Minneapolis Lakers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 89,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511120MNL.html"
+    },
+    {
+      "date": "1955-11-12",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 96,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511120NYK.html"
+    },
+    {
+      "date": "1955-11-12",
+      "home": "St. Louis Hawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 81,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511120STL.html"
+    },
+    {
+      "date": "1955-11-13",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 93,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511130FTW.html"
+    },
+    {
+      "date": "1955-11-13",
+      "home": "New York Knicks",
+      "visitor": "Rochester Royals",
+      "homePoints": 94,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511130NYK.html"
+    },
+    {
+      "date": "1955-11-15",
+      "home": "St. Louis Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 121,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511150STL.html"
+    },
+    {
+      "date": "1955-11-16",
+      "home": "Syracuse Nationals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 105,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511160SYR.html"
+    },
+    {
+      "date": "1955-11-17",
+      "home": "Fort Wayne Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 88,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511170FTW.html"
+    },
+    {
+      "date": "1955-11-17",
+      "home": "Philadelphia Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 106,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511170PHW.html"
+    },
+    {
+      "date": "1955-11-19",
+      "home": "Boston Celtics",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 104,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511190BOS.html"
+    },
+    {
+      "date": "1955-11-19",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 91,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511190NYK.html"
+    },
+    {
+      "date": "1955-11-19",
+      "home": "Philadelphia Warriors",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 102,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511190PHW.html"
+    },
+    {
+      "date": "1955-11-19",
+      "home": "Rochester Royals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 90,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511190ROC.html"
+    },
+    {
+      "date": "1955-11-20",
+      "home": "Fort Wayne Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 115,
+      "visitorPoints": 119,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511200FTW.html"
+    },
+    {
+      "date": "1955-11-20",
+      "home": "Minneapolis Lakers",
+      "visitor": "Rochester Royals",
+      "homePoints": 96,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511200MNL.html"
+    },
+    {
+      "date": "1955-11-20",
+      "home": "Syracuse Nationals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 84,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511200SYR.html"
+    },
+    {
+      "date": "1955-11-23",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 111,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511230BOS.html"
+    },
+    {
+      "date": "1955-11-23",
+      "home": "Philadelphia Warriors",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 104,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511230PHW.html"
+    },
+    {
+      "date": "1955-11-23",
+      "home": "St. Louis Hawks",
+      "visitor": "Rochester Royals",
+      "homePoints": 90,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511230STL.html"
+    },
+    {
+      "date": "1955-11-24",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Rochester Royals",
+      "homePoints": 104,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511240FTW.html"
+    },
+    {
+      "date": "1955-11-24",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 107,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511240MNL.html"
+    },
+    {
+      "date": "1955-11-24",
+      "home": "Philadelphia Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 118,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511240PHW.html"
+    },
+    {
+      "date": "1955-11-24",
+      "home": "Syracuse Nationals",
+      "visitor": "Boston Celtics",
+      "homePoints": 111,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511240SYR.html"
+    },
+    {
+      "date": "1955-11-26",
+      "home": "New York Knicks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 100,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511260NYK.html"
+    },
+    {
+      "date": "1955-11-26",
+      "home": "Philadelphia Warriors",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 87,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511260PHW.html"
+    },
+    {
+      "date": "1955-11-26",
+      "home": "Rochester Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 103,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511260ROC.html"
+    },
+    {
+      "date": "1955-11-26",
+      "home": "St. Louis Hawks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 104,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511260STL.html"
+    },
+    {
+      "date": "1955-11-27",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 114,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511270FTW.html"
+    },
+    {
+      "date": "1955-11-27",
+      "home": "Minneapolis Lakers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 99,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511270MNL.html"
+    },
+    {
+      "date": "1955-11-27",
+      "home": "Syracuse Nationals",
+      "visitor": "New York Knicks",
+      "homePoints": 85,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511270SYR.html"
+    },
+    {
+      "date": "1955-11-29",
+      "home": "Boston Celtics",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 105,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511290BOS.html"
+    },
+    {
+      "date": "1955-11-29",
+      "home": "New York Knicks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 99,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511290NYK.html"
+    },
+    {
+      "date": "1955-11-29",
+      "home": "St. Louis Hawks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 108,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511290STL.html"
+    },
+    {
+      "date": "1955-11-30",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 97,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511300MNL.html"
+    },
+    {
+      "date": "1955-11-30",
+      "home": "Rochester Royals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 87,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195511300ROC.html"
+    },
+    {
+      "date": "1955-12-01",
+      "home": "Minneapolis Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 97,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512010MNL.html"
+    },
+    {
+      "date": "1955-12-01",
+      "home": "Philadelphia Warriors",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 115,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512010PHW.html"
+    },
+    {
+      "date": "1955-12-02",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 94,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512020BOS.html"
+    },
+    {
+      "date": "1955-12-03",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 102,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512030NYK.html"
+    },
+    {
+      "date": "1955-12-03",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 78,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512030ROC.html"
+    },
+    {
+      "date": "1955-12-03",
+      "home": "Syracuse Nationals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 114,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512030SYR.html"
+    },
+    {
+      "date": "1955-12-04",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 111,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512040FTW.html"
+    },
+    {
+      "date": "1955-12-04",
+      "home": "Minneapolis Lakers",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 96,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512040MNL.html"
+    },
+    {
+      "date": "1955-12-04",
+      "home": "Rochester Royals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 107,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512040ROC.html"
+    },
+    {
+      "date": "1955-12-06",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 90,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512060FTW.html"
+    },
+    {
+      "date": "1955-12-06",
+      "home": "Minneapolis Lakers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 103,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512060MNL.html"
+    },
+    {
+      "date": "1955-12-06",
+      "home": "New York Knicks",
+      "visitor": "Rochester Royals",
+      "homePoints": 116,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512060NYK.html"
+    },
+    {
+      "date": "1955-12-06",
+      "home": "St. Louis Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 99,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512060STL.html"
+    },
+    {
+      "date": "1955-12-07",
+      "home": "Rochester Royals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 92,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512070ROC.html"
+    },
+    {
+      "date": "1955-12-08",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 105,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512080FTW.html"
+    },
+    {
+      "date": "1955-12-09",
+      "home": "Boston Celtics",
+      "visitor": "Rochester Royals",
+      "homePoints": 108,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512090BOS.html"
+    },
+    {
+      "date": "1955-12-09",
+      "home": "Philadelphia Warriors",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 101,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512090PHW.html"
+    },
+    {
+      "date": "1955-12-10",
+      "home": "Boston Celtics",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 118,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512100BOS.html"
+    },
+    {
+      "date": "1955-12-10",
+      "home": "Rochester Royals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 117,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512100ROC.html"
+    },
+    {
+      "date": "1955-12-10",
+      "home": "St. Louis Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 80,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512100STL.html"
+    },
+    {
+      "date": "1955-12-11",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 96,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512110FTW.html"
+    },
+    {
+      "date": "1955-12-11",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 93,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512110ROC.html"
+    },
+    {
+      "date": "1955-12-11",
+      "home": "Syracuse Nationals",
+      "visitor": "Boston Celtics",
+      "homePoints": 101,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512110SYR.html"
+    },
+    {
+      "date": "1955-12-13",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 108,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512130BOS.html"
+    },
+    {
+      "date": "1955-12-13",
+      "home": "New York Knicks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 98,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512130NYK.html"
+    },
+    {
+      "date": "1955-12-14",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 102,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512140BOS.html"
+    },
+    {
+      "date": "1955-12-14",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 85,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512140FTW.html"
+    },
+    {
+      "date": "1955-12-14",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 117,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512140ROC.html"
+    },
+    {
+      "date": "1955-12-15",
+      "home": "Philadelphia Warriors",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 80,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512150PHW.html"
+    },
+    {
+      "date": "1955-12-15",
+      "home": "Syracuse Nationals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 133,
+      "visitorPoints": 135,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512150SYR.html"
+    },
+    {
+      "date": "1955-12-16",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 97,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512160ROC.html"
+    },
+    {
+      "date": "1955-12-17",
+      "home": "Boston Celtics",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 104,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512170BOS.html"
+    },
+    {
+      "date": "1955-12-17",
+      "home": "Fort Wayne Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 95,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512170FTW.html"
+    },
+    {
+      "date": "1955-12-17",
+      "home": "Minneapolis Lakers",
+      "visitor": "Rochester Royals",
+      "homePoints": 94,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512170MNL.html"
+    },
+    {
+      "date": "1955-12-18",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 96,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512180FTW.html"
+    },
+    {
+      "date": "1955-12-18",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 92,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512180NYK.html"
+    },
+    {
+      "date": "1955-12-18",
+      "home": "St. Louis Hawks",
+      "visitor": "Rochester Royals",
+      "homePoints": 86,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512180STL.html"
+    },
+    {
+      "date": "1955-12-18",
+      "home": "Syracuse Nationals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 99,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512180SYR.html"
+    },
+    {
+      "date": "1955-12-20",
+      "home": "Boston Celtics",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 111,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512200BOS.html"
+    },
+    {
+      "date": "1955-12-20",
+      "home": "New York Knicks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 91,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512200NYK.html"
+    },
+    {
+      "date": "1955-12-21",
+      "home": "Rochester Royals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 92,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512210ROC.html"
+    },
+    {
+      "date": "1955-12-25",
+      "home": "Fort Wayne Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 92,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512250FTW.html"
+    },
+    {
+      "date": "1955-12-25",
+      "home": "Minneapolis Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 112,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512250MNL.html"
+    },
+    {
+      "date": "1955-12-25",
+      "home": "Syracuse Nationals",
+      "visitor": "Rochester Royals",
+      "homePoints": 111,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512250SYR.html"
+    },
+    {
+      "date": "1955-12-26",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 83,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512260FTW.html"
+    },
+    {
+      "date": "1955-12-26",
+      "home": "Philadelphia Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 97,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512260PHW.html"
+    },
+    {
+      "date": "1955-12-26",
+      "home": "Rochester Royals",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 93,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512260ROC.html"
+    },
+    {
+      "date": "1955-12-27",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 80,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512270NYK.html"
+    },
+    {
+      "date": "1955-12-27",
+      "home": "Rochester Royals",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 91,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512270ROC.html"
+    },
+    {
+      "date": "1955-12-27",
+      "home": "St. Louis Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 102,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512270STL.html"
+    },
+    {
+      "date": "1955-12-28",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 90,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512280MNL.html"
+    },
+    {
+      "date": "1955-12-28",
+      "home": "Rochester Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 91,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512280ROC.html"
+    },
+    {
+      "date": "1955-12-29",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Rochester Royals",
+      "homePoints": 83,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512290FTW.html"
+    },
+    {
+      "date": "1955-12-29",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 74,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512290MNL.html"
+    },
+    {
+      "date": "1955-12-29",
+      "home": "Philadelphia Warriors",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 112,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512290PHW.html"
+    },
+    {
+      "date": "1955-12-30",
+      "home": "Boston Celtics",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 110,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512300BOS.html"
+    },
+    {
+      "date": "1955-12-30",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 90,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512300FTW.html"
+    },
+    {
+      "date": "1955-12-31",
+      "home": "Rochester Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 100,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512310ROC.html"
+    },
+    {
+      "date": "1955-12-31",
+      "home": "Syracuse Nationals",
+      "visitor": "New York Knicks",
+      "homePoints": 101,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195512310SYR.html"
+    },
+    {
+      "date": "1956-01-01",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 121,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601010BOS.html"
+    },
+    {
+      "date": "1956-01-01",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 85,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601010FTW.html"
+    },
+    {
+      "date": "1956-01-01",
+      "home": "Minneapolis Lakers",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 80,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601010MNL.html"
+    },
+    {
+      "date": "1956-01-01",
+      "home": "New York Knicks",
+      "visitor": "Rochester Royals",
+      "homePoints": 92,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601010NYK.html"
+    },
+    {
+      "date": "1956-01-02",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 89,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601020FTW.html"
+    },
+    {
+      "date": "1956-01-02",
+      "home": "Philadelphia Warriors",
+      "visitor": "Rochester Royals",
+      "homePoints": 130,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601020PHW.html"
+    },
+    {
+      "date": "1956-01-02",
+      "home": "St. Louis Hawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 82,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601020STL.html"
+    },
+    {
+      "date": "1956-01-03",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 97,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601030BOS.html"
+    },
+    {
+      "date": "1956-01-03",
+      "home": "Philadelphia Warriors",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 102,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601030PHW.html"
+    },
+    {
+      "date": "1956-01-04",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 86,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601040BOS.html"
+    },
+    {
+      "date": "1956-01-04",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 94,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601040MNL.html"
+    },
+    {
+      "date": "1956-01-04",
+      "home": "Rochester Royals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 86,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601040ROC.html"
+    },
+    {
+      "date": "1956-01-04",
+      "home": "Syracuse Nationals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 87,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601040SYR.html"
+    },
+    {
+      "date": "1956-01-05",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 92,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601050FTW.html"
+    },
+    {
+      "date": "1956-01-05",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 87,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601050NYK.html"
+    },
+    {
+      "date": "1956-01-06",
+      "home": "Philadelphia Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 104,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601060PHW.html"
+    },
+    {
+      "date": "1956-01-07",
+      "home": "Rochester Royals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 103,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601070ROC.html"
+    },
+    {
+      "date": "1956-01-07",
+      "home": "St. Louis Hawks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 97,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601070STL.html"
+    },
+    {
+      "date": "1956-01-07",
+      "home": "Syracuse Nationals",
+      "visitor": "Boston Celtics",
+      "homePoints": 99,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601070SYR.html"
+    },
+    {
+      "date": "1956-01-08",
+      "home": "Boston Celtics",
+      "visitor": "Rochester Royals",
+      "homePoints": 109,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601080BOS.html"
+    },
+    {
+      "date": "1956-01-08",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 91,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601080FTW.html"
+    },
+    {
+      "date": "1956-01-08",
+      "home": "Minneapolis Lakers",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 99,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601080MNL.html"
+    },
+    {
+      "date": "1956-01-08",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 83,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601080NYK.html"
+    },
+    {
+      "date": "1956-01-10",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 105,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601100FTW.html"
+    },
+    {
+      "date": "1956-01-10",
+      "home": "Minneapolis Lakers",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 90,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601100MNL.html"
+    },
+    {
+      "date": "1956-01-10",
+      "home": "Philadelphia Warriors",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 109,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601100PHW.html"
+    },
+    {
+      "date": "1956-01-11",
+      "home": "Boston Celtics",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 110,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601110BOS.html"
+    },
+    {
+      "date": "1956-01-11",
+      "home": "Rochester Royals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 94,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601110ROC.html"
+    },
+    {
+      "date": "1956-01-12",
+      "home": "Philadelphia Warriors",
+      "visitor": "Rochester Royals",
+      "homePoints": 123,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601120PHW.html"
+    },
+    {
+      "date": "1956-01-12",
+      "home": "Syracuse Nationals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 93,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601120SYR.html"
+    },
+    {
+      "date": "1956-01-13",
+      "home": "Boston Celtics",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 119,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601130BOS.html"
+    },
+    {
+      "date": "1956-01-13",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 98,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601130ROC.html"
+    },
+    {
+      "date": "1956-01-14",
+      "home": "Minneapolis Lakers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 117,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601140MNL.html"
+    },
+    {
+      "date": "1956-01-14",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 101,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601140NYK.html"
+    },
+    {
+      "date": "1956-01-14",
+      "home": "Philadelphia Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 103,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601140PHW.html"
+    },
+    {
+      "date": "1956-01-14",
+      "home": "Rochester Royals",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 102,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601140ROC.html"
+    },
+    {
+      "date": "1956-01-15",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 104,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601150BOS.html"
+    },
+    {
+      "date": "1956-01-15",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 104,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601150FTW.html"
+    },
+    {
+      "date": "1956-01-15",
+      "home": "St. Louis Hawks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 96,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601150STL.html"
+    },
+    {
+      "date": "1956-01-15",
+      "home": "Syracuse Nationals",
+      "visitor": "Rochester Royals",
+      "homePoints": 99,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601150SYR.html"
+    },
+    {
+      "date": "1956-01-17",
+      "home": "Boston Celtics",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 91,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601170BOS.html"
+    },
+    {
+      "date": "1956-01-17",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 97,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601170MNL.html"
+    },
+    {
+      "date": "1956-01-17",
+      "home": "New York Knicks",
+      "visitor": "Rochester Royals",
+      "homePoints": 112,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601170NYK.html"
+    },
+    {
+      "date": "1956-01-18",
+      "home": "Boston Celtics",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 95,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601180BOS.html"
+    },
+    {
+      "date": "1956-01-18",
+      "home": "Minneapolis Lakers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 105,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601180MNL.html"
+    },
+    {
+      "date": "1956-01-18",
+      "home": "Rochester Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 108,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601180ROC.html"
+    },
+    {
+      "date": "1956-01-19",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 90,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601190FTW.html"
+    },
+    {
+      "date": "1956-01-19",
+      "home": "Syracuse Nationals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 122,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601190SYR.html"
+    },
+    {
+      "date": "1956-01-20",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 133,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601200BOS.html"
+    },
+    {
+      "date": "1956-01-20",
+      "home": "Minneapolis Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 109,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601200MNL.html"
+    },
+    {
+      "date": "1956-01-21",
+      "home": "Boston Celtics",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 100,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601210BOS.html"
+    },
+    {
+      "date": "1956-01-21",
+      "home": "New York Knicks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 89,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601210NYK.html"
+    },
+    {
+      "date": "1956-01-21",
+      "home": "Philadelphia Warriors",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 91,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601210PHW.html"
+    },
+    {
+      "date": "1956-01-21",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 97,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601210ROC.html"
+    },
+    {
+      "date": "1956-01-22",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 115,
+      "visitorPoints": 129,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601220BOS.html"
+    },
+    {
+      "date": "1956-01-22",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Rochester Royals",
+      "homePoints": 111,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601220FTW.html"
+    },
+    {
+      "date": "1956-01-22",
+      "home": "Minneapolis Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 95,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601220MNL.html"
+    },
+    {
+      "date": "1956-01-22",
+      "home": "Syracuse Nationals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 105,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601220SYR.html"
+    },
+    {
+      "date": "1956-01-23",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 104,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601230BOS.html"
+    },
+    {
+      "date": "1956-01-25",
+      "home": "Boston Celtics",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 100,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601250BOS.html"
+    },
+    {
+      "date": "1956-01-25",
+      "home": "Minneapolis Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 104,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601250MNL.html"
+    },
+    {
+      "date": "1956-01-25",
+      "home": "Philadelphia Warriors",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 112,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601250PHW.html"
+    },
+    {
+      "date": "1956-01-25",
+      "home": "St. Louis Hawks",
+      "visitor": "Rochester Royals",
+      "homePoints": 114,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601250STL.html"
+    },
+    {
+      "date": "1956-01-26",
+      "home": "Syracuse Nationals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 100,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601260SYR.html"
+    },
+    {
+      "date": "1956-01-27",
+      "home": "Boston Celtics",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 97,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601270BOS.html"
+    },
+    {
+      "date": "1956-01-27",
+      "home": "New York Knicks",
+      "visitor": "Rochester Royals",
+      "homePoints": 93,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601270NYK.html"
+    },
+    {
+      "date": "1956-01-28",
+      "home": "Minneapolis Lakers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 85,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601280MNL.html"
+    },
+    {
+      "date": "1956-01-28",
+      "home": "New York Knicks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 91,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601280NYK.html"
+    },
+    {
+      "date": "1956-01-28",
+      "home": "Rochester Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 119,
+      "visitorPoints": 126,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601280ROC.html"
+    },
+    {
+      "date": "1956-01-28",
+      "home": "St. Louis Hawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 93,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601280STL.html"
+    },
+    {
+      "date": "1956-01-29",
+      "home": "Boston Celtics",
+      "visitor": "Rochester Royals",
+      "homePoints": 112,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601290BOS.html"
+    },
+    {
+      "date": "1956-01-29",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 99,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601290FTW.html"
+    },
+    {
+      "date": "1956-01-29",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 107,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601290MNL.html"
+    },
+    {
+      "date": "1956-01-29",
+      "home": "Syracuse Nationals",
+      "visitor": "New York Knicks",
+      "homePoints": 95,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601290SYR.html"
+    },
+    {
+      "date": "1956-01-31",
+      "home": "Minneapolis Lakers",
+      "visitor": "Rochester Royals",
+      "homePoints": 92,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601310MNL.html"
+    },
+    {
+      "date": "1956-01-31",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 105,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601310NYK.html"
+    },
+    {
+      "date": "1956-01-31",
+      "home": "St. Louis Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 114,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195601310STL.html"
+    },
+    {
+      "date": "1956-02-01",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 90,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602010FTW.html"
+    },
+    {
+      "date": "1956-02-01",
+      "home": "Minneapolis Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 107,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602010MNL.html"
+    },
+    {
+      "date": "1956-02-01",
+      "home": "Philadelphia Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 104,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602010PHW.html"
+    },
+    {
+      "date": "1956-02-01",
+      "home": "Rochester Royals",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 83,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602010ROC.html"
+    },
+    {
+      "date": "1956-02-02",
+      "home": "Boston Celtics",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 102,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602020BOS.html"
+    },
+    {
+      "date": "1956-02-02",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 87,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602020NYK.html"
+    },
+    {
+      "date": "1956-02-02",
+      "home": "Syracuse Nationals",
+      "visitor": "Rochester Royals",
+      "homePoints": 97,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602020SYR.html"
+    },
+    {
+      "date": "1956-02-03",
+      "home": "Philadelphia Warriors",
+      "visitor": "Rochester Royals",
+      "homePoints": 96,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602030PHW.html"
+    },
+    {
+      "date": "1956-02-04",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 94,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602040FTW.html"
+    },
+    {
+      "date": "1956-02-04",
+      "home": "New York Knicks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 94,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602040NYK.html"
+    },
+    {
+      "date": "1956-02-04",
+      "home": "Rochester Royals",
+      "visitor": "Boston Celtics",
+      "homePoints": 83,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602040ROC.html"
+    },
+    {
+      "date": "1956-02-05",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 114,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602050BOS.html"
+    },
+    {
+      "date": "1956-02-05",
+      "home": "Minneapolis Lakers",
+      "visitor": "Rochester Royals",
+      "homePoints": 109,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602050MNL.html"
+    },
+    {
+      "date": "1956-02-05",
+      "home": "St. Louis Hawks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 105,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602050STL.html"
+    },
+    {
+      "date": "1956-02-05",
+      "home": "Syracuse Nationals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 90,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602050SYR.html"
+    },
+    {
+      "date": "1956-02-06",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 99,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602060FTW.html"
+    },
+    {
+      "date": "1956-02-07",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 113,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602070NYK.html"
+    },
+    {
+      "date": "1956-02-07",
+      "home": "Philadelphia Warriors",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 128,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602070PHW.html"
+    },
+    {
+      "date": "1956-02-08",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 110,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602080BOS.html"
+    },
+    {
+      "date": "1956-02-08",
+      "home": "Minneapolis Lakers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 106,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602080MNL.html"
+    },
+    {
+      "date": "1956-02-08",
+      "home": "Rochester Royals",
+      "visitor": "New York Knicks",
+      "homePoints": 97,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602080ROC.html"
+    },
+    {
+      "date": "1956-02-09",
+      "home": "Philadelphia Warriors",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 108,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602090PHW.html"
+    },
+    {
+      "date": "1956-02-09",
+      "home": "Syracuse Nationals",
+      "visitor": "Boston Celtics",
+      "homePoints": 97,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602090SYR.html"
+    },
+    {
+      "date": "1956-02-10",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 124,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602100BOS.html"
+    },
+    {
+      "date": "1956-02-10",
+      "home": "New York Knicks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 88,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602100NYK.html"
+    },
+    {
+      "date": "1956-02-11",
+      "home": "Minneapolis Lakers",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 102,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602110MNL.html"
+    },
+    {
+      "date": "1956-02-11",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 107,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602110NYK.html"
+    },
+    {
+      "date": "1956-02-11",
+      "home": "Rochester Royals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 97,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602110ROC.html"
+    },
+    {
+      "date": "1956-02-12",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 116,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602120BOS.html"
+    },
+    {
+      "date": "1956-02-12",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 82,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602120FTW.html"
+    },
+    {
+      "date": "1956-02-12",
+      "home": "St. Louis Hawks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 79,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602120STL.html"
+    },
+    {
+      "date": "1956-02-12",
+      "home": "Syracuse Nationals",
+      "visitor": "Rochester Royals",
+      "homePoints": 101,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602120SYR.html"
+    },
+    {
+      "date": "1956-02-14",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 94,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602140FTW.html"
+    },
+    {
+      "date": "1956-02-14",
+      "home": "Minneapolis Lakers",
+      "visitor": "Rochester Royals",
+      "homePoints": 110,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602140MNL.html"
+    },
+    {
+      "date": "1956-02-14",
+      "home": "St. Louis Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 99,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602140STL.html"
+    },
+    {
+      "date": "1956-02-15",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 78,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602150FTW.html"
+    },
+    {
+      "date": "1956-02-15",
+      "home": "Minneapolis Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 113,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602150MNL.html"
+    },
+    {
+      "date": "1956-02-16",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Rochester Royals",
+      "homePoints": 93,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602160FTW.html"
+    },
+    {
+      "date": "1956-02-17",
+      "home": "New York Knicks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 86,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602170NYK.html"
+    },
+    {
+      "date": "1956-02-17",
+      "home": "Philadelphia Warriors",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 134,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602170PHW.html"
+    },
+    {
+      "date": "1956-02-18",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 101,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602180BOS.html"
+    },
+    {
+      "date": "1956-02-18",
+      "home": "Rochester Royals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 99,
+      "visitorPoints": 119,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602180ROC.html"
+    },
+    {
+      "date": "1956-02-18",
+      "home": "Syracuse Nationals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 85,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602180SYR.html"
+    },
+    {
+      "date": "1956-02-19",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 120,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602190BOS.html"
+    },
+    {
+      "date": "1956-02-19",
+      "home": "Minneapolis Lakers",
+      "visitor": "Rochester Royals",
+      "homePoints": 100,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602190MNL.html"
+    },
+    {
+      "date": "1956-02-19",
+      "home": "St. Louis Hawks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 83,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602190STL.html"
+    },
+    {
+      "date": "1956-02-19",
+      "home": "Syracuse Nationals",
+      "visitor": "New York Knicks",
+      "homePoints": 118,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602190SYR.html"
+    },
+    {
+      "date": "1956-02-20",
+      "home": "Fort Wayne Pistons",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 82,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602200FTW.html"
+    },
+    {
+      "date": "1956-02-21",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Rochester Royals",
+      "homePoints": 102,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602210FTW.html"
+    },
+    {
+      "date": "1956-02-21",
+      "home": "New York Knicks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 107,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602210NYK.html"
+    },
+    {
+      "date": "1956-02-21",
+      "home": "St. Louis Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 101,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602210STL.html"
+    },
+    {
+      "date": "1956-02-22",
+      "home": "Minneapolis Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 90,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602220MNL.html"
+    },
+    {
+      "date": "1956-02-22",
+      "home": "Philadelphia Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 108,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602220PHW.html"
+    },
+    {
+      "date": "1956-02-22",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 110,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602220ROC.html"
+    },
+    {
+      "date": "1956-02-23",
+      "home": "Syracuse Nationals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 94,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602230SYR.html"
+    },
+    {
+      "date": "1956-02-24",
+      "home": "Philadelphia Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 135,
+      "visitorPoints": 129,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602240PHW.html"
+    },
+    {
+      "date": "1956-02-24",
+      "home": "St. Louis Hawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 116,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602240STL.html"
+    },
+    {
+      "date": "1956-02-25",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 89,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602250NYK.html"
+    },
+    {
+      "date": "1956-02-25",
+      "home": "Rochester Royals",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 72,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602250ROC.html"
+    },
+    {
+      "date": "1956-02-26",
+      "home": "Boston Celtics",
+      "visitor": "Rochester Royals",
+      "homePoints": 111,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602260BOS.html"
+    },
+    {
+      "date": "1956-02-26",
+      "home": "Minneapolis Lakers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 90,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602260MNL.html"
+    },
+    {
+      "date": "1956-02-26",
+      "home": "St. Louis Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 103,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602260STL.html"
+    },
+    {
+      "date": "1956-02-26",
+      "home": "Syracuse Nationals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 85,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602260SYR.html"
+    },
+    {
+      "date": "1956-02-27",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 95,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602270FTW.html"
+    },
+    {
+      "date": "1956-02-27",
+      "home": "New York Knicks",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 113,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602270NYK.html"
+    },
+    {
+      "date": "1956-02-28",
+      "home": "Boston Celtics",
+      "visitor": "Rochester Royals",
+      "homePoints": 97,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602280BOS.html"
+    },
+    {
+      "date": "1956-02-28",
+      "home": "New York Knicks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 95,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602280NYK.html"
+    },
+    {
+      "date": "1956-02-29",
+      "home": "Boston Celtics",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 106,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602290BOS.html"
+    },
+    {
+      "date": "1956-02-29",
+      "home": "Minneapolis Lakers",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 98,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602290MNL.html"
+    },
+    {
+      "date": "1956-02-29",
+      "home": "Philadelphia Warriors",
+      "visitor": "Rochester Royals",
+      "homePoints": 86,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195602290PHW.html"
+    },
+    {
+      "date": "1956-03-01",
+      "home": "Philadelphia Warriors",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 100,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603010PHW.html"
+    },
+    {
+      "date": "1956-03-01",
+      "home": "St. Louis Hawks",
+      "visitor": "Rochester Royals",
+      "homePoints": 94,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603010STL.html"
+    },
+    {
+      "date": "1956-03-01",
+      "home": "Syracuse Nationals",
+      "visitor": "Boston Celtics",
+      "homePoints": 111,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603010SYR.html"
+    },
+    {
+      "date": "1956-03-02",
+      "home": "Boston Celtics",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 119,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603020BOS.html"
+    },
+    {
+      "date": "1956-03-02",
+      "home": "Fort Wayne Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 104,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603020FTW.html"
+    },
+    {
+      "date": "1956-03-03",
+      "home": "Philadelphia Warriors",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 102,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603030PHW.html"
+    },
+    {
+      "date": "1956-03-03",
+      "home": "Rochester Royals",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 94,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603030ROC.html"
+    },
+    {
+      "date": "1956-03-03",
+      "home": "St. Louis Hawks",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 92,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603030STL.html"
+    },
+    {
+      "date": "1956-03-04",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 128,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603040BOS.html"
+    },
+    {
+      "date": "1956-03-04",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Rochester Royals",
+      "homePoints": 103,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603040FTW.html"
+    },
+    {
+      "date": "1956-03-04",
+      "home": "Minneapolis Lakers",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 113,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603040MNL.html"
+    },
+    {
+      "date": "1956-03-04",
+      "home": "Syracuse Nationals",
+      "visitor": "New York Knicks",
+      "homePoints": 111,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603040SYR.html"
+    },
+    {
+      "date": "1956-03-06",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 119,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603060NYK.html"
+    },
+    {
+      "date": "1956-03-06",
+      "home": "Philadelphia Warriors",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 97,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603060PHW.html"
+    },
+    {
+      "date": "1956-03-07",
+      "home": "Boston Celtics",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 111,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603070BOS.html"
+    },
+    {
+      "date": "1956-03-07",
+      "home": "Minneapolis Lakers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 98,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603070MNL.html"
+    },
+    {
+      "date": "1956-03-07",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 87,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603070NYK.html"
+    },
+    {
+      "date": "1956-03-07",
+      "home": "Rochester Royals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 89,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603070ROC.html"
+    },
+    {
+      "date": "1956-03-08",
+      "home": "Fort Wayne Pistons",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 100,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603080FTW.html"
+    },
+    {
+      "date": "1956-03-08",
+      "home": "Philadelphia Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 142,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603080PHW.html"
+    },
+    {
+      "date": "1956-03-08",
+      "home": "Syracuse Nationals",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 92,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603080SYR.html"
+    },
+    {
+      "date": "1956-03-09",
+      "home": "St. Louis Hawks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 103,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603090STL.html"
+    },
+    {
+      "date": "1956-03-10",
+      "home": "Boston Celtics",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 103,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603100BOS.html"
+    },
+    {
+      "date": "1956-03-10",
+      "home": "New York Knicks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 104,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603100NYK.html"
+    },
+    {
+      "date": "1956-03-10",
+      "home": "Rochester Royals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 111,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603100ROC.html"
+    },
+    {
+      "date": "1956-03-10",
+      "home": "St. Louis Hawks",
+      "visitor": "Minneapolis Lakers",
+      "homePoints": 105,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603100STL.html"
+    },
+    {
+      "date": "1956-03-11",
+      "home": "Boston Celtics",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 121,
+      "visitorPoints": 127,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603110BOS.html"
+    },
+    {
+      "date": "1956-03-11",
+      "home": "Fort Wayne Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 96,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603110FTW.html"
+    },
+    {
+      "date": "1956-03-11",
+      "home": "Minneapolis Lakers",
+      "visitor": "Rochester Royals",
+      "homePoints": 126,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603110MNL.html"
+    },
+    {
+      "date": "1956-03-11",
+      "home": "Syracuse Nationals",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 99,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603110SYR.html"
+    },
+    {
+      "date": "1956-03-12",
+      "home": "St. Louis Hawks",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 92,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603120STL.html"
+    },
+    {
+      "date": "1956-03-13",
+      "home": "Minneapolis Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 102,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603130MNL.html"
+    },
+    {
+      "date": "1956-03-13",
+      "home": "Philadelphia Warriors",
+      "visitor": "St. Louis Hawks",
+      "homePoints": 116,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603130PHW.html"
+    },
+    {
+      "date": "1956-03-14",
+      "home": "Boston Celtics",
+      "visitor": "Syracuse Nationals",
+      "homePoints": 122,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603140BOS.html"
+    },
+    {
+      "date": "1956-03-14",
+      "home": "Minneapolis Lakers",
+      "visitor": "Fort Wayne Pistons",
+      "homePoints": 100,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603140MNL.html"
+    },
+    {
+      "date": "1956-03-14",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia Warriors",
+      "homePoints": 115,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/195603140NYK.html"
+    }
+  ]
+}

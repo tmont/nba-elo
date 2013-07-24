@@ -1,0 +1,2948 @@
+{
+  "standings": [
+    {
+      "team": "Boston Celtics",
+      "rating": 1268.2476094552565,
+      "wins": 44,
+      "losses": 28,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 115-112 vs New York Knicks on 1956-10-27"
+        },
+        {
+          "diff": -396.0396039603961,
+          "newRating": 1203.960396039604,
+          "result": "L 107-113 vs New York Knicks on 1956-11-03"
+        },
+        {
+          "diff": 93.19221946584707,
+          "newRating": 1297.152615505451,
+          "result": "W 117-110 vs Minneapolis Lakers on 1956-11-10"
+        },
+        {
+          "diff": 158.57068145695507,
+          "newRating": 1455.723296962406,
+          "result": "W 94-83 vs Syracuse Nationals on 1956-11-11"
+        },
+        {
+          "diff": -148.74019005554464,
+          "newRating": 1306.9831069068614,
+          "result": "L 97-113 vs Minneapolis Lakers on 1956-11-14"
+        },
+        {
+          "diff": -120.93322398173268,
+          "newRating": 1186.0498829251287,
+          "result": "L 95-98 vs Fort Wayne Pistons on 1956-11-15"
+        },
+        {
+          "diff": 50.52832038005408,
+          "newRating": 1236.5782033051828,
+          "result": "W 108-86 vs Rochester Royals on 1956-11-17"
+        },
+        {
+          "diff": 33.625352151262405,
+          "newRating": 1270.2035554564452,
+          "result": "W 101-87 vs Rochester Royals on 1956-11-18"
+        },
+        {
+          "diff": 27.560960967905203,
+          "newRating": 1297.7645164243504,
+          "result": "W 95-83 vs Philadelphia Warriors on 1956-11-21"
+        },
+        {
+          "diff": 20.15514018842555,
+          "newRating": 1317.919656612776,
+          "result": "W 101-78 vs Philadelphia Warriors on 1956-11-22"
+        },
+        {
+          "diff": 25.51228984296631,
+          "newRating": 1343.4319464557423,
+          "result": "W 114-99 vs Syracuse Nationals on 1956-11-24"
+        },
+        {
+          "diff": 42.58004960353446,
+          "newRating": 1386.0119960592767,
+          "result": "W 102-90 vs St. Louis Hawks on 1956-11-27"
+        },
+        {
+          "diff": 14.96199426009207,
+          "newRating": 1400.9739903193688,
+          "result": "W 105-93 vs Minneapolis Lakers on 1956-11-28"
+        },
+        {
+          "diff": 10.602735479615603,
+          "newRating": 1411.5767257989844,
+          "result": "W 104-102 vs Fort Wayne Pistons on 1956-11-30"
+        },
+        {
+          "diff": 9.006512811089351,
+          "newRating": 1420.5832386100737,
+          "result": "W 108-93 vs Fort Wayne Pistons on 1956-12-01"
+        },
+        {
+          "diff": 20.720952244180808,
+          "newRating": 1441.3041908542546,
+          "result": "W 108-107 vs St. Louis Hawks on 1956-12-04"
+        },
+        {
+          "diff": -40.605256327645975,
+          "newRating": 1400.6989345266086,
+          "result": "L 111-113 vs Philadelphia Warriors on 1956-12-06"
+        },
+        {
+          "diff": 9.63241771688331,
+          "newRating": 1410.331352243492,
+          "result": "W 121-114 vs Minneapolis Lakers on 1956-12-07"
+        },
+        {
+          "diff": -36.211111933156644,
+          "newRating": 1374.1202403103352,
+          "result": "L 110-116 vs Syracuse Nationals on 1956-12-09"
+        },
+        {
+          "diff": 7.881611146213345,
+          "newRating": 1382.0018514565486,
+          "result": "W 113-97 vs Fort Wayne Pistons on 1956-12-11"
+        },
+        {
+          "diff": -27.720550311175657,
+          "newRating": 1354.281301145373,
+          "result": "L 93-103 vs Rochester Royals on 1956-12-12"
+        },
+        {
+          "diff": 12.273060090470153,
+          "newRating": 1366.554361235843,
+          "result": "W 102-99 vs St. Louis Hawks on 1956-12-15"
+        },
+        {
+          "diff": -25.254295052153566,
+          "newRating": 1341.3000661836895,
+          "result": "L 104-116 vs Philadelphia Warriors on 1956-12-16"
+        },
+        {
+          "diff": -24.37085971458123,
+          "newRating": 1316.9292064691083,
+          "result": "L 99-110 vs New York Knicks on 1956-12-18"
+        },
+        {
+          "diff": 11.475900776422804,
+          "newRating": 1328.405107245531,
+          "result": "W 95-93 vs St. Louis Hawks on 1956-12-22"
+        },
+        {
+          "diff": -23.338373484415797,
+          "newRating": 1305.0667337611153,
+          "result": "L 87-95 vs Fort Wayne Pistons on 1956-12-23"
+        },
+        {
+          "diff": -17.7205438838148,
+          "newRating": 1287.3461898773005,
+          "result": "L 82-89 vs Philadelphia Warriors on 1956-12-25"
+        },
+        {
+          "diff": 12.936289750210562,
+          "newRating": 1300.282479627511,
+          "result": "W 120-97 vs Philadelphia Warriors on 1956-12-26"
+        },
+        {
+          "diff": 9.665481800465841,
+          "newRating": 1309.947961427977,
+          "result": "W 97-92 vs Rochester Royals on 1956-12-27"
+        },
+        {
+          "diff": 7.583303450860285,
+          "newRating": 1317.5312648788372,
+          "result": "W 105-92 vs Syracuse Nationals on 1956-12-30"
+        },
+        {
+          "diff": 9.286760634855455,
+          "newRating": 1326.8180255136926,
+          "result": "W 100-87 vs Philadelphia Warriors on 1957-01-01"
+        },
+        {
+          "diff": -18.56801390881401,
+          "newRating": 1308.2500116048786,
+          "result": "L 106-116 vs Syracuse Nationals on 1957-01-04"
+        },
+        {
+          "diff": 8.385791960431106,
+          "newRating": 1316.6358035653097,
+          "result": "W 118-92 vs Fort Wayne Pistons on 1957-01-06"
+        },
+        {
+          "diff": -16.577335025811408,
+          "newRating": 1300.0584685394983,
+          "result": "L 102-113 vs New York Knicks on 1957-01-08"
+        },
+        {
+          "diff": 8.180768452872144,
+          "newRating": 1308.2392369923705,
+          "result": "W 98-81 vs Fort Wayne Pistons on 1957-01-10"
+        },
+        {
+          "diff": -14.91962283587668,
+          "newRating": 1293.3196141564938,
+          "result": "L 98-100 vs St. Louis Hawks on 1957-01-12"
+        },
+        {
+          "diff": -15.165691321285294,
+          "newRating": 1278.1539228352085,
+          "result": "L 87-104 vs Minneapolis Lakers on 1957-01-13"
+        },
+        {
+          "diff": 8.440607411416295,
+          "newRating": 1286.5945302466248,
+          "result": "W 126-117 vs St. Louis Hawks on 1957-01-18"
+        },
+        {
+          "diff": 6.878624567597399,
+          "newRating": 1293.4731548142222,
+          "result": "W 97-83 vs Rochester Royals on 1957-01-19"
+        },
+        {
+          "diff": 7.791719519584376,
+          "newRating": 1301.2648743338066,
+          "result": "W 114-78 vs New York Knicks on 1957-01-20"
+        },
+        {
+          "diff": 6.2215422342510465,
+          "newRating": 1307.4864165680576,
+          "result": "W 140-108 vs Syracuse Nationals on 1957-01-23"
+        },
+        {
+          "diff": 5.934622648320328,
+          "newRating": 1313.421039216378,
+          "result": "W 115-106 vs Minneapolis Lakers on 1957-01-25"
+        },
+        {
+          "diff": 6.898960332314573,
+          "newRating": 1320.3199995486925,
+          "result": "W 107-87 vs Philadelphia Warriors on 1957-01-27"
+        },
+        {
+          "diff": 6.41957982234976,
+          "newRating": 1326.7395793710423,
+          "result": "W 105-95 vs Philadelphia Warriors on 1957-01-28"
+        },
+        {
+          "diff": 4.521598573409619,
+          "newRating": 1331.261177944452,
+          "result": "W 103-91 vs Minneapolis Lakers on 1957-01-29"
+        },
+        {
+          "diff": -11.868260210677363,
+          "newRating": 1319.3929177337745,
+          "result": "L 116-119 vs Syracuse Nationals on 1957-01-30"
+        },
+        {
+          "diff": -11.099640916324688,
+          "newRating": 1308.2932768174499,
+          "result": "L 104-105 vs Syracuse Nationals on 1957-01-31"
+        },
+        {
+          "diff": 5.862429440208189,
+          "newRating": 1314.155706257658,
+          "result": "W 114-111 vs New York Knicks on 1957-02-02"
+        },
+        {
+          "diff": 5.496616909956856,
+          "newRating": 1319.652323167615,
+          "result": "W 116-98 vs New York Knicks on 1957-02-03"
+        },
+        {
+          "diff": 5.7686269346800145,
+          "newRating": 1325.420950102295,
+          "result": "W 105-101 vs Syracuse Nationals on 1957-02-05"
+        },
+        {
+          "diff": 4.77154478543207,
+          "newRating": 1330.192494887727,
+          "result": "W 108-93 vs Fort Wayne Pistons on 1957-02-06"
+        },
+        {
+          "diff": -10.63547949615213,
+          "newRating": 1319.5570153915749,
+          "result": "L 90-92 vs New York Knicks on 1957-02-08"
+        },
+        {
+          "diff": -11.015541826599474,
+          "newRating": 1308.5414735649754,
+          "result": "L 102-103 vs Rochester Royals on 1957-02-09"
+        },
+        {
+          "diff": 5.549855100486411,
+          "newRating": 1314.0913286654618,
+          "result": "W 103-98 vs Philadelphia Warriors on 1957-02-10"
+        },
+        {
+          "diff": -10.677930777813799,
+          "newRating": 1303.413397887648,
+          "result": "L 114-115 vs Minneapolis Lakers on 1957-02-13"
+        },
+        {
+          "diff": -9.78722195650198,
+          "newRating": 1293.626175931146,
+          "result": "L 106-112 vs Fort Wayne Pistons on 1957-02-14"
+        },
+        {
+          "diff": 5.126479817169866,
+          "newRating": 1298.7526557483159,
+          "result": "W 123-116 vs St. Louis Hawks on 1957-02-15"
+        },
+        {
+          "diff": -8.601757650721083,
+          "newRating": 1290.1508980975948,
+          "result": "L 106-116 vs Syracuse Nationals on 1957-02-17"
+        },
+        {
+          "diff": 4.794285661320373,
+          "newRating": 1294.9451837589152,
+          "result": "W 112-110 vs New York Knicks on 1957-02-19"
+        },
+        {
+          "diff": 4.979961966436349,
+          "newRating": 1299.9251457253515,
+          "result": "W 125-112 vs St. Louis Hawks on 1957-02-21"
+        },
+        {
+          "diff": -7.945681791135485,
+          "newRating": 1291.979463934216,
+          "result": "L 109-117 vs Philadelphia Warriors on 1957-02-22"
+        },
+        {
+          "diff": 4.458332355298808,
+          "newRating": 1296.4377962895148,
+          "result": "W 97-85 vs New York Knicks on 1957-02-24"
+        },
+        {
+          "diff": 3.5469471220937976,
+          "newRating": 1299.9847434116086,
+          "result": "W 92-77 vs Rochester Royals on 1957-02-26"
+        },
+        {
+          "diff": -8.272238434305336,
+          "newRating": 1291.7125049773033,
+          "result": "L 121-122 vs New York Knicks on 1957-02-28"
+        },
+        {
+          "diff": 5.084864849623727,
+          "newRating": 1296.797369826927,
+          "result": "W 90-80 vs Philadelphia Warriors on 1957-03-01"
+        },
+        {
+          "diff": -8.77365207808839,
+          "newRating": 1288.0237177488386,
+          "result": "L 87-96 vs Rochester Royals on 1957-03-02"
+        },
+        {
+          "diff": 3.542181288298252,
+          "newRating": 1291.565899037137,
+          "result": "W 111-102 vs Rochester Royals on 1957-03-03"
+        },
+        {
+          "diff": -7.518660116235878,
+          "newRating": 1284.047238920901,
+          "result": "L 102-104 vs St. Louis Hawks on 1957-03-05"
+        },
+        {
+          "diff": -7.986922582017542,
+          "newRating": 1276.0603163388835,
+          "result": "L 104-109 vs Minneapolis Lakers on 1957-03-07"
+        },
+        {
+          "diff": -6.368258935435733,
+          "newRating": 1269.6920574034477,
+          "result": "L 102-104 vs Syracuse Nationals on 1957-03-09"
+        },
+        {
+          "diff": -6.073975913481263,
+          "newRating": 1263.6180814899665,
+          "result": "L 92-94 vs Syracuse Nationals on 1957-03-10"
+        },
+        {
+          "diff": 4.629527965289981,
+          "newRating": 1268.2476094552565,
+          "result": "W 122-91 vs New York Knicks on 1957-03-13"
+        }
+      ]
+    },
+    {
+      "team": "Syracuse Nationals",
+      "rating": 1241.5634181699313,
+      "wins": 38,
+      "losses": 34,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 109-103 vs Philadelphia Warriors on 1956-10-27"
+        },
+        {
+          "diff": 200,
+          "newRating": 1800,
+          "result": "W 91-75 vs Rochester Royals on 1956-10-28"
+        },
+        {
+          "diff": 64.06748622721125,
+          "newRating": 1864.0674862272112,
+          "result": "W 75-73 vs St. Louis Hawks on 1956-11-03"
+        },
+        {
+          "diff": -177.65612942760777,
+          "newRating": 1686.4113567996035,
+          "result": "L 76-78 vs St. Louis Hawks on 1956-11-04"
+        },
+        {
+          "diff": -156.0927001813368,
+          "newRating": 1530.3186566182667,
+          "result": "L 76-90 vs Rochester Royals on 1956-11-10"
+        },
+        {
+          "diff": -105.71378763796997,
+          "newRating": 1424.6048689802967,
+          "result": "L 83-94 vs Boston Celtics on 1956-11-11"
+        },
+        {
+          "diff": -98.98002465132527,
+          "newRating": 1325.6248443289714,
+          "result": "L 96-103 vs Minneapolis Lakers on 1956-11-15"
+        },
+        {
+          "diff": -79.41068699506968,
+          "newRating": 1246.2141573339018,
+          "result": "L 96-109 vs Philadelphia Warriors on 1956-11-17"
+        },
+        {
+          "diff": 33.84366830543263,
+          "newRating": 1280.0578256393344,
+          "result": "W 99-97 vs Philadelphia Warriors on 1956-11-18"
+        },
+        {
+          "diff": -14.381637571803367,
+          "newRating": 1265.676188067531,
+          "result": "L 81-104 vs St. Louis Hawks on 1956-11-20"
+        },
+        {
+          "diff": -54.68868999165693,
+          "newRating": 1210.987498075874,
+          "result": "L 78-111 vs Minneapolis Lakers on 1956-11-22"
+        },
+        {
+          "diff": -23.38626568938571,
+          "newRating": 1187.6012323864884,
+          "result": "L 99-114 vs Boston Celtics on 1956-11-24"
+        },
+        {
+          "diff": -33.027762609568526,
+          "newRating": 1154.5734697769199,
+          "result": "L 82-90 vs Rochester Royals on 1956-11-27"
+        },
+        {
+          "diff": -31.871541484519867,
+          "newRating": 1122.7019282924,
+          "result": "L 87-92 vs Fort Wayne Pistons on 1956-11-29"
+        },
+        {
+          "diff": -31.93258841761417,
+          "newRating": 1090.7693398747858,
+          "result": "L 100-117 vs New York Knicks on 1956-12-01"
+        },
+        {
+          "diff": 24.757083685097086,
+          "newRating": 1115.526423559883,
+          "result": "W 110-100 vs New York Knicks on 1956-12-02"
+        },
+        {
+          "diff": 24.291667328766835,
+          "newRating": 1139.8180908886497,
+          "result": "W 97-96 vs Fort Wayne Pistons on 1956-12-04"
+        },
+        {
+          "diff": -24.514981043288344,
+          "newRating": 1115.3031098453614,
+          "result": "L 92-104 vs Fort Wayne Pistons on 1956-12-06"
+        },
+        {
+          "diff": -20.339992259899873,
+          "newRating": 1094.9631175854615,
+          "result": "L 97-105 vs Fort Wayne Pistons on 1956-12-07"
+        },
+        {
+          "diff": 34.40055633649877,
+          "newRating": 1129.3636739219603,
+          "result": "W 116-110 vs Boston Celtics on 1956-12-09"
+        },
+        {
+          "diff": -16.158433044245385,
+          "newRating": 1113.205240877715,
+          "result": "L 108-117 vs Philadelphia Warriors on 1956-12-15"
+        },
+        {
+          "diff": 23.831252361268753,
+          "newRating": 1137.0364932389837,
+          "result": "W 101-91 vs St. Louis Hawks on 1956-12-16"
+        },
+        {
+          "diff": 19.2068659736849,
+          "newRating": 1156.2433592126686,
+          "result": "W 107-97 vs Minneapolis Lakers on 1956-12-23"
+        },
+        {
+          "diff": -14.728096734684868,
+          "newRating": 1141.5152624779837,
+          "result": "L 93-98 vs Rochester Royals on 1956-12-25"
+        },
+        {
+          "diff": -12.5060002741061,
+          "newRating": 1129.0092622038776,
+          "result": "L 95-102 vs St. Louis Hawks on 1956-12-27"
+        },
+        {
+          "diff": 20.6201066488984,
+          "newRating": 1149.629368852776,
+          "result": "W 104-103 vs Philadelphia Warriors on 1956-12-29"
+        },
+        {
+          "diff": -8.425892723178094,
+          "newRating": 1141.203476129598,
+          "result": "L 92-105 vs Boston Celtics on 1956-12-30"
+        },
+        {
+          "diff": 15.370149762161873,
+          "newRating": 1156.5736258917598,
+          "result": "W 106-102 vs New York Knicks on 1957-01-01"
+        },
+        {
+          "diff": -13.923742843271157,
+          "newRating": 1142.6498830484886,
+          "result": "L 111-126 vs New York Knicks on 1957-01-03"
+        },
+        {
+          "diff": 19.80588150273502,
+          "newRating": 1162.4557645512236,
+          "result": "W 116-106 vs Boston Celtics on 1957-01-04"
+        },
+        {
+          "diff": 15.888093230714276,
+          "newRating": 1178.343857781938,
+          "result": "W 128-123 vs Philadelphia Warriors on 1957-01-06"
+        },
+        {
+          "diff": -15.024001411500194,
+          "newRating": 1163.3198563704377,
+          "result": "L 86-93 vs Minneapolis Lakers on 1957-01-09"
+        },
+        {
+          "diff": -13.605281755364786,
+          "newRating": 1149.714574615073,
+          "result": "L 110-118 vs Minneapolis Lakers on 1957-01-10"
+        },
+        {
+          "diff": 13.443637499035503,
+          "newRating": 1163.1582121141084,
+          "result": "W 97-88 vs Rochester Royals on 1957-01-12"
+        },
+        {
+          "diff": 12.241629372258785,
+          "newRating": 1175.3998414863672,
+          "result": "W 91-85 vs Rochester Royals on 1957-01-13"
+        },
+        {
+          "diff": 12.727461777383951,
+          "newRating": 1188.1273032637512,
+          "result": "W 108-103 vs Philadelphia Warriors on 1957-01-17"
+        },
+        {
+          "diff": -9.980997166253928,
+          "newRating": 1178.1463060974972,
+          "result": "L 94-96 vs Philadelphia Warriors on 1957-01-18"
+        },
+        {
+          "diff": -9.860094138269233,
+          "newRating": 1168.286211959228,
+          "result": "L 96-104 vs St. Louis Hawks on 1957-01-19"
+        },
+        {
+          "diff": 10.283656947025065,
+          "newRating": 1178.569868906253,
+          "result": "W 101-98 vs Fort Wayne Pistons on 1957-01-20"
+        },
+        {
+          "diff": -9.164299389429743,
+          "newRating": 1169.4055695168233,
+          "result": "L 88-90 vs New York Knicks on 1957-01-22"
+        },
+        {
+          "diff": -6.2215422342510465,
+          "newRating": 1163.1840272825723,
+          "result": "L 108-140 vs Boston Celtics on 1957-01-23"
+        },
+        {
+          "diff": 10.719002261034575,
+          "newRating": 1173.9030295436069,
+          "result": "W 115-97 vs New York Knicks on 1957-01-24"
+        },
+        {
+          "diff": 8.282325057776006,
+          "newRating": 1182.1853546013829,
+          "result": "W 99-95 vs Rochester Royals on 1957-01-26"
+        },
+        {
+          "diff": 8.3998995264119,
+          "newRating": 1190.5852541277948,
+          "result": "W 94-93 vs Minneapolis Lakers on 1957-01-27"
+        },
+        {
+          "diff": 7.792505520586701,
+          "newRating": 1198.3777596483815,
+          "result": "W 112-96 vs Minneapolis Lakers on 1957-01-28"
+        },
+        {
+          "diff": 11.868260210677363,
+          "newRating": 1210.2460198590588,
+          "result": "W 119-116 vs Boston Celtics on 1957-01-30"
+        },
+        {
+          "diff": 11.099640916324688,
+          "newRating": 1221.3456607753835,
+          "result": "W 105-104 vs Boston Celtics on 1957-01-31"
+        },
+        {
+          "diff": -8.632900662806378,
+          "newRating": 1212.7127601125771,
+          "result": "L 100-107 vs Philadelphia Warriors on 1957-02-02"
+        },
+        {
+          "diff": 7.394976191746082,
+          "newRating": 1220.1077363043232,
+          "result": "W 104-95 vs Fort Wayne Pistons on 1957-02-03"
+        },
+        {
+          "diff": -5.7686269346800145,
+          "newRating": 1214.3391093696432,
+          "result": "L 101-105 vs Boston Celtics on 1957-02-05"
+        },
+        {
+          "diff": -8.577265691892308,
+          "newRating": 1205.761843677751,
+          "result": "L 100-119 vs New York Knicks on 1957-02-06"
+        },
+        {
+          "diff": 7.714125539567931,
+          "newRating": 1213.4759692173188,
+          "result": "W 112-110 vs St. Louis Hawks on 1957-02-07"
+        },
+        {
+          "diff": 7.266955563309693,
+          "newRating": 1220.7429247806285,
+          "result": "W 101-89 vs New York Knicks on 1957-02-09"
+        },
+        {
+          "diff": 6.826454177517235,
+          "newRating": 1227.5693789581458,
+          "result": "W 102-100 vs New York Knicks on 1957-02-10"
+        },
+        {
+          "diff": -7.8805617729278765,
+          "newRating": 1219.6888171852179,
+          "result": "L 101-107 vs St. Louis Hawks on 1957-02-11"
+        },
+        {
+          "diff": -8.659059053723695,
+          "newRating": 1211.0297581314942,
+          "result": "L 95-104 vs Rochester Royals on 1957-02-14"
+        },
+        {
+          "diff": 8.752665679681058,
+          "newRating": 1219.7824238111752,
+          "result": "W 116-106 vs Boston Celtics on 1957-02-17"
+        },
+        {
+          "diff": 7.141773089711478,
+          "newRating": 1226.9241969008867,
+          "result": "W 92-86 vs Philadelphia Warriors on 1957-02-21"
+        },
+        {
+          "diff": 5.215865682770755,
+          "newRating": 1232.1400625836575,
+          "result": "W 103-101 vs Minneapolis Lakers on 1957-02-23"
+        },
+        {
+          "diff": 4.875186288137229,
+          "newRating": 1237.0152488717947,
+          "result": "W 109-93 vs Rochester Royals on 1957-02-24"
+        },
+        {
+          "diff": -7.579609532575205,
+          "newRating": 1229.4356393392195,
+          "result": "L 102-108 vs Fort Wayne Pistons on 1957-02-25"
+        },
+        {
+          "diff": 4.865381124777514,
+          "newRating": 1234.301020463997,
+          "result": "W 120-108 vs Minneapolis Lakers on 1957-02-26"
+        },
+        {
+          "diff": 5.689774770581607,
+          "newRating": 1239.9907952345786,
+          "result": "W 108-93 vs St. Louis Hawks on 1957-02-27"
+        },
+        {
+          "diff": 5.223439460440886,
+          "newRating": 1245.2142346950195,
+          "result": "W 123-112 vs Fort Wayne Pistons on 1957-02-28"
+        },
+        {
+          "diff": -6.501293705067837,
+          "newRating": 1238.7129409899517,
+          "result": "L 85-98 vs Philadelphia Warriors on 1957-03-02"
+        },
+        {
+          "diff": 5.944887513899857,
+          "newRating": 1244.6578285038515,
+          "result": "W 112-86 vs Philadelphia Warriors on 1957-03-03"
+        },
+        {
+          "diff": 5.049272978962335,
+          "newRating": 1249.7071014828139,
+          "result": "W 99-92 vs New York Knicks on 1957-03-05"
+        },
+        {
+          "diff": -6.954588334204118,
+          "newRating": 1242.7525131486098,
+          "result": "L 93-100 vs New York Knicks on 1957-03-06"
+        },
+        {
+          "diff": -6.62954747831418,
+          "newRating": 1236.1229656702956,
+          "result": "L 94-99 vs New York Knicks on 1957-03-07"
+        },
+        {
+          "diff": 6.368258935435733,
+          "newRating": 1242.4912246057313,
+          "result": "W 104-102 vs Boston Celtics on 1957-03-09"
+        },
+        {
+          "diff": 6.073975913481263,
+          "newRating": 1248.5652005192126,
+          "result": "W 94-92 vs Boston Celtics on 1957-03-10"
+        },
+        {
+          "diff": -7.001782349281257,
+          "newRating": 1241.5634181699313,
+          "result": "L 81-114 vs Fort Wayne Pistons on 1957-03-13"
+        }
+      ]
+    },
+    {
+      "team": "Philadelphia Warriors",
+      "rating": 1209.576122661713,
+      "wins": 37,
+      "losses": 35,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 103-109 vs Syracuse Nationals on 1956-10-27"
+        },
+        {
+          "diff": 303.8987706591831,
+          "newRating": 1103.8987706591831,
+          "result": "W 116-81 vs Fort Wayne Pistons on 1956-11-03"
+        },
+        {
+          "diff": -202.5758718846406,
+          "newRating": 901.3228987745425,
+          "result": "L 80-81 vs Rochester Royals on 1956-11-07"
+        },
+        {
+          "diff": -70.94348021193264,
+          "newRating": 830.3794185626099,
+          "result": "L 93-95 vs Rochester Royals on 1956-11-09"
+        },
+        {
+          "diff": 143.90443263689065,
+          "newRating": 974.2838511995005,
+          "result": "W 83-81 vs New York Knicks on 1956-11-10"
+        },
+        {
+          "diff": -49.28275571450081,
+          "newRating": 925.0010954849997,
+          "result": "L 95-106 vs New York Knicks on 1956-11-11"
+        },
+        {
+          "diff": 94.90931217341813,
+          "newRating": 1019.9104076584179,
+          "result": "W 92-83 vs Rochester Royals on 1956-11-15"
+        },
+        {
+          "diff": 71.21959776846438,
+          "newRating": 1091.1300054268822,
+          "result": "W 123-97 vs Minneapolis Lakers on 1956-11-16"
+        },
+        {
+          "diff": 70.5872773289509,
+          "newRating": 1161.7172827558331,
+          "result": "W 109-96 vs Syracuse Nationals on 1956-11-17"
+        },
+        {
+          "diff": -30.459301474889344,
+          "newRating": 1131.2579812809438,
+          "result": "L 97-99 vs Syracuse Nationals on 1956-11-18"
+        },
+        {
+          "diff": -22.54987715555876,
+          "newRating": 1108.708104125385,
+          "result": "L 83-95 vs Boston Celtics on 1956-11-21"
+        },
+        {
+          "diff": -16.795950157021252,
+          "newRating": 1091.9121539683638,
+          "result": "L 78-101 vs Boston Celtics on 1956-11-22"
+        },
+        {
+          "diff": 36.71410451391148,
+          "newRating": 1128.6262584822753,
+          "result": "W 98-88 vs Fort Wayne Pistons on 1956-11-24"
+        },
+        {
+          "diff": -29.27076037092388,
+          "newRating": 1099.3554981113514,
+          "result": "L 88-112 vs Fort Wayne Pistons on 1956-11-25"
+        },
+        {
+          "diff": -21.523278666771148,
+          "newRating": 1077.8322194445802,
+          "result": "L 98-113 vs Minneapolis Lakers on 1956-11-27"
+        },
+        {
+          "diff": 25.482843522777102,
+          "newRating": 1103.3150629673573,
+          "result": "W 110-99 vs New York Knicks on 1956-11-30"
+        },
+        {
+          "diff": 40.04343504832673,
+          "newRating": 1143.358498015684,
+          "result": "W 107-95 vs St. Louis Hawks on 1956-12-01"
+        },
+        {
+          "diff": -21.567275008806064,
+          "newRating": 1121.791223006878,
+          "result": "L 96-106 vs Minneapolis Lakers on 1956-12-02"
+        },
+        {
+          "diff": 36.331018819472774,
+          "newRating": 1158.1222418263508,
+          "result": "W 113-111 vs Boston Celtics on 1956-12-06"
+        },
+        {
+          "diff": -18.783069229388957,
+          "newRating": 1139.3391725969618,
+          "result": "L 91-92 vs Rochester Royals on 1956-12-08"
+        },
+        {
+          "diff": 19.735809643125094,
+          "newRating": 1159.074982240087,
+          "result": "W 114-111 vs Minneapolis Lakers on 1956-12-11"
+        },
+        {
+          "diff": 23.3983447860428,
+          "newRating": 1182.4733270261297,
+          "result": "W 115-99 vs St. Louis Hawks on 1956-12-12"
+        },
+        {
+          "diff": 14.753351909963158,
+          "newRating": 1197.2266789360929,
+          "result": "W 117-108 vs Syracuse Nationals on 1956-12-15"
+        },
+        {
+          "diff": 24.202032758313862,
+          "newRating": 1221.4287116944067,
+          "result": "W 116-104 vs Boston Celtics on 1956-12-16"
+        },
+        {
+          "diff": 14.598572052460668,
+          "newRating": 1236.0272837468674,
+          "result": "W 95-90 vs New York Knicks on 1956-12-23"
+        },
+        {
+          "diff": 18.402103263961408,
+          "newRating": 1254.4293870108288,
+          "result": "W 89-82 vs Boston Celtics on 1956-12-25"
+        },
+        {
+          "diff": -13.41541159281087,
+          "newRating": 1241.013975418018,
+          "result": "L 97-120 vs Boston Celtics on 1956-12-26"
+        },
+        {
+          "diff": 11.140224124482984,
+          "newRating": 1252.154199542501,
+          "result": "W 112-87 vs New York Knicks on 1956-12-27"
+        },
+        {
+          "diff": -18.48699216797786,
+          "newRating": 1233.667207374523,
+          "result": "L 103-104 vs Syracuse Nationals on 1956-12-29"
+        },
+        {
+          "diff": -16.191009384699328,
+          "newRating": 1217.4761979898237,
+          "result": "L 99-104 vs Fort Wayne Pistons on 1956-12-30"
+        },
+        {
+          "diff": -9.286760634855455,
+          "newRating": 1208.1894373549683,
+          "result": "L 87-100 vs Boston Celtics on 1957-01-01"
+        },
+        {
+          "diff": 13.48845782919716,
+          "newRating": 1221.6778951841654,
+          "result": "W 82-81 vs St. Louis Hawks on 1957-01-03"
+        },
+        {
+          "diff": 12.125380800227731,
+          "newRating": 1233.8032759843932,
+          "result": "W 96-92 vs St. Louis Hawks on 1957-01-04"
+        },
+        {
+          "diff": 10.505281721581241,
+          "newRating": 1244.3085577059744,
+          "result": "W 81-78 vs Rochester Royals on 1957-01-05"
+        },
+        {
+          "diff": -14.072311147204118,
+          "newRating": 1230.2362465587703,
+          "result": "L 123-128 vs Syracuse Nationals on 1957-01-06"
+        },
+        {
+          "diff": -12.135654720571665,
+          "newRating": 1218.1005918381986,
+          "result": "L 94-95 vs Rochester Royals on 1957-01-08"
+        },
+        {
+          "diff": 10.556185584107197,
+          "newRating": 1228.6567774223058,
+          "result": "W 112-93 vs Rochester Royals on 1957-01-10"
+        },
+        {
+          "diff": 9.4841542115239,
+          "newRating": 1238.1409316338297,
+          "result": "W 116-82 vs New York Knicks on 1957-01-12"
+        },
+        {
+          "diff": -11.83797430690879,
+          "newRating": 1226.302957326921,
+          "result": "L 90-101 vs New York Knicks on 1957-01-13"
+        },
+        {
+          "diff": -11.454715599645624,
+          "newRating": 1214.8482417272753,
+          "result": "L 103-108 vs Syracuse Nationals on 1957-01-17"
+        },
+        {
+          "diff": 9.00724134515599,
+          "newRating": 1223.8554830724313,
+          "result": "W 96-94 vs Syracuse Nationals on 1957-01-18"
+        },
+        {
+          "diff": -9.916207883642073,
+          "newRating": 1213.9392751887892,
+          "result": "L 102-104 vs St. Louis Hawks on 1957-01-20"
+        },
+        {
+          "diff": 9.373930946521341,
+          "newRating": 1223.3132061353106,
+          "result": "W 99-93 vs New York Knicks on 1957-01-23"
+        },
+        {
+          "diff": 8.920926850436217,
+          "newRating": 1232.2341329857468,
+          "result": "W 107-96 vs St. Louis Hawks on 1957-01-24"
+        },
+        {
+          "diff": -10.658454386577205,
+          "newRating": 1221.5756785991696,
+          "result": "L 98-101 vs Fort Wayne Pistons on 1957-01-26"
+        },
+        {
+          "diff": -6.449028136728657,
+          "newRating": 1215.126650462441,
+          "result": "L 87-107 vs Boston Celtics on 1957-01-27"
+        },
+        {
+          "diff": -6.009819408157227,
+          "newRating": 1209.1168310542837,
+          "result": "L 95-105 vs Boston Celtics on 1957-01-28"
+        },
+        {
+          "diff": -8.669464187192716,
+          "newRating": 1200.447366867091,
+          "result": "L 110-114 vs New York Knicks on 1957-01-29"
+        },
+        {
+          "diff": 8.403267697399315,
+          "newRating": 1208.8506345644903,
+          "result": "W 106-102 vs New York Knicks on 1957-01-31"
+        },
+        {
+          "diff": 8.287584636294014,
+          "newRating": 1217.1382192007843,
+          "result": "W 107-100 vs Syracuse Nationals on 1957-02-02"
+        },
+        {
+          "diff": 6.016335653896931,
+          "newRating": 1223.1545548546812,
+          "result": "W 110-108 vs Rochester Royals on 1957-02-03"
+        },
+        {
+          "diff": -8.805462522785774,
+          "newRating": 1214.3490923318955,
+          "result": "L 91-103 vs Fort Wayne Pistons on 1957-02-04"
+        },
+        {
+          "diff": 7.769134737796776,
+          "newRating": 1222.1182270696922,
+          "result": "W 101-87 vs St. Louis Hawks on 1957-02-05"
+        },
+        {
+          "diff": -9.591932752748562,
+          "newRating": 1212.5262943169437,
+          "result": "L 100-101 vs Minneapolis Lakers on 1957-02-06"
+        },
+        {
+          "diff": 6.990422902065347,
+          "newRating": 1219.516717219009,
+          "result": "W 93-90 vs St. Louis Hawks on 1957-02-08"
+        },
+        {
+          "diff": -5.351645989754843,
+          "newRating": 1214.1650712292542,
+          "result": "L 98-103 vs Boston Celtics on 1957-02-10"
+        },
+        {
+          "diff": 6.228845978336949,
+          "newRating": 1220.3939172075911,
+          "result": "W 99-89 vs Fort Wayne Pistons on 1957-02-13"
+        },
+        {
+          "diff": 5.640578065186901,
+          "newRating": 1226.034495272778,
+          "result": "W 105-104 vs Minneapolis Lakers on 1957-02-15"
+        },
+        {
+          "diff": 6.10693999069008,
+          "newRating": 1232.141435263468,
+          "result": "W 123-115 vs New York Knicks on 1957-02-17"
+        },
+        {
+          "diff": -6.903713986720959,
+          "newRating": 1225.2377212767472,
+          "result": "L 86-92 vs Syracuse Nationals on 1957-02-21"
+        },
+        {
+          "diff": 7.945681791135485,
+          "newRating": 1233.1834030678826,
+          "result": "W 117-109 vs Boston Celtics on 1957-02-22"
+        },
+        {
+          "diff": -7.208696972141524,
+          "newRating": 1225.974706095741,
+          "result": "L 112-113 vs St. Louis Hawks on 1957-02-24"
+        },
+        {
+          "diff": 4.766668459443736,
+          "newRating": 1230.7413745551848,
+          "result": "W 129-112 vs Minneapolis Lakers on 1957-02-28"
+        },
+        {
+          "diff": -5.16431586289923,
+          "newRating": 1225.5770586922856,
+          "result": "L 80-90 vs Boston Celtics on 1957-03-01"
+        },
+        {
+          "diff": 6.501293705067837,
+          "newRating": 1232.0783523973535,
+          "result": "W 98-85 vs Syracuse Nationals on 1957-03-02"
+        },
+        {
+          "diff": -5.944887513899857,
+          "newRating": 1226.1334648834536,
+          "result": "L 86-112 vs Syracuse Nationals on 1957-03-03"
+        },
+        {
+          "diff": 5.036676465598248,
+          "newRating": 1231.1701413490518,
+          "result": "W 114-80 vs Fort Wayne Pistons on 1957-03-05"
+        },
+        {
+          "diff": -7.4770002443083285,
+          "newRating": 1223.6931411047435,
+          "result": "L 79-82 vs Rochester Royals on 1957-03-06"
+        },
+        {
+          "diff": 4.848473861065941,
+          "newRating": 1228.5416149658095,
+          "result": "W 114-100 vs Fort Wayne Pistons on 1957-03-07"
+        },
+        {
+          "diff": -6.198182853129765,
+          "newRating": 1222.3434321126797,
+          "result": "L 103-104 vs New York Knicks on 1957-03-10"
+        },
+        {
+          "diff": -6.5313630790583375,
+          "newRating": 1215.8120690336214,
+          "result": "L 94-100 vs Minneapolis Lakers on 1957-03-12"
+        },
+        {
+          "diff": -6.235946371908312,
+          "newRating": 1209.576122661713,
+          "result": "L 97-114 vs Minneapolis Lakers on 1957-03-13"
+        }
+      ]
+    },
+    {
+      "team": "New York Knicks",
+      "rating": 1200.5307996521572,
+      "wins": 36,
+      "losses": 36,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 112-115 vs Boston Celtics on 1956-10-27"
+        },
+        {
+          "diff": 396.0396039603961,
+          "newRating": 1196.039603960396,
+          "result": "W 113-107 vs Boston Celtics on 1956-11-03"
+        },
+        {
+          "diff": 24.415668215941423,
+          "newRating": 1220.4552721763375,
+          "result": "W 96-83 vs Fort Wayne Pistons on 1956-11-04"
+        },
+        {
+          "diff": -9.528700997389706,
+          "newRating": 1210.9265711789478,
+          "result": "L 101-107 vs St. Louis Hawks on 1956-11-07"
+        },
+        {
+          "diff": -143.90443263689053,
+          "newRating": 1067.0221385420573,
+          "result": "L 81-83 vs Philadelphia Warriors on 1956-11-10"
+        },
+        {
+          "diff": 49.28275571450081,
+          "newRating": 1116.304894256558,
+          "result": "W 106-95 vs Philadelphia Warriors on 1956-11-11"
+        },
+        {
+          "diff": -48.34059272574427,
+          "newRating": 1067.9643015308138,
+          "result": "L 87-90 vs Rochester Royals on 1956-11-14"
+        },
+        {
+          "diff": 96.19860294794307,
+          "newRating": 1164.162904478757,
+          "result": "W 102-69 vs St. Louis Hawks on 1956-11-18"
+        },
+        {
+          "diff": -56.20662361536938,
+          "newRating": 1107.9562808633875,
+          "result": "L 103-104 vs Fort Wayne Pistons on 1956-11-21"
+        },
+        {
+          "diff": -38.387168939447065,
+          "newRating": 1069.5691119239405,
+          "result": "L 87-96 vs Rochester Royals on 1956-11-24"
+        },
+        {
+          "diff": -28.63517895964833,
+          "newRating": 1040.9339329642921,
+          "result": "L 93-95 vs Rochester Royals on 1956-11-25"
+        },
+        {
+          "diff": 43.60940190679321,
+          "newRating": 1084.5433348710853,
+          "result": "W 105-98 vs Fort Wayne Pistons on 1956-11-27"
+        },
+        {
+          "diff": -31.363499720341224,
+          "newRating": 1053.179835150744,
+          "result": "L 99-110 vs Philadelphia Warriors on 1956-11-30"
+        },
+        {
+          "diff": 34.21348759030093,
+          "newRating": 1087.393322741045,
+          "result": "W 117-100 vs Syracuse Nationals on 1956-12-01"
+        },
+        {
+          "diff": -26.407555930770286,
+          "newRating": 1060.9857668102748,
+          "result": "L 100-110 vs Syracuse Nationals on 1956-12-02"
+        },
+        {
+          "diff": 32.93255795889013,
+          "newRating": 1093.9183247691649,
+          "result": "W 101-88 vs Minneapolis Lakers on 1956-12-04"
+        },
+        {
+          "diff": 30.756078835270728,
+          "newRating": 1124.6744036044356,
+          "result": "W 95-92 vs Rochester Royals on 1956-12-06"
+        },
+        {
+          "diff": 32.79286803449327,
+          "newRating": 1157.4672716389289,
+          "result": "W 107-101 vs St. Louis Hawks on 1956-12-07"
+        },
+        {
+          "diff": 27.73209937970546,
+          "newRating": 1185.1993710186343,
+          "result": "W 109-104 vs St. Louis Hawks on 1956-12-08"
+        },
+        {
+          "diff": 19.08223621510956,
+          "newRating": 1204.281607233744,
+          "result": "W 100-91 vs Minneapolis Lakers on 1956-12-09"
+        },
+        {
+          "diff": -16.884571236251077,
+          "newRating": 1187.3970359974928,
+          "result": "L 128-137 vs St. Louis Hawks on 1956-12-11"
+        },
+        {
+          "diff": -20.96061286123745,
+          "newRating": 1166.4364231362554,
+          "result": "L 103-121 vs Minneapolis Lakers on 1956-12-12"
+        },
+        {
+          "diff": 20.804819442407506,
+          "newRating": 1187.2412425786629,
+          "result": "W 91-76 vs Rochester Royals on 1956-12-15"
+        },
+        {
+          "diff": -19.718360175030284,
+          "newRating": 1167.5228824036326,
+          "result": "L 80-84 vs Fort Wayne Pistons on 1956-12-16"
+        },
+        {
+          "diff": 23.396025325998153,
+          "newRating": 1190.9189077296307,
+          "result": "W 110-99 vs Boston Celtics on 1956-12-18"
+        },
+        {
+          "diff": -14.037088511981437,
+          "newRating": 1176.8818192176493,
+          "result": "L 90-95 vs Philadelphia Warriors on 1956-12-23"
+        },
+        {
+          "diff": -13.641231156849472,
+          "newRating": 1163.2405880607998,
+          "result": "L 105-107 vs St. Louis Hawks on 1956-12-25"
+        },
+        {
+          "diff": -11.140224124482984,
+          "newRating": 1152.1003639363169,
+          "result": "L 87-112 vs Philadelphia Warriors on 1956-12-27"
+        },
+        {
+          "diff": 15.527950497547408,
+          "newRating": 1167.6283144338643,
+          "result": "W 96-88 vs Rochester Royals on 1956-12-30"
+        },
+        {
+          "diff": -14.345473111351112,
+          "newRating": 1153.2828413225131,
+          "result": "L 102-106 vs Syracuse Nationals on 1957-01-01"
+        },
+        {
+          "diff": 13.025436853382644,
+          "newRating": 1166.3082781758958,
+          "result": "W 126-111 vs Syracuse Nationals on 1957-01-03"
+        },
+        {
+          "diff": -11.800066382767,
+          "newRating": 1154.5082117931288,
+          "result": "L 96-109 vs Fort Wayne Pistons on 1957-01-05"
+        },
+        {
+          "diff": 11.167528863868938,
+          "newRating": 1165.6757406569977,
+          "result": "W 111-101 vs Minneapolis Lakers on 1957-01-06"
+        },
+        {
+          "diff": 16.577335025811408,
+          "newRating": 1182.2530756828091,
+          "result": "W 113-102 vs Boston Celtics on 1957-01-08"
+        },
+        {
+          "diff": 11.89266401536247,
+          "newRating": 1194.1457396981716,
+          "result": "W 89-84 vs St. Louis Hawks on 1957-01-10"
+        },
+        {
+          "diff": -10.011051667719585,
+          "newRating": 1184.134688030452,
+          "result": "L 82-116 vs Philadelphia Warriors on 1957-01-12"
+        },
+        {
+          "diff": 12.477864809985022,
+          "newRating": 1196.612552840437,
+          "result": "W 101-90 vs Philadelphia Warriors on 1957-01-13"
+        },
+        {
+          "diff": 9.401561573371282,
+          "newRating": 1206.0141144138083,
+          "result": "W 94-93 vs Minneapolis Lakers on 1957-01-17"
+        },
+        {
+          "diff": 9.450565311953596,
+          "newRating": 1215.464679725762,
+          "result": "W 102-100 vs Fort Wayne Pistons on 1957-01-19"
+        },
+        {
+          "diff": -7.791719519584376,
+          "newRating": 1207.6729602061775,
+          "result": "L 78-114 vs Boston Celtics on 1957-01-20"
+        },
+        {
+          "diff": 8.940779892126557,
+          "newRating": 1216.613740098304,
+          "result": "W 90-88 vs Syracuse Nationals on 1957-01-22"
+        },
+        {
+          "diff": -9.597119778581373,
+          "newRating": 1207.0166203197227,
+          "result": "L 93-99 vs Philadelphia Warriors on 1957-01-23"
+        },
+        {
+          "diff": -10.469723138684913,
+          "newRating": 1196.5468971810378,
+          "result": "L 97-115 vs Syracuse Nationals on 1957-01-24"
+        },
+        {
+          "diff": 8.2409031221041,
+          "newRating": 1204.787800303142,
+          "result": "W 122-107 vs Minneapolis Lakers on 1957-01-26"
+        },
+        {
+          "diff": -9.692635225049344,
+          "newRating": 1195.0951650780926,
+          "result": "L 102-103 vs Fort Wayne Pistons on 1957-01-27"
+        },
+        {
+          "diff": 9.046397412722854,
+          "newRating": 1204.1415624908154,
+          "result": "W 114-110 vs Philadelphia Warriors on 1957-01-29"
+        },
+        {
+          "diff": 6.523457013074903,
+          "newRating": 1210.6650195038903,
+          "result": "W 92-80 vs Rochester Royals on 1957-01-30"
+        },
+        {
+          "diff": -8.578335774428524,
+          "newRating": 1202.0866837294618,
+          "result": "L 102-106 vs Philadelphia Warriors on 1957-01-31"
+        },
+        {
+          "diff": -5.742788023061166,
+          "newRating": 1196.3438957064006,
+          "result": "L 111-114 vs Boston Celtics on 1957-02-02"
+        },
+        {
+          "diff": -5.386684571757769,
+          "newRating": 1190.9572111346429,
+          "result": "L 98-116 vs Boston Celtics on 1957-02-03"
+        },
+        {
+          "diff": -9.23402584413543,
+          "newRating": 1181.7231852905074,
+          "result": "L 88-91 vs Rochester Royals on 1957-02-05"
+        },
+        {
+          "diff": 8.412318274740528,
+          "newRating": 1190.135503565248,
+          "result": "W 119-100 vs Syracuse Nationals on 1957-02-06"
+        },
+        {
+          "diff": 10.434810071696575,
+          "newRating": 1200.5703136369445,
+          "result": "W 92-90 vs Boston Celtics on 1957-02-08"
+        },
+        {
+          "diff": -7.132382312137452,
+          "newRating": 1193.437931324807,
+          "result": "L 89-101 vs Syracuse Nationals on 1957-02-09"
+        },
+        {
+          "diff": -6.702336828835314,
+          "newRating": 1186.7355944959718,
+          "result": "L 100-102 vs Syracuse Nationals on 1957-02-10"
+        },
+        {
+          "diff": 6.4151465955262665,
+          "newRating": 1193.150741091498,
+          "result": "W 85-82 vs Rochester Royals on 1957-02-13"
+        },
+        {
+          "diff": -7.917499580764343,
+          "newRating": 1185.2332415107337,
+          "result": "L 97-99 vs Minneapolis Lakers on 1957-02-14"
+        },
+        {
+          "diff": 6.212670459124411,
+          "newRating": 1191.4459119698581,
+          "result": "W 120-112 vs Minneapolis Lakers on 1957-02-16"
+        },
+        {
+          "diff": -6.10693999069008,
+          "newRating": 1185.338971979168,
+          "result": "L 115-123 vs Philadelphia Warriors on 1957-02-17"
+        },
+        {
+          "diff": -4.714380900298238,
+          "newRating": 1180.6245910788698,
+          "result": "L 110-112 vs Boston Celtics on 1957-02-19"
+        },
+        {
+          "diff": -6.484814348601503,
+          "newRating": 1174.1397767302683,
+          "result": "L 114-120 vs Fort Wayne Pistons on 1957-02-21"
+        },
+        {
+          "diff": 6.870993697601307,
+          "newRating": 1181.0107704278696,
+          "result": "W 102-94 vs Fort Wayne Pistons on 1957-02-23"
+        },
+        {
+          "diff": -4.387565175056125,
+          "newRating": 1176.6232052528135,
+          "result": "L 85-97 vs Boston Celtics on 1957-02-24"
+        },
+        {
+          "diff": 6.756515160888739,
+          "newRating": 1183.3797204137022,
+          "result": "W 107-76 vs St. Louis Hawks on 1957-02-26"
+        },
+        {
+          "diff": 8.144973227623723,
+          "newRating": 1191.524693641326,
+          "result": "W 122-121 vs Boston Celtics on 1957-02-28"
+        },
+        {
+          "diff": 6.0788557770390526,
+          "newRating": 1197.603549418365,
+          "result": "W 97-94 vs St. Louis Hawks on 1957-03-02"
+        },
+        {
+          "diff": -6.967724195558731,
+          "newRating": 1190.6358252228063,
+          "result": "L 108-119 vs Minneapolis Lakers on 1957-03-03"
+        },
+        {
+          "diff": -4.975018964565834,
+          "newRating": 1185.6608062582404,
+          "result": "L 92-99 vs Syracuse Nationals on 1957-03-05"
+        },
+        {
+          "diff": 6.853797198925804,
+          "newRating": 1192.5146034571662,
+          "result": "W 100-93 vs Syracuse Nationals on 1957-03-06"
+        },
+        {
+          "diff": 6.534839657195334,
+          "newRating": 1199.0494431143616,
+          "result": "W 99-94 vs Syracuse Nationals on 1957-03-07"
+        },
+        {
+          "diff": 6.110884503085572,
+          "newRating": 1205.1603276174471,
+          "result": "W 104-103 vs Philadelphia Warriors on 1957-03-10"
+        },
+        {
+          "diff": -4.629527965289981,
+          "newRating": 1200.5307996521572,
+          "result": "L 91-122 vs Boston Celtics on 1957-03-13"
+        }
+      ]
+    },
+    {
+      "team": "St. Louis Hawks",
+      "rating": 1196.4594914413826,
+      "wins": 34,
+      "losses": 38,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 97-75 vs Minneapolis Lakers on 1956-10-27"
+        },
+        {
+          "diff": -96.10122934081687,
+          "newRating": 1503.8987706591831,
+          "result": "L 73-75 vs Syracuse Nationals on 1956-11-03"
+        },
+        {
+          "diff": 236.87483923681043,
+          "newRating": 1740.7736098959936,
+          "result": "W 78-76 vs Syracuse Nationals on 1956-11-04"
+        },
+        {
+          "diff": 9.528700997389706,
+          "newRating": 1750.3023108933833,
+          "result": "W 107-101 vs New York Knicks on 1956-11-07"
+        },
+        {
+          "diff": 0.594934305710467,
+          "newRating": 1750.8972451990937,
+          "result": "W 86-79 vs Fort Wayne Pistons on 1956-11-10"
+        },
+        {
+          "diff": -132.84092644693487,
+          "newRating": 1618.0563187521589,
+          "result": "L 81-96 vs Fort Wayne Pistons on 1956-11-11"
+        },
+        {
+          "diff": 8.321726825457972,
+          "newRating": 1626.3780455776168,
+          "result": "W 118-105 vs Rochester Royals on 1956-11-13"
+        },
+        {
+          "diff": 2.876468520099479,
+          "newRating": 1629.2545140977163,
+          "result": "W 92-87 vs Fort Wayne Pistons on 1956-11-17"
+        },
+        {
+          "diff": -85.50986928706038,
+          "newRating": 1543.744644810656,
+          "result": "L 69-102 vs New York Knicks on 1956-11-18"
+        },
+        {
+          "diff": 14.381637571803367,
+          "newRating": 1558.1262823824593,
+          "result": "W 104-81 vs Syracuse Nationals on 1956-11-20"
+        },
+        {
+          "diff": -67.89038020634393,
+          "newRating": 1490.2359021761154,
+          "result": "L 76-85 vs Rochester Royals on 1956-11-21"
+        },
+        {
+          "diff": -59.478858468800354,
+          "newRating": 1430.757043707315,
+          "result": "L 102-104 vs Minneapolis Lakers on 1956-11-24"
+        },
+        {
+          "diff": 11.647044707534178,
+          "newRating": 1442.4040884148492,
+          "result": "W 95-94 vs Minneapolis Lakers on 1956-11-25"
+        },
+        {
+          "diff": -36.49718537445801,
+          "newRating": 1405.9069030403912,
+          "result": "L 90-102 vs Boston Celtics on 1956-11-27"
+        },
+        {
+          "diff": -45.38255972143679,
+          "newRating": 1360.5243433189544,
+          "result": "L 95-107 vs Philadelphia Warriors on 1956-12-01"
+        },
+        {
+          "diff": -20.720952244180808,
+          "newRating": 1339.8033910747736,
+          "result": "L 107-108 vs Boston Celtics on 1956-12-04"
+        },
+        {
+          "diff": -35.371101969170695,
+          "newRating": 1304.4322891056029,
+          "result": "L 96-103 vs Minneapolis Lakers on 1956-12-06"
+        },
+        {
+          "diff": -32.79286803449327,
+          "newRating": 1271.6394210711096,
+          "result": "L 101-107 vs New York Knicks on 1956-12-07"
+        },
+        {
+          "diff": -27.73209937970546,
+          "newRating": 1243.9073216914041,
+          "result": "L 104-109 vs New York Knicks on 1956-12-08"
+        },
+        {
+          "diff": 17.72879979806362,
+          "newRating": 1261.6361214894678,
+          "result": "W 137-128 vs New York Knicks on 1956-12-11"
+        },
+        {
+          "diff": -24.512551680616298,
+          "newRating": 1237.1235698088515,
+          "result": "L 99-115 vs Philadelphia Warriors on 1956-12-12"
+        },
+        {
+          "diff": -12.273060090470153,
+          "newRating": 1224.8505097183813,
+          "result": "L 99-102 vs Boston Celtics on 1956-12-15"
+        },
+        {
+          "diff": -22.795110954257098,
+          "newRating": 1202.0553987641242,
+          "result": "L 91-101 vs Syracuse Nationals on 1956-12-16"
+        },
+        {
+          "diff": 13.882879300025706,
+          "newRating": 1215.93827806415,
+          "result": "W 95-84 vs Fort Wayne Pistons on 1956-12-18"
+        },
+        {
+          "diff": -11.475900776422804,
+          "newRating": 1204.4623772877271,
+          "result": "L 93-95 vs Boston Celtics on 1956-12-22"
+        },
+        {
+          "diff": 14.1658938936514,
+          "newRating": 1218.6282711813785,
+          "result": "W 107-105 vs New York Knicks on 1956-12-25"
+        },
+        {
+          "diff": 11.579629883431608,
+          "newRating": 1230.2079010648101,
+          "result": "W 102-95 vs Syracuse Nationals on 1956-12-27"
+        },
+        {
+          "diff": 11.335124568920492,
+          "newRating": 1241.5430256337306,
+          "result": "W 95-92 vs Minneapolis Lakers on 1956-12-29"
+        },
+        {
+          "diff": 10.13574719860003,
+          "newRating": 1251.6787728323307,
+          "result": "W 100-93 vs Minneapolis Lakers on 1956-12-30"
+        },
+        {
+          "diff": -15.957819608021055,
+          "newRating": 1235.7209532243096,
+          "result": "L 101-102 vs Rochester Royals on 1957-01-01"
+        },
+        {
+          "diff": -13.923569372074326,
+          "newRating": 1221.7973838522353,
+          "result": "L 81-82 vs Philadelphia Warriors on 1957-01-03"
+        },
+        {
+          "diff": -12.504298950234897,
+          "newRating": 1209.2930849020004,
+          "result": "L 92-96 vs Philadelphia Warriors on 1957-01-04"
+        },
+        {
+          "diff": -12.923546903641636,
+          "newRating": 1196.3695379983587,
+          "result": "L 86-93 vs Rochester Royals on 1957-01-06"
+        },
+        {
+          "diff": -12.242448251108499,
+          "newRating": 1184.1270897472502,
+          "result": "L 84-89 vs New York Knicks on 1957-01-10"
+        },
+        {
+          "diff": 15.345897774044488,
+          "newRating": 1199.4729875212947,
+          "result": "W 100-98 vs Boston Celtics on 1957-01-12"
+        },
+        {
+          "diff": -11.815749660869415,
+          "newRating": 1187.6572378604253,
+          "result": "L 89-91 vs Fort Wayne Pistons on 1957-01-13"
+        },
+        {
+          "diff": 10.485710309234037,
+          "newRating": 1198.1429481696593,
+          "result": "W 108-106 vs Rochester Royals on 1957-01-16"
+        },
+        {
+          "diff": 10.246537305063384,
+          "newRating": 1208.3894854747227,
+          "result": "W 106-82 vs Fort Wayne Pistons on 1957-01-17"
+        },
+        {
+          "diff": -8.224181580354525,
+          "newRating": 1200.1653038943682,
+          "result": "L 117-126 vs Boston Celtics on 1957-01-18"
+        },
+        {
+          "diff": 9.367089431355907,
+          "newRating": 1209.5323933257241,
+          "result": "W 104-96 vs Syracuse Nationals on 1957-01-19"
+        },
+        {
+          "diff": 10.158066612511448,
+          "newRating": 1219.6904599382356,
+          "result": "W 104-102 vs Philadelphia Warriors on 1957-01-20"
+        },
+        {
+          "diff": -11.165865872402946,
+          "newRating": 1208.5245940658326,
+          "result": "L 87-97 vs Fort Wayne Pistons on 1957-01-22"
+        },
+        {
+          "diff": 8.291488113491368,
+          "newRating": 1216.816082179324,
+          "result": "W 101-78 vs Fort Wayne Pistons on 1957-01-23"
+        },
+        {
+          "diff": -8.920926850436217,
+          "newRating": 1207.8951553288878,
+          "result": "L 96-107 vs Philadelphia Warriors on 1957-01-24"
+        },
+        {
+          "diff": 7.245115663428578,
+          "newRating": 1215.1402709923163,
+          "result": "W 100-99 vs Rochester Royals on 1957-01-25"
+        },
+        {
+          "diff": 6.557206986750089,
+          "newRating": 1221.6974779790664,
+          "result": "W 107-83 vs Rochester Royals on 1957-01-27"
+        },
+        {
+          "diff": -9.449839128087888,
+          "newRating": 1212.2476388509785,
+          "result": "L 85-91 vs Fort Wayne Pistons on 1957-01-29"
+        },
+        {
+          "diff": 6.364760263061498,
+          "newRating": 1218.61239911404,
+          "result": "W 106-97 vs Minneapolis Lakers on 1957-02-02"
+        },
+        {
+          "diff": 5.957844021183973,
+          "newRating": 1224.570243135224,
+          "result": "W 102-85 vs Minneapolis Lakers on 1957-02-03"
+        },
+        {
+          "diff": -8.235282822064391,
+          "newRating": 1216.3349603131596,
+          "result": "L 87-101 vs Philadelphia Warriors on 1957-02-05"
+        },
+        {
+          "diff": -9.587675442973477,
+          "newRating": 1206.7472848701861,
+          "result": "L 100-103 vs Rochester Royals on 1957-02-06"
+        },
+        {
+          "diff": -7.714125539567931,
+          "newRating": 1199.0331593306182,
+          "result": "L 110-112 vs Syracuse Nationals on 1957-02-07"
+        },
+        {
+          "diff": -7.254212445539451,
+          "newRating": 1191.7789468850788,
+          "result": "L 90-93 vs Philadelphia Warriors on 1957-02-08"
+        },
+        {
+          "diff": 6.68482768763829,
+          "newRating": 1198.463774572717,
+          "result": "W 117-93 vs Rochester Royals on 1957-02-10"
+        },
+        {
+          "diff": 7.8805617729278765,
+          "newRating": 1206.344336345645,
+          "result": "W 107-101 vs Syracuse Nationals on 1957-02-11"
+        },
+        {
+          "diff": -8.714397488615305,
+          "newRating": 1197.6299388570296,
+          "result": "L 105-110 vs Minneapolis Lakers on 1957-02-12"
+        },
+        {
+          "diff": -5.126479817169866,
+          "newRating": 1192.5034590398598,
+          "result": "L 116-123 vs Boston Celtics on 1957-02-15"
+        },
+        {
+          "diff": 5.948816376982677,
+          "newRating": 1198.4522754168424,
+          "result": "W 118-115 vs Minneapolis Lakers on 1957-02-17"
+        },
+        {
+          "diff": 6.63860298453119,
+          "newRating": 1205.0908784013736,
+          "result": "W 96-83 vs Fort Wayne Pistons on 1957-02-19"
+        },
+        {
+          "diff": -4.979961966436349,
+          "newRating": 1200.1109164349373,
+          "result": "L 112-125 vs Boston Celtics on 1957-02-21"
+        },
+        {
+          "diff": -7.887102715728588,
+          "newRating": 1192.2238137192087,
+          "result": "L 86-101 vs Rochester Royals on 1957-02-23"
+        },
+        {
+          "diff": 7.208696972141524,
+          "newRating": 1199.4325106913502,
+          "result": "W 113-112 vs Philadelphia Warriors on 1957-02-24"
+        },
+        {
+          "diff": 5.409605201504064,
+          "newRating": 1204.8421158928543,
+          "result": "W 110-94 vs Minneapolis Lakers on 1957-02-25"
+        },
+        {
+          "diff": -6.756515160888739,
+          "newRating": 1198.0856007319655,
+          "result": "L 76-107 vs New York Knicks on 1957-02-26"
+        },
+        {
+          "diff": -5.514704777640645,
+          "newRating": 1192.570895954325,
+          "result": "L 93-108 vs Syracuse Nationals on 1957-02-27"
+        },
+        {
+          "diff": -6.0788557770390526,
+          "newRating": 1186.4920401772858,
+          "result": "L 94-97 vs New York Knicks on 1957-03-02"
+        },
+        {
+          "diff": 5.811546092019626,
+          "newRating": 1192.3035862693055,
+          "result": "W 112-102 vs Fort Wayne Pistons on 1957-03-03"
+        },
+        {
+          "diff": 7.518660116235878,
+          "newRating": 1199.8222463855413,
+          "result": "W 104-102 vs Boston Celtics on 1957-03-05"
+        },
+        {
+          "diff": 4.840114529017455,
+          "newRating": 1204.6623609145588,
+          "result": "W 100-92 vs Rochester Royals on 1957-03-08"
+        },
+        {
+          "diff": 4.91081292689455,
+          "newRating": 1209.5731738414534,
+          "result": "W 97-96 vs Fort Wayne Pistons on 1957-03-09"
+        },
+        {
+          "diff": -6.43237984259099,
+          "newRating": 1203.1407939988624,
+          "result": "L 104-117 vs Minneapolis Lakers on 1957-03-10"
+        },
+        {
+          "diff": -6.681302557479739,
+          "newRating": 1196.4594914413826,
+          "result": "L 99-104 vs Rochester Royals on 1957-03-13"
+        }
+      ]
+    },
+    {
+      "team": "Minneapolis Lakers",
+      "rating": 1179.2827850366527,
+      "wins": 34,
+      "losses": 38,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 75-97 vs St. Louis Hawks on 1956-10-27"
+        },
+        {
+          "diff": -200,
+          "newRating": 600,
+          "result": "L 88-94 vs Fort Wayne Pistons on 1956-10-28"
+        },
+        {
+          "diff": 264.026402640264,
+          "newRating": 864.026402640264,
+          "result": "W 97-88 vs Rochester Royals on 1956-11-01"
+        },
+        {
+          "diff": 165.42691170307262,
+          "newRating": 1029.4533143433366,
+          "result": "W 95-85 vs Rochester Royals on 1956-11-03"
+        },
+        {
+          "diff": 66.56473881062493,
+          "newRating": 1096.0180531539615,
+          "result": "W 88-87 vs Rochester Royals on 1956-11-04"
+        },
+        {
+          "diff": -46.59610973292365,
+          "newRating": 1049.421943421038,
+          "result": "L 110-117 vs Boston Celtics on 1956-11-10"
+        },
+        {
+          "diff": -42.05755526095527,
+          "newRating": 1007.3643881600826,
+          "result": "L 82-94 vs Rochester Royals on 1956-11-11"
+        },
+        {
+          "diff": 92.96261878471546,
+          "newRating": 1100.327006944798,
+          "result": "W 113-97 vs Boston Celtics on 1956-11-14"
+        },
+        {
+          "diff": 76.98446361769743,
+          "newRating": 1177.3114705624955,
+          "result": "W 103-96 vs Syracuse Nationals on 1956-11-15"
+        },
+        {
+          "diff": -56.975678214771506,
+          "newRating": 1120.335792347724,
+          "result": "L 97-123 vs Philadelphia Warriors on 1956-11-16"
+        },
+        {
+          "diff": -47.337647386136496,
+          "newRating": 1072.9981449615875,
+          "result": "L 107-111 vs Fort Wayne Pistons on 1956-11-18"
+        },
+        {
+          "diff": 50.13129915901891,
+          "newRating": 1123.1294441206064,
+          "result": "W 111-78 vs Syracuse Nationals on 1956-11-22"
+        },
+        {
+          "diff": 54.90356166350807,
+          "newRating": 1178.0330057841145,
+          "result": "W 104-102 vs St. Louis Hawks on 1956-11-24"
+        },
+        {
+          "diff": -10.815112942710357,
+          "newRating": 1167.2178928414041,
+          "result": "L 94-95 vs St. Louis Hawks on 1956-11-25"
+        },
+        {
+          "diff": 21.523278666771148,
+          "newRating": 1188.7411715081753,
+          "result": "W 113-98 vs Philadelphia Warriors on 1956-11-27"
+        },
+        {
+          "diff": -12.15662033632475,
+          "newRating": 1176.5845511718505,
+          "result": "L 93-105 vs Boston Celtics on 1956-11-28"
+        },
+        {
+          "diff": -22.98324812776127,
+          "newRating": 1153.6013030440893,
+          "result": "L 83-95 vs Rochester Royals on 1956-12-01"
+        },
+        {
+          "diff": 21.567275008806064,
+          "newRating": 1175.1685780528953,
+          "result": "W 106-96 vs Philadelphia Warriors on 1956-12-02"
+        },
+        {
+          "diff": -27.732680386433685,
+          "newRating": 1147.4358976664616,
+          "result": "L 88-101 vs New York Knicks on 1956-12-04"
+        },
+        {
+          "diff": 30.06543667379492,
+          "newRating": 1177.5013343402566,
+          "result": "W 103-96 vs St. Louis Hawks on 1956-12-06"
+        },
+        {
+          "diff": -8.256358043042837,
+          "newRating": 1169.2449762972137,
+          "result": "L 114-121 vs Boston Celtics on 1956-12-07"
+        },
+        {
+          "diff": -17.347487468281543,
+          "newRating": 1151.8974888289322,
+          "result": "L 91-100 vs New York Knicks on 1956-12-09"
+        },
+        {
+          "diff": -18.019652282853485,
+          "newRating": 1133.8778365460787,
+          "result": "L 111-114 vs Philadelphia Warriors on 1956-12-11"
+        },
+        {
+          "diff": 19.213895122800977,
+          "newRating": 1153.0917316688797,
+          "result": "W 121-103 vs New York Knicks on 1956-12-12"
+        },
+        {
+          "diff": 18.882993444840622,
+          "newRating": 1171.9747251137203,
+          "result": "W 101-97 vs Rochester Royals on 1956-12-16"
+        },
+        {
+          "diff": 16.544979395565633,
+          "newRating": 1188.519704509286,
+          "result": "W 105-103 vs Rochester Royals on 1956-12-20"
+        },
+        {
+          "diff": -15.080114906558265,
+          "newRating": 1173.4395896027277,
+          "result": "L 101-115 vs Rochester Royals on 1956-12-22"
+        },
+        {
+          "diff": -15.777068478383853,
+          "newRating": 1157.6625211243438,
+          "result": "L 97-107 vs Syracuse Nationals on 1956-12-23"
+        },
+        {
+          "diff": 13.642323021817901,
+          "newRating": 1171.3048441461617,
+          "result": "W 100-89 vs Fort Wayne Pistons on 1956-12-25"
+        },
+        {
+          "diff": -13.904082302982488,
+          "newRating": 1157.4007618431792,
+          "result": "L 93-120 vs Fort Wayne Pistons on 1956-12-27"
+        },
+        {
+          "diff": -10.238177029992585,
+          "newRating": 1147.1625848131866,
+          "result": "L 92-95 vs St. Louis Hawks on 1956-12-29"
+        },
+        {
+          "diff": -9.185520898731284,
+          "newRating": 1137.9770639144554,
+          "result": "L 93-100 vs St. Louis Hawks on 1956-12-30"
+        },
+        {
+          "diff": -10.861307650827484,
+          "newRating": 1127.1157562636279,
+          "result": "L 102-104 vs Fort Wayne Pistons on 1957-01-03"
+        },
+        {
+          "diff": -10.839072132578849,
+          "newRating": 1116.276684131049,
+          "result": "L 101-111 vs New York Knicks on 1957-01-06"
+        },
+        {
+          "diff": -9.064521029728212,
+          "newRating": 1107.2121631013208,
+          "result": "L 86-87 vs Fort Wayne Pistons on 1957-01-08"
+        },
+        {
+          "diff": 13.354667921333657,
+          "newRating": 1120.5668310226545,
+          "result": "W 93-86 vs Syracuse Nationals on 1957-01-09"
+        },
+        {
+          "diff": 12.13444048451447,
+          "newRating": 1132.701271507169,
+          "result": "W 118-110 vs Syracuse Nationals on 1957-01-10"
+        },
+        {
+          "diff": 12.256990961619294,
+          "newRating": 1144.9582624687882,
+          "result": "W 105-87 vs Fort Wayne Pistons on 1957-01-12"
+        },
+        {
+          "diff": 14.387963561219522,
+          "newRating": 1159.3462260300078,
+          "result": "W 104-87 vs Boston Celtics on 1957-01-13"
+        },
+        {
+          "diff": -8.931483494702661,
+          "newRating": 1150.414742535305,
+          "result": "L 93-94 vs New York Knicks on 1957-01-17"
+        },
+        {
+          "diff": 10.06323175112766,
+          "newRating": 1160.4779742864328,
+          "result": "W 114-107 vs Rochester Royals on 1957-01-20"
+        },
+        {
+          "diff": 9.284909358757204,
+          "newRating": 1169.76288364519,
+          "result": "W 107-99 vs Rochester Royals on 1957-01-23"
+        },
+        {
+          "diff": -5.7966081681270225,
+          "newRating": 1163.966275477063,
+          "result": "L 106-115 vs Boston Celtics on 1957-01-25"
+        },
+        {
+          "diff": -8.2409031221041,
+          "newRating": 1155.7253723549588,
+          "result": "L 107-122 vs New York Knicks on 1957-01-26"
+        },
+        {
+          "diff": -8.213235092491459,
+          "newRating": 1147.5121372624674,
+          "result": "L 93-94 vs Syracuse Nationals on 1957-01-27"
+        },
+        {
+          "diff": -7.623103226660987,
+          "newRating": 1139.8890340358064,
+          "result": "L 96-112 vs Syracuse Nationals on 1957-01-28"
+        },
+        {
+          "diff": -4.329190123477247,
+          "newRating": 1135.5598439123291,
+          "result": "L 91-103 vs Boston Celtics on 1957-01-29"
+        },
+        {
+          "diff": -6.966424986468837,
+          "newRating": 1128.5934189258603,
+          "result": "L 107-111 vs Fort Wayne Pistons on 1957-01-31"
+        },
+        {
+          "diff": -6.234867196468258,
+          "newRating": 1122.358551729392,
+          "result": "L 97-106 vs St. Louis Hawks on 1957-02-02"
+        },
+        {
+          "diff": -5.8386871407601575,
+          "newRating": 1116.519864588632,
+          "result": "L 85-102 vs St. Louis Hawks on 1957-02-03"
+        },
+        {
+          "diff": 10.156164091145456,
+          "newRating": 1126.6760286797773,
+          "result": "W 101-100 vs Philadelphia Warriors on 1957-02-06"
+        },
+        {
+          "diff": 8.796766711021746,
+          "newRating": 1135.472795390799,
+          "result": "W 99-92 vs Fort Wayne Pistons on 1957-02-09"
+        },
+        {
+          "diff": -6.84026359827385,
+          "newRating": 1128.6325317925252,
+          "result": "L 100-113 vs Fort Wayne Pistons on 1957-02-10"
+        },
+        {
+          "diff": 9.037152951156486,
+          "newRating": 1137.6696847436817,
+          "result": "W 110-105 vs St. Louis Hawks on 1957-02-12"
+        },
+        {
+          "diff": 10.677930777813799,
+          "newRating": 1148.3476155214955,
+          "result": "W 115-114 vs Boston Celtics on 1957-02-13"
+        },
+        {
+          "diff": 8.05888350184955,
+          "newRating": 1156.406499023345,
+          "result": "W 99-97 vs New York Knicks on 1957-02-14"
+        },
+        {
+          "diff": -5.739535575102536,
+          "newRating": 1150.6669634482425,
+          "result": "L 104-105 vs Philadelphia Warriors on 1957-02-15"
+        },
+        {
+          "diff": -6.212670459124411,
+          "newRating": 1144.4542929891181,
+          "result": "L 112-120 vs New York Knicks on 1957-02-16"
+        },
+        {
+          "diff": -5.847988980762693,
+          "newRating": 1138.6063040083554,
+          "result": "L 115-118 vs St. Louis Hawks on 1957-02-17"
+        },
+        {
+          "diff": 6.710053208699037,
+          "newRating": 1145.3163572170545,
+          "result": "W 111-103 vs Rochester Royals on 1957-02-20"
+        },
+        {
+          "diff": -5.044853693171717,
+          "newRating": 1140.2715035238828,
+          "result": "L 101-103 vs Syracuse Nationals on 1957-02-23"
+        },
+        {
+          "diff": 7.364643441684848,
+          "newRating": 1147.6361469655676,
+          "result": "W 123-115 vs Fort Wayne Pistons on 1957-02-24"
+        },
+        {
+          "diff": -5.409605201504064,
+          "newRating": 1142.2265417640635,
+          "result": "L 94-110 vs St. Louis Hawks on 1957-02-25"
+        },
+        {
+          "diff": -4.713337964628181,
+          "newRating": 1137.5132037994354,
+          "result": "L 108-120 vs Syracuse Nationals on 1957-02-26"
+        },
+        {
+          "diff": -4.620001737614757,
+          "newRating": 1132.8932020618206,
+          "result": "L 112-129 vs Philadelphia Warriors on 1957-02-28"
+        },
+        {
+          "diff": 6.106479555233136,
+          "newRating": 1138.9996816170537,
+          "result": "W 125-117 vs Rochester Royals on 1957-03-01"
+        },
+        {
+          "diff": 6.967724195558731,
+          "newRating": 1145.9674058126125,
+          "result": "W 119-108 vs New York Knicks on 1957-03-03"
+        },
+        {
+          "diff": 8.1043773258707,
+          "newRating": 1154.0717831384832,
+          "result": "W 109-104 vs Boston Celtics on 1957-03-07"
+        },
+        {
+          "diff": 5.9194214640035625,
+          "newRating": 1159.9912046024867,
+          "result": "W 101-97 vs Fort Wayne Pistons on 1957-03-08"
+        },
+        {
+          "diff": 6.524270983199358,
+          "newRating": 1166.515475585686,
+          "result": "W 117-104 vs St. Louis Hawks on 1957-03-10"
+        },
+        {
+          "diff": 6.5313630790583375,
+          "newRating": 1173.0468386647444,
+          "result": "W 100-94 vs Philadelphia Warriors on 1957-03-12"
+        },
+        {
+          "diff": 6.235946371908312,
+          "newRating": 1179.2827850366527,
+          "result": "W 114-97 vs Philadelphia Warriors on 1957-03-13"
+        }
+      ]
+    },
+    {
+      "team": "Fort Wayne Pistons",
+      "rating": 1162.991895378965,
+      "wins": 34,
+      "losses": 38,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 85-88 vs Rochester Royals on 1956-10-27"
+        },
+        {
+          "diff": 200,
+          "newRating": 1000,
+          "result": "W 94-88 vs Minneapolis Lakers on 1956-10-28"
+        },
+        {
+          "diff": -202.5991804394555,
+          "newRating": 797.4008195605445,
+          "result": "L 81-116 vs Philadelphia Warriors on 1956-11-03"
+        },
+        {
+          "diff": -18.31175116195618,
+          "newRating": 779.0890683985883,
+          "result": "L 83-96 vs New York Knicks on 1956-11-04"
+        },
+        {
+          "diff": -0.5949343057105807,
+          "newRating": 778.4941340928777,
+          "result": "L 79-86 vs St. Louis Hawks on 1956-11-10"
+        },
+        {
+          "diff": 132.84092644693487,
+          "newRating": 911.3350605398126,
+          "result": "W 96-81 vs St. Louis Hawks on 1956-11-11"
+        },
+        {
+          "diff": 103.65704912719957,
+          "newRating": 1014.9921096670122,
+          "result": "W 98-95 vs Boston Celtics on 1956-11-15"
+        },
+        {
+          "diff": -2.876468520099479,
+          "newRating": 1012.1156411469127,
+          "result": "L 87-92 vs St. Louis Hawks on 1956-11-17"
+        },
+        {
+          "diff": 57.857124583055906,
+          "newRating": 1069.9727657299686,
+          "result": "W 111-107 vs Minneapolis Lakers on 1956-11-18"
+        },
+        {
+          "diff": 50.585961253832465,
+          "newRating": 1120.558726983801,
+          "result": "W 104-103 vs New York Knicks on 1956-11-21"
+        },
+        {
+          "diff": 39.33539947697386,
+          "newRating": 1159.894126460775,
+          "result": "W 104-102 vs Rochester Royals on 1956-11-22"
+        },
+        {
+          "diff": -39.77361322340403,
+          "newRating": 1120.120513237371,
+          "result": "L 88-98 vs Philadelphia Warriors on 1956-11-24"
+        },
+        {
+          "diff": 31.52235732253348,
+          "newRating": 1151.6428705599044,
+          "result": "W 112-88 vs Philadelphia Warriors on 1956-11-25"
+        },
+        {
+          "diff": -37.37948734867996,
+          "newRating": 1114.2633832112244,
+          "result": "L 98-105 vs New York Knicks on 1956-11-27"
+        },
+        {
+          "diff": 29.746772052218375,
+          "newRating": 1144.0101552634428,
+          "result": "W 92-87 vs Syracuse Nationals on 1956-11-29"
+        },
+        {
+          "diff": -9.27739354466371,
+          "newRating": 1134.732761718779,
+          "result": "L 102-104 vs Boston Celtics on 1956-11-30"
+        },
+        {
+          "diff": -7.946923068608157,
+          "newRating": 1126.785838650171,
+          "result": "L 93-108 vs Boston Celtics on 1956-12-01"
+        },
+        {
+          "diff": -22.942130254946505,
+          "newRating": 1103.8437083952244,
+          "result": "L 96-97 vs Syracuse Nationals on 1956-12-04"
+        },
+        {
+          "diff": 23.2247188831152,
+          "newRating": 1127.0684272783396,
+          "result": "W 104-92 vs Syracuse Nationals on 1956-12-06"
+        },
+        {
+          "diff": 19.322992646904822,
+          "newRating": 1146.3914199252445,
+          "result": "W 105-97 vs Syracuse Nationals on 1956-12-07"
+        },
+        {
+          "diff": -16.326678580268663,
+          "newRating": 1130.0647413449758,
+          "result": "L 100-101 vs Rochester Royals on 1956-12-09"
+        },
+        {
+          "diff": -7.165101042012111,
+          "newRating": 1122.8996403029637,
+          "result": "L 97-113 vs Boston Celtics on 1956-12-11"
+        },
+        {
+          "diff": 20.575680182640326,
+          "newRating": 1143.475320485604,
+          "result": "W 84-80 vs New York Knicks on 1956-12-16"
+        },
+        {
+          "diff": -13.882879300025706,
+          "newRating": 1129.5924411855783,
+          "result": "L 84-95 vs St. Louis Hawks on 1956-12-18"
+        },
+        {
+          "diff": 24.271908423792638,
+          "newRating": 1153.864349609371,
+          "result": "W 95-87 vs Boston Celtics on 1956-12-23"
+        },
+        {
+          "diff": -15.216437216643044,
+          "newRating": 1138.647912392728,
+          "result": "L 89-100 vs Minneapolis Lakers on 1956-12-25"
+        },
+        {
+          "diff": 17.7754501712202,
+          "newRating": 1156.423362563948,
+          "result": "W 99-93 vs Rochester Royals on 1956-12-26"
+        },
+        {
+          "diff": 14.897231038909922,
+          "newRating": 1171.320593602858,
+          "result": "W 120-93 vs Minneapolis Lakers on 1956-12-27"
+        },
+        {
+          "diff": -13.29044333118145,
+          "newRating": 1158.0301502716766,
+          "result": "L 88-95 vs Rochester Royals on 1956-12-29"
+        },
+        {
+          "diff": 16.191009384699328,
+          "newRating": 1174.221159656376,
+          "result": "W 104-99 vs Philadelphia Warriors on 1956-12-30"
+        },
+        {
+          "diff": 11.562037176687454,
+          "newRating": 1185.7831968330634,
+          "result": "W 104-102 vs Minneapolis Lakers on 1957-01-03"
+        },
+        {
+          "diff": 11.800066382767,
+          "newRating": 1197.5832632158304,
+          "result": "W 109-96 vs New York Knicks on 1957-01-05"
+        },
+        {
+          "diff": -8.385791960431106,
+          "newRating": 1189.1974712553993,
+          "result": "L 92-118 vs Boston Celtics on 1957-01-06"
+        },
+        {
+          "diff": 9.331124589426054,
+          "newRating": 1198.5285958448253,
+          "result": "W 87-86 vs Minneapolis Lakers on 1957-01-08"
+        },
+        {
+          "diff": -8.180768452872144,
+          "newRating": 1190.3478273919532,
+          "result": "L 81-98 vs Boston Celtics on 1957-01-10"
+        },
+        {
+          "diff": -12.937934903931364,
+          "newRating": 1177.4098924880218,
+          "result": "L 87-105 vs Minneapolis Lakers on 1957-01-12"
+        },
+        {
+          "diff": 11.496405075440407,
+          "newRating": 1188.9062975634622,
+          "result": "W 91-89 vs St. Louis Hawks on 1957-01-13"
+        },
+        {
+          "diff": -10.246537305063384,
+          "newRating": 1178.6597602583988,
+          "result": "L 82-106 vs St. Louis Hawks on 1957-01-17"
+        },
+        {
+          "diff": -9.450565311953596,
+          "newRating": 1169.2091949464452,
+          "result": "L 100-102 vs New York Knicks on 1957-01-19"
+        },
+        {
+          "diff": -10.026565523349518,
+          "newRating": 1159.1826294230957,
+          "result": "L 98-101 vs Syracuse Nationals on 1957-01-20"
+        },
+        {
+          "diff": 11.43820406441273,
+          "newRating": 1170.6208334875084,
+          "result": "W 97-87 vs St. Louis Hawks on 1957-01-22"
+        },
+        {
+          "diff": -8.488904497145995,
+          "newRating": 1162.1319289903624,
+          "result": "L 78-101 vs St. Louis Hawks on 1957-01-23"
+        },
+        {
+          "diff": 11.154196451069083,
+          "newRating": 1173.2861254414315,
+          "result": "W 101-98 vs Philadelphia Warriors on 1957-01-26"
+        },
+        {
+          "diff": 9.912922389255073,
+          "newRating": 1183.1990478306866,
+          "result": "W 103-102 vs New York Knicks on 1957-01-27"
+        },
+        {
+          "diff": 9.869831978225193,
+          "newRating": 1193.0688798089118,
+          "result": "W 91-85 vs St. Louis Hawks on 1957-01-29"
+        },
+        {
+          "diff": 7.269313029358955,
+          "newRating": 1200.3381928382707,
+          "result": "W 111-107 vs Minneapolis Lakers on 1957-01-31"
+        },
+        {
+          "diff": -10.5575646420873,
+          "newRating": 1189.7806281961834,
+          "result": "L 80-96 vs Rochester Royals on 1957-02-01"
+        },
+        {
+          "diff": -9.863975538546583,
+          "newRating": 1179.9166526576369,
+          "result": "L 79-93 vs Rochester Royals on 1957-02-02"
+        },
+        {
+          "diff": -7.394976191746082,
+          "newRating": 1172.5216764658908,
+          "result": "L 95-104 vs Syracuse Nationals on 1957-02-03"
+        },
+        {
+          "diff": 9.15768102369725,
+          "newRating": 1181.679357489588,
+          "result": "W 103-91 vs Philadelphia Warriors on 1957-02-04"
+        },
+        {
+          "diff": -4.77154478543207,
+          "newRating": 1176.907812704156,
+          "result": "L 93-108 vs Boston Celtics on 1957-02-06"
+        },
+        {
+          "diff": -8.796766711021746,
+          "newRating": 1168.1110459931342,
+          "result": "L 92-99 vs Minneapolis Lakers on 1957-02-09"
+        },
+        {
+          "diff": 6.84026359827385,
+          "newRating": 1174.951309591408,
+          "result": "W 113-100 vs Minneapolis Lakers on 1957-02-10"
+        },
+        {
+          "diff": -6.574892977133459,
+          "newRating": 1168.3764166142746,
+          "result": "L 89-99 vs Philadelphia Warriors on 1957-02-13"
+        },
+        {
+          "diff": 9.965171446620161,
+          "newRating": 1178.3415880608948,
+          "result": "W 112-106 vs Boston Celtics on 1957-02-14"
+        },
+        {
+          "diff": 6.62908150778685,
+          "newRating": 1184.9706695686816,
+          "result": "W 87-84 vs Rochester Royals on 1957-02-16"
+        },
+        {
+          "diff": 6.251796922600079,
+          "newRating": 1191.2224664912817,
+          "result": "W 104-85 vs Rochester Royals on 1957-02-17"
+        },
+        {
+          "diff": -6.7530616566782555,
+          "newRating": 1184.4694048346034,
+          "result": "L 83-96 vs St. Louis Hawks on 1957-02-19"
+        },
+        {
+          "diff": 6.704638563808203,
+          "newRating": 1191.1740433984116,
+          "result": "W 120-114 vs New York Knicks on 1957-02-21"
+        },
+        {
+          "diff": 5.582335801689851,
+          "newRating": 1196.7563792001015,
+          "result": "W 110-105 vs Rochester Royals on 1957-02-22"
+        },
+        {
+          "diff": -6.983632938545497,
+          "newRating": 1189.772746261556,
+          "result": "L 94-102 vs New York Knicks on 1957-02-23"
+        },
+        {
+          "diff": -7.364643441684848,
+          "newRating": 1182.4081028198711,
+          "result": "L 115-123 vs Minneapolis Lakers on 1957-02-24"
+        },
+        {
+          "diff": 7.338987007731475,
+          "newRating": 1189.7470898276026,
+          "result": "W 108-102 vs Syracuse Nationals on 1957-02-25"
+        },
+        {
+          "diff": -7.344127127192678,
+          "newRating": 1182.40296270041,
+          "result": "L 76-90 vs Rochester Royals on 1957-02-27"
+        },
+        {
+          "diff": -5.14307885335711,
+          "newRating": 1177.2598838470528,
+          "result": "L 112-123 vs Syracuse Nationals on 1957-02-28"
+        },
+        {
+          "diff": -5.899599820686717,
+          "newRating": 1171.3602840263661,
+          "result": "L 102-112 vs St. Louis Hawks on 1957-03-03"
+        },
+        {
+          "diff": -5.036676465598248,
+          "newRating": 1166.3236075607679,
+          "result": "L 80-114 vs Philadelphia Warriors on 1957-03-05"
+        },
+        {
+          "diff": -4.919774947258247,
+          "newRating": 1161.4038326135096,
+          "result": "L 100-114 vs Philadelphia Warriors on 1957-03-07"
+        },
+        {
+          "diff": -5.9194214640035625,
+          "newRating": 1155.484411149506,
+          "result": "L 97-101 vs Minneapolis Lakers on 1957-03-08"
+        },
+        {
+          "diff": -4.91081292689455,
+          "newRating": 1150.5735982226115,
+          "result": "L 96-97 vs St. Louis Hawks on 1957-03-09"
+        },
+        {
+          "diff": 5.41651480707219,
+          "newRating": 1155.9901130296837,
+          "result": "W 100-96 vs Rochester Royals on 1957-03-10"
+        },
+        {
+          "diff": 7.001782349281257,
+          "newRating": 1162.991895378965,
+          "result": "W 114-81 vs Syracuse Nationals on 1957-03-13"
+        }
+      ]
+    },
+    {
+      "team": "Rochester Royals",
+      "rating": 1138.4316239633931,
+      "wins": 31,
+      "losses": 41,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 88-85 vs Fort Wayne Pistons on 1956-10-27"
+        },
+        {
+          "diff": -200,
+          "newRating": 1400,
+          "result": "L 75-91 vs Syracuse Nationals on 1956-10-28"
+        },
+        {
+          "diff": -264.026402640264,
+          "newRating": 1135.973597359736,
+          "result": "L 88-97 vs Minneapolis Lakers on 1956-11-01"
+        },
+        {
+          "diff": -165.42691170307262,
+          "newRating": 970.5466856566634,
+          "result": "L 85-95 vs Minneapolis Lakers on 1956-11-03"
+        },
+        {
+          "diff": -66.56473881062493,
+          "newRating": 903.9819468460385,
+          "result": "L 87-88 vs Minneapolis Lakers on 1956-11-04"
+        },
+        {
+          "diff": 101.28793594232025,
+          "newRating": 1005.2698827883587,
+          "result": "W 81-80 vs Philadelphia Warriors on 1956-11-07"
+        },
+        {
+          "diff": 40.53913154967586,
+          "newRating": 1045.8090143380346,
+          "result": "W 95-93 vs Philadelphia Warriors on 1956-11-09"
+        },
+        {
+          "diff": 97.55793761333553,
+          "newRating": 1143.36695195137,
+          "result": "W 90-76 vs Syracuse Nationals on 1956-11-10"
+        },
+        {
+          "diff": 32.711431869631724,
+          "newRating": 1176.0783838210018,
+          "result": "W 94-82 vs Minneapolis Lakers on 1956-11-11"
+        },
+        {
+          "diff": -5.825208777820535,
+          "newRating": 1170.2531750431813,
+          "result": "L 105-118 vs St. Louis Hawks on 1956-11-13"
+        },
+        {
+          "diff": 30.76219537092811,
+          "newRating": 1201.0153704141094,
+          "result": "W 90-87 vs New York Knicks on 1956-11-14"
+        },
+        {
+          "diff": -55.36376543449387,
+          "newRating": 1145.6516049796155,
+          "result": "L 83-92 vs Philadelphia Warriors on 1956-11-15"
+        },
+        {
+          "diff": -27.20755712772143,
+          "newRating": 1118.444047851894,
+          "result": "L 86-108 vs Boston Celtics on 1956-11-17"
+        },
+        {
+          "diff": -19.21448694357855,
+          "newRating": 1099.2295609083155,
+          "result": "L 87-101 vs Boston Celtics on 1956-11-18"
+        },
+        {
+          "diff": 49.786278817985476,
+          "newRating": 1149.015839726301,
+          "result": "W 85-76 vs St. Louis Hawks on 1956-11-21"
+        },
+        {
+          "diff": -27.04308714041963,
+          "newRating": 1121.9727525858814,
+          "result": "L 102-104 vs Fort Wayne Pistons on 1956-11-22"
+        },
+        {
+          "diff": 22.580687611439316,
+          "newRating": 1144.5534401973207,
+          "result": "W 96-87 vs New York Knicks on 1956-11-24"
+        },
+        {
+          "diff": 17.499276030896226,
+          "newRating": 1162.052716228217,
+          "result": "W 95-93 vs New York Knicks on 1956-11-25"
+        },
+        {
+          "diff": 22.597942838125846,
+          "newRating": 1184.6506590663428,
+          "result": "W 90-82 vs Syracuse Nationals on 1956-11-27"
+        },
+        {
+          "diff": 19.53576090859724,
+          "newRating": 1204.18641997494,
+          "result": "W 95-83 vs Minneapolis Lakers on 1956-12-01"
+        },
+        {
+          "diff": -24.89777810474311,
+          "newRating": 1179.288641870197,
+          "result": "L 92-95 vs New York Knicks on 1956-12-06"
+        },
+        {
+          "diff": 17.07551748126275,
+          "newRating": 1196.3641593514596,
+          "result": "W 92-91 vs Philadelphia Warriors on 1956-12-08"
+        },
+        {
+          "diff": 14.906967399375844,
+          "newRating": 1211.2711267508355,
+          "result": "W 101-100 vs Fort Wayne Pistons on 1956-12-09"
+        },
+        {
+          "diff": 24.255481522278615,
+          "newRating": 1235.526608273114,
+          "result": "W 103-93 vs Boston Celtics on 1956-12-12"
+        },
+        {
+          "diff": -19.14043388701498,
+          "newRating": 1216.3861743860991,
+          "result": "L 76-91 vs New York Knicks on 1956-12-15"
+        },
+        {
+          "diff": -18.156724466192827,
+          "newRating": 1198.2294499199063,
+          "result": "L 97-101 vs Minneapolis Lakers on 1956-12-16"
+        },
+        {
+          "diff": -15.932202380914987,
+          "newRating": 1182.2972475389913,
+          "result": "L 103-105 vs Minneapolis Lakers on 1956-12-20"
+        },
+        {
+          "diff": 14.541539374181184,
+          "newRating": 1196.8387869131725,
+          "result": "W 115-101 vs Minneapolis Lakers on 1956-12-22"
+        },
+        {
+          "diff": 12.188769711463465,
+          "newRating": 1209.027556624636,
+          "result": "W 98-93 vs Syracuse Nationals on 1956-12-25"
+        },
+        {
+          "diff": -15.997905154098135,
+          "newRating": 1193.0296514705378,
+          "result": "L 93-99 vs Fort Wayne Pistons on 1956-12-26"
+        },
+        {
+          "diff": -9.04190232946803,
+          "newRating": 1183.9877491410698,
+          "result": "L 92-97 vs Boston Celtics on 1956-12-27"
+        },
+        {
+          "diff": 12.044464268883075,
+          "newRating": 1196.0322134099529,
+          "result": "W 95-88 vs Fort Wayne Pistons on 1956-12-29"
+        },
+        {
+          "diff": -13.645774679662964,
+          "newRating": 1182.38643873029,
+          "result": "L 88-96 vs New York Knicks on 1956-12-30"
+        },
+        {
+          "diff": 14.080429065900944,
+          "newRating": 1196.4668677961909,
+          "result": "W 102-101 vs St. Louis Hawks on 1957-01-01"
+        },
+        {
+          "diff": -10.205130815250413,
+          "newRating": 1186.2617369809404,
+          "result": "L 78-81 vs Philadelphia Warriors on 1957-01-05"
+        },
+        {
+          "diff": 11.846584661671614,
+          "newRating": 1198.108321642612,
+          "result": "W 93-86 vs St. Louis Hawks on 1957-01-06"
+        },
+        {
+          "diff": 11.80766405244799,
+          "newRating": 1209.91598569506,
+          "result": "W 95-94 vs Philadelphia Warriors on 1957-01-08"
+        },
+        {
+          "diff": -10.278391226630674,
+          "newRating": 1199.6375944684294,
+          "result": "L 93-112 vs Philadelphia Warriors on 1957-01-10"
+        },
+        {
+          "diff": -11.720094229928463,
+          "newRating": 1187.917500238501,
+          "result": "L 88-97 vs Syracuse Nationals on 1957-01-12"
+        },
+        {
+          "diff": -10.711425700726522,
+          "newRating": 1177.2060745377744,
+          "result": "L 85-91 vs Syracuse Nationals on 1957-01-13"
+        },
+        {
+          "diff": -9.462714181503998,
+          "newRating": 1167.7433603562704,
+          "result": "L 106-108 vs St. Louis Hawks on 1957-01-16"
+        },
+        {
+          "diff": -6.387294241340442,
+          "newRating": 1161.35606611493,
+          "result": "L 83-97 vs Boston Celtics on 1957-01-19"
+        },
+        {
+          "diff": -9.595174460377393,
+          "newRating": 1151.7608916545526,
+          "result": "L 107-114 vs Minneapolis Lakers on 1957-01-20"
+        },
+        {
+          "diff": -8.86286802426821,
+          "newRating": 1142.8980236302843,
+          "result": "L 99-107 vs Minneapolis Lakers on 1957-01-23"
+        },
+        {
+          "diff": -7.245115663428578,
+          "newRating": 1135.6529079668558,
+          "result": "L 99-100 vs St. Louis Hawks on 1957-01-25"
+        },
+        {
+          "diff": -7.742173423573149,
+          "newRating": 1127.9107345432826,
+          "result": "L 95-99 vs Syracuse Nationals on 1957-01-26"
+        },
+        {
+          "diff": -6.417691944478747,
+          "newRating": 1121.4930425988039,
+          "result": "L 83-107 vs St. Louis Hawks on 1957-01-27"
+        },
+        {
+          "diff": -6.387551658635857,
+          "newRating": 1115.105490940168,
+          "result": "L 80-92 vs New York Knicks on 1957-01-30"
+        },
+        {
+          "diff": 10.126643636287781,
+          "newRating": 1125.2321345764558,
+          "result": "W 96-80 vs Fort Wayne Pistons on 1957-02-01"
+        },
+        {
+          "diff": 9.469416517004674,
+          "newRating": 1134.7015510934605,
+          "result": "W 93-79 vs Fort Wayne Pistons on 1957-02-02"
+        },
+        {
+          "diff": -6.016335653896931,
+          "newRating": 1128.6852154395635,
+          "result": "L 108-110 vs Philadelphia Warriors on 1957-02-03"
+        },
+        {
+          "diff": 9.056448424055816,
+          "newRating": 1137.7416638636194,
+          "result": "W 91-88 vs New York Knicks on 1957-02-05"
+        },
+        {
+          "diff": 9.22587636965386,
+          "newRating": 1146.9675402332732,
+          "result": "W 103-100 vs St. Louis Hawks on 1957-02-06"
+        },
+        {
+          "diff": 10.811550311292194,
+          "newRating": 1157.7790905445654,
+          "result": "W 103-102 vs Boston Celtics on 1957-02-09"
+        },
+        {
+          "diff": -6.563285366044738,
+          "newRating": 1151.2158051785207,
+          "result": "L 93-117 vs St. Louis Hawks on 1957-02-10"
+        },
+        {
+          "diff": -6.4151465955262665,
+          "newRating": 1144.8006585829944,
+          "result": "L 82-85 vs New York Knicks on 1957-02-13"
+        },
+        {
+          "diff": 8.507145736991788,
+          "newRating": 1153.3078043199862,
+          "result": "W 104-95 vs Syracuse Nationals on 1957-02-14"
+        },
+        {
+          "diff": -6.400492490276974,
+          "newRating": 1146.9073118297092,
+          "result": "L 84-87 vs Fort Wayne Pistons on 1957-02-16"
+        },
+        {
+          "diff": -6.039871603189795,
+          "newRating": 1140.8674402265194,
+          "result": "L 85-104 vs Fort Wayne Pistons on 1957-02-17"
+        },
+        {
+          "diff": -6.710053208699037,
+          "newRating": 1134.1573870178204,
+          "result": "L 103-111 vs Minneapolis Lakers on 1957-02-20"
+        },
+        {
+          "diff": -5.490822100022797,
+          "newRating": 1128.6665649177976,
+          "result": "L 105-110 vs Fort Wayne Pistons on 1957-02-22"
+        },
+        {
+          "diff": 7.759891381603893,
+          "newRating": 1136.4264562994015,
+          "result": "W 101-86 vs St. Louis Hawks on 1957-02-23"
+        },
+        {
+          "diff": -4.643034560130673,
+          "newRating": 1131.7834217392708,
+          "result": "L 93-109 vs Syracuse Nationals on 1957-02-24"
+        },
+        {
+          "diff": -3.491526073310979,
+          "newRating": 1128.2918956659598,
+          "result": "L 77-92 vs Boston Celtics on 1957-02-26"
+        },
+        {
+          "diff": 7.23114055600513,
+          "newRating": 1135.523036221965,
+          "result": "W 90-76 vs Fort Wayne Pistons on 1957-02-27"
+        },
+        {
+          "diff": -6.106479555233136,
+          "newRating": 1129.4165566667318,
+          "result": "L 117-125 vs Minneapolis Lakers on 1957-03-01"
+        },
+        {
+          "diff": 8.642702047072135,
+          "newRating": 1138.059258713804,
+          "result": "W 96-87 vs Boston Celtics on 1957-03-02"
+        },
+        {
+          "diff": -3.490090386999782,
+          "newRating": 1134.5691683268042,
+          "result": "L 102-111 vs Boston Celtics on 1957-03-03"
+        },
+        {
+          "diff": 7.368637921927075,
+          "newRating": 1141.9378062487312,
+          "result": "W 82-79 vs Philadelphia Warriors on 1957-03-06"
+        },
+        {
+          "diff": -4.770970035745677,
+          "newRating": 1137.1668362129856,
+          "result": "L 92-100 vs St. Louis Hawks on 1957-03-08"
+        },
+        {
+          "diff": -5.41651480707219,
+          "newRating": 1131.7503214059134,
+          "result": "L 96-100 vs Fort Wayne Pistons on 1957-03-10"
+        },
+        {
+          "diff": 6.681302557479739,
+          "newRating": 1138.4316239633931,
+          "result": "W 104-99 vs St. Louis Hawks on 1957-03-13"
+        }
+      ]
+    }
+  ]
+}

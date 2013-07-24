@@ -79,10 +79,8 @@ function generateScheduleForYear(year, callback) {
 	});
 }
 
-var startYear = 1980,
-	years = [],
-	thisYear = new Date().getFullYear();
-for (var i = startYear; i <= thisYear; i++) {
+var years = [];
+for (var i = 1950; i <= 2013; i++) {
 	years.push(i);
 }
 

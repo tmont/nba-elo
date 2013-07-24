@@ -1,0 +1,5930 @@
+{
+  "year": 1976,
+  "source": "http://www.basketball-reference.com/leagues/NBA_1976_games.html",
+  "teams": [
+    "Atlanta Hawks",
+    "Boston Celtics",
+    "Buffalo Braves",
+    "Chicago Bulls",
+    "Cleveland Cavaliers",
+    "Detroit Pistons",
+    "Golden State Warriors",
+    "Houston Rockets",
+    "Kansas City Kings",
+    "Los Angeles Lakers",
+    "Milwaukee Bucks",
+    "New Orleans Jazz",
+    "New York Knicks",
+    "Philadelphia 76ers",
+    "Phoenix Suns",
+    "Portland Trail Blazers",
+    "Seattle SuperSonics",
+    "Washington Bullets"
+  ],
+  "results": [
+    {
+      "date": "1975-10-23",
+      "home": "Atlanta Hawks",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 109,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510230ATL.html"
+    },
+    {
+      "date": "1975-10-23",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 83,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510230CLE.html"
+    },
+    {
+      "date": "1975-10-23",
+      "home": "New York Knicks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 101,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510230NYK.html"
+    },
+    {
+      "date": "1975-10-23",
+      "home": "Washington Bullets",
+      "visitor": "Kansas City Kings",
+      "homePoints": 107,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510230WSB.html"
+    },
+    {
+      "date": "1975-10-24",
+      "home": "Boston Celtics",
+      "visitor": "Houston Rockets",
+      "homePoints": 109,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510240BOS.html"
+    },
+    {
+      "date": "1975-10-24",
+      "home": "Chicago Bulls",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 103,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510240CHI.html"
+    },
+    {
+      "date": "1975-10-24",
+      "home": "New Orleans Jazz",
+      "visitor": "Detroit Pistons",
+      "homePoints": 114,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510240NOJ.html"
+    },
+    {
+      "date": "1975-10-24",
+      "home": "Seattle SuperSonics",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 105,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510240SEA.html"
+    },
+    {
+      "date": "1975-10-25",
+      "home": "Atlanta Hawks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 102,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510250ATL.html"
+    },
+    {
+      "date": "1975-10-25",
+      "home": "Buffalo Braves",
+      "visitor": "Golden State Warriors",
+      "homePoints": 104,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510250BUF.html"
+    },
+    {
+      "date": "1975-10-25",
+      "home": "Milwaukee Bucks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 87,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510250MIL.html"
+    },
+    {
+      "date": "1975-10-25",
+      "home": "New York Knicks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 100,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510250NYK.html"
+    },
+    {
+      "date": "1975-10-25",
+      "home": "Portland Trail Blazers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 88,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510250POR.html"
+    },
+    {
+      "date": "1975-10-26",
+      "home": "New Orleans Jazz",
+      "visitor": "New York Knicks",
+      "homePoints": 125,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510260NOJ.html"
+    },
+    {
+      "date": "1975-10-26",
+      "home": "Seattle SuperSonics",
+      "visitor": "Phoenix Suns",
+      "homePoints": 113,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510260SEA.html"
+    },
+    {
+      "date": "1975-10-27",
+      "home": "Philadelphia 76ers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 117,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510270PHI.html"
+    },
+    {
+      "date": "1975-10-28",
+      "home": "Buffalo Braves",
+      "visitor": "Houston Rockets",
+      "homePoints": 124,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510280BUF.html"
+    },
+    {
+      "date": "1975-10-28",
+      "home": "Chicago Bulls",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 101,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510280CHI.html"
+    },
+    {
+      "date": "1975-10-28",
+      "home": "Milwaukee Bucks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 92,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510280MIL.html"
+    },
+    {
+      "date": "1975-10-28",
+      "home": "New Orleans Jazz",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 99,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510280NOJ.html"
+    },
+    {
+      "date": "1975-10-28",
+      "home": "New York Knicks",
+      "visitor": "Golden State Warriors",
+      "homePoints": 94,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510280NYK.html"
+    },
+    {
+      "date": "1975-10-29",
+      "home": "Boston Celtics",
+      "visitor": "Golden State Warriors",
+      "homePoints": 115,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510290BOS.html"
+    },
+    {
+      "date": "1975-10-29",
+      "home": "Detroit Pistons",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 112,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510290DET.html"
+    },
+    {
+      "date": "1975-10-29",
+      "home": "Kansas City Kings",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 91,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510290KCK.html"
+    },
+    {
+      "date": "1975-10-30",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 108,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510300CLE.html"
+    },
+    {
+      "date": "1975-10-30",
+      "home": "New York Knicks",
+      "visitor": "Kansas City Kings",
+      "homePoints": 117,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510300NYK.html"
+    },
+    {
+      "date": "1975-10-31",
+      "home": "Boston Celtics",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 112,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510310BOS.html"
+    },
+    {
+      "date": "1975-10-31",
+      "home": "Detroit Pistons",
+      "visitor": "Houston Rockets",
+      "homePoints": 131,
+      "visitorPoints": 127,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510310DET.html"
+    },
+    {
+      "date": "1975-10-31",
+      "home": "Los Angeles Lakers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 120,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510310LAL.html"
+    },
+    {
+      "date": "1975-10-31",
+      "home": "New Orleans Jazz",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 100,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510310NOJ.html"
+    },
+    {
+      "date": "1975-10-31",
+      "home": "Philadelphia 76ers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 87,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197510310PHI.html"
+    },
+    {
+      "date": "1975-11-01",
+      "home": "Buffalo Braves",
+      "visitor": "Detroit Pistons",
+      "homePoints": 97,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511010BUF.html"
+    },
+    {
+      "date": "1975-11-01",
+      "home": "Chicago Bulls",
+      "visitor": "Boston Celtics",
+      "homePoints": 84,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511010CHI.html"
+    },
+    {
+      "date": "1975-11-01",
+      "home": "Cleveland Cavaliers",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 91,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511010CLE.html"
+    },
+    {
+      "date": "1975-11-01",
+      "home": "Golden State Warriors",
+      "visitor": "Washington Bullets",
+      "homePoints": 100,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511010GSW.html"
+    },
+    {
+      "date": "1975-11-01",
+      "home": "Kansas City Kings",
+      "visitor": "Phoenix Suns",
+      "homePoints": 106,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511010KCK.html"
+    },
+    {
+      "date": "1975-11-01",
+      "home": "Milwaukee Bucks",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 97,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511010MIL.html"
+    },
+    {
+      "date": "1975-11-01",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 110,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511010NYK.html"
+    },
+    {
+      "date": "1975-11-02",
+      "home": "Houston Rockets",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 104,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511020HOU.html"
+    },
+    {
+      "date": "1975-11-02",
+      "home": "Los Angeles Lakers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 116,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511020LAL.html"
+    },
+    {
+      "date": "1975-11-02",
+      "home": "Seattle SuperSonics",
+      "visitor": "Washington Bullets",
+      "homePoints": 85,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511020SEA.html"
+    },
+    {
+      "date": "1975-11-04",
+      "home": "Buffalo Braves",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 114,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511040BUF.html"
+    },
+    {
+      "date": "1975-11-04",
+      "home": "Chicago Bulls",
+      "visitor": "Phoenix Suns",
+      "homePoints": 80,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511040CHI.html"
+    },
+    {
+      "date": "1975-11-04",
+      "home": "Houston Rockets",
+      "visitor": "New York Knicks",
+      "homePoints": 119,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511040HOU.html"
+    },
+    {
+      "date": "1975-11-04",
+      "home": "Kansas City Kings",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 116,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511040KCK.html"
+    },
+    {
+      "date": "1975-11-04",
+      "home": "Milwaukee Bucks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 103,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511040MIL.html"
+    },
+    {
+      "date": "1975-11-04",
+      "home": "Portland Trail Blazers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 97,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511040POR.html"
+    },
+    {
+      "date": "1975-11-04",
+      "home": "Washington Bullets",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 113,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511040WSB.html"
+    },
+    {
+      "date": "1975-11-05",
+      "home": "Boston Celtics",
+      "visitor": "Buffalo Braves",
+      "homePoints": 105,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511050BOS.html"
+    },
+    {
+      "date": "1975-11-05",
+      "home": "Detroit Pistons",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 124,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511050DET.html"
+    },
+    {
+      "date": "1975-11-05",
+      "home": "New Orleans Jazz",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 113,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511050NOJ.html"
+    },
+    {
+      "date": "1975-11-05",
+      "home": "Philadelphia 76ers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 115,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511050PHI.html"
+    },
+    {
+      "date": "1975-11-06",
+      "home": "Atlanta Hawks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 108,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511060ATL.html"
+    },
+    {
+      "date": "1975-11-06",
+      "home": "Golden State Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 111,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511060GSW.html"
+    },
+    {
+      "date": "1975-11-06",
+      "home": "Washington Bullets",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 110,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511060WSB.html"
+    },
+    {
+      "date": "1975-11-07",
+      "home": "Chicago Bulls",
+      "visitor": "Detroit Pistons",
+      "homePoints": 122,
+      "visitorPoints": 124,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511070CHI.html"
+    },
+    {
+      "date": "1975-11-07",
+      "home": "Los Angeles Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 105,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511070LAL.html"
+    },
+    {
+      "date": "1975-11-07",
+      "home": "Milwaukee Bucks",
+      "visitor": "Boston Celtics",
+      "homePoints": 104,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511070MIL.html"
+    },
+    {
+      "date": "1975-11-07",
+      "home": "New Orleans Jazz",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 90,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511070NOJ.html"
+    },
+    {
+      "date": "1975-11-07",
+      "home": "Philadelphia 76ers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 103,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511070PHI.html"
+    },
+    {
+      "date": "1975-11-07",
+      "home": "Portland Trail Blazers",
+      "visitor": "Kansas City Kings",
+      "homePoints": 92,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511070POR.html"
+    },
+    {
+      "date": "1975-11-08",
+      "home": "Atlanta Hawks",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 107,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511080ATL.html"
+    },
+    {
+      "date": "1975-11-08",
+      "home": "Buffalo Braves",
+      "visitor": "Phoenix Suns",
+      "homePoints": 110,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511080BUF.html"
+    },
+    {
+      "date": "1975-11-08",
+      "home": "Detroit Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 104,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511080DET.html"
+    },
+    {
+      "date": "1975-11-08",
+      "home": "Golden State Warriors",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 114,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511080GSW.html"
+    },
+    {
+      "date": "1975-11-08",
+      "home": "Houston Rockets",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 116,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511080HOU.html"
+    },
+    {
+      "date": "1975-11-08",
+      "home": "Washington Bullets",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 95,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511080WSB.html"
+    },
+    {
+      "date": "1975-11-09",
+      "home": "Los Angeles Lakers",
+      "visitor": "Kansas City Kings",
+      "homePoints": 125,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511090LAL.html"
+    },
+    {
+      "date": "1975-11-09",
+      "home": "New Orleans Jazz",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 97,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511090NOJ.html"
+    },
+    {
+      "date": "1975-11-09",
+      "home": "Portland Trail Blazers",
+      "visitor": "New York Knicks",
+      "homePoints": 115,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511090POR.html"
+    },
+    {
+      "date": "1975-11-11",
+      "home": "Boston Celtics",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 91,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511110BOS.html"
+    },
+    {
+      "date": "1975-11-11",
+      "home": "Buffalo Braves",
+      "visitor": "Washington Bullets",
+      "homePoints": 90,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511110BUF.html"
+    },
+    {
+      "date": "1975-11-11",
+      "home": "Golden State Warriors",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 103,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511110GSW.html"
+    },
+    {
+      "date": "1975-11-11",
+      "home": "Milwaukee Bucks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 108,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511110MIL.html"
+    },
+    {
+      "date": "1975-11-11",
+      "home": "Phoenix Suns",
+      "visitor": "New York Knicks",
+      "homePoints": 112,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511110PHO.html"
+    },
+    {
+      "date": "1975-11-11",
+      "home": "Portland Trail Blazers",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 106,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511110POR.html"
+    },
+    {
+      "date": "1975-11-12",
+      "home": "Detroit Pistons",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 106,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511120DET.html"
+    },
+    {
+      "date": "1975-11-12",
+      "home": "Houston Rockets",
+      "visitor": "Buffalo Braves",
+      "homePoints": 80,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511120HOU.html"
+    },
+    {
+      "date": "1975-11-12",
+      "home": "Los Angeles Lakers",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 116,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511120LAL.html"
+    },
+    {
+      "date": "1975-11-12",
+      "home": "Philadelphia 76ers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 84,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511120PHI.html"
+    },
+    {
+      "date": "1975-11-12",
+      "home": "Seattle SuperSonics",
+      "visitor": "Kansas City Kings",
+      "homePoints": 92,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511120SEA.html"
+    },
+    {
+      "date": "1975-11-13",
+      "home": "Golden State Warriors",
+      "visitor": "Chicago Bulls",
+      "homePoints": 98,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511130GSW.html"
+    },
+    {
+      "date": "1975-11-13",
+      "home": "New York Knicks",
+      "visitor": "Houston Rockets",
+      "homePoints": 108,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511130NYK.html"
+    },
+    {
+      "date": "1975-11-13",
+      "home": "Phoenix Suns",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 106,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511130PHO.html"
+    },
+    {
+      "date": "1975-11-13",
+      "home": "Washington Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 110,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511130WSB.html"
+    },
+    {
+      "date": "1975-11-14",
+      "home": "Atlanta Hawks",
+      "visitor": "Washington Bullets",
+      "homePoints": 97,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511140ATL.html"
+    },
+    {
+      "date": "1975-11-14",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 109,
+      "visitorPoints": 119,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511140BOS.html"
+    },
+    {
+      "date": "1975-11-14",
+      "home": "Los Angeles Lakers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 114,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511140LAL.html"
+    },
+    {
+      "date": "1975-11-14",
+      "home": "Milwaukee Bucks",
+      "visitor": "Buffalo Braves",
+      "homePoints": 98,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511140MIL.html"
+    },
+    {
+      "date": "1975-11-14",
+      "home": "Portland Trail Blazers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 93,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511140POR.html"
+    },
+    {
+      "date": "1975-11-14",
+      "home": "Seattle SuperSonics",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 100,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511140SEA.html"
+    },
+    {
+      "date": "1975-11-15",
+      "home": "Buffalo Braves",
+      "visitor": "Boston Celtics",
+      "homePoints": 110,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511150BUF.html"
+    },
+    {
+      "date": "1975-11-15",
+      "home": "Detroit Pistons",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 101,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511150DET.html"
+    },
+    {
+      "date": "1975-11-15",
+      "home": "Golden State Warriors",
+      "visitor": "Kansas City Kings",
+      "homePoints": 123,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511150GSW.html"
+    },
+    {
+      "date": "1975-11-15",
+      "home": "Houston Rockets",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 103,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511150HOU.html"
+    },
+    {
+      "date": "1975-11-15",
+      "home": "New York Knicks",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 92,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511150NYK.html"
+    },
+    {
+      "date": "1975-11-15",
+      "home": "Philadelphia 76ers",
+      "visitor": "Washington Bullets",
+      "homePoints": 110,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511150PHI.html"
+    },
+    {
+      "date": "1975-11-15",
+      "home": "Portland Trail Blazers",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 95,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511150POR.html"
+    },
+    {
+      "date": "1975-11-16",
+      "home": "Atlanta Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 97,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511160ATL.html"
+    },
+    {
+      "date": "1975-11-16",
+      "home": "Los Angeles Lakers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 110,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511160LAL.html"
+    },
+    {
+      "date": "1975-11-16",
+      "home": "Seattle SuperSonics",
+      "visitor": "Golden State Warriors",
+      "homePoints": 102,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511160SEA.html"
+    },
+    {
+      "date": "1975-11-18",
+      "home": "Buffalo Braves",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 120,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511180BUF.html"
+    },
+    {
+      "date": "1975-11-18",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Houston Rockets",
+      "homePoints": 91,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511180CLE.html"
+    },
+    {
+      "date": "1975-11-18",
+      "home": "New Orleans Jazz",
+      "visitor": "Golden State Warriors",
+      "homePoints": 104,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511180NOJ.html"
+    },
+    {
+      "date": "1975-11-18",
+      "home": "New York Knicks",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 101,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511180NYK.html"
+    },
+    {
+      "date": "1975-11-19",
+      "home": "Atlanta Hawks",
+      "visitor": "Golden State Warriors",
+      "homePoints": 104,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511190ATL.html"
+    },
+    {
+      "date": "1975-11-19",
+      "home": "Detroit Pistons",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 120,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511190DET.html"
+    },
+    {
+      "date": "1975-11-19",
+      "home": "Houston Rockets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 110,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511190HOU.html"
+    },
+    {
+      "date": "1975-11-19",
+      "home": "Philadelphia 76ers",
+      "visitor": "Kansas City Kings",
+      "homePoints": 113,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511190PHI.html"
+    },
+    {
+      "date": "1975-11-19",
+      "home": "Phoenix Suns",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 94,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511190PHO.html"
+    },
+    {
+      "date": "1975-11-19",
+      "home": "Seattle SuperSonics",
+      "visitor": "Chicago Bulls",
+      "homePoints": 97,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511190SEA.html"
+    },
+    {
+      "date": "1975-11-20",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 115,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511200CLE.html"
+    },
+    {
+      "date": "1975-11-20",
+      "home": "Washington Bullets",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 105,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511200WSB.html"
+    },
+    {
+      "date": "1975-11-21",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 110,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511210BOS.html"
+    },
+    {
+      "date": "1975-11-21",
+      "home": "Detroit Pistons",
+      "visitor": "Buffalo Braves",
+      "homePoints": 104,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511210DET.html"
+    },
+    {
+      "date": "1975-11-21",
+      "home": "Kansas City Kings",
+      "visitor": "Chicago Bulls",
+      "homePoints": 107,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511210KCK.html"
+    },
+    {
+      "date": "1975-11-21",
+      "home": "Los Angeles Lakers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 116,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511210LAL.html"
+    },
+    {
+      "date": "1975-11-21",
+      "home": "Philadelphia 76ers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 131,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511210PHI.html"
+    },
+    {
+      "date": "1975-11-21",
+      "home": "Phoenix Suns",
+      "visitor": "Houston Rockets",
+      "homePoints": 107,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511210PHO.html"
+    },
+    {
+      "date": "1975-11-22",
+      "home": "Atlanta Hawks",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 85,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511220ATL.html"
+    },
+    {
+      "date": "1975-11-22",
+      "home": "Buffalo Braves",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 104,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511220BUF.html"
+    },
+    {
+      "date": "1975-11-22",
+      "home": "New York Knicks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 94,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511220NYK.html"
+    },
+    {
+      "date": "1975-11-22",
+      "home": "Washington Bullets",
+      "visitor": "Golden State Warriors",
+      "homePoints": 71,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511220WSB.html"
+    },
+    {
+      "date": "1975-11-23",
+      "home": "Atlanta Hawks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 115,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511230ATL.html"
+    },
+    {
+      "date": "1975-11-23",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Boston Celtics",
+      "homePoints": 90,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511230CLE.html"
+    },
+    {
+      "date": "1975-11-23",
+      "home": "Los Angeles Lakers",
+      "visitor": "Houston Rockets",
+      "homePoints": 110,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511230LAL.html"
+    },
+    {
+      "date": "1975-11-23",
+      "home": "Seattle SuperSonics",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 112,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511230SEA.html"
+    },
+    {
+      "date": "1975-11-25",
+      "home": "Chicago Bulls",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 94,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511250CHI.html"
+    },
+    {
+      "date": "1975-11-25",
+      "home": "New York Knicks",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 127,
+      "visitorPoints": 128,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511250NYK.html"
+    },
+    {
+      "date": "1975-11-25",
+      "home": "Philadelphia 76ers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 109,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511250PHI.html"
+    },
+    {
+      "date": "1975-11-25",
+      "home": "Washington Bullets",
+      "visitor": "Houston Rockets",
+      "homePoints": 89,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511250WSB.html"
+    },
+    {
+      "date": "1975-11-26",
+      "home": "Boston Celtics",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 109,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511260BOS.html"
+    },
+    {
+      "date": "1975-11-26",
+      "home": "Detroit Pistons",
+      "visitor": "Kansas City Kings",
+      "homePoints": 120,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511260DET.html"
+    },
+    {
+      "date": "1975-11-26",
+      "home": "Houston Rockets",
+      "visitor": "Washington Bullets",
+      "homePoints": 97,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511260HOU.html"
+    },
+    {
+      "date": "1975-11-26",
+      "home": "Los Angeles Lakers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 101,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511260LAL.html"
+    },
+    {
+      "date": "1975-11-26",
+      "home": "New Orleans Jazz",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 108,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511260NOJ.html"
+    },
+    {
+      "date": "1975-11-26",
+      "home": "Phoenix Suns",
+      "visitor": "Buffalo Braves",
+      "homePoints": 107,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511260PHO.html"
+    },
+    {
+      "date": "1975-11-27",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Kansas City Kings",
+      "homePoints": 91,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511270CLE.html"
+    },
+    {
+      "date": "1975-11-27",
+      "home": "Milwaukee Bucks",
+      "visitor": "Golden State Warriors",
+      "homePoints": 105,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511270MIL.html"
+    },
+    {
+      "date": "1975-11-27",
+      "home": "Washington Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 90,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511270WSB.html"
+    },
+    {
+      "date": "1975-11-28",
+      "home": "Boston Celtics",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 114,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511280BOS.html"
+    },
+    {
+      "date": "1975-11-28",
+      "home": "Chicago Bulls",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 89,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511280CHI.html"
+    },
+    {
+      "date": "1975-11-28",
+      "home": "Kansas City Kings",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 98,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511280KCK.html"
+    },
+    {
+      "date": "1975-11-28",
+      "home": "Los Angeles Lakers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 126,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511280LAL.html"
+    },
+    {
+      "date": "1975-11-28",
+      "home": "Philadelphia 76ers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 113,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511280PHI.html"
+    },
+    {
+      "date": "1975-11-28",
+      "home": "Phoenix Suns",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 110,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511280PHO.html"
+    },
+    {
+      "date": "1975-11-29",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 124,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511290CLE.html"
+    },
+    {
+      "date": "1975-11-29",
+      "home": "Golden State Warriors",
+      "visitor": "Phoenix Suns",
+      "homePoints": 112,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511290GSW.html"
+    },
+    {
+      "date": "1975-11-29",
+      "home": "Houston Rockets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 99,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511290HOU.html"
+    },
+    {
+      "date": "1975-11-29",
+      "home": "Milwaukee Bucks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 88,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511290MIL.html"
+    },
+    {
+      "date": "1975-11-29",
+      "home": "New York Knicks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 110,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511290NYK.html"
+    },
+    {
+      "date": "1975-11-29",
+      "home": "Portland Trail Blazers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 130,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511290POR.html"
+    },
+    {
+      "date": "1975-11-30",
+      "home": "Kansas City Kings",
+      "visitor": "New York Knicks",
+      "homePoints": 110,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511300KCK.html"
+    },
+    {
+      "date": "1975-11-30",
+      "home": "Los Angeles Lakers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 116,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511300LAL.html"
+    },
+    {
+      "date": "1975-11-30",
+      "home": "New Orleans Jazz",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 96,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197511300NOJ.html"
+    },
+    {
+      "date": "1975-12-02",
+      "home": "Buffalo Braves",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 96,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512020BUF.html"
+    },
+    {
+      "date": "1975-12-02",
+      "home": "Chicago Bulls",
+      "visitor": "Houston Rockets",
+      "homePoints": 77,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512020CHI.html"
+    },
+    {
+      "date": "1975-12-02",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 91,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512020CLE.html"
+    },
+    {
+      "date": "1975-12-02",
+      "home": "Kansas City Kings",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 90,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512020KCK.html"
+    },
+    {
+      "date": "1975-12-02",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 100,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512020NYK.html"
+    },
+    {
+      "date": "1975-12-02",
+      "home": "Phoenix Suns",
+      "visitor": "Golden State Warriors",
+      "homePoints": 115,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512020PHO.html"
+    },
+    {
+      "date": "1975-12-02",
+      "home": "Washington Bullets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 107,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512020WSB.html"
+    },
+    {
+      "date": "1975-12-03",
+      "home": "Boston Celtics",
+      "visitor": "Chicago Bulls",
+      "homePoints": 106,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512030BOS.html"
+    },
+    {
+      "date": "1975-12-03",
+      "home": "Detroit Pistons",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 110,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512030DET.html"
+    },
+    {
+      "date": "1975-12-03",
+      "home": "Houston Rockets",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 107,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512030HOU.html"
+    },
+    {
+      "date": "1975-12-03",
+      "home": "Milwaukee Bucks",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 114,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512030MIL.html"
+    },
+    {
+      "date": "1975-12-03",
+      "home": "Philadelphia 76ers",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 102,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512030PHI.html"
+    },
+    {
+      "date": "1975-12-04",
+      "home": "Atlanta Hawks",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 94,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512040ATL.html"
+    },
+    {
+      "date": "1975-12-04",
+      "home": "Kansas City Kings",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 105,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512040KCK.html"
+    },
+    {
+      "date": "1975-12-05",
+      "home": "Boston Celtics",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 104,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512050BOS.html"
+    },
+    {
+      "date": "1975-12-05",
+      "home": "Buffalo Braves",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 125,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512050BUF.html"
+    },
+    {
+      "date": "1975-12-05",
+      "home": "Detroit Pistons",
+      "visitor": "Houston Rockets",
+      "homePoints": 102,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512050DET.html"
+    },
+    {
+      "date": "1975-12-05",
+      "home": "Milwaukee Bucks",
+      "visitor": "Kansas City Kings",
+      "homePoints": 103,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512050MIL.html"
+    },
+    {
+      "date": "1975-12-05",
+      "home": "Philadelphia 76ers",
+      "visitor": "New York Knicks",
+      "homePoints": 99,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512050PHI.html"
+    },
+    {
+      "date": "1975-12-05",
+      "home": "Phoenix Suns",
+      "visitor": "Washington Bullets",
+      "homePoints": 87,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512050PHO.html"
+    },
+    {
+      "date": "1975-12-06",
+      "home": "Atlanta Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 104,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512060ATL.html"
+    },
+    {
+      "date": "1975-12-06",
+      "home": "Chicago Bulls",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 77,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512060CHI.html"
+    },
+    {
+      "date": "1975-12-06",
+      "home": "Golden State Warriors",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 104,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512060GSW.html"
+    },
+    {
+      "date": "1975-12-06",
+      "home": "Houston Rockets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 105,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512060HOU.html"
+    },
+    {
+      "date": "1975-12-06",
+      "home": "Kansas City Kings",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 84,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512060KCK.html"
+    },
+    {
+      "date": "1975-12-06",
+      "home": "New York Knicks",
+      "visitor": "Buffalo Braves",
+      "homePoints": 108,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512060NYK.html"
+    },
+    {
+      "date": "1975-12-07",
+      "home": "Los Angeles Lakers",
+      "visitor": "Washington Bullets",
+      "homePoints": 114,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512070LAL.html"
+    },
+    {
+      "date": "1975-12-07",
+      "home": "Phoenix Suns",
+      "visitor": "Chicago Bulls",
+      "homePoints": 114,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512070PHO.html"
+    },
+    {
+      "date": "1975-12-07",
+      "home": "Seattle SuperSonics",
+      "visitor": "Golden State Warriors",
+      "homePoints": 106,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512070SEA.html"
+    },
+    {
+      "date": "1975-12-09",
+      "home": "Buffalo Braves",
+      "visitor": "Kansas City Kings",
+      "homePoints": 126,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512090BUF.html"
+    },
+    {
+      "date": "1975-12-09",
+      "home": "Golden State Warriors",
+      "visitor": "Detroit Pistons",
+      "homePoints": 129,
+      "visitorPoints": 124,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512090GSW.html"
+    },
+    {
+      "date": "1975-12-09",
+      "home": "New Orleans Jazz",
+      "visitor": "Phoenix Suns",
+      "homePoints": 89,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512090NOJ.html"
+    },
+    {
+      "date": "1975-12-09",
+      "home": "New York Knicks",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 100,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512090NYK.html"
+    },
+    {
+      "date": "1975-12-09",
+      "home": "Philadelphia 76ers",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 100,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512090PHI.html"
+    },
+    {
+      "date": "1975-12-09",
+      "home": "Portland Trail Blazers",
+      "visitor": "Washington Bullets",
+      "homePoints": 95,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512090POR.html"
+    },
+    {
+      "date": "1975-12-10",
+      "home": "Boston Celtics",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 111,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512100BOS.html"
+    },
+    {
+      "date": "1975-12-10",
+      "home": "Houston Rockets",
+      "visitor": "Phoenix Suns",
+      "homePoints": 91,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512100HOU.html"
+    },
+    {
+      "date": "1975-12-10",
+      "home": "Kansas City Kings",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 100,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512100KCK.html"
+    },
+    {
+      "date": "1975-12-10",
+      "home": "Seattle SuperSonics",
+      "visitor": "Chicago Bulls",
+      "homePoints": 99,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512100SEA.html"
+    },
+    {
+      "date": "1975-12-11",
+      "home": "Atlanta Hawks",
+      "visitor": "Buffalo Braves",
+      "homePoints": 122,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512110ATL.html"
+    },
+    {
+      "date": "1975-12-11",
+      "home": "Cleveland Cavaliers",
+      "visitor": "New York Knicks",
+      "homePoints": 109,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512110CLE.html"
+    },
+    {
+      "date": "1975-12-11",
+      "home": "Golden State Warriors",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 101,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512110GSW.html"
+    },
+    {
+      "date": "1975-12-11",
+      "home": "Phoenix Suns",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 106,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512110PHO.html"
+    },
+    {
+      "date": "1975-12-11",
+      "home": "Washington Bullets",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 117,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512110WSB.html"
+    },
+    {
+      "date": "1975-12-12",
+      "home": "Boston Celtics",
+      "visitor": "Washington Bullets",
+      "homePoints": 130,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512120BOS.html"
+    },
+    {
+      "date": "1975-12-12",
+      "home": "Buffalo Braves",
+      "visitor": "New York Knicks",
+      "homePoints": 123,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512120BUF.html"
+    },
+    {
+      "date": "1975-12-12",
+      "home": "Kansas City Kings",
+      "visitor": "Chicago Bulls",
+      "homePoints": 109,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512120KCK.html"
+    },
+    {
+      "date": "1975-12-12",
+      "home": "Los Angeles Lakers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 114,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512120LAL.html"
+    },
+    {
+      "date": "1975-12-12",
+      "home": "Milwaukee Bucks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 91,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512120MIL.html"
+    },
+    {
+      "date": "1975-12-12",
+      "home": "Seattle SuperSonics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 97,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512120SEA.html"
+    },
+    {
+      "date": "1975-12-13",
+      "home": "Atlanta Hawks",
+      "visitor": "Kansas City Kings",
+      "homePoints": 115,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512130ATL.html"
+    },
+    {
+      "date": "1975-12-13",
+      "home": "Chicago Bulls",
+      "visitor": "Buffalo Braves",
+      "homePoints": 101,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512130CHI.html"
+    },
+    {
+      "date": "1975-12-13",
+      "home": "Cleveland Cavaliers",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 112,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512130CLE.html"
+    },
+    {
+      "date": "1975-12-13",
+      "home": "Houston Rockets",
+      "visitor": "Boston Celtics",
+      "homePoints": 120,
+      "visitorPoints": 137,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512130HOU.html"
+    },
+    {
+      "date": "1975-12-13",
+      "home": "New York Knicks",
+      "visitor": "Washington Bullets",
+      "homePoints": 126,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512130NYK.html"
+    },
+    {
+      "date": "1975-12-13",
+      "home": "Phoenix Suns",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 116,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512130PHO.html"
+    },
+    {
+      "date": "1975-12-13",
+      "home": "Portland Trail Blazers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 101,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512130POR.html"
+    },
+    {
+      "date": "1975-12-14",
+      "home": "Kansas City Kings",
+      "visitor": "Golden State Warriors",
+      "homePoints": 105,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512140KCK.html"
+    },
+    {
+      "date": "1975-12-14",
+      "home": "Los Angeles Lakers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 110,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512140LAL.html"
+    },
+    {
+      "date": "1975-12-14",
+      "home": "New Orleans Jazz",
+      "visitor": "Boston Celtics",
+      "homePoints": 93,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512140NOJ.html"
+    },
+    {
+      "date": "1975-12-14",
+      "home": "Portland Trail Blazers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 96,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512140POR.html"
+    },
+    {
+      "date": "1975-12-14",
+      "home": "Seattle SuperSonics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 114,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512140SEA.html"
+    },
+    {
+      "date": "1975-12-16",
+      "home": "Chicago Bulls",
+      "visitor": "Golden State Warriors",
+      "homePoints": 87,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512160CHI.html"
+    },
+    {
+      "date": "1975-12-16",
+      "home": "Kansas City Kings",
+      "visitor": "Houston Rockets",
+      "homePoints": 100,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512160KCK.html"
+    },
+    {
+      "date": "1975-12-16",
+      "home": "Los Angeles Lakers",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 103,
+      "visitorPoints": 123,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512160LAL.html"
+    },
+    {
+      "date": "1975-12-16",
+      "home": "New York Knicks",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 97,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512160NYK.html"
+    },
+    {
+      "date": "1975-12-16",
+      "home": "Portland Trail Blazers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 98,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512160POR.html"
+    },
+    {
+      "date": "1975-12-16",
+      "home": "Washington Bullets",
+      "visitor": "Buffalo Braves",
+      "homePoints": 100,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512160WSB.html"
+    },
+    {
+      "date": "1975-12-17",
+      "home": "Boston Celtics",
+      "visitor": "Kansas City Kings",
+      "homePoints": 118,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512170BOS.html"
+    },
+    {
+      "date": "1975-12-17",
+      "home": "Buffalo Braves",
+      "visitor": "Houston Rockets",
+      "homePoints": 88,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512170BUF.html"
+    },
+    {
+      "date": "1975-12-17",
+      "home": "Detroit Pistons",
+      "visitor": "Golden State Warriors",
+      "homePoints": 102,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512170DET.html"
+    },
+    {
+      "date": "1975-12-17",
+      "home": "New Orleans Jazz",
+      "visitor": "Washington Bullets",
+      "homePoints": 105,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512170NOJ.html"
+    },
+    {
+      "date": "1975-12-17",
+      "home": "Phoenix Suns",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 116,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512170PHO.html"
+    },
+    {
+      "date": "1975-12-17",
+      "home": "Seattle SuperSonics",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 101,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512170SEA.html"
+    },
+    {
+      "date": "1975-12-18",
+      "home": "Atlanta Hawks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 114,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512180ATL.html"
+    },
+    {
+      "date": "1975-12-19",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 120,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512190BOS.html"
+    },
+    {
+      "date": "1975-12-19",
+      "home": "Buffalo Braves",
+      "visitor": "Washington Bullets",
+      "homePoints": 104,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512190BUF.html"
+    },
+    {
+      "date": "1975-12-19",
+      "home": "Chicago Bulls",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 104,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512190CHI.html"
+    },
+    {
+      "date": "1975-12-19",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 114,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512190DET.html"
+    },
+    {
+      "date": "1975-12-19",
+      "home": "Houston Rockets",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 113,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512190HOU.html"
+    },
+    {
+      "date": "1975-12-19",
+      "home": "Phoenix Suns",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 124,
+      "visitorPoints": 128,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512190PHO.html"
+    },
+    {
+      "date": "1975-12-19",
+      "home": "Seattle SuperSonics",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 113,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512190SEA.html"
+    },
+    {
+      "date": "1975-12-20",
+      "home": "Atlanta Hawks",
+      "visitor": "Houston Rockets",
+      "homePoints": 123,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512200ATL.html"
+    },
+    {
+      "date": "1975-12-20",
+      "home": "Golden State Warriors",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 124,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512200GSW.html"
+    },
+    {
+      "date": "1975-12-20",
+      "home": "Kansas City Kings",
+      "visitor": "Buffalo Braves",
+      "homePoints": 110,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512200KCK.html"
+    },
+    {
+      "date": "1975-12-20",
+      "home": "New York Knicks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 96,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512200NYK.html"
+    },
+    {
+      "date": "1975-12-20",
+      "home": "Philadelphia 76ers",
+      "visitor": "Boston Celtics",
+      "homePoints": 97,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512200PHI.html"
+    },
+    {
+      "date": "1975-12-20",
+      "home": "Portland Trail Blazers",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 97,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512200POR.html"
+    },
+    {
+      "date": "1975-12-20",
+      "home": "Washington Bullets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 98,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512200WSB.html"
+    },
+    {
+      "date": "1975-12-21",
+      "home": "Atlanta Hawks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 90,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512210ATL.html"
+    },
+    {
+      "date": "1975-12-21",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 99,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512210CLE.html"
+    },
+    {
+      "date": "1975-12-21",
+      "home": "Phoenix Suns",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 107,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512210PHO.html"
+    },
+    {
+      "date": "1975-12-21",
+      "home": "Portland Trail Blazers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 102,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512210POR.html"
+    },
+    {
+      "date": "1975-12-21",
+      "home": "Seattle SuperSonics",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 101,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512210SEA.html"
+    },
+    {
+      "date": "1975-12-23",
+      "home": "Buffalo Braves",
+      "visitor": "Boston Celtics",
+      "homePoints": 101,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512230BUF.html"
+    },
+    {
+      "date": "1975-12-23",
+      "home": "Detroit Pistons",
+      "visitor": "Washington Bullets",
+      "homePoints": 102,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512230DET.html"
+    },
+    {
+      "date": "1975-12-23",
+      "home": "Golden State Warriors",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 105,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512230GSW.html"
+    },
+    {
+      "date": "1975-12-23",
+      "home": "Houston Rockets",
+      "visitor": "Chicago Bulls",
+      "homePoints": 103,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512230HOU.html"
+    },
+    {
+      "date": "1975-12-23",
+      "home": "Los Angeles Lakers",
+      "visitor": "Kansas City Kings",
+      "homePoints": 111,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512230LAL.html"
+    },
+    {
+      "date": "1975-12-23",
+      "home": "Milwaukee Bucks",
+      "visitor": "New York Knicks",
+      "homePoints": 108,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512230MIL.html"
+    },
+    {
+      "date": "1975-12-23",
+      "home": "Portland Trail Blazers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 125,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512230POR.html"
+    },
+    {
+      "date": "1975-12-25",
+      "home": "New Orleans Jazz",
+      "visitor": "Houston Rockets",
+      "homePoints": 101,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512250NOJ.html"
+    },
+    {
+      "date": "1975-12-25",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 111,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512250NYK.html"
+    },
+    {
+      "date": "1975-12-25",
+      "home": "Phoenix Suns",
+      "visitor": "Kansas City Kings",
+      "homePoints": 122,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512250PHO.html"
+    },
+    {
+      "date": "1975-12-25",
+      "home": "Washington Bullets",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 99,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512250WSB.html"
+    },
+    {
+      "date": "1975-12-26",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 97,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512260CLE.html"
+    },
+    {
+      "date": "1975-12-26",
+      "home": "Detroit Pistons",
+      "visitor": "Chicago Bulls",
+      "homePoints": 101,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512260DET.html"
+    },
+    {
+      "date": "1975-12-26",
+      "home": "Los Angeles Lakers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 104,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512260LAL.html"
+    },
+    {
+      "date": "1975-12-26",
+      "home": "Milwaukee Bucks",
+      "visitor": "Washington Bullets",
+      "homePoints": 85,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512260MIL.html"
+    },
+    {
+      "date": "1975-12-26",
+      "home": "Philadelphia 76ers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 96,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512260PHI.html"
+    },
+    {
+      "date": "1975-12-26",
+      "home": "Phoenix Suns",
+      "visitor": "Boston Celtics",
+      "homePoints": 106,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512260PHO.html"
+    },
+    {
+      "date": "1975-12-26",
+      "home": "Seattle SuperSonics",
+      "visitor": "Kansas City Kings",
+      "homePoints": 90,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512260SEA.html"
+    },
+    {
+      "date": "1975-12-27",
+      "home": "Atlanta Hawks",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 87,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512270ATL.html"
+    },
+    {
+      "date": "1975-12-27",
+      "home": "Buffalo Braves",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 130,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512270BUF.html"
+    },
+    {
+      "date": "1975-12-27",
+      "home": "Chicago Bulls",
+      "visitor": "Detroit Pistons",
+      "homePoints": 112,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512270CHI.html"
+    },
+    {
+      "date": "1975-12-27",
+      "home": "Golden State Warriors",
+      "visitor": "Houston Rockets",
+      "homePoints": 110,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512270GSW.html"
+    },
+    {
+      "date": "1975-12-27",
+      "home": "New York Knicks",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 108,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512270NYK.html"
+    },
+    {
+      "date": "1975-12-27",
+      "home": "Seattle SuperSonics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 100,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512270SEA.html"
+    },
+    {
+      "date": "1975-12-27",
+      "home": "Washington Bullets",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 100,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512270WSB.html"
+    },
+    {
+      "date": "1975-12-28",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 111,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512280CLE.html"
+    },
+    {
+      "date": "1975-12-28",
+      "home": "Kansas City Kings",
+      "visitor": "Detroit Pistons",
+      "homePoints": 87,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512280KCK.html"
+    },
+    {
+      "date": "1975-12-28",
+      "home": "Los Angeles Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 113,
+      "visitorPoints": 123,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512280LAL.html"
+    },
+    {
+      "date": "1975-12-28",
+      "home": "Milwaukee Bucks",
+      "visitor": "Phoenix Suns",
+      "homePoints": 88,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512280MIL.html"
+    },
+    {
+      "date": "1975-12-28",
+      "home": "Portland Trail Blazers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 96,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512280POR.html"
+    },
+    {
+      "date": "1975-12-28",
+      "home": "Seattle SuperSonics",
+      "visitor": "Houston Rockets",
+      "homePoints": 116,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512280SEA.html"
+    },
+    {
+      "date": "1975-12-29",
+      "home": "Chicago Bulls",
+      "visitor": "New York Knicks",
+      "homePoints": 93,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512290CHI.html"
+    },
+    {
+      "date": "1975-12-30",
+      "home": "Buffalo Braves",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 118,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512300BUF.html"
+    },
+    {
+      "date": "1975-12-30",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Kansas City Kings",
+      "homePoints": 110,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512300CLE.html"
+    },
+    {
+      "date": "1975-12-30",
+      "home": "Golden State Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 133,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512300GSW.html"
+    },
+    {
+      "date": "1975-12-30",
+      "home": "Los Angeles Lakers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 100,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512300LAL.html"
+    },
+    {
+      "date": "1975-12-30",
+      "home": "New York Knicks",
+      "visitor": "Phoenix Suns",
+      "homePoints": 114,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512300NYK.html"
+    },
+    {
+      "date": "1975-12-30",
+      "home": "Philadelphia 76ers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 114,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512300PHI.html"
+    },
+    {
+      "date": "1975-12-30",
+      "home": "Washington Bullets",
+      "visitor": "Chicago Bulls",
+      "homePoints": 96,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197512300WSB.html"
+    },
+    {
+      "date": "1976-01-01",
+      "home": "Portland Trail Blazers",
+      "visitor": "Houston Rockets",
+      "homePoints": 107,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601010POR.html"
+    },
+    {
+      "date": "1976-01-01",
+      "home": "Washington Bullets",
+      "visitor": "Phoenix Suns",
+      "homePoints": 114,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601010WSB.html"
+    },
+    {
+      "date": "1976-01-02",
+      "home": "Buffalo Braves",
+      "visitor": "New York Knicks",
+      "homePoints": 106,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601020BUF.html"
+    },
+    {
+      "date": "1976-01-02",
+      "home": "Chicago Bulls",
+      "visitor": "Washington Bullets",
+      "homePoints": 99,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601020CHI.html"
+    },
+    {
+      "date": "1976-01-02",
+      "home": "Detroit Pistons",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 83,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601020DET.html"
+    },
+    {
+      "date": "1976-01-02",
+      "home": "Los Angeles Lakers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 105,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601020LAL.html"
+    },
+    {
+      "date": "1976-01-02",
+      "home": "New Orleans Jazz",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 111,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601020NOJ.html"
+    },
+    {
+      "date": "1976-01-02",
+      "home": "Philadelphia 76ers",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 112,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601020PHI.html"
+    },
+    {
+      "date": "1976-01-02",
+      "home": "Seattle SuperSonics",
+      "visitor": "Boston Celtics",
+      "homePoints": 98,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601020SEA.html"
+    },
+    {
+      "date": "1976-01-03",
+      "home": "Atlanta Hawks",
+      "visitor": "Phoenix Suns",
+      "homePoints": 89,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601030ATL.html"
+    },
+    {
+      "date": "1976-01-03",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 100,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601030CLE.html"
+    },
+    {
+      "date": "1976-01-03",
+      "home": "Golden State Warriors",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 130,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601030GSW.html"
+    },
+    {
+      "date": "1976-01-03",
+      "home": "Milwaukee Bucks",
+      "visitor": "Houston Rockets",
+      "homePoints": 126,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601030MIL.html"
+    },
+    {
+      "date": "1976-01-03",
+      "home": "New Orleans Jazz",
+      "visitor": "Kansas City Kings",
+      "homePoints": 120,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601030NOJ.html"
+    },
+    {
+      "date": "1976-01-03",
+      "home": "New York Knicks",
+      "visitor": "Buffalo Braves",
+      "homePoints": 107,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601030NYK.html"
+    },
+    {
+      "date": "1976-01-03",
+      "home": "Portland Trail Blazers",
+      "visitor": "Boston Celtics",
+      "homePoints": 125,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601030POR.html"
+    },
+    {
+      "date": "1976-01-03",
+      "home": "Washington Bullets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 119,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601030WSB.html"
+    },
+    {
+      "date": "1976-01-04",
+      "home": "Kansas City Kings",
+      "visitor": "Phoenix Suns",
+      "homePoints": 98,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601040KCK.html"
+    },
+    {
+      "date": "1976-01-04",
+      "home": "Los Angeles Lakers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 110,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601040LAL.html"
+    },
+    {
+      "date": "1976-01-04",
+      "home": "Seattle SuperSonics",
+      "visitor": "Golden State Warriors",
+      "homePoints": 97,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601040SEA.html"
+    },
+    {
+      "date": "1976-01-05",
+      "home": "Chicago Bulls",
+      "visitor": "Houston Rockets",
+      "homePoints": 98,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601050CHI.html"
+    },
+    {
+      "date": "1976-01-06",
+      "home": "Buffalo Braves",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 114,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601060BUF.html"
+    },
+    {
+      "date": "1976-01-06",
+      "home": "Chicago Bulls",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 98,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601060CHI.html"
+    },
+    {
+      "date": "1976-01-06",
+      "home": "Kansas City Kings",
+      "visitor": "Washington Bullets",
+      "homePoints": 98,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601060KCK.html"
+    },
+    {
+      "date": "1976-01-06",
+      "home": "Milwaukee Bucks",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 87,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601060MIL.html"
+    },
+    {
+      "date": "1976-01-06",
+      "home": "Portland Trail Blazers",
+      "visitor": "New York Knicks",
+      "homePoints": 97,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601060POR.html"
+    },
+    {
+      "date": "1976-01-07",
+      "home": "Boston Celtics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 109,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601070BOS.html"
+    },
+    {
+      "date": "1976-01-07",
+      "home": "Detroit Pistons",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 119,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601070DET.html"
+    },
+    {
+      "date": "1976-01-07",
+      "home": "Houston Rockets",
+      "visitor": "Kansas City Kings",
+      "homePoints": 106,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601070HOU.html"
+    },
+    {
+      "date": "1976-01-07",
+      "home": "Philadelphia 76ers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 112,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601070PHI.html"
+    },
+    {
+      "date": "1976-01-07",
+      "home": "Phoenix Suns",
+      "visitor": "Golden State Warriors",
+      "homePoints": 110,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601070PHO.html"
+    },
+    {
+      "date": "1976-01-07",
+      "home": "Seattle SuperSonics",
+      "visitor": "New York Knicks",
+      "homePoints": 91,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601070SEA.html"
+    },
+    {
+      "date": "1976-01-08",
+      "home": "Atlanta Hawks",
+      "visitor": "Houston Rockets",
+      "homePoints": 106,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601080ATL.html"
+    },
+    {
+      "date": "1976-01-08",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 115,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601080CLE.html"
+    },
+    {
+      "date": "1976-01-08",
+      "home": "Golden State Warriors",
+      "visitor": "Phoenix Suns",
+      "homePoints": 129,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601080GSW.html"
+    },
+    {
+      "date": "1976-01-08",
+      "home": "Kansas City Kings",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 97,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601080KCK.html"
+    },
+    {
+      "date": "1976-01-09",
+      "home": "Boston Celtics",
+      "visitor": "Washington Bullets",
+      "homePoints": 118,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601090BOS.html"
+    },
+    {
+      "date": "1976-01-09",
+      "home": "Buffalo Braves",
+      "visitor": "Chicago Bulls",
+      "homePoints": 100,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601090BUF.html"
+    },
+    {
+      "date": "1976-01-09",
+      "home": "Milwaukee Bucks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 102,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601090MIL.html"
+    },
+    {
+      "date": "1976-01-09",
+      "home": "Philadelphia 76ers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 109,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601090PHI.html"
+    },
+    {
+      "date": "1976-01-09",
+      "home": "Phoenix Suns",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 110,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601090PHO.html"
+    },
+    {
+      "date": "1976-01-10",
+      "home": "Atlanta Hawks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 100,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601100ATL.html"
+    },
+    {
+      "date": "1976-01-10",
+      "home": "Chicago Bulls",
+      "visitor": "Kansas City Kings",
+      "homePoints": 111,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601100CHI.html"
+    },
+    {
+      "date": "1976-01-10",
+      "home": "Detroit Pistons",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 99,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601100DET.html"
+    },
+    {
+      "date": "1976-01-10",
+      "home": "Golden State Warriors",
+      "visitor": "New York Knicks",
+      "homePoints": 117,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601100GSW.html"
+    },
+    {
+      "date": "1976-01-10",
+      "home": "Houston Rockets",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 105,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601100HOU.html"
+    },
+    {
+      "date": "1976-01-10",
+      "home": "Washington Bullets",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 107,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601100WSB.html"
+    },
+    {
+      "date": "1976-01-11",
+      "home": "Atlanta Hawks",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 109,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601110ATL.html"
+    },
+    {
+      "date": "1976-01-11",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Washington Bullets",
+      "homePoints": 106,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601110CLE.html"
+    },
+    {
+      "date": "1976-01-11",
+      "home": "Kansas City Kings",
+      "visitor": "Detroit Pistons",
+      "homePoints": 105,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601110KCK.html"
+    },
+    {
+      "date": "1976-01-11",
+      "home": "Milwaukee Bucks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 95,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601110MIL.html"
+    },
+    {
+      "date": "1976-01-11",
+      "home": "Philadelphia 76ers",
+      "visitor": "Boston Celtics",
+      "homePoints": 118,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601110PHI.html"
+    },
+    {
+      "date": "1976-01-11",
+      "home": "Phoenix Suns",
+      "visitor": "New York Knicks",
+      "homePoints": 98,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601110PHO.html"
+    },
+    {
+      "date": "1976-01-11",
+      "home": "Seattle SuperSonics",
+      "visitor": "Buffalo Braves",
+      "homePoints": 104,
+      "visitorPoints": 125,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601110SEA.html"
+    },
+    {
+      "date": "1976-01-13",
+      "home": "Boston Celtics",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 106,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601130BOS.html"
+    },
+    {
+      "date": "1976-01-13",
+      "home": "Chicago Bulls",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 102,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601130CHI.html"
+    },
+    {
+      "date": "1976-01-13",
+      "home": "Golden State Warriors",
+      "visitor": "Buffalo Braves",
+      "homePoints": 127,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601130GSW.html"
+    },
+    {
+      "date": "1976-01-13",
+      "home": "Milwaukee Bucks",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 114,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601130MIL.html"
+    },
+    {
+      "date": "1976-01-14",
+      "home": "Atlanta Hawks",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 110,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601140ATL.html"
+    },
+    {
+      "date": "1976-01-14",
+      "home": "Houston Rockets",
+      "visitor": "New York Knicks",
+      "homePoints": 103,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601140HOU.html"
+    },
+    {
+      "date": "1976-01-14",
+      "home": "Kansas City Kings",
+      "visitor": "Boston Celtics",
+      "homePoints": 106,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601140KCK.html"
+    },
+    {
+      "date": "1976-01-14",
+      "home": "Philadelphia 76ers",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 100,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601140PHI.html"
+    },
+    {
+      "date": "1976-01-14",
+      "home": "Washington Bullets",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 92,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601140WSB.html"
+    },
+    {
+      "date": "1976-01-15",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 91,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601150CLE.html"
+    },
+    {
+      "date": "1976-01-15",
+      "home": "Phoenix Suns",
+      "visitor": "Buffalo Braves",
+      "homePoints": 119,
+      "visitorPoints": 126,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601150PHO.html"
+    },
+    {
+      "date": "1976-01-16",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 118,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601160BOS.html"
+    },
+    {
+      "date": "1976-01-16",
+      "home": "Chicago Bulls",
+      "visitor": "Buffalo Braves",
+      "homePoints": 104,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601160CHI.html"
+    },
+    {
+      "date": "1976-01-16",
+      "home": "Detroit Pistons",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 104,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601160DET.html"
+    },
+    {
+      "date": "1976-01-16",
+      "home": "Houston Rockets",
+      "visitor": "Golden State Warriors",
+      "homePoints": 103,
+      "visitorPoints": 128,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601160HOU.html"
+    },
+    {
+      "date": "1976-01-16",
+      "home": "Kansas City Kings",
+      "visitor": "New York Knicks",
+      "homePoints": 90,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601160KCK.html"
+    },
+    {
+      "date": "1976-01-16",
+      "home": "Milwaukee Bucks",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 92,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601160MIL.html"
+    },
+    {
+      "date": "1976-01-16",
+      "home": "Washington Bullets",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 100,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601160WSB.html"
+    },
+    {
+      "date": "1976-01-17",
+      "home": "Atlanta Hawks",
+      "visitor": "Golden State Warriors",
+      "homePoints": 97,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601170ATL.html"
+    },
+    {
+      "date": "1976-01-17",
+      "home": "Buffalo Braves",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 110,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601170BUF.html"
+    },
+    {
+      "date": "1976-01-17",
+      "home": "Chicago Bulls",
+      "visitor": "Boston Celtics",
+      "homePoints": 92,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601170CHI.html"
+    },
+    {
+      "date": "1976-01-17",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 105,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601170CLE.html"
+    },
+    {
+      "date": "1976-01-17",
+      "home": "Houston Rockets",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 97,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601170HOU.html"
+    },
+    {
+      "date": "1976-01-17",
+      "home": "Kansas City Kings",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 94,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601170KCK.html"
+    },
+    {
+      "date": "1976-01-17",
+      "home": "Washington Bullets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 105,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601170WSB.html"
+    },
+    {
+      "date": "1976-01-18",
+      "home": "Detroit Pistons",
+      "visitor": "Phoenix Suns",
+      "homePoints": 118,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601180DET.html"
+    },
+    {
+      "date": "1976-01-18",
+      "home": "Milwaukee Bucks",
+      "visitor": "Boston Celtics",
+      "homePoints": 94,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601180MIL.html"
+    },
+    {
+      "date": "1976-01-19",
+      "home": "Houston Rockets",
+      "visitor": "Washington Bullets",
+      "homePoints": 115,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601190HOU.html"
+    },
+    {
+      "date": "1976-01-20",
+      "home": "Buffalo Braves",
+      "visitor": "Phoenix Suns",
+      "homePoints": 112,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601200BUF.html"
+    },
+    {
+      "date": "1976-01-20",
+      "home": "Chicago Bulls",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 86,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601200CHI.html"
+    },
+    {
+      "date": "1976-01-20",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Boston Celtics",
+      "homePoints": 98,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601200CLE.html"
+    },
+    {
+      "date": "1976-01-20",
+      "home": "Kansas City Kings",
+      "visitor": "Golden State Warriors",
+      "homePoints": 103,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601200KCK.html"
+    },
+    {
+      "date": "1976-01-20",
+      "home": "Milwaukee Bucks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 108,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601200MIL.html"
+    },
+    {
+      "date": "1976-01-20",
+      "home": "New York Knicks",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 107,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601200NYK.html"
+    },
+    {
+      "date": "1976-01-20",
+      "home": "Washington Bullets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 107,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601200WSB.html"
+    },
+    {
+      "date": "1976-01-21",
+      "home": "Atlanta Hawks",
+      "visitor": "Buffalo Braves",
+      "homePoints": 94,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601210ATL.html"
+    },
+    {
+      "date": "1976-01-21",
+      "home": "Boston Celtics",
+      "visitor": "Phoenix Suns",
+      "homePoints": 114,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601210BOS.html"
+    },
+    {
+      "date": "1976-01-21",
+      "home": "Detroit Pistons",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 111,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601210DET.html"
+    },
+    {
+      "date": "1976-01-21",
+      "home": "New Orleans Jazz",
+      "visitor": "Chicago Bulls",
+      "homePoints": 93,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601210NOJ.html"
+    },
+    {
+      "date": "1976-01-22",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 109,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601220CLE.html"
+    },
+    {
+      "date": "1976-01-22",
+      "home": "Golden State Warriors",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 129,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601220GSW.html"
+    },
+    {
+      "date": "1976-01-22",
+      "home": "Washington Bullets",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 109,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601220WSB.html"
+    },
+    {
+      "date": "1976-01-23",
+      "home": "Boston Celtics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 108,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601230BOS.html"
+    },
+    {
+      "date": "1976-01-23",
+      "home": "Buffalo Braves",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 119,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601230BUF.html"
+    },
+    {
+      "date": "1976-01-23",
+      "home": "Milwaukee Bucks",
+      "visitor": "Kansas City Kings",
+      "homePoints": 113,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601230MIL.html"
+    },
+    {
+      "date": "1976-01-23",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 104,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601230NYK.html"
+    },
+    {
+      "date": "1976-01-23",
+      "home": "Phoenix Suns",
+      "visitor": "Houston Rockets",
+      "homePoints": 124,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601230PHO.html"
+    },
+    {
+      "date": "1976-01-23",
+      "home": "Portland Trail Blazers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 119,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601230POR.html"
+    },
+    {
+      "date": "1976-01-24",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 132,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601240CLE.html"
+    },
+    {
+      "date": "1976-01-24",
+      "home": "Detroit Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 100,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601240DET.html"
+    },
+    {
+      "date": "1976-01-24",
+      "home": "Golden State Warriors",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 123,
+      "visitorPoints": 125,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601240GSW.html"
+    },
+    {
+      "date": "1976-01-24",
+      "home": "Houston Rockets",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 110,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601240HOU.html"
+    },
+    {
+      "date": "1976-01-24",
+      "home": "Philadelphia 76ers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 130,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601240PHI.html"
+    },
+    {
+      "date": "1976-01-24",
+      "home": "Phoenix Suns",
+      "visitor": "Washington Bullets",
+      "homePoints": 84,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601240PHO.html"
+    },
+    {
+      "date": "1976-01-25",
+      "home": "Atlanta Hawks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 109,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601250ATL.html"
+    },
+    {
+      "date": "1976-01-25",
+      "home": "Boston Celtics",
+      "visitor": "Buffalo Braves",
+      "homePoints": 135,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601250BOS.html"
+    },
+    {
+      "date": "1976-01-25",
+      "home": "Kansas City Kings",
+      "visitor": "Chicago Bulls",
+      "homePoints": 118,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601250KCK.html"
+    },
+    {
+      "date": "1976-01-25",
+      "home": "Los Angeles Lakers",
+      "visitor": "Washington Bullets",
+      "homePoints": 101,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601250LAL.html"
+    },
+    {
+      "date": "1976-01-26",
+      "home": "Milwaukee Bucks",
+      "visitor": "Golden State Warriors",
+      "homePoints": 104,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601260MIL.html"
+    },
+    {
+      "date": "1976-01-27",
+      "home": "Buffalo Braves",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 129,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601270BUF.html"
+    },
+    {
+      "date": "1976-01-27",
+      "home": "Chicago Bulls",
+      "visitor": "Golden State Warriors",
+      "homePoints": 110,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601270CHI.html"
+    },
+    {
+      "date": "1976-01-27",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 85,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601270CLE.html"
+    },
+    {
+      "date": "1976-01-27",
+      "home": "Houston Rockets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 127,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601270HOU.html"
+    },
+    {
+      "date": "1976-01-27",
+      "home": "Kansas City Kings",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 107,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601270KCK.html"
+    },
+    {
+      "date": "1976-01-27",
+      "home": "New York Knicks",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 113,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601270NYK.html"
+    },
+    {
+      "date": "1976-01-27",
+      "home": "Portland Trail Blazers",
+      "visitor": "Washington Bullets",
+      "homePoints": 118,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601270POR.html"
+    },
+    {
+      "date": "1976-01-28",
+      "home": "Boston Celtics",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 110,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601280BOS.html"
+    },
+    {
+      "date": "1976-01-28",
+      "home": "Detroit Pistons",
+      "visitor": "Chicago Bulls",
+      "homePoints": 84,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601280DET.html"
+    },
+    {
+      "date": "1976-01-28",
+      "home": "Houston Rockets",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 108,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601280HOU.html"
+    },
+    {
+      "date": "1976-01-28",
+      "home": "Los Angeles Lakers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 121,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601280LAL.html"
+    },
+    {
+      "date": "1976-01-28",
+      "home": "New Orleans Jazz",
+      "visitor": "Buffalo Braves",
+      "homePoints": 112,
+      "visitorPoints": 126,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601280NOJ.html"
+    },
+    {
+      "date": "1976-01-28",
+      "home": "Portland Trail Blazers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 124,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601280POR.html"
+    },
+    {
+      "date": "1976-01-29",
+      "home": "Atlanta Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 112,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601290ATL.html"
+    },
+    {
+      "date": "1976-01-29",
+      "home": "Golden State Warriors",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 123,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601290GSW.html"
+    },
+    {
+      "date": "1976-01-29",
+      "home": "Kansas City Kings",
+      "visitor": "Houston Rockets",
+      "homePoints": 119,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601290KCK.html"
+    },
+    {
+      "date": "1976-01-29",
+      "home": "Phoenix Suns",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 96,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601290PHO.html"
+    },
+    {
+      "date": "1976-01-30",
+      "home": "Chicago Bulls",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 89,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601300CHI.html"
+    },
+    {
+      "date": "1976-01-30",
+      "home": "Detroit Pistons",
+      "visitor": "Kansas City Kings",
+      "homePoints": 101,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601300DET.html"
+    },
+    {
+      "date": "1976-01-30",
+      "home": "Los Angeles Lakers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 113,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601300LAL.html"
+    },
+    {
+      "date": "1976-01-30",
+      "home": "New Orleans Jazz",
+      "visitor": "New York Knicks",
+      "homePoints": 119,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601300NOJ.html"
+    },
+    {
+      "date": "1976-01-30",
+      "home": "Seattle SuperSonics",
+      "visitor": "Washington Bullets",
+      "homePoints": 123,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601300SEA.html"
+    },
+    {
+      "date": "1976-01-31",
+      "home": "Atlanta Hawks",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 95,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601310ATL.html"
+    },
+    {
+      "date": "1976-01-31",
+      "home": "Buffalo Braves",
+      "visitor": "Boston Celtics",
+      "homePoints": 100,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601310BUF.html"
+    },
+    {
+      "date": "1976-01-31",
+      "home": "Chicago Bulls",
+      "visitor": "Kansas City Kings",
+      "homePoints": 96,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601310CHI.html"
+    },
+    {
+      "date": "1976-01-31",
+      "home": "Golden State Warriors",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 90,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601310GSW.html"
+    },
+    {
+      "date": "1976-01-31",
+      "home": "New York Knicks",
+      "visitor": "Houston Rockets",
+      "homePoints": 114,
+      "visitorPoints": 130,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601310NYK.html"
+    },
+    {
+      "date": "1976-01-31",
+      "home": "Phoenix Suns",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 119,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197601310PHO.html"
+    },
+    {
+      "date": "1976-02-01",
+      "home": "Atlanta Hawks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 84,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602010ATL.html"
+    },
+    {
+      "date": "1976-02-01",
+      "home": "Detroit Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 109,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602010DET.html"
+    },
+    {
+      "date": "1976-02-01",
+      "home": "Golden State Warriors",
+      "visitor": "Washington Bullets",
+      "homePoints": 99,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602010GSW.html"
+    },
+    {
+      "date": "1976-02-01",
+      "home": "Los Angeles Lakers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 103,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602010LAL.html"
+    },
+    {
+      "date": "1976-02-01",
+      "home": "New Orleans Jazz",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 96,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602010NOJ.html"
+    },
+    {
+      "date": "1976-02-01",
+      "home": "Portland Trail Blazers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 107,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602010POR.html"
+    },
+    {
+      "date": "1976-02-05",
+      "home": "Atlanta Hawks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 108,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602050ATL.html"
+    },
+    {
+      "date": "1976-02-05",
+      "home": "Houston Rockets",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 111,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602050HOU.html"
+    },
+    {
+      "date": "1976-02-05",
+      "home": "Kansas City Kings",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 117,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602050KCK.html"
+    },
+    {
+      "date": "1976-02-06",
+      "home": "Buffalo Braves",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 109,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602060BUF.html"
+    },
+    {
+      "date": "1976-02-06",
+      "home": "Chicago Bulls",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 112,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602060CHI.html"
+    },
+    {
+      "date": "1976-02-06",
+      "home": "New Orleans Jazz",
+      "visitor": "Kansas City Kings",
+      "homePoints": 108,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602060NOJ.html"
+    },
+    {
+      "date": "1976-02-06",
+      "home": "Philadelphia 76ers",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 87,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602060PHI.html"
+    },
+    {
+      "date": "1976-02-06",
+      "home": "Phoenix Suns",
+      "visitor": "Golden State Warriors",
+      "homePoints": 118,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602060PHO.html"
+    },
+    {
+      "date": "1976-02-06",
+      "home": "Seattle SuperSonics",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 100,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602060SEA.html"
+    },
+    {
+      "date": "1976-02-07",
+      "home": "Atlanta Hawks",
+      "visitor": "Washington Bullets",
+      "homePoints": 90,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602070ATL.html"
+    },
+    {
+      "date": "1976-02-07",
+      "home": "Detroit Pistons",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 106,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602070DET.html"
+    },
+    {
+      "date": "1976-02-07",
+      "home": "Golden State Warriors",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 127,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602070GSW.html"
+    },
+    {
+      "date": "1976-02-07",
+      "home": "Houston Rockets",
+      "visitor": "Chicago Bulls",
+      "homePoints": 89,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602070HOU.html"
+    },
+    {
+      "date": "1976-02-07",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 98,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602070NYK.html"
+    },
+    {
+      "date": "1976-02-08",
+      "home": "Atlanta Hawks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 89,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602080ATL.html"
+    },
+    {
+      "date": "1976-02-08",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 89,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602080BOS.html"
+    },
+    {
+      "date": "1976-02-08",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Washington Bullets",
+      "homePoints": 83,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602080CLE.html"
+    },
+    {
+      "date": "1976-02-08",
+      "home": "Kansas City Kings",
+      "visitor": "Detroit Pistons",
+      "homePoints": 93,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602080KCK.html"
+    },
+    {
+      "date": "1976-02-08",
+      "home": "New Orleans Jazz",
+      "visitor": "Chicago Bulls",
+      "homePoints": 92,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602080NOJ.html"
+    },
+    {
+      "date": "1976-02-08",
+      "home": "Philadelphia 76ers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 100,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602080PHI.html"
+    },
+    {
+      "date": "1976-02-08",
+      "home": "Portland Trail Blazers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 105,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602080POR.html"
+    },
+    {
+      "date": "1976-02-08",
+      "home": "Seattle SuperSonics",
+      "visitor": "Phoenix Suns",
+      "homePoints": 101,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602080SEA.html"
+    },
+    {
+      "date": "1976-02-09",
+      "home": "Houston Rockets",
+      "visitor": "Kansas City Kings",
+      "homePoints": 105,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602090HOU.html"
+    },
+    {
+      "date": "1976-02-10",
+      "home": "Atlanta Hawks",
+      "visitor": "Kansas City Kings",
+      "homePoints": 111,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602100ATL.html"
+    },
+    {
+      "date": "1976-02-10",
+      "home": "Buffalo Braves",
+      "visitor": "Washington Bullets",
+      "homePoints": 115,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602100BUF.html"
+    },
+    {
+      "date": "1976-02-10",
+      "home": "Chicago Bulls",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 84,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602100CHI.html"
+    },
+    {
+      "date": "1976-02-10",
+      "home": "Golden State Warriors",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 124,
+      "visitorPoints": 130,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602100GSW.html"
+    },
+    {
+      "date": "1976-02-10",
+      "home": "Los Angeles Lakers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 106,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602100LAL.html"
+    },
+    {
+      "date": "1976-02-10",
+      "home": "Milwaukee Bucks",
+      "visitor": "New York Knicks",
+      "homePoints": 97,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602100MIL.html"
+    },
+    {
+      "date": "1976-02-11",
+      "home": "Houston Rockets",
+      "visitor": "Boston Celtics",
+      "homePoints": 115,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602110HOU.html"
+    },
+    {
+      "date": "1976-02-11",
+      "home": "New York Knicks",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 95,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602110NYK.html"
+    },
+    {
+      "date": "1976-02-11",
+      "home": "Philadelphia 76ers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 118,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602110PHI.html"
+    },
+    {
+      "date": "1976-02-11",
+      "home": "Phoenix Suns",
+      "visitor": "Detroit Pistons",
+      "homePoints": 123,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602110PHO.html"
+    },
+    {
+      "date": "1976-02-11",
+      "home": "Seattle SuperSonics",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 93,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602110SEA.html"
+    },
+    {
+      "date": "1976-02-12",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 86,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602120CLE.html"
+    },
+    {
+      "date": "1976-02-12",
+      "home": "Golden State Warriors",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 113,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602120GSW.html"
+    },
+    {
+      "date": "1976-02-12",
+      "home": "Washington Bullets",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 92,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602120WSB.html"
+    },
+    {
+      "date": "1976-02-13",
+      "home": "Kansas City Kings",
+      "visitor": "Buffalo Braves",
+      "homePoints": 96,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602130KCK.html"
+    },
+    {
+      "date": "1976-02-13",
+      "home": "Los Angeles Lakers",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 126,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602130LAL.html"
+    },
+    {
+      "date": "1976-02-13",
+      "home": "Milwaukee Bucks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 96,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602130MIL.html"
+    },
+    {
+      "date": "1976-02-13",
+      "home": "Philadelphia 76ers",
+      "visitor": "Houston Rockets",
+      "homePoints": 134,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602130PHI.html"
+    },
+    {
+      "date": "1976-02-13",
+      "home": "Phoenix Suns",
+      "visitor": "Boston Celtics",
+      "homePoints": 108,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602130PHO.html"
+    },
+    {
+      "date": "1976-02-13",
+      "home": "Seattle SuperSonics",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 119,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602130SEA.html"
+    },
+    {
+      "date": "1976-02-14",
+      "home": "Buffalo Braves",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 111,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602140BUF.html"
+    },
+    {
+      "date": "1976-02-14",
+      "home": "Chicago Bulls",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 89,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602140CHI.html"
+    },
+    {
+      "date": "1976-02-14",
+      "home": "Golden State Warriors",
+      "visitor": "Detroit Pistons",
+      "homePoints": 106,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602140GSW.html"
+    },
+    {
+      "date": "1976-02-14",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 101,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602140NYK.html"
+    },
+    {
+      "date": "1976-02-14",
+      "home": "Phoenix Suns",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 112,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602140PHO.html"
+    },
+    {
+      "date": "1976-02-14",
+      "home": "Portland Trail Blazers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 108,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602140POR.html"
+    },
+    {
+      "date": "1976-02-14",
+      "home": "Washington Bullets",
+      "visitor": "Houston Rockets",
+      "homePoints": 108,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602140WSB.html"
+    },
+    {
+      "date": "1976-02-15",
+      "home": "Atlanta Hawks",
+      "visitor": "Buffalo Braves",
+      "homePoints": 112,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602150ATL.html"
+    },
+    {
+      "date": "1976-02-15",
+      "home": "Milwaukee Bucks",
+      "visitor": "Houston Rockets",
+      "homePoints": 113,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602150MIL.html"
+    },
+    {
+      "date": "1976-02-15",
+      "home": "Philadelphia 76ers",
+      "visitor": "New York Knicks",
+      "homePoints": 82,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602150PHI.html"
+    },
+    {
+      "date": "1976-02-15",
+      "home": "Portland Trail Blazers",
+      "visitor": "Boston Celtics",
+      "homePoints": 109,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602150POR.html"
+    },
+    {
+      "date": "1976-02-15",
+      "home": "Seattle SuperSonics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 109,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602150SEA.html"
+    },
+    {
+      "date": "1976-02-15",
+      "home": "Washington Bullets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 101,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602150WSB.html"
+    },
+    {
+      "date": "1976-02-17",
+      "home": "Buffalo Braves",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 116,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602170BUF.html"
+    },
+    {
+      "date": "1976-02-17",
+      "home": "Chicago Bulls",
+      "visitor": "Phoenix Suns",
+      "homePoints": 114,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602170CHI.html"
+    },
+    {
+      "date": "1976-02-17",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 112,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602170CLE.html"
+    },
+    {
+      "date": "1976-02-17",
+      "home": "Kansas City Kings",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 125,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602170KCK.html"
+    },
+    {
+      "date": "1976-02-17",
+      "home": "Milwaukee Bucks",
+      "visitor": "Washington Bullets",
+      "homePoints": 112,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602170MIL.html"
+    },
+    {
+      "date": "1976-02-17",
+      "home": "New Orleans Jazz",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 101,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602170NOJ.html"
+    },
+    {
+      "date": "1976-02-17",
+      "home": "New York Knicks",
+      "visitor": "Golden State Warriors",
+      "homePoints": 96,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602170NYK.html"
+    },
+    {
+      "date": "1976-02-18",
+      "home": "Detroit Pistons",
+      "visitor": "Phoenix Suns",
+      "homePoints": 105,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602180DET.html"
+    },
+    {
+      "date": "1976-02-18",
+      "home": "Houston Rockets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 114,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602180HOU.html"
+    },
+    {
+      "date": "1976-02-18",
+      "home": "Kansas City Kings",
+      "visitor": "Golden State Warriors",
+      "homePoints": 103,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602180KCK.html"
+    },
+    {
+      "date": "1976-02-18",
+      "home": "Seattle SuperSonics",
+      "visitor": "Boston Celtics",
+      "homePoints": 124,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602180SEA.html"
+    },
+    {
+      "date": "1976-02-19",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 112,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602190CLE.html"
+    },
+    {
+      "date": "1976-02-20",
+      "home": "Chicago Bulls",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 130,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602200CHI.html"
+    },
+    {
+      "date": "1976-02-20",
+      "home": "Detroit Pistons",
+      "visitor": "Washington Bullets",
+      "homePoints": 102,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602200DET.html"
+    },
+    {
+      "date": "1976-02-20",
+      "home": "Houston Rockets",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 110,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602200HOU.html"
+    },
+    {
+      "date": "1976-02-20",
+      "home": "Los Angeles Lakers",
+      "visitor": "Boston Celtics",
+      "homePoints": 113,
+      "visitorPoints": 125,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602200LAL.html"
+    },
+    {
+      "date": "1976-02-20",
+      "home": "New Orleans Jazz",
+      "visitor": "Phoenix Suns",
+      "homePoints": 102,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602200NOJ.html"
+    },
+    {
+      "date": "1976-02-20",
+      "home": "Seattle SuperSonics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 111,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602200SEA.html"
+    },
+    {
+      "date": "1976-02-21",
+      "home": "Buffalo Braves",
+      "visitor": "Detroit Pistons",
+      "homePoints": 112,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602210BUF.html"
+    },
+    {
+      "date": "1976-02-21",
+      "home": "Golden State Warriors",
+      "visitor": "Boston Celtics",
+      "homePoints": 100,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602210GSW.html"
+    },
+    {
+      "date": "1976-02-21",
+      "home": "Houston Rockets",
+      "visitor": "Phoenix Suns",
+      "homePoints": 108,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602210HOU.html"
+    },
+    {
+      "date": "1976-02-21",
+      "home": "Kansas City Kings",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 97,
+      "visitorPoints": 116,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602210KCK.html"
+    },
+    {
+      "date": "1976-02-21",
+      "home": "New York Knicks",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 102,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602210NYK.html"
+    },
+    {
+      "date": "1976-02-21",
+      "home": "Washington Bullets",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 103,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602210WSB.html"
+    },
+    {
+      "date": "1976-02-22",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Houston Rockets",
+      "homePoints": 107,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602220CLE.html"
+    },
+    {
+      "date": "1976-02-22",
+      "home": "Golden State Warriors",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 94,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602220GSW.html"
+    },
+    {
+      "date": "1976-02-22",
+      "home": "Milwaukee Bucks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 115,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602220MIL.html"
+    },
+    {
+      "date": "1976-02-22",
+      "home": "New Orleans Jazz",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 102,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602220NOJ.html"
+    },
+    {
+      "date": "1976-02-22",
+      "home": "Seattle SuperSonics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 97,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602220SEA.html"
+    },
+    {
+      "date": "1976-02-23",
+      "home": "Houston Rockets",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 117,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602230HOU.html"
+    },
+    {
+      "date": "1976-02-24",
+      "home": "Chicago Bulls",
+      "visitor": "Washington Bullets",
+      "homePoints": 83,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602240CHI.html"
+    },
+    {
+      "date": "1976-02-24",
+      "home": "New York Knicks",
+      "visitor": "Buffalo Braves",
+      "homePoints": 103,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602240NYK.html"
+    },
+    {
+      "date": "1976-02-24",
+      "home": "Phoenix Suns",
+      "visitor": "Kansas City Kings",
+      "homePoints": 117,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602240PHO.html"
+    },
+    {
+      "date": "1976-02-24",
+      "home": "Portland Trail Blazers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 102,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602240POR.html"
+    },
+    {
+      "date": "1976-02-25",
+      "home": "Boston Celtics",
+      "visitor": "Houston Rockets",
+      "homePoints": 103,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602250BOS.html"
+    },
+    {
+      "date": "1976-02-25",
+      "home": "Buffalo Braves",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 94,
+      "visitorPoints": 126,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602250BUF.html"
+    },
+    {
+      "date": "1976-02-25",
+      "home": "Detroit Pistons",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 101,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602250DET.html"
+    },
+    {
+      "date": "1976-02-25",
+      "home": "New Orleans Jazz",
+      "visitor": "Washington Bullets",
+      "homePoints": 105,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602250NOJ.html"
+    },
+    {
+      "date": "1976-02-26",
+      "home": "Phoenix Suns",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 115,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602260PHO.html"
+    },
+    {
+      "date": "1976-02-26",
+      "home": "Washington Bullets",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 118,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602260WSB.html"
+    },
+    {
+      "date": "1976-02-27",
+      "home": "Boston Celtics",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 122,
+      "visitorPoints": 118,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602270BOS.html"
+    },
+    {
+      "date": "1976-02-27",
+      "home": "Buffalo Braves",
+      "visitor": "Houston Rockets",
+      "homePoints": 107,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602270BUF.html"
+    },
+    {
+      "date": "1976-02-27",
+      "home": "Detroit Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 97,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602270DET.html"
+    },
+    {
+      "date": "1976-02-27",
+      "home": "Los Angeles Lakers",
+      "visitor": "Kansas City Kings",
+      "homePoints": 97,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602270LAL.html"
+    },
+    {
+      "date": "1976-02-27",
+      "home": "Philadelphia 76ers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 114,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602270PHI.html"
+    },
+    {
+      "date": "1976-02-28",
+      "home": "New Orleans Jazz",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 99,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602280NOJ.html"
+    },
+    {
+      "date": "1976-02-28",
+      "home": "New York Knicks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 93,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602280NYK.html"
+    },
+    {
+      "date": "1976-02-28",
+      "home": "Portland Trail Blazers",
+      "visitor": "Kansas City Kings",
+      "homePoints": 119,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602280POR.html"
+    },
+    {
+      "date": "1976-02-28",
+      "home": "Washington Bullets",
+      "visitor": "Phoenix Suns",
+      "homePoints": 92,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602280WSB.html"
+    },
+    {
+      "date": "1976-02-29",
+      "home": "Boston Celtics",
+      "visitor": "Golden State Warriors",
+      "homePoints": 119,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602290BOS.html"
+    },
+    {
+      "date": "1976-02-29",
+      "home": "Detroit Pistons",
+      "visitor": "Phoenix Suns",
+      "homePoints": 98,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602290DET.html"
+    },
+    {
+      "date": "1976-02-29",
+      "home": "Los Angeles Lakers",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 108,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602290LAL.html"
+    },
+    {
+      "date": "1976-02-29",
+      "home": "Philadelphia 76ers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 130,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602290PHI.html"
+    },
+    {
+      "date": "1976-02-29",
+      "home": "Portland Trail Blazers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 102,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602290POR.html"
+    },
+    {
+      "date": "1976-02-29",
+      "home": "Washington Bullets",
+      "visitor": "Houston Rockets",
+      "homePoints": 110,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197602290WSB.html"
+    },
+    {
+      "date": "1976-03-02",
+      "home": "Buffalo Braves",
+      "visitor": "Golden State Warriors",
+      "homePoints": 93,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603020BUF.html"
+    },
+    {
+      "date": "1976-03-02",
+      "home": "Kansas City Kings",
+      "visitor": "Detroit Pistons",
+      "homePoints": 127,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603020KCK.html"
+    },
+    {
+      "date": "1976-03-02",
+      "home": "Milwaukee Bucks",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 111,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603020MIL.html"
+    },
+    {
+      "date": "1976-03-02",
+      "home": "New York Knicks",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 105,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603020NYK.html"
+    },
+    {
+      "date": "1976-03-02",
+      "home": "Portland Trail Blazers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 116,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603020POR.html"
+    },
+    {
+      "date": "1976-03-02",
+      "home": "Washington Bullets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 128,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603020WSB.html"
+    },
+    {
+      "date": "1976-03-03",
+      "home": "Detroit Pistons",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 114,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603030DET.html"
+    },
+    {
+      "date": "1976-03-03",
+      "home": "New Orleans Jazz",
+      "visitor": "Houston Rockets",
+      "homePoints": 105,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603030NOJ.html"
+    },
+    {
+      "date": "1976-03-03",
+      "home": "Philadelphia 76ers",
+      "visitor": "Boston Celtics",
+      "homePoints": 123,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603030PHI.html"
+    },
+    {
+      "date": "1976-03-03",
+      "home": "Phoenix Suns",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 108,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603030PHO.html"
+    },
+    {
+      "date": "1976-03-04",
+      "home": "Atlanta Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 103,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603040ATL.html"
+    },
+    {
+      "date": "1976-03-04",
+      "home": "Golden State Warriors",
+      "visitor": "Chicago Bulls",
+      "homePoints": 124,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603040GSW.html"
+    },
+    {
+      "date": "1976-03-04",
+      "home": "Houston Rockets",
+      "visitor": "Washington Bullets",
+      "homePoints": 106,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603040HOU.html"
+    },
+    {
+      "date": "1976-03-04",
+      "home": "Milwaukee Bucks",
+      "visitor": "Kansas City Kings",
+      "homePoints": 99,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603040MIL.html"
+    },
+    {
+      "date": "1976-03-05",
+      "home": "Kansas City Kings",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 111,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603050KCK.html"
+    },
+    {
+      "date": "1976-03-05",
+      "home": "Los Angeles Lakers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 106,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603050LAL.html"
+    },
+    {
+      "date": "1976-03-05",
+      "home": "New Orleans Jazz",
+      "visitor": "Boston Celtics",
+      "homePoints": 93,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603050NOJ.html"
+    },
+    {
+      "date": "1976-03-05",
+      "home": "Philadelphia 76ers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 123,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603050PHI.html"
+    },
+    {
+      "date": "1976-03-05",
+      "home": "Phoenix Suns",
+      "visitor": "Chicago Bulls",
+      "homePoints": 99,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603050PHO.html"
+    },
+    {
+      "date": "1976-03-05",
+      "home": "Portland Trail Blazers",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 100,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603050POR.html"
+    },
+    {
+      "date": "1976-03-06",
+      "home": "Buffalo Braves",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 105,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603060BUF.html"
+    },
+    {
+      "date": "1976-03-06",
+      "home": "Golden State Warriors",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 117,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603060GSW.html"
+    },
+    {
+      "date": "1976-03-06",
+      "home": "Houston Rockets",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 101,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603060HOU.html"
+    },
+    {
+      "date": "1976-03-06",
+      "home": "New York Knicks",
+      "visitor": "Washington Bullets",
+      "homePoints": 116,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603060NYK.html"
+    },
+    {
+      "date": "1976-03-06",
+      "home": "Portland Trail Blazers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 118,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603060POR.html"
+    },
+    {
+      "date": "1976-03-07",
+      "home": "Atlanta Hawks",
+      "visitor": "Houston Rockets",
+      "homePoints": 123,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603070ATL.html"
+    },
+    {
+      "date": "1976-03-07",
+      "home": "Boston Celtics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 88,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603070BOS.html"
+    },
+    {
+      "date": "1976-03-07",
+      "home": "Kansas City Kings",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 113,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603070KCK.html"
+    },
+    {
+      "date": "1976-03-07",
+      "home": "Los Angeles Lakers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 88,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603070LAL.html"
+    },
+    {
+      "date": "1976-03-07",
+      "home": "New Orleans Jazz",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 124,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603070NOJ.html"
+    },
+    {
+      "date": "1976-03-07",
+      "home": "Phoenix Suns",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 106,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603070PHO.html"
+    },
+    {
+      "date": "1976-03-07",
+      "home": "Washington Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 92,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603070WSB.html"
+    },
+    {
+      "date": "1976-03-09",
+      "home": "Boston Celtics",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 99,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603090BOS.html"
+    },
+    {
+      "date": "1976-03-09",
+      "home": "Chicago Bulls",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 102,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603090CHI.html"
+    },
+    {
+      "date": "1976-03-09",
+      "home": "Detroit Pistons",
+      "visitor": "Golden State Warriors",
+      "homePoints": 108,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603090DET.html"
+    },
+    {
+      "date": "1976-03-09",
+      "home": "New York Knicks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 101,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603090NYK.html"
+    },
+    {
+      "date": "1976-03-10",
+      "home": "Boston Celtics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 92,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603100BOS.html"
+    },
+    {
+      "date": "1976-03-10",
+      "home": "Houston Rockets",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 113,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603100HOU.html"
+    },
+    {
+      "date": "1976-03-10",
+      "home": "Milwaukee Bucks",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 105,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603100MIL.html"
+    },
+    {
+      "date": "1976-03-10",
+      "home": "New Orleans Jazz",
+      "visitor": "Buffalo Braves",
+      "homePoints": 105,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603100NOJ.html"
+    },
+    {
+      "date": "1976-03-10",
+      "home": "Philadelphia 76ers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 125,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603100PHI.html"
+    },
+    {
+      "date": "1976-03-11",
+      "home": "Atlanta Hawks",
+      "visitor": "Phoenix Suns",
+      "homePoints": 99,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603110ATL.html"
+    },
+    {
+      "date": "1976-03-11",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 110,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603110CLE.html"
+    },
+    {
+      "date": "1976-03-12",
+      "home": "Buffalo Braves",
+      "visitor": "Houston Rockets",
+      "homePoints": 100,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603120BUF.html"
+    },
+    {
+      "date": "1976-03-12",
+      "home": "Chicago Bulls",
+      "visitor": "Kansas City Kings",
+      "homePoints": 73,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603120CHI.html"
+    },
+    {
+      "date": "1976-03-12",
+      "home": "Los Angeles Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 113,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603120LAL.html"
+    },
+    {
+      "date": "1976-03-12",
+      "home": "Milwaukee Bucks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 101,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603120MIL.html"
+    },
+    {
+      "date": "1976-03-12",
+      "home": "New Orleans Jazz",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 110,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603120NOJ.html"
+    },
+    {
+      "date": "1976-03-12",
+      "home": "Philadelphia 76ers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 109,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603120PHI.html"
+    },
+    {
+      "date": "1976-03-13",
+      "home": "Chicago Bulls",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 111,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603130CHI.html"
+    },
+    {
+      "date": "1976-03-13",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 99,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603130CLE.html"
+    },
+    {
+      "date": "1976-03-13",
+      "home": "Houston Rockets",
+      "visitor": "Golden State Warriors",
+      "homePoints": 97,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603130HOU.html"
+    },
+    {
+      "date": "1976-03-13",
+      "home": "Kansas City Kings",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 118,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603130KCK.html"
+    },
+    {
+      "date": "1976-03-14",
+      "home": "Boston Celtics",
+      "visitor": "Washington Bullets",
+      "homePoints": 89,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603140BOS.html"
+    },
+    {
+      "date": "1976-03-14",
+      "home": "Kansas City Kings",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 114,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603140KCK.html"
+    },
+    {
+      "date": "1976-03-14",
+      "home": "Los Angeles Lakers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 137,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603140LAL.html"
+    },
+    {
+      "date": "1976-03-14",
+      "home": "Milwaukee Bucks",
+      "visitor": "Phoenix Suns",
+      "homePoints": 106,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603140MIL.html"
+    },
+    {
+      "date": "1976-03-14",
+      "home": "New Orleans Jazz",
+      "visitor": "Golden State Warriors",
+      "homePoints": 118,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603140NOJ.html"
+    },
+    {
+      "date": "1976-03-14",
+      "home": "Portland Trail Blazers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 114,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603140POR.html"
+    },
+    {
+      "date": "1976-03-14",
+      "home": "Seattle SuperSonics",
+      "visitor": "New York Knicks",
+      "homePoints": 113,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603140SEA.html"
+    },
+    {
+      "date": "1976-03-16",
+      "home": "Chicago Bulls",
+      "visitor": "Phoenix Suns",
+      "homePoints": 120,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603160CHI.html"
+    },
+    {
+      "date": "1976-03-16",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 105,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603160CLE.html"
+    },
+    {
+      "date": "1976-03-16",
+      "home": "Golden State Warriors",
+      "visitor": "Detroit Pistons",
+      "homePoints": 110,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603160GSW.html"
+    },
+    {
+      "date": "1976-03-16",
+      "home": "Houston Rockets",
+      "visitor": "New York Knicks",
+      "homePoints": 116,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603160HOU.html"
+    },
+    {
+      "date": "1976-03-16",
+      "home": "Portland Trail Blazers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 95,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603160POR.html"
+    },
+    {
+      "date": "1976-03-17",
+      "home": "Houston Rockets",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 124,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603170HOU.html"
+    },
+    {
+      "date": "1976-03-17",
+      "home": "Milwaukee Bucks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 109,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603170MIL.html"
+    },
+    {
+      "date": "1976-03-17",
+      "home": "New Orleans Jazz",
+      "visitor": "New York Knicks",
+      "homePoints": 107,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603170NOJ.html"
+    },
+    {
+      "date": "1976-03-17",
+      "home": "Philadelphia 76ers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 108,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603170PHI.html"
+    },
+    {
+      "date": "1976-03-17",
+      "home": "Seattle SuperSonics",
+      "visitor": "Buffalo Braves",
+      "homePoints": 122,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603170SEA.html"
+    },
+    {
+      "date": "1976-03-18",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 110,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603180CLE.html"
+    },
+    {
+      "date": "1976-03-18",
+      "home": "Golden State Warriors",
+      "visitor": "Buffalo Braves",
+      "homePoints": 110,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603180GSW.html"
+    },
+    {
+      "date": "1976-03-18",
+      "home": "Phoenix Suns",
+      "visitor": "Detroit Pistons",
+      "homePoints": 106,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603180PHO.html"
+    },
+    {
+      "date": "1976-03-18",
+      "home": "Washington Bullets",
+      "visitor": "Kansas City Kings",
+      "homePoints": 110,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603180WSB.html"
+    },
+    {
+      "date": "1976-03-19",
+      "home": "Boston Celtics",
+      "visitor": "Kansas City Kings",
+      "homePoints": 120,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603190BOS.html"
+    },
+    {
+      "date": "1976-03-19",
+      "home": "Chicago Bulls",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 108,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603190CHI.html"
+    },
+    {
+      "date": "1976-03-19",
+      "home": "Los Angeles Lakers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 122,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603190LAL.html"
+    },
+    {
+      "date": "1976-03-19",
+      "home": "New Orleans Jazz",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 103,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603190NOJ.html"
+    },
+    {
+      "date": "1976-03-19",
+      "home": "Portland Trail Blazers",
+      "visitor": "Houston Rockets",
+      "homePoints": 111,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603190POR.html"
+    },
+    {
+      "date": "1976-03-20",
+      "home": "Atlanta Hawks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 99,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603200ATL.html"
+    },
+    {
+      "date": "1976-03-20",
+      "home": "Buffalo Braves",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 115,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603200BUF.html"
+    },
+    {
+      "date": "1976-03-20",
+      "home": "Golden State Warriors",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 120,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603200GSW.html"
+    },
+    {
+      "date": "1976-03-20",
+      "home": "Philadelphia 76ers",
+      "visitor": "Boston Celtics",
+      "homePoints": 96,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603200PHI.html"
+    },
+    {
+      "date": "1976-03-20",
+      "home": "Phoenix Suns",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 106,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603200PHO.html"
+    },
+    {
+      "date": "1976-03-20",
+      "home": "Washington Bullets",
+      "visitor": "New York Knicks",
+      "homePoints": 109,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603200WSB.html"
+    },
+    {
+      "date": "1976-03-21",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 108,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603210BOS.html"
+    },
+    {
+      "date": "1976-03-21",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Washington Bullets",
+      "homePoints": 95,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603210CLE.html"
+    },
+    {
+      "date": "1976-03-21",
+      "home": "Detroit Pistons",
+      "visitor": "Buffalo Braves",
+      "homePoints": 118,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603210DET.html"
+    },
+    {
+      "date": "1976-03-21",
+      "home": "Kansas City Kings",
+      "visitor": "Chicago Bulls",
+      "homePoints": 112,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603210KCK.html"
+    },
+    {
+      "date": "1976-03-21",
+      "home": "Los Angeles Lakers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 111,
+      "visitorPoints": 130,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603210LAL.html"
+    },
+    {
+      "date": "1976-03-21",
+      "home": "Seattle SuperSonics",
+      "visitor": "Houston Rockets",
+      "homePoints": 117,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603210SEA.html"
+    },
+    {
+      "date": "1976-03-23",
+      "home": "Buffalo Braves",
+      "visitor": "Chicago Bulls",
+      "homePoints": 122,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603230BUF.html"
+    },
+    {
+      "date": "1976-03-23",
+      "home": "Golden State Warriors",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 118,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603230GSW.html"
+    },
+    {
+      "date": "1976-03-23",
+      "home": "Kansas City Kings",
+      "visitor": "Washington Bullets",
+      "homePoints": 106,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603230KCK.html"
+    },
+    {
+      "date": "1976-03-23",
+      "home": "Los Angeles Lakers",
+      "visitor": "Houston Rockets",
+      "homePoints": 125,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603230LAL.html"
+    },
+    {
+      "date": "1976-03-23",
+      "home": "New Orleans Jazz",
+      "visitor": "Boston Celtics",
+      "homePoints": 97,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603230NOJ.html"
+    },
+    {
+      "date": "1976-03-23",
+      "home": "New York Knicks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 116,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603230NYK.html"
+    },
+    {
+      "date": "1976-03-23",
+      "home": "Phoenix Suns",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 104,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603230PHO.html"
+    },
+    {
+      "date": "1976-03-23",
+      "home": "Portland Trail Blazers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 100,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603230POR.html"
+    },
+    {
+      "date": "1976-03-24",
+      "home": "Boston Celtics",
+      "visitor": "Chicago Bulls",
+      "homePoints": 94,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603240BOS.html"
+    },
+    {
+      "date": "1976-03-24",
+      "home": "Detroit Pistons",
+      "visitor": "Kansas City Kings",
+      "homePoints": 130,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603240DET.html"
+    },
+    {
+      "date": "1976-03-24",
+      "home": "Philadelphia 76ers",
+      "visitor": "New York Knicks",
+      "homePoints": 118,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603240PHI.html"
+    },
+    {
+      "date": "1976-03-24",
+      "home": "Seattle SuperSonics",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 135,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603240SEA.html"
+    },
+    {
+      "date": "1976-03-25",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 94,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603250CLE.html"
+    },
+    {
+      "date": "1976-03-25",
+      "home": "Golden State Warriors",
+      "visitor": "Houston Rockets",
+      "homePoints": 104,
+      "visitorPoints": 123,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603250GSW.html"
+    },
+    {
+      "date": "1976-03-25",
+      "home": "Phoenix Suns",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 107,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603250PHO.html"
+    },
+    {
+      "date": "1976-03-25",
+      "home": "Washington Bullets",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 105,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603250WSB.html"
+    },
+    {
+      "date": "1976-03-26",
+      "home": "Boston Celtics",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 95,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603260BOS.html"
+    },
+    {
+      "date": "1976-03-26",
+      "home": "Chicago Bulls",
+      "visitor": "Detroit Pistons",
+      "homePoints": 77,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603260CHI.html"
+    },
+    {
+      "date": "1976-03-26",
+      "home": "Los Angeles Lakers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 107,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603260LAL.html"
+    },
+    {
+      "date": "1976-03-26",
+      "home": "Milwaukee Bucks",
+      "visitor": "Buffalo Braves",
+      "homePoints": 123,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603260MIL.html"
+    },
+    {
+      "date": "1976-03-26",
+      "home": "New Orleans Jazz",
+      "visitor": "Washington Bullets",
+      "homePoints": 131,
+      "visitorPoints": 126,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603260NOJ.html"
+    },
+    {
+      "date": "1976-03-27",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 103,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603270CLE.html"
+    },
+    {
+      "date": "1976-03-27",
+      "home": "Detroit Pistons",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 112,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603270DET.html"
+    },
+    {
+      "date": "1976-03-27",
+      "home": "Golden State Warriors",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 113,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603270GSW.html"
+    },
+    {
+      "date": "1976-03-27",
+      "home": "Houston Rockets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 109,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603270HOU.html"
+    },
+    {
+      "date": "1976-03-27",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 105,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603270NYK.html"
+    },
+    {
+      "date": "1976-03-27",
+      "home": "Phoenix Suns",
+      "visitor": "Kansas City Kings",
+      "homePoints": 117,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603270PHO.html"
+    },
+    {
+      "date": "1976-03-27",
+      "home": "Washington Bullets",
+      "visitor": "Chicago Bulls",
+      "homePoints": 99,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603270WSB.html"
+    },
+    {
+      "date": "1976-03-28",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 100,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603280BOS.html"
+    },
+    {
+      "date": "1976-03-28",
+      "home": "Golden State Warriors",
+      "visitor": "Kansas City Kings",
+      "homePoints": 134,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603280GSW.html"
+    },
+    {
+      "date": "1976-03-28",
+      "home": "Los Angeles Lakers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 97,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603280LAL.html"
+    },
+    {
+      "date": "1976-03-28",
+      "home": "Milwaukee Bucks",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 115,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603280MIL.html"
+    },
+    {
+      "date": "1976-03-28",
+      "home": "New Orleans Jazz",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 110,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603280NOJ.html"
+    },
+    {
+      "date": "1976-03-28",
+      "home": "Seattle SuperSonics",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 127,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603280SEA.html"
+    },
+    {
+      "date": "1976-03-28",
+      "home": "Washington Bullets",
+      "visitor": "Buffalo Braves",
+      "homePoints": 113,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603280WSB.html"
+    },
+    {
+      "date": "1976-03-30",
+      "home": "Buffalo Braves",
+      "visitor": "Boston Celtics",
+      "homePoints": 93,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603300BUF.html"
+    },
+    {
+      "date": "1976-03-30",
+      "home": "Chicago Bulls",
+      "visitor": "Golden State Warriors",
+      "homePoints": 84,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603300CHI.html"
+    },
+    {
+      "date": "1976-03-30",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Houston Rockets",
+      "homePoints": 95,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603300CLE.html"
+    },
+    {
+      "date": "1976-03-30",
+      "home": "Milwaukee Bucks",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 130,
+      "visitorPoints": 126,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603300MIL.html"
+    },
+    {
+      "date": "1976-03-30",
+      "home": "New York Knicks",
+      "visitor": "Phoenix Suns",
+      "homePoints": 97,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603300NYK.html"
+    },
+    {
+      "date": "1976-03-30",
+      "home": "Portland Trail Blazers",
+      "visitor": "Kansas City Kings",
+      "homePoints": 114,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603300POR.html"
+    },
+    {
+      "date": "1976-03-31",
+      "home": "Boston Celtics",
+      "visitor": "Phoenix Suns",
+      "homePoints": 122,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603310BOS.html"
+    },
+    {
+      "date": "1976-03-31",
+      "home": "Detroit Pistons",
+      "visitor": "Chicago Bulls",
+      "homePoints": 102,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603310DET.html"
+    },
+    {
+      "date": "1976-03-31",
+      "home": "New Orleans Jazz",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 101,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603310NOJ.html"
+    },
+    {
+      "date": "1976-03-31",
+      "home": "Philadelphia 76ers",
+      "visitor": "Buffalo Braves",
+      "homePoints": 107,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603310PHI.html"
+    },
+    {
+      "date": "1976-03-31",
+      "home": "Seattle SuperSonics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 120,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603310SEA.html"
+    },
+    {
+      "date": "1976-03-31",
+      "home": "Washington Bullets",
+      "visitor": "Golden State Warriors",
+      "homePoints": 88,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197603310WSB.html"
+    },
+    {
+      "date": "1976-04-01",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Boston Celtics",
+      "homePoints": 88,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604010CLE.html"
+    },
+    {
+      "date": "1976-04-02",
+      "home": "Boston Celtics",
+      "visitor": "Houston Rockets",
+      "homePoints": 119,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604020BOS.html"
+    },
+    {
+      "date": "1976-04-02",
+      "home": "Buffalo Braves",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 101,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604020BUF.html"
+    },
+    {
+      "date": "1976-04-02",
+      "home": "Chicago Bulls",
+      "visitor": "New York Knicks",
+      "homePoints": 95,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604020CHI.html"
+    },
+    {
+      "date": "1976-04-02",
+      "home": "Detroit Pistons",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 116,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604020DET.html"
+    },
+    {
+      "date": "1976-04-02",
+      "home": "Los Angeles Lakers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 113,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604020LAL.html"
+    },
+    {
+      "date": "1976-04-02",
+      "home": "Milwaukee Bucks",
+      "visitor": "Kansas City Kings",
+      "homePoints": 120,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604020MIL.html"
+    },
+    {
+      "date": "1976-04-02",
+      "home": "Philadelphia 76ers",
+      "visitor": "Washington Bullets",
+      "homePoints": 96,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604020PHI.html"
+    },
+    {
+      "date": "1976-04-02",
+      "home": "Phoenix Suns",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 106,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604020PHO.html"
+    },
+    {
+      "date": "1976-04-03",
+      "home": "Atlanta Hawks",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 106,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604030ATL.html"
+    },
+    {
+      "date": "1976-04-03",
+      "home": "Chicago Bulls",
+      "visitor": "Detroit Pistons",
+      "homePoints": 97,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604030CHI.html"
+    },
+    {
+      "date": "1976-04-03",
+      "home": "Golden State Warriors",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 130,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604030GSW.html"
+    },
+    {
+      "date": "1976-04-03",
+      "home": "Kansas City Kings",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 104,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604030KCK.html"
+    },
+    {
+      "date": "1976-04-03",
+      "home": "Portland Trail Blazers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 112,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604030POR.html"
+    },
+    {
+      "date": "1976-04-04",
+      "home": "Boston Celtics",
+      "visitor": "Buffalo Braves",
+      "homePoints": 114,
+      "visitorPoints": 117,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604040BOS.html"
+    },
+    {
+      "date": "1976-04-04",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 120,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604040CLE.html"
+    },
+    {
+      "date": "1976-04-04",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 101,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604040DET.html"
+    },
+    {
+      "date": "1976-04-04",
+      "home": "Los Angeles Lakers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 118,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604040LAL.html"
+    },
+    {
+      "date": "1976-04-04",
+      "home": "New York Knicks",
+      "visitor": "Kansas City Kings",
+      "homePoints": 115,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604040NYK.html"
+    },
+    {
+      "date": "1976-04-04",
+      "home": "Seattle SuperSonics",
+      "visitor": "Phoenix Suns",
+      "homePoints": 117,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604040SEA.html"
+    },
+    {
+      "date": "1976-04-04",
+      "home": "Washington Bullets",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 125,
+      "visitorPoints": 129,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604040WSB.html"
+    },
+    {
+      "date": "1976-04-05",
+      "home": "Atlanta Hawks",
+      "visitor": "Washington Bullets",
+      "homePoints": 105,
+      "visitorPoints": 133,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604050ATL.html"
+    },
+    {
+      "date": "1976-04-05",
+      "home": "Chicago Bulls",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 97,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604050CHI.html"
+    },
+    {
+      "date": "1976-04-05",
+      "home": "Philadelphia 76ers",
+      "visitor": "Houston Rockets",
+      "homePoints": 130,
+      "visitorPoints": 129,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604050PHI.html"
+    },
+    {
+      "date": "1976-04-06",
+      "home": "Boston Celtics",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 92,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604060BOS.html"
+    },
+    {
+      "date": "1976-04-06",
+      "home": "Buffalo Braves",
+      "visitor": "New York Knicks",
+      "homePoints": 102,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604060BUF.html"
+    },
+    {
+      "date": "1976-04-06",
+      "home": "Golden State Warriors",
+      "visitor": "Phoenix Suns",
+      "homePoints": 111,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604060GSW.html"
+    },
+    {
+      "date": "1976-04-06",
+      "home": "Portland Trail Blazers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 106,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604060POR.html"
+    },
+    {
+      "date": "1976-04-07",
+      "home": "Detroit Pistons",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 106,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604070DET.html"
+    },
+    {
+      "date": "1976-04-07",
+      "home": "Houston Rockets",
+      "visitor": "Washington Bullets",
+      "homePoints": 105,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604070HOU.html"
+    },
+    {
+      "date": "1976-04-07",
+      "home": "Philadelphia 76ers",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 102,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604070PHI.html"
+    },
+    {
+      "date": "1976-04-07",
+      "home": "Seattle SuperSonics",
+      "visitor": "Chicago Bulls",
+      "homePoints": 115,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604070SEA.html"
+    },
+    {
+      "date": "1976-04-08",
+      "home": "Cleveland Cavaliers",
+      "visitor": "New Orleans Jazz",
+      "homePoints": 111,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604080CLE.html"
+    },
+    {
+      "date": "1976-04-08",
+      "home": "Golden State Warriors",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 121,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604080GSW.html"
+    },
+    {
+      "date": "1976-04-08",
+      "home": "Kansas City Kings",
+      "visitor": "Boston Celtics",
+      "homePoints": 131,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604080KCK.html"
+    },
+    {
+      "date": "1976-04-08",
+      "home": "New York Knicks",
+      "visitor": "Buffalo Braves",
+      "homePoints": 98,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604080NYK.html"
+    },
+    {
+      "date": "1976-04-08",
+      "home": "Phoenix Suns",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 113,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604080PHO.html"
+    },
+    {
+      "date": "1976-04-09",
+      "home": "Boston Celtics",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 100,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604090BOS.html"
+    },
+    {
+      "date": "1976-04-09",
+      "home": "Detroit Pistons",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 116,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604090DET.html"
+    },
+    {
+      "date": "1976-04-09",
+      "home": "New Orleans Jazz",
+      "visitor": "Houston Rockets",
+      "homePoints": 99,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604090NOJ.html"
+    },
+    {
+      "date": "1976-04-09",
+      "home": "Philadelphia 76ers",
+      "visitor": "Kansas City Kings",
+      "homePoints": 112,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604090PHI.html"
+    },
+    {
+      "date": "1976-04-09",
+      "home": "Portland Trail Blazers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 100,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604090POR.html"
+    },
+    {
+      "date": "1976-04-09",
+      "home": "Seattle SuperSonics",
+      "visitor": "Golden State Warriors",
+      "homePoints": 119,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604090SEA.html"
+    },
+    {
+      "date": "1976-04-10",
+      "home": "Atlanta Hawks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 123,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604100ATL.html"
+    },
+    {
+      "date": "1976-04-10",
+      "home": "Cleveland Cavaliers",
+      "visitor": "New York Knicks",
+      "homePoints": 99,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604100CLE.html"
+    },
+    {
+      "date": "1976-04-10",
+      "home": "Houston Rockets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 110,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604100HOU.html"
+    },
+    {
+      "date": "1976-04-10",
+      "home": "Phoenix Suns",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 121,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604100PHO.html"
+    },
+    {
+      "date": "1976-04-11",
+      "home": "Atlanta Hawks",
+      "visitor": "Houston Rockets",
+      "homePoints": 111,
+      "visitorPoints": 122,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604110ATL.html"
+    },
+    {
+      "date": "1976-04-11",
+      "home": "Buffalo Braves",
+      "visitor": "Kansas City Kings",
+      "homePoints": 99,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604110BUF.html"
+    },
+    {
+      "date": "1976-04-11",
+      "home": "Milwaukee Bucks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 77,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604110MIL.html"
+    },
+    {
+      "date": "1976-04-11",
+      "home": "New Orleans Jazz",
+      "visitor": "Detroit Pistons",
+      "homePoints": 112,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604110NOJ.html"
+    },
+    {
+      "date": "1976-04-11",
+      "home": "New York Knicks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 103,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604110NYK.html"
+    },
+    {
+      "date": "1976-04-11",
+      "home": "Seattle SuperSonics",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 132,
+      "visitorPoints": 131,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604110SEA.html"
+    },
+    {
+      "date": "1976-04-11",
+      "home": "Washington Bullets",
+      "visitor": "Boston Celtics",
+      "homePoints": 99,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/197604110WSB.html"
+    }
+  ]
+}

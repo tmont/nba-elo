@@ -1,0 +1,3316 @@
+{
+  "standings": [
+    {
+      "team": "Rochester Royals",
+      "rating": 1291.8031725655815,
+      "wins": 44,
+      "losses": 28,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 72-68 vs Baltimore Bullets on 1953-10-31"
+        },
+        {
+          "diff": 3.960396039603893,
+          "newRating": 1603.960396039604,
+          "result": "W 80-72 vs Baltimore Bullets on 1953-11-01"
+        },
+        {
+          "diff": 230.79647700187616,
+          "newRating": 1834.75687304148,
+          "result": "W 91-76 vs Fort Wayne Pistons on 1953-11-07"
+        },
+        {
+          "diff": -197.8950775741364,
+          "newRating": 1636.8617954673437,
+          "result": "L 66-85 vs Syracuse Nationals on 1953-11-08"
+        },
+        {
+          "diff": -156.4086940259483,
+          "newRating": 1480.4531014413953,
+          "result": "L 64-66 vs Philadelphia Warriors on 1953-11-10"
+        },
+        {
+          "diff": 31.914787825958456,
+          "newRating": 1512.3678892673538,
+          "result": "W 98-91 vs Minneapolis Lakers on 1953-11-14"
+        },
+        {
+          "diff": -65.103235077504,
+          "newRating": 1447.2646541898498,
+          "result": "L 65-68 vs Fort Wayne Pistons on 1953-11-15"
+        },
+        {
+          "diff": 3.054196090829919,
+          "newRating": 1450.3188502806797,
+          "result": "W 92-73 vs Boston Celtics on 1953-11-17"
+        },
+        {
+          "diff": 3.5421801081781723,
+          "newRating": 1453.861030388858,
+          "result": "W 79-69 vs Milwaukee Hawks on 1953-11-19"
+        },
+        {
+          "diff": 3.065450965757009,
+          "newRating": 1456.926481354615,
+          "result": "W 81-63 vs Milwaukee Hawks on 1953-11-20"
+        },
+        {
+          "diff": -47.558228527494975,
+          "newRating": 1409.36825282712,
+          "result": "L 70-76 vs Minneapolis Lakers on 1953-11-21"
+        },
+        {
+          "diff": -42.44569052608131,
+          "newRating": 1366.9225623010386,
+          "result": "L 82-83 vs Fort Wayne Pistons on 1953-11-22"
+        },
+        {
+          "diff": -44.74977141147838,
+          "newRating": 1322.1727908895602,
+          "result": "L 80-89 vs Syracuse Nationals on 1953-11-24"
+        },
+        {
+          "diff": 4.757308798626127,
+          "newRating": 1326.9300996881864,
+          "result": "W 80-75 vs Baltimore Bullets on 1953-11-26"
+        },
+        {
+          "diff": -22.388804033952283,
+          "newRating": 1304.541295654234,
+          "result": "L 90-95 vs New York Knicks on 1953-11-28"
+        },
+        {
+          "diff": -17.93057368274458,
+          "newRating": 1286.6107219714895,
+          "result": "L 64-69 vs New York Knicks on 1953-11-29"
+        },
+        {
+          "diff": 25.75543868743307,
+          "newRating": 1312.3661606589226,
+          "result": "W 92-69 vs Fort Wayne Pistons on 1953-12-01"
+        },
+        {
+          "diff": 3.5142375543291564,
+          "newRating": 1315.8803982132517,
+          "result": "W 72-65 vs Baltimore Bullets on 1953-12-05"
+        },
+        {
+          "diff": 8.996446725105216,
+          "newRating": 1324.876844938357,
+          "result": "W 97-79 vs Boston Celtics on 1953-12-08"
+        },
+        {
+          "diff": 10.188082249178024,
+          "newRating": 1335.064927187535,
+          "result": "W 90-85 vs Syracuse Nationals on 1953-12-12"
+        },
+        {
+          "diff": 24.63893189393002,
+          "newRating": 1359.703859081465,
+          "result": "W 87-70 vs Minneapolis Lakers on 1953-12-13"
+        },
+        {
+          "diff": 4.490656806159905,
+          "newRating": 1364.194515887625,
+          "result": "W 76-64 vs Milwaukee Hawks on 1953-12-15"
+        },
+        {
+          "diff": 7.005690260904203,
+          "newRating": 1371.200206148529,
+          "result": "W 91-79 vs Philadelphia Warriors on 1953-12-17"
+        },
+        {
+          "diff": -17.224786039623496,
+          "newRating": 1353.9754201089056,
+          "result": "L 78-91 vs Minneapolis Lakers on 1953-12-19"
+        },
+        {
+          "diff": 6.002685499719291,
+          "newRating": 1359.978105608625,
+          "result": "W 73-65 vs Philadelphia Warriors on 1953-12-25"
+        },
+        {
+          "diff": -16.60344425311473,
+          "newRating": 1343.3746613555102,
+          "result": "L 77-78 vs New York Knicks on 1953-12-26"
+        },
+        {
+          "diff": -22.992749296442753,
+          "newRating": 1320.3819120590674,
+          "result": "L 72-98 vs Boston Celtics on 1953-12-27"
+        },
+        {
+          "diff": 2.6946151541260406,
+          "newRating": 1323.0765272131935,
+          "result": "W 96-77 vs Baltimore Bullets on 1953-12-29"
+        },
+        {
+          "diff": -18.569124296940572,
+          "newRating": 1304.5074029162529,
+          "result": "L 81-86 vs Syracuse Nationals on 1953-12-31"
+        },
+        {
+          "diff": 6.025351838236702,
+          "newRating": 1310.5327547544896,
+          "result": "W 79-76 vs Philadelphia Warriors on 1954-01-01"
+        },
+        {
+          "diff": 11.988841723242786,
+          "newRating": 1322.5215964777324,
+          "result": "W 77-76 vs Fort Wayne Pistons on 1954-01-02"
+        },
+        {
+          "diff": 13.255314251223126,
+          "newRating": 1335.7769107289555,
+          "result": "W 85-84 vs Minneapolis Lakers on 1954-01-04"
+        },
+        {
+          "diff": -12.32768408379252,
+          "newRating": 1323.449226645163,
+          "result": "L 71-89 vs Minneapolis Lakers on 1954-01-07"
+        },
+        {
+          "diff": -12.211673672149118,
+          "newRating": 1311.2375529730139,
+          "result": "L 87-88 vs New York Knicks on 1954-01-09"
+        },
+        {
+          "diff": -11.059722583158646,
+          "newRating": 1300.1778303898552,
+          "result": "L 69-81 vs New York Knicks on 1954-01-10"
+        },
+        {
+          "diff": 2.864064254106097,
+          "newRating": 1303.0418946439613,
+          "result": "W 78-73 vs Milwaukee Hawks on 1954-01-12"
+        },
+        {
+          "diff": -12.515957875209097,
+          "newRating": 1290.5259367687522,
+          "result": "L 93-95 vs Syracuse Nationals on 1954-01-16"
+        },
+        {
+          "diff": -11.476572254737675,
+          "newRating": 1279.0493645140145,
+          "result": "L 81-84 vs Syracuse Nationals on 1954-01-17"
+        },
+        {
+          "diff": 9.447948723118543,
+          "newRating": 1288.497313237133,
+          "result": "W 73-67 vs Fort Wayne Pistons on 1954-01-19"
+        },
+        {
+          "diff": 4.526158931680584,
+          "newRating": 1293.0234721688137,
+          "result": "W 71-61 vs Philadelphia Warriors on 1954-01-23"
+        },
+        {
+          "diff": 6.597359560190171,
+          "newRating": 1299.6208317290038,
+          "result": "W 93-85 vs Boston Celtics on 1954-01-24"
+        },
+        {
+          "diff": -8.70582587300487,
+          "newRating": 1290.915005855999,
+          "result": "L 71-74 vs New York Knicks on 1954-01-26"
+        },
+        {
+          "diff": 4.2498358228572215,
+          "newRating": 1295.1648416788562,
+          "result": "W 82-79 vs Philadelphia Warriors on 1954-01-28"
+        },
+        {
+          "diff": 7.8759959378785425,
+          "newRating": 1303.0408376167347,
+          "result": "W 95-70 vs Fort Wayne Pistons on 1954-01-30"
+        },
+        {
+          "diff": -10.461473072746003,
+          "newRating": 1292.5793645439887,
+          "result": "L 69-83 vs Fort Wayne Pistons on 1954-01-31"
+        },
+        {
+          "diff": -8.11403184786218,
+          "newRating": 1284.4653326961266,
+          "result": "L 78-87 vs Minneapolis Lakers on 1954-02-02"
+        },
+        {
+          "diff": -11.663377559631499,
+          "newRating": 1272.801955136495,
+          "result": "L 81-88 vs Boston Celtics on 1954-02-03"
+        },
+        {
+          "diff": 7.809581196995396,
+          "newRating": 1280.6115363334904,
+          "result": "W 89-70 vs Fort Wayne Pistons on 1954-02-05"
+        },
+        {
+          "diff": -11.081935170139786,
+          "newRating": 1269.5296011633507,
+          "result": "L 81-104 vs Boston Celtics on 1954-02-06"
+        },
+        {
+          "diff": -13.712319581283282,
+          "newRating": 1255.8172815820674,
+          "result": "L 73-75 vs Baltimore Bullets on 1954-02-07"
+        },
+        {
+          "diff": 3.0520803815084037,
+          "newRating": 1258.8693619635758,
+          "result": "W 81-70 vs Milwaukee Hawks on 1954-02-09"
+        },
+        {
+          "diff": 2.908748367513226,
+          "newRating": 1261.778110331089,
+          "result": "W 62-61 vs Milwaukee Hawks on 1954-02-10"
+        },
+        {
+          "diff": 2.776426729134755,
+          "newRating": 1264.5545370602238,
+          "result": "W 79-68 vs Milwaukee Hawks on 1954-02-11"
+        },
+        {
+          "diff": 7.02199718551401,
+          "newRating": 1271.5765342457378,
+          "result": "W 81-78 vs Syracuse Nationals on 1954-02-13"
+        },
+        {
+          "diff": -6.174296587814524,
+          "newRating": 1265.4022376579233,
+          "result": "L 77-105 vs Minneapolis Lakers on 1954-02-14"
+        },
+        {
+          "diff": -5.8195769499473045,
+          "newRating": 1259.582660707976,
+          "result": "L 79-85 vs Minneapolis Lakers on 1954-02-16"
+        },
+        {
+          "diff": 2.650739497804807,
+          "newRating": 1262.2334002057808,
+          "result": "W 66-64 vs Milwaukee Hawks on 1954-02-20"
+        },
+        {
+          "diff": 5.5921249719667685,
+          "newRating": 1267.8255251777475,
+          "result": "W 93-77 vs Boston Celtics on 1954-02-23"
+        },
+        {
+          "diff": 2.067679204691558,
+          "newRating": 1269.893204382439,
+          "result": "W 79-64 vs Baltimore Bullets on 1954-02-24"
+        },
+        {
+          "diff": 1.9931976927844062,
+          "newRating": 1271.8864020752235,
+          "result": "W 102-86 vs Baltimore Bullets on 1954-02-25"
+        },
+        {
+          "diff": -7.938496204308194,
+          "newRating": 1263.9479058709153,
+          "result": "L 74-75 vs Boston Celtics on 1954-02-27"
+        },
+        {
+          "diff": 5.789474776368479,
+          "newRating": 1269.7373806472838,
+          "result": "W 91-85 vs Syracuse Nationals on 1954-02-28"
+        },
+        {
+          "diff": 6.241871886480112,
+          "newRating": 1275.9792525337639,
+          "result": "W 71-64 vs Fort Wayne Pistons on 1954-03-02"
+        },
+        {
+          "diff": 3.635339025399162,
+          "newRating": 1279.614591559163,
+          "result": "W 85-78 vs Philadelphia Warriors on 1954-03-04"
+        },
+        {
+          "diff": -6.599024013039752,
+          "newRating": 1273.0155675461233,
+          "result": "L 66-70 vs New York Knicks on 1954-03-05"
+        },
+        {
+          "diff": 6.529558840479467,
+          "newRating": 1279.5451263866028,
+          "result": "W 74-59 vs Minneapolis Lakers on 1954-03-06"
+        },
+        {
+          "diff": 5.649017653195642,
+          "newRating": 1285.1941440397984,
+          "result": "W 91-88 vs New York Knicks on 1954-03-07"
+        },
+        {
+          "diff": 6.058143803920984,
+          "newRating": 1291.2522878437194,
+          "result": "W 70-61 vs Minneapolis Lakers on 1954-03-09"
+        },
+        {
+          "diff": 2.0378982086397173,
+          "newRating": 1293.290186052359,
+          "result": "W 84-69 vs Milwaukee Hawks on 1954-03-10"
+        },
+        {
+          "diff": 4.932048735622857,
+          "newRating": 1298.222234787982,
+          "result": "W 95-80 vs Fort Wayne Pistons on 1954-03-11"
+        },
+        {
+          "diff": 2.8459766028497597,
+          "newRating": 1301.0682113908317,
+          "result": "W 77-76 vs Philadelphia Warriors on 1954-03-13"
+        },
+        {
+          "diff": -9.265038825250258,
+          "newRating": 1291.8031725655815,
+          "result": "L 53-91 vs Milwaukee Hawks on 1954-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Minneapolis Lakers",
+      "rating": 1288.4148084171732,
+      "wins": 46,
+      "losses": 26,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 59-69 vs Milwaukee Hawks on 1953-10-30"
+        },
+        {
+          "diff": -36.363636363636374,
+          "newRating": 763.6363636363636,
+          "result": "L 67-91 vs New York Knicks on 1953-10-31"
+        },
+        {
+          "diff": 246.659365093622,
+          "newRating": 1010.2957287299856,
+          "result": "W 84-79 vs Boston Celtics on 1953-11-01"
+        },
+        {
+          "diff": 45.11886858421724,
+          "newRating": 1055.4145973142029,
+          "result": "W 77-75 vs Baltimore Bullets on 1953-11-04"
+        },
+        {
+          "diff": 110.72056054148402,
+          "newRating": 1166.1351578556869,
+          "result": "W 77-65 vs Syracuse Nationals on 1953-11-05"
+        },
+        {
+          "diff": 115.05553475823194,
+          "newRating": 1281.1906926139188,
+          "result": "W 70-62 vs New York Knicks on 1953-11-07"
+        },
+        {
+          "diff": -23.455534992211597,
+          "newRating": 1257.7351576217072,
+          "result": "L 62-78 vs Fort Wayne Pistons on 1953-11-10"
+        },
+        {
+          "diff": 21.867777297944258,
+          "newRating": 1279.6029349196515,
+          "result": "W 92-84 vs Milwaukee Hawks on 1953-11-13"
+        },
+        {
+          "diff": -21.27652521730556,
+          "newRating": 1258.326409702346,
+          "result": "L 91-98 vs Rochester Royals on 1953-11-14"
+        },
+        {
+          "diff": 7.289268989226684,
+          "newRating": 1265.6156786915726,
+          "result": "W 89-74 vs Boston Celtics on 1953-11-15"
+        },
+        {
+          "diff": 59.108238364388626,
+          "newRating": 1324.7239170559612,
+          "result": "W 83-66 vs Fort Wayne Pistons on 1953-11-17"
+        },
+        {
+          "diff": 21.658985897669936,
+          "newRating": 1346.3829029536312,
+          "result": "W 107-79 vs Philadelphia Warriors on 1953-11-19"
+        },
+        {
+          "diff": 40.2415779848036,
+          "newRating": 1386.6244809384348,
+          "result": "W 76-70 vs Rochester Royals on 1953-11-21"
+        },
+        {
+          "diff": 3.1147314563438613,
+          "newRating": 1389.7392123947786,
+          "result": "W 57-55 vs Milwaukee Hawks on 1953-11-22"
+        },
+        {
+          "diff": 12.892014729126686,
+          "newRating": 1402.6312271239053,
+          "result": "W 88-80 vs Philadelphia Warriors on 1953-11-26"
+        },
+        {
+          "diff": 5.57926128600775,
+          "newRating": 1408.210488409913,
+          "result": "W 95-82 vs Boston Celtics on 1953-11-29"
+        },
+        {
+          "diff": 10.25988831630707,
+          "newRating": 1418.4703767262201,
+          "result": "W 87-74 vs Syracuse Nationals on 1953-12-03"
+        },
+        {
+          "diff": 8.868731748790651,
+          "newRating": 1427.3391084750108,
+          "result": "W 90-80 vs Syracuse Nationals on 1953-12-05"
+        },
+        {
+          "diff": 12.804225132961164,
+          "newRating": 1440.143333607972,
+          "result": "W 71-67 vs New York Knicks on 1953-12-12"
+        },
+        {
+          "diff": -25.87087848862643,
+          "newRating": 1414.2724551193455,
+          "result": "L 70-87 vs Rochester Royals on 1953-12-13"
+        },
+        {
+          "diff": -25.39554381635071,
+          "newRating": 1388.8769113029948,
+          "result": "L 79-80 vs New York Knicks on 1953-12-15"
+        },
+        {
+          "diff": 3.781838463423128,
+          "newRating": 1392.658749766418,
+          "result": "W 69-63 vs Milwaukee Hawks on 1953-12-16"
+        },
+        {
+          "diff": -33.09752740124941,
+          "newRating": 1359.5612223651685,
+          "result": "L 64-75 vs Baltimore Bullets on 1953-12-17"
+        },
+        {
+          "diff": 17.224786039623496,
+          "newRating": 1376.786008404792,
+          "result": "W 91-78 vs Rochester Royals on 1953-12-19"
+        },
+        {
+          "diff": -24.86997877733984,
+          "newRating": 1351.9160296274522,
+          "result": "L 76-81 vs Syracuse Nationals on 1953-12-20"
+        },
+        {
+          "diff": -28.65884325588786,
+          "newRating": 1323.2571863715643,
+          "result": "L 78-88 vs Baltimore Bullets on 1953-12-25"
+        },
+        {
+          "diff": 13.262530281519275,
+          "newRating": 1336.5197166530836,
+          "result": "W 77-71 vs Fort Wayne Pistons on 1953-12-26"
+        },
+        {
+          "diff": 11.720813831299438,
+          "newRating": 1348.240530484383,
+          "result": "W 79-75 vs Fort Wayne Pistons on 1953-12-27"
+        },
+        {
+          "diff": -17.158075064895,
+          "newRating": 1331.082455419488,
+          "result": "L 80-97 vs Fort Wayne Pistons on 1953-12-30"
+        },
+        {
+          "diff": 12.458592000183444,
+          "newRating": 1343.5410474196715,
+          "result": "W 78-74 vs New York Knicks on 1954-01-02"
+        },
+        {
+          "diff": -13.682905033520683,
+          "newRating": 1329.8581423861508,
+          "result": "L 84-85 vs Rochester Royals on 1954-01-04"
+        },
+        {
+          "diff": 12.712924211411064,
+          "newRating": 1342.5710665975619,
+          "result": "W 89-71 vs Rochester Royals on 1954-01-07"
+        },
+        {
+          "diff": 2.6051831746717653,
+          "newRating": 1345.1762497722336,
+          "result": "W 78-67 vs Milwaukee Hawks on 1954-01-09"
+        },
+        {
+          "diff": 6.607861562125663,
+          "newRating": 1351.7841113343593,
+          "result": "W 99-85 vs Boston Celtics on 1954-01-10"
+        },
+        {
+          "diff": -16.765474601653978,
+          "newRating": 1335.0186367327053,
+          "result": "L 84-88 vs Boston Celtics on 1954-01-13"
+        },
+        {
+          "diff": -14.224848380305048,
+          "newRating": 1320.7937883524003,
+          "result": "L 71-96 vs Syracuse Nationals on 1954-01-14"
+        },
+        {
+          "diff": -19.204824701562302,
+          "newRating": 1301.588963650838,
+          "result": "L 58-64 vs Milwaukee Hawks on 1954-01-16"
+        },
+        {
+          "diff": -12.37747045524884,
+          "newRating": 1289.2114931955891,
+          "result": "L 83-86 vs Fort Wayne Pistons on 1954-01-17"
+        },
+        {
+          "diff": 2.951782297037198,
+          "newRating": 1292.1632754926263,
+          "result": "W 91-72 vs Milwaukee Hawks on 1954-01-18"
+        },
+        {
+          "diff": 8.58358180123787,
+          "newRating": 1300.7468572938642,
+          "result": "W 75-72 vs Fort Wayne Pistons on 1954-01-23"
+        },
+        {
+          "diff": 2.784227804733291,
+          "newRating": 1303.5310850985975,
+          "result": "W 84-69 vs Milwaukee Hawks on 1954-01-26"
+        },
+        {
+          "diff": 2.351194905282682,
+          "newRating": 1305.8822800038802,
+          "result": "W 76-73 vs Baltimore Bullets on 1954-01-27"
+        },
+        {
+          "diff": 2.2437914592242123,
+          "newRating": 1308.1260714631044,
+          "result": "W 104-82 vs Baltimore Bullets on 1954-01-28"
+        },
+        {
+          "diff": 2.590575035703523,
+          "newRating": 1310.716646498808,
+          "result": "W 80-64 vs Milwaukee Hawks on 1954-01-30"
+        },
+        {
+          "diff": 5.136160149205807,
+          "newRating": 1315.8528066480137,
+          "result": "W 82-67 vs Boston Celtics on 1954-01-31"
+        },
+        {
+          "diff": 8.11403184786218,
+          "newRating": 1323.966838495876,
+          "result": "W 87-78 vs Rochester Royals on 1954-02-02"
+        },
+        {
+          "diff": 8.488372218308086,
+          "newRating": 1332.455210714184,
+          "result": "W 91-79 vs New York Knicks on 1954-02-03"
+        },
+        {
+          "diff": 1.7679683105568529,
+          "newRating": 1334.2231790247408,
+          "result": "W 82-70 vs Baltimore Bullets on 1954-02-04"
+        },
+        {
+          "diff": 3.022245130447118,
+          "newRating": 1337.245424155188,
+          "result": "W 97-94 vs Philadelphia Warriors on 1954-02-06"
+        },
+        {
+          "diff": -10.282571270190829,
+          "newRating": 1326.9628528849971,
+          "result": "L 83-90 vs Fort Wayne Pistons on 1954-02-07"
+        },
+        {
+          "diff": 2.960118301024977,
+          "newRating": 1329.922971186022,
+          "result": "W 106-91 vs Philadelphia Warriors on 1954-02-08"
+        },
+        {
+          "diff": 2.821319637199622,
+          "newRating": 1332.7442908232217,
+          "result": "W 70-67 vs Philadelphia Warriors on 1954-02-09"
+        },
+        {
+          "diff": 1.6020193115543861,
+          "newRating": 1334.346310134776,
+          "result": "W 110-82 vs Baltimore Bullets on 1954-02-11"
+        },
+        {
+          "diff": -12.927028831414873,
+          "newRating": 1321.4192813033612,
+          "result": "L 62-71 vs Milwaukee Hawks on 1954-02-12"
+        },
+        {
+          "diff": 3.036472725608519,
+          "newRating": 1324.4557540289697,
+          "result": "W 86-77 vs Philadelphia Warriors on 1954-02-13"
+        },
+        {
+          "diff": 6.0640412916034165,
+          "newRating": 1330.5197953205732,
+          "result": "W 105-77 vs Rochester Royals on 1954-02-14"
+        },
+        {
+          "diff": 5.717479108719999,
+          "newRating": 1336.2372744292932,
+          "result": "W 85-79 vs Rochester Royals on 1954-02-16"
+        },
+        {
+          "diff": -9.8971825472006,
+          "newRating": 1326.3400918820926,
+          "result": "L 92-105 vs Boston Celtics on 1954-02-18"
+        },
+        {
+          "diff": 5.117168629977414,
+          "newRating": 1331.45726051207,
+          "result": "W 83-68 vs Syracuse Nationals on 1954-02-20"
+        },
+        {
+          "diff": -8.484644623482609,
+          "newRating": 1322.9726158885874,
+          "result": "L 73-100 vs Syracuse Nationals on 1954-02-21"
+        },
+        {
+          "diff": -10.33561199410292,
+          "newRating": 1312.6370038944845,
+          "result": "L 72-79 vs Philadelphia Warriors on 1954-02-22"
+        },
+        {
+          "diff": 5.786607815263096,
+          "newRating": 1318.4236117097475,
+          "result": "W 100-82 vs New York Knicks on 1954-02-23"
+        },
+        {
+          "diff": -9.816818824093843,
+          "newRating": 1308.6067928856537,
+          "result": "L 72-81 vs Philadelphia Warriors on 1954-02-25"
+        },
+        {
+          "diff": 1.526420583630852,
+          "newRating": 1310.1332134692846,
+          "result": "W 95-85 vs Baltimore Bullets on 1954-02-27"
+        },
+        {
+          "diff": -7.146565504006048,
+          "newRating": 1302.9866479652785,
+          "result": "L 77-94 vs Fort Wayne Pistons on 1954-02-28"
+        },
+        {
+          "diff": 4.682117761848303,
+          "newRating": 1307.6687657271268,
+          "result": "W 91-87 vs Syracuse Nationals on 1954-03-02"
+        },
+        {
+          "diff": -7.7157560315422415,
+          "newRating": 1299.9530096955846,
+          "result": "L 106-128 vs Boston Celtics on 1954-03-05"
+        },
+        {
+          "diff": -6.337512992230131,
+          "newRating": 1293.6154967033544,
+          "result": "L 59-74 vs Rochester Royals on 1954-03-06"
+        },
+        {
+          "diff": 1.9646601460522106,
+          "newRating": 1295.5801568494066,
+          "result": "W 65-63 vs Milwaukee Hawks on 1954-03-07"
+        },
+        {
+          "diff": -5.885053980951852,
+          "newRating": 1289.6951028684548,
+          "result": "L 61-70 vs Rochester Royals on 1954-03-09"
+        },
+        {
+          "diff": -6.151015520718147,
+          "newRating": 1283.5440873477366,
+          "result": "L 76-85 vs New York Knicks on 1954-03-10"
+        },
+        {
+          "diff": 4.870721069436513,
+          "newRating": 1288.4148084171732,
+          "result": "W 93-66 vs Fort Wayne Pistons on 1954-03-13"
+        }
+      ]
+    },
+    {
+      "team": "New York Knicks",
+      "rating": 1263.0324986278124,
+      "wins": 44,
+      "losses": 28,
+      "log": [
+        {
+          "diff": 72.72727272727275,
+          "newRating": 1272.7272727272727,
+          "result": "W 91-67 vs Minneapolis Lakers on 1953-10-31"
+        },
+        {
+          "diff": 179.1435090166333,
+          "newRating": 1451.870781743906,
+          "result": "W 73-67 vs Milwaukee Hawks on 1953-11-04"
+        },
+        {
+          "diff": 33.85782742387846,
+          "newRating": 1485.7286091677845,
+          "result": "W 80-68 vs Milwaukee Hawks on 1953-11-06"
+        },
+        {
+          "diff": -172.58330213734803,
+          "newRating": 1313.1453070304365,
+          "result": "L 62-70 vs Minneapolis Lakers on 1953-11-07"
+        },
+        {
+          "diff": 144.141996777925,
+          "newRating": 1457.2873038083615,
+          "result": "W 75-70 vs Fort Wayne Pistons on 1953-11-08"
+        },
+        {
+          "diff": 19.318096918952733,
+          "newRating": 1476.6054007273142,
+          "result": "W 81-65 vs Philadelphia Warriors on 1953-11-12"
+        },
+        {
+          "diff": -113.19821155222371,
+          "newRating": 1363.4071891750905,
+          "result": "L 83-88 vs Baltimore Bullets on 1953-11-14"
+        },
+        {
+          "diff": 3.7927613844899497,
+          "newRating": 1367.1999505595804,
+          "result": "W 91-79 vs Baltimore Bullets on 1953-11-15"
+        },
+        {
+          "diff": 27.190221133844716,
+          "newRating": 1394.3901716934251,
+          "result": "W 88-83 vs Philadelphia Warriors on 1953-11-18"
+        },
+        {
+          "diff": 3.735946824958546,
+          "newRating": 1398.1261185183837,
+          "result": "W 96-85 vs Baltimore Bullets on 1953-11-19"
+        },
+        {
+          "diff": 20.22662676261939,
+          "newRating": 1418.352745281003,
+          "result": "W 68-67 vs Syracuse Nationals on 1953-11-21"
+        },
+        {
+          "diff": 15.590058071757085,
+          "newRating": 1433.9428033527602,
+          "result": "W 84-80 vs Syracuse Nationals on 1953-11-22"
+        },
+        {
+          "diff": 3.364272373895801,
+          "newRating": 1437.307075726656,
+          "result": "W 103-92 vs Boston Celtics on 1953-11-24"
+        },
+        {
+          "diff": -54.155781662492245,
+          "newRating": 1383.1512940641637,
+          "result": "L 84-96 vs Boston Celtics on 1953-11-25"
+        },
+        {
+          "diff": 22.388804033952283,
+          "newRating": 1405.540098098116,
+          "result": "W 95-90 vs Rochester Royals on 1953-11-28"
+        },
+        {
+          "diff": 17.93057368274458,
+          "newRating": 1423.4706717808606,
+          "result": "W 69-64 vs Rochester Royals on 1953-11-29"
+        },
+        {
+          "diff": -41.99882199983199,
+          "newRating": 1381.4718497810286,
+          "result": "L 74-79 vs Philadelphia Warriors on 1953-12-03"
+        },
+        {
+          "diff": -27.137433005827234,
+          "newRating": 1354.3344167752014,
+          "result": "L 73-92 vs Fort Wayne Pistons on 1953-12-05"
+        },
+        {
+          "diff": -35.57276687469789,
+          "newRating": 1318.7616499005035,
+          "result": "L 108-113 vs Boston Celtics on 1953-12-10"
+        },
+        {
+          "diff": -35.23442319534092,
+          "newRating": 1283.5272267051625,
+          "result": "L 70-82 vs Milwaukee Hawks on 1953-12-11"
+        },
+        {
+          "diff": -11.584775120298218,
+          "newRating": 1271.9424515848643,
+          "result": "L 67-71 vs Minneapolis Lakers on 1953-12-12"
+        },
+        {
+          "diff": 21.944303167674434,
+          "newRating": 1293.8867547525388,
+          "result": "W 69-68 vs Fort Wayne Pistons on 1953-12-13"
+        },
+        {
+          "diff": 23.18723565840719,
+          "newRating": 1317.073990410946,
+          "result": "W 80-79 vs Minneapolis Lakers on 1953-12-15"
+        },
+        {
+          "diff": 2.9198360716627576,
+          "newRating": 1319.9938264826087,
+          "result": "W 65-63 vs Baltimore Bullets on 1953-12-19"
+        },
+        {
+          "diff": 2.716436043715248,
+          "newRating": 1322.710262526324,
+          "result": "W 75-67 vs Baltimore Bullets on 1953-12-20"
+        },
+        {
+          "diff": 9.684844757005521,
+          "newRating": 1332.3951072833295,
+          "result": "W 89-80 vs Syracuse Nationals on 1953-12-25"
+        },
+        {
+          "diff": 15.988501873369614,
+          "newRating": 1348.383609156699,
+          "result": "W 78-77 vs Rochester Royals on 1953-12-26"
+        },
+        {
+          "diff": 5.336198345308276,
+          "newRating": 1353.7198075020074,
+          "result": "W 79-76 vs Philadelphia Warriors on 1953-12-27"
+        },
+        {
+          "diff": -25.434978370151384,
+          "newRating": 1328.284829131856,
+          "result": "L 79-86 vs Baltimore Bullets on 1953-12-30"
+        },
+        {
+          "diff": -20.02888057970199,
+          "newRating": 1308.255948552154,
+          "result": "L 74-95 vs Boston Celtics on 1953-12-31"
+        },
+        {
+          "diff": -12.056701935661295,
+          "newRating": 1296.1992466164927,
+          "result": "L 74-78 vs Minneapolis Lakers on 1954-01-02"
+        },
+        {
+          "diff": 11.698161836541203,
+          "newRating": 1307.897408453034,
+          "result": "W 74-72 vs Fort Wayne Pistons on 1954-01-03"
+        },
+        {
+          "diff": 2.345597899628501,
+          "newRating": 1310.2430063526624,
+          "result": "W 82-70 vs Baltimore Bullets on 1954-01-07"
+        },
+        {
+          "diff": 12.211673672149118,
+          "newRating": 1322.4546800248115,
+          "result": "W 88-87 vs Rochester Royals on 1954-01-09"
+        },
+        {
+          "diff": 11.059722583158646,
+          "newRating": 1333.5144026079702,
+          "result": "W 81-69 vs Rochester Royals on 1954-01-10"
+        },
+        {
+          "diff": -14.573450641230238,
+          "newRating": 1318.94095196674,
+          "result": "L 72-93 vs Syracuse Nationals on 1954-01-13"
+        },
+        {
+          "diff": 4.8074984481797856,
+          "newRating": 1323.7484504149197,
+          "result": "W 83-71 vs Philadelphia Warriors on 1954-01-14"
+        },
+        {
+          "diff": 8.264130340674,
+          "newRating": 1332.0125807555937,
+          "result": "W 88-82 vs Fort Wayne Pistons on 1954-01-16"
+        },
+        {
+          "diff": 6.415396711594894,
+          "newRating": 1338.4279774671886,
+          "result": "W 87-84 vs Boston Celtics on 1954-01-17"
+        },
+        {
+          "diff": 2.2140641093321847,
+          "newRating": 1340.6420415765208,
+          "result": "W 78-75 vs Milwaukee Hawks on 1954-01-19"
+        },
+        {
+          "diff": 3.5378254111981278,
+          "newRating": 1344.179866987719,
+          "result": "W 84-82 vs Philadelphia Warriors on 1954-01-22"
+        },
+        {
+          "diff": 2.0241664865955045,
+          "newRating": 1346.2040334743144,
+          "result": "W 75-63 vs Milwaukee Hawks on 1954-01-23"
+        },
+        {
+          "diff": -16.66885311438,
+          "newRating": 1329.5351803599344,
+          "result": "L 66-68 vs Milwaukee Hawks on 1954-01-24"
+        },
+        {
+          "diff": 8.310106515141115,
+          "newRating": 1337.8452868750755,
+          "result": "W 74-71 vs Rochester Royals on 1954-01-26"
+        },
+        {
+          "diff": -11.205824086511257,
+          "newRating": 1326.6394627885643,
+          "result": "L 66-79 vs Syracuse Nationals on 1954-01-28"
+        },
+        {
+          "diff": 6.954235086614517,
+          "newRating": 1333.5936978751788,
+          "result": "W 66-65 vs Syracuse Nationals on 1954-01-30"
+        },
+        {
+          "diff": -10.53584478916946,
+          "newRating": 1323.0578530860093,
+          "result": "L 70-114 vs Syracuse Nationals on 1954-01-31"
+        },
+        {
+          "diff": -8.311531130426602,
+          "newRating": 1314.7463219555827,
+          "result": "L 79-91 vs Minneapolis Lakers on 1954-02-03"
+        },
+        {
+          "diff": -9.729064728263893,
+          "newRating": 1305.0172572273189,
+          "result": "L 82-90 vs Syracuse Nationals on 1954-02-04"
+        },
+        {
+          "diff": 1.9348428652708662,
+          "newRating": 1306.9521000925897,
+          "result": "W 98-83 vs Baltimore Bullets on 1954-02-06"
+        },
+        {
+          "diff": 4.739114379200373,
+          "newRating": 1311.69121447179,
+          "result": "W 87-78 vs Boston Celtics on 1954-02-07"
+        },
+        {
+          "diff": 6.245738614448101,
+          "newRating": 1317.9369530862382,
+          "result": "W 73-69 vs Fort Wayne Pistons on 1954-02-10"
+        },
+        {
+          "diff": -10.570286611703068,
+          "newRating": 1307.3666664745351,
+          "result": "L 81-84 vs Boston Celtics on 1954-02-11"
+        },
+        {
+          "diff": -8.842383285066944,
+          "newRating": 1298.5242831894682,
+          "result": "L 73-79 vs Fort Wayne Pistons on 1954-02-13"
+        },
+        {
+          "diff": -9.856376973981696,
+          "newRating": 1288.6679062154865,
+          "result": "L 89-103 vs Boston Celtics on 1954-02-14"
+        },
+        {
+          "diff": 4.9630751675852025,
+          "newRating": 1293.6309813830717,
+          "result": "W 87-85 vs Boston Celtics on 1954-02-16"
+        },
+        {
+          "diff": -12.19540298458378,
+          "newRating": 1281.435578398488,
+          "result": "L 80-84 vs Baltimore Bullets on 1954-02-17"
+        },
+        {
+          "diff": 3.484382594514045,
+          "newRating": 1284.919960993002,
+          "result": "W 69-60 vs Philadelphia Warriors on 1954-02-18"
+        },
+        {
+          "diff": -10.237467713896649,
+          "newRating": 1274.6824932791053,
+          "result": "L 75-89 vs Philadelphia Warriors on 1954-02-20"
+        },
+        {
+          "diff": 2.0146686302903163,
+          "newRating": 1276.6971619093956,
+          "result": "W 85-76 vs Baltimore Bullets on 1954-02-21"
+        },
+        {
+          "diff": -5.88147023846409,
+          "newRating": 1270.8156916709315,
+          "result": "L 82-100 vs Minneapolis Lakers on 1954-02-23"
+        },
+        {
+          "diff": -6.984938036396898,
+          "newRating": 1263.8307536345346,
+          "result": "L 62-82 vs Fort Wayne Pistons on 1954-02-25"
+        },
+        {
+          "diff": -10.198552847238943,
+          "newRating": 1253.6322007872957,
+          "result": "L 57-58 vs Milwaukee Hawks on 1954-02-27"
+        },
+        {
+          "diff": -8.67094258509269,
+          "newRating": 1244.961258202203,
+          "result": "L 78-83 vs Philadelphia Warriors on 1954-02-28"
+        },
+        {
+          "diff": 5.509616066641229,
+          "newRating": 1250.4708742688442,
+          "result": "W 86-71 vs Boston Celtics on 1954-03-02"
+        },
+        {
+          "diff": 3.965757333480269,
+          "newRating": 1254.4366316023245,
+          "result": "W 88-79 vs Philadelphia Warriors on 1954-03-03"
+        },
+        {
+          "diff": 6.402038221605608,
+          "newRating": 1260.83866982393,
+          "result": "W 70-66 vs Rochester Royals on 1954-03-05"
+        },
+        {
+          "diff": -5.5659438641780525,
+          "newRating": 1255.272725959752,
+          "result": "L 88-91 vs Rochester Royals on 1954-03-07"
+        },
+        {
+          "diff": 2.4358986802176332,
+          "newRating": 1257.7086246399697,
+          "result": "W 72-65 vs Milwaukee Hawks on 1954-03-09"
+        },
+        {
+          "diff": 6.238887171014085,
+          "newRating": 1263.9475118109838,
+          "result": "W 85-76 vs Minneapolis Lakers on 1954-03-10"
+        },
+        {
+          "diff": 5.217034403817479,
+          "newRating": 1269.1645462148012,
+          "result": "W 67-60 vs Syracuse Nationals on 1954-03-13"
+        },
+        {
+          "diff": -6.132047586988847,
+          "newRating": 1263.0324986278124,
+          "result": "L 83-113 vs Syracuse Nationals on 1954-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Syracuse Nationals",
+      "rating": 1239.1134540672365,
+      "wins": 42,
+      "losses": 30,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 73-79 vs Philadelphia Warriors on 1953-10-31"
+        },
+        {
+          "diff": 396.0396039603961,
+          "newRating": 1196.039603960396,
+          "result": "W 85-61 vs Philadelphia Warriors on 1953-11-01"
+        },
+        {
+          "diff": -184.53426756914018,
+          "newRating": 1011.5053363912559,
+          "result": "L 65-77 vs Minneapolis Lakers on 1953-11-05"
+        },
+        {
+          "diff": 33.97197800278059,
+          "newRating": 1045.4773143940365,
+          "result": "W 88-77 vs Baltimore Bullets on 1953-11-07"
+        },
+        {
+          "diff": 158.31606205930916,
+          "newRating": 1203.7933764533457,
+          "result": "W 85-66 vs Rochester Royals on 1953-11-08"
+        },
+        {
+          "diff": 45.84693076939675,
+          "newRating": 1249.6403072227424,
+          "result": "W 74-59 vs Milwaukee Hawks on 1953-11-10"
+        },
+        {
+          "diff": -17.290080687955196,
+          "newRating": 1232.3502265347872,
+          "result": "L 74-78 vs Fort Wayne Pistons on 1953-11-12"
+        },
+        {
+          "diff": -95.38717255067536,
+          "newRating": 1136.9630539841119,
+          "result": "L 66-77 vs Boston Celtics on 1953-11-14"
+        },
+        {
+          "diff": 28.594791280068875,
+          "newRating": 1165.5578452641807,
+          "result": "W 69-61 vs Milwaukee Hawks on 1953-11-15"
+        },
+        {
+          "diff": 66.87179870551131,
+          "newRating": 1232.429643969692,
+          "result": "W 79-76 vs Fort Wayne Pistons on 1953-11-19"
+        },
+        {
+          "diff": -20.22662676261939,
+          "newRating": 1212.2030172070727,
+          "result": "L 67-68 vs New York Knicks on 1953-11-21"
+        },
+        {
+          "diff": -15.590058071757085,
+          "newRating": 1196.6129591353156,
+          "result": "L 80-84 vs New York Knicks on 1953-11-22"
+        },
+        {
+          "diff": 44.74977141147838,
+          "newRating": 1241.362730546794,
+          "result": "W 89-80 vs Rochester Royals on 1953-11-24"
+        },
+        {
+          "diff": -51.849949481997555,
+          "newRating": 1189.5127810647964,
+          "result": "L 58-66 vs Baltimore Bullets on 1953-11-25"
+        },
+        {
+          "diff": 13.98253436421237,
+          "newRating": 1203.4953154290088,
+          "result": "W 93-86 vs Boston Celtics on 1953-11-26"
+        },
+        {
+          "diff": -38.64672877056046,
+          "newRating": 1164.8485866584483,
+          "result": "L 80-91 vs Boston Celtics on 1953-11-28"
+        },
+        {
+          "diff": 8.224338118002606,
+          "newRating": 1173.072924776451,
+          "result": "W 101-82 vs Baltimore Bullets on 1953-11-29"
+        },
+        {
+          "diff": 13.26051598250001,
+          "newRating": 1186.333440758951,
+          "result": "W 76-69 vs Milwaukee Hawks on 1953-12-01"
+        },
+        {
+          "diff": -9.179900072485225,
+          "newRating": 1177.1535406864657,
+          "result": "L 74-87 vs Minneapolis Lakers on 1953-12-03"
+        },
+        {
+          "diff": -7.981858573911495,
+          "newRating": 1169.1716821125542,
+          "result": "L 80-90 vs Minneapolis Lakers on 1953-12-05"
+        },
+        {
+          "diff": -10.853292687746034,
+          "newRating": 1158.3183894248082,
+          "result": "L 77-78 vs Fort Wayne Pistons on 1953-12-06"
+        },
+        {
+          "diff": -30.540584221884046,
+          "newRating": 1127.7778052029241,
+          "result": "L 77-92 vs Baltimore Bullets on 1953-12-09"
+        },
+        {
+          "diff": 10.58005094728901,
+          "newRating": 1138.3578561502131,
+          "result": "W 96-76 vs Milwaukee Hawks on 1953-12-10"
+        },
+        {
+          "diff": -8.49006854098161,
+          "newRating": 1129.8677876092315,
+          "result": "L 85-90 vs Rochester Royals on 1953-12-12"
+        },
+        {
+          "diff": 14.766876927674048,
+          "newRating": 1144.6346645369056,
+          "result": "W 108-74 vs Boston Celtics on 1953-12-13"
+        },
+        {
+          "diff": 15.117507017203707,
+          "newRating": 1159.7521715541093,
+          "result": "W 90-83 vs Boston Celtics on 1953-12-19"
+        },
+        {
+          "diff": 23.027758127166635,
+          "newRating": 1182.779929681276,
+          "result": "W 81-76 vs Minneapolis Lakers on 1953-12-20"
+        },
+        {
+          "diff": 4.7830148183354595,
+          "newRating": 1187.5629444996114,
+          "result": "W 76-72 vs Baltimore Bullets on 1953-12-23"
+        },
+        {
+          "diff": -8.682964264901557,
+          "newRating": 1178.8799802347098,
+          "result": "L 80-89 vs New York Knicks on 1953-12-25"
+        },
+        {
+          "diff": 7.229361213928314,
+          "newRating": 1186.1093414486381,
+          "result": "W 96-75 vs Milwaukee Hawks on 1953-12-27"
+        },
+        {
+          "diff": 11.477035641691828,
+          "newRating": 1197.58637709033,
+          "result": "W 96-89 vs Boston Celtics on 1953-12-30"
+        },
+        {
+          "diff": 16.828268894102393,
+          "newRating": 1214.4146459844324,
+          "result": "W 86-81 vs Rochester Royals on 1953-12-31"
+        },
+        {
+          "diff": -14.186290166852359,
+          "newRating": 1200.22835581758,
+          "result": "L 92-95 vs Boston Celtics on 1954-01-01"
+        },
+        {
+          "diff": 7.966850374574051,
+          "newRating": 1208.195206192154,
+          "result": "W 74-66 vs Philadelphia Warriors on 1954-01-02"
+        },
+        {
+          "diff": -15.62891078420239,
+          "newRating": 1192.5662954079517,
+          "result": "L 77-90 vs Philadelphia Warriors on 1954-01-03"
+        },
+        {
+          "diff": 13.308167210539068,
+          "newRating": 1205.8744626184907,
+          "result": "W 72-60 vs Fort Wayne Pistons on 1954-01-05"
+        },
+        {
+          "diff": 12.20134064027252,
+          "newRating": 1218.0758032587632,
+          "result": "W 79-67 vs Fort Wayne Pistons on 1954-01-07"
+        },
+        {
+          "diff": 3.450318218988741,
+          "newRating": 1221.526121477752,
+          "result": "W 77-73 vs Baltimore Bullets on 1954-01-10"
+        },
+        {
+          "diff": 13.452415976520115,
+          "newRating": 1234.978537454272,
+          "result": "W 93-72 vs New York Knicks on 1954-01-13"
+        },
+        {
+          "diff": 12.802363542274634,
+          "newRating": 1247.7809009965467,
+          "result": "W 96-71 vs Minneapolis Lakers on 1954-01-14"
+        },
+        {
+          "diff": 11.294888814212982,
+          "newRating": 1259.0757898107597,
+          "result": "W 95-93 vs Rochester Royals on 1954-01-16"
+        },
+        {
+          "diff": 10.38356537333425,
+          "newRating": 1269.459355184094,
+          "result": "W 84-81 vs Rochester Royals on 1954-01-17"
+        },
+        {
+          "diff": -16.000657997770304,
+          "newRating": 1253.4586971863237,
+          "result": "L 91-98 vs Baltimore Bullets on 1954-01-23"
+        },
+        {
+          "diff": -13.483637294063556,
+          "newRating": 1239.97505989226,
+          "result": "L 78-80 vs Philadelphia Warriors on 1954-01-24"
+        },
+        {
+          "diff": 5.170504621198688,
+          "newRating": 1245.1455645134588,
+          "result": "W 79-75 vs Philadelphia Warriors on 1954-01-26"
+        },
+        {
+          "diff": 10.96221921506526,
+          "newRating": 1256.107783728524,
+          "result": "W 79-66 vs New York Knicks on 1954-01-28"
+        },
+        {
+          "diff": -6.806272637963275,
+          "newRating": 1249.3015110905608,
+          "result": "L 65-66 vs New York Knicks on 1954-01-30"
+        },
+        {
+          "diff": 10.316348022728562,
+          "newRating": 1259.6178591132893,
+          "result": "W 114-70 vs New York Knicks on 1954-01-31"
+        },
+        {
+          "diff": -12.349113026615441,
+          "newRating": 1247.268746086674,
+          "result": "L 79-82 vs Philadelphia Warriors on 1954-02-03"
+        },
+        {
+          "diff": 9.534483433698597,
+          "newRating": 1256.8032295203725,
+          "result": "W 90-82 vs New York Knicks on 1954-02-04"
+        },
+        {
+          "diff": 7.534567535798033,
+          "newRating": 1264.3377970561705,
+          "result": "W 93-87 vs Fort Wayne Pistons on 1954-02-06"
+        },
+        {
+          "diff": 2.918840012071769,
+          "newRating": 1267.2566370682423,
+          "result": "W 88-73 vs Milwaukee Hawks on 1954-02-07"
+        },
+        {
+          "diff": -9.791470121775092,
+          "newRating": 1257.4651669464672,
+          "result": "L 79-94 vs Boston Celtics on 1954-02-10"
+        },
+        {
+          "diff": -11.004174590848606,
+          "newRating": 1246.4609923556186,
+          "result": "L 74-76 vs Philadelphia Warriors on 1954-02-11"
+        },
+        {
+          "diff": -6.894324509413764,
+          "newRating": 1239.5666678462048,
+          "result": "L 78-81 vs Rochester Royals on 1954-02-13"
+        },
+        {
+          "diff": 2.468315702137943,
+          "newRating": 1242.0349835483428,
+          "result": "W 111-91 vs Baltimore Bullets on 1954-02-14"
+        },
+        {
+          "diff": -10.02916434338431,
+          "newRating": 1232.0058192049585,
+          "result": "L 77-95 vs Philadelphia Warriors on 1954-02-16"
+        },
+        {
+          "diff": 7.364868401822378,
+          "newRating": 1239.3706876067808,
+          "result": "W 91-77 vs Fort Wayne Pistons on 1954-02-18"
+        },
+        {
+          "diff": -5.117168629977414,
+          "newRating": 1234.2535189768034,
+          "result": "L 68-83 vs Minneapolis Lakers on 1954-02-20"
+        },
+        {
+          "diff": 8.484644623482609,
+          "newRating": 1242.738163600286,
+          "result": "W 100-73 vs Minneapolis Lakers on 1954-02-21"
+        },
+        {
+          "diff": -10.367442488681263,
+          "newRating": 1232.3707211116048,
+          "result": "L 68-70 vs Milwaukee Hawks on 1954-02-23"
+        },
+        {
+          "diff": -7.225624254143895,
+          "newRating": 1225.1450968574609,
+          "result": "L 96-101 vs Boston Celtics on 1954-02-25"
+        },
+        {
+          "diff": 3.0190108655051517,
+          "newRating": 1228.164107722966,
+          "result": "W 68-62 vs Milwaukee Hawks on 1954-02-26"
+        },
+        {
+          "diff": -5.608553689607106,
+          "newRating": 1222.555554033359,
+          "result": "L 85-91 vs Rochester Royals on 1954-02-28"
+        },
+        {
+          "diff": -4.754150342799676,
+          "newRating": 1217.8014036905593,
+          "result": "L 87-91 vs Minneapolis Lakers on 1954-03-02"
+        },
+        {
+          "diff": 6.752195176211899,
+          "newRating": 1224.5535988667712,
+          "result": "W 86-63 vs Fort Wayne Pistons on 1954-03-04"
+        },
+        {
+          "diff": 4.127517651526887,
+          "newRating": 1228.681116518298,
+          "result": "W 88-77 vs Philadelphia Warriors on 1954-03-06"
+        },
+        {
+          "diff": 2.109839616360432,
+          "newRating": 1230.7909561346585,
+          "result": "W 103-77 vs Baltimore Bullets on 1954-03-07"
+        },
+        {
+          "diff": 1.9453107407955486,
+          "newRating": 1232.736266875454,
+          "result": "W 85-77 vs Baltimore Bullets on 1954-03-10"
+        },
+        {
+          "diff": 5.4621740086111,
+          "newRating": 1238.1984408840651,
+          "result": "W 97-95 vs Boston Celtics on 1954-03-11"
+        },
+        {
+          "diff": -5.217034403817479,
+          "newRating": 1232.9814064802476,
+          "result": "L 60-67 vs New York Knicks on 1954-03-13"
+        },
+        {
+          "diff": 6.132047586988847,
+          "newRating": 1239.1134540672365,
+          "result": "W 113-83 vs New York Knicks on 1954-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Fort Wayne Pistons",
+      "rating": 1237.345270988246,
+      "wins": 40,
+      "losses": 32,
+      "log": [
+        {
+          "diff": 727.2727272727273,
+          "newRating": 1927.2727272727273,
+          "result": "W 77-67 vs Milwaukee Hawks on 1953-11-01"
+        },
+        {
+          "diff": 0.08586965008021252,
+          "newRating": 1927.3585969228075,
+          "result": "W 83-79 vs Boston Celtics on 1953-11-05"
+        },
+        {
+          "diff": -230.79647700187616,
+          "newRating": 1696.5621199209313,
+          "result": "L 76-91 vs Rochester Royals on 1953-11-07"
+        },
+        {
+          "diff": -180.17749597240618,
+          "newRating": 1516.3846239485251,
+          "result": "L 70-75 vs New York Knicks on 1953-11-08"
+        },
+        {
+          "diff": 32.837748989096326,
+          "newRating": 1549.2223729376215,
+          "result": "W 78-62 vs Minneapolis Lakers on 1953-11-10"
+        },
+        {
+          "diff": 20.17176080261447,
+          "newRating": 1569.394133740236,
+          "result": "W 78-74 vs Syracuse Nationals on 1953-11-12"
+        },
+        {
+          "diff": -105.7431056014434,
+          "newRating": 1463.6510281387925,
+          "result": "L 58-63 vs Philadelphia Warriors on 1953-11-14"
+        },
+        {
+          "diff": 56.965330692815996,
+          "newRating": 1520.6163588316085,
+          "result": "W 68-65 vs Rochester Royals on 1953-11-15"
+        },
+        {
+          "diff": -72.24340244536393,
+          "newRating": 1448.3729563862446,
+          "result": "L 66-83 vs Minneapolis Lakers on 1953-11-17"
+        },
+        {
+          "diff": -66.87179870551131,
+          "newRating": 1381.5011576807333,
+          "result": "L 76-79 vs Syracuse Nationals on 1953-11-19"
+        },
+        {
+          "diff": -69.58968942125443,
+          "newRating": 1311.9114682594789,
+          "result": "L 68-90 vs Boston Celtics on 1953-11-21"
+        },
+        {
+          "diff": 42.44569052608131,
+          "newRating": 1354.3571587855602,
+          "result": "W 83-82 vs Rochester Royals on 1953-11-22"
+        },
+        {
+          "diff": -57.628303267803176,
+          "newRating": 1296.728855517757,
+          "result": "L 58-64 vs Milwaukee Hawks on 1953-11-25"
+        },
+        {
+          "diff": 6.8156702703313385,
+          "newRating": 1303.5445257880883,
+          "result": "W 78-64 vs Milwaukee Hawks on 1953-11-26"
+        },
+        {
+          "diff": 4.767025351825396,
+          "newRating": 1308.3115511399137,
+          "result": "W 92-81 vs Baltimore Bullets on 1953-11-28"
+        },
+        {
+          "diff": 11.267306287441443,
+          "newRating": 1319.5788574273552,
+          "result": "W 83-69 vs Philadelphia Warriors on 1953-11-29"
+        },
+        {
+          "diff": -25.75543868743307,
+          "newRating": 1293.823418739922,
+          "result": "L 69-92 vs Rochester Royals on 1953-12-01"
+        },
+        {
+          "diff": 9.509757598046463,
+          "newRating": 1303.3331763379686,
+          "result": "W 76-70 vs Boston Celtics on 1953-12-03"
+        },
+        {
+          "diff": 25.70914705815221,
+          "newRating": 1329.0423233961208,
+          "result": "W 92-73 vs New York Knicks on 1953-12-05"
+        },
+        {
+          "diff": 11.395957322133427,
+          "newRating": 1340.4382807182542,
+          "result": "W 78-77 vs Syracuse Nationals on 1953-12-06"
+        },
+        {
+          "diff": 4.45481771255254,
+          "newRating": 1344.8930984308067,
+          "result": "W 83-59 vs Milwaukee Hawks on 1953-12-09"
+        },
+        {
+          "diff": -21.944303167674207,
+          "newRating": 1322.9487952631325,
+          "result": "L 68-69 vs New York Knicks on 1953-12-13"
+        },
+        {
+          "diff": -27.692759134755306,
+          "newRating": 1295.2560361283772,
+          "result": "L 75-82 vs Boston Celtics on 1953-12-15"
+        },
+        {
+          "diff": -24.651995350916422,
+          "newRating": 1270.6040407774608,
+          "result": "L 74-91 vs Boston Celtics on 1953-12-16"
+        },
+        {
+          "diff": 5.86854203651319,
+          "newRating": 1276.472582813974,
+          "result": "W 69-63 vs Milwaukee Hawks on 1953-12-19"
+        },
+        {
+          "diff": 10.246471526806317,
+          "newRating": 1286.7190543407803,
+          "result": "W 108-79 vs Boston Celtics on 1953-12-25"
+        },
+        {
+          "diff": -13.262530281519275,
+          "newRating": 1273.456524059261,
+          "result": "L 71-77 vs Minneapolis Lakers on 1953-12-26"
+        },
+        {
+          "diff": -11.720813831299438,
+          "newRating": 1261.7357102279616,
+          "result": "L 75-79 vs Minneapolis Lakers on 1953-12-27"
+        },
+        {
+          "diff": 17.158075064895,
+          "newRating": 1278.8937852928566,
+          "result": "W 97-80 vs Minneapolis Lakers on 1953-12-30"
+        },
+        {
+          "diff": 6.976689270152974,
+          "newRating": 1285.8704745630096,
+          "result": "W 83-56 vs Philadelphia Warriors on 1953-12-31"
+        },
+        {
+          "diff": -11.988841723242786,
+          "newRating": 1273.8816328397668,
+          "result": "L 76-77 vs Rochester Royals on 1954-01-02"
+        },
+        {
+          "diff": -11.698161836541203,
+          "newRating": 1262.1834710032256,
+          "result": "L 72-74 vs New York Knicks on 1954-01-03"
+        },
+        {
+          "diff": -14.518000593315492,
+          "newRating": 1247.66547040991,
+          "result": "L 60-72 vs Syracuse Nationals on 1954-01-05"
+        },
+        {
+          "diff": 3.1464703020153593,
+          "newRating": 1250.8119407119254,
+          "result": "W 90-78 vs Baltimore Bullets on 1954-01-06"
+        },
+        {
+          "diff": -12.898560105430988,
+          "newRating": 1237.9133806064945,
+          "result": "L 67-79 vs Syracuse Nationals on 1954-01-07"
+        },
+        {
+          "diff": 3.958633640187827,
+          "newRating": 1241.8720142466823,
+          "result": "W 81-73 vs Milwaukee Hawks on 1954-01-10"
+        },
+        {
+          "diff": 3.1000683822069277,
+          "newRating": 1244.9720826288892,
+          "result": "W 97-66 vs Baltimore Bullets on 1954-01-12"
+        },
+        {
+          "diff": 2.9273711176315373,
+          "newRating": 1247.8994537465207,
+          "result": "W 81-74 vs Baltimore Bullets on 1954-01-14"
+        },
+        {
+          "diff": -8.052229562708135,
+          "newRating": 1239.8472241838126,
+          "result": "L 82-88 vs New York Knicks on 1954-01-16"
+        },
+        {
+          "diff": 11.758596932486398,
+          "newRating": 1251.605821116299,
+          "result": "W 86-83 vs Minneapolis Lakers on 1954-01-17"
+        },
+        {
+          "diff": -8.987073175649357,
+          "newRating": 1242.6187479406497,
+          "result": "L 67-73 vs Rochester Royals on 1954-01-19"
+        },
+        {
+          "diff": -8.174839810702679,
+          "newRating": 1234.443908129947,
+          "result": "L 72-75 vs Minneapolis Lakers on 1954-01-23"
+        },
+        {
+          "diff": 3.345897431531739,
+          "newRating": 1237.7898055614787,
+          "result": "W 79-70 vs Baltimore Bullets on 1954-01-24"
+        },
+        {
+          "diff": 3.465827260977676,
+          "newRating": 1241.2556328224564,
+          "result": "W 77-68 vs Milwaukee Hawks on 1954-01-27"
+        },
+        {
+          "diff": 7.198343275714478,
+          "newRating": 1248.4539760981709,
+          "result": "W 80-68 vs Boston Celtics on 1954-01-28"
+        },
+        {
+          "diff": -7.533561331883902,
+          "newRating": 1240.920414766287,
+          "result": "L 70-95 vs Rochester Royals on 1954-01-30"
+        },
+        {
+          "diff": 10.01630400582053,
+          "newRating": 1250.9367187721075,
+          "result": "W 83-69 vs Rochester Royals on 1954-01-31"
+        },
+        {
+          "diff": -7.809581196995396,
+          "newRating": 1243.127137575112,
+          "result": "L 70-89 vs Rochester Royals on 1954-02-05"
+        },
+        {
+          "diff": -7.8421009046060135,
+          "newRating": 1235.285036670506,
+          "result": "L 87-93 vs Syracuse Nationals on 1954-02-06"
+        },
+        {
+          "diff": 10.282571270190829,
+          "newRating": 1245.567607940697,
+          "result": "W 90-83 vs Minneapolis Lakers on 1954-02-07"
+        },
+        {
+          "diff": -6.368204077476548,
+          "newRating": 1239.1994038632204,
+          "result": "L 69-73 vs New York Knicks on 1954-02-10"
+        },
+        {
+          "diff": 9.182474949877133,
+          "newRating": 1248.3818788130975,
+          "result": "W 79-73 vs New York Knicks on 1954-02-13"
+        },
+        {
+          "diff": 4.270154272962145,
+          "newRating": 1252.6520330860596,
+          "result": "W 94-76 vs Philadelphia Warriors on 1954-02-14"
+        },
+        {
+          "diff": 2.9830832739171456,
+          "newRating": 1255.6351163599768,
+          "result": "W 69-65 vs Milwaukee Hawks on 1954-02-16"
+        },
+        {
+          "diff": -7.766588496467193,
+          "newRating": 1247.8685278635096,
+          "result": "L 77-91 vs Syracuse Nationals on 1954-02-18"
+        },
+        {
+          "diff": 2.485112460485425,
+          "newRating": 1250.353640323995,
+          "result": "W 87-85 vs Baltimore Bullets on 1954-02-20"
+        },
+        {
+          "diff": -11.302567657876125,
+          "newRating": 1239.051072666119,
+          "result": "L 62-64 vs Milwaukee Hawks on 1954-02-21"
+        },
+        {
+          "diff": 2.978027240425263,
+          "newRating": 1242.0290999065442,
+          "result": "W 95-82 vs Milwaukee Hawks on 1954-02-22"
+        },
+        {
+          "diff": 7.340104377230546,
+          "newRating": 1249.3692042837747,
+          "result": "W 82-62 vs New York Knicks on 1954-02-25"
+        },
+        {
+          "diff": 4.222869448170741,
+          "newRating": 1253.5920737319454,
+          "result": "W 79-72 vs Philadelphia Warriors on 1954-02-27"
+        },
+        {
+          "diff": 7.6151927501703085,
+          "newRating": 1261.2072664821158,
+          "result": "W 94-77 vs Minneapolis Lakers on 1954-02-28"
+        },
+        {
+          "diff": 2.656094178614694,
+          "newRating": 1263.8633606607305,
+          "result": "W 72-71 vs Milwaukee Hawks on 1954-03-01"
+        },
+        {
+          "diff": -6.241871886480112,
+          "newRating": 1257.6214887742503,
+          "result": "L 64-71 vs Rochester Royals on 1954-03-02"
+        },
+        {
+          "diff": -6.963201275468464,
+          "newRating": 1250.6582874987819,
+          "result": "L 63-86 vs Syracuse Nationals on 1954-03-04"
+        },
+        {
+          "diff": 3.905209309441034,
+          "newRating": 1254.563496808223,
+          "result": "W 76-70 vs Philadelphia Warriors on 1954-03-05"
+        },
+        {
+          "diff": 1.9386557285831714,
+          "newRating": 1256.502152536806,
+          "result": "W 76-71 vs Baltimore Bullets on 1954-03-06"
+        },
+        {
+          "diff": -6.751901398995187,
+          "newRating": 1249.750251137811,
+          "result": "L 80-86 vs Boston Celtics on 1954-03-07"
+        },
+        {
+          "diff": -8.134659058273655,
+          "newRating": 1241.6155920795372,
+          "result": "L 73-75 vs Philadelphia Warriors on 1954-03-09"
+        },
+        {
+          "diff": 3.813153801047747,
+          "newRating": 1245.428745880585,
+          "result": "W 88-70 vs Philadelphia Warriors on 1954-03-10"
+        },
+        {
+          "diff": -4.932048735622857,
+          "newRating": 1240.4966971449621,
+          "result": "L 80-95 vs Rochester Royals on 1954-03-11"
+        },
+        {
+          "diff": -4.939322774639777,
+          "newRating": 1235.5573743703223,
+          "result": "L 66-93 vs Minneapolis Lakers on 1954-03-13"
+        },
+        {
+          "diff": 1.7878966179237068,
+          "newRating": 1237.345270988246,
+          "result": "W 91-86 vs Baltimore Bullets on 1954-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Boston Celtics",
+      "rating": 1221.8480518129943,
+      "wins": 42,
+      "losses": 30,
+      "log": [
+        {
+          "diff": -739.978095280866,
+          "newRating": 460.021904719134,
+          "result": "L 79-84 vs Minneapolis Lakers on 1953-11-01"
+        },
+        {
+          "diff": -0.08586965008021252,
+          "newRating": 459.9360350690538,
+          "result": "L 79-83 vs Fort Wayne Pistons on 1953-11-05"
+        },
+        {
+          "diff": 263.03626459789893,
+          "newRating": 722.9722996669527,
+          "result": "W 79-77 vs Philadelphia Warriors on 1953-11-07"
+        },
+        {
+          "diff": -16.83117965740621,
+          "newRating": 706.1411200095465,
+          "result": "L 72-78 vs Philadelphia Warriors on 1953-11-11"
+        },
+        {
+          "diff": 152.6194760810804,
+          "newRating": 858.7605960906269,
+          "result": "W 77-66 vs Syracuse Nationals on 1953-11-14"
+        },
+        {
+          "diff": -12.148781648711292,
+          "newRating": 846.6118144419156,
+          "result": "L 74-89 vs Minneapolis Lakers on 1953-11-15"
+        },
+        {
+          "diff": -3.4905098180913683,
+          "newRating": 843.1213046238242,
+          "result": "L 73-92 vs Rochester Royals on 1953-11-17"
+        },
+        {
+          "diff": 95.68582295422493,
+          "newRating": 938.8071275780492,
+          "result": "W 90-68 vs Fort Wayne Pistons on 1953-11-21"
+        },
+        {
+          "diff": -4.859504540071725,
+          "newRating": 933.9476230379775,
+          "result": "L 92-103 vs New York Knicks on 1953-11-24"
+        },
+        {
+          "diff": 75.81809432748912,
+          "newRating": 1009.7657173654666,
+          "result": "W 96-84 vs New York Knicks on 1953-11-25"
+        },
+        {
+          "diff": -19.067092314835122,
+          "newRating": 990.6986250506314,
+          "result": "L 86-93 vs Syracuse Nationals on 1953-11-26"
+        },
+        {
+          "diff": 51.528971694080724,
+          "newRating": 1042.2275967447122,
+          "result": "W 91-80 vs Syracuse Nationals on 1953-11-28"
+        },
+        {
+          "diff": -6.8667831212401325,
+          "newRating": 1035.360813623472,
+          "result": "L 82-95 vs Minneapolis Lakers on 1953-11-29"
+        },
+        {
+          "diff": 32.427642072144636,
+          "newRating": 1067.7884556956167,
+          "result": "W 89-86 vs Philadelphia Warriors on 1953-12-01"
+        },
+        {
+          "diff": -11.411709117655846,
+          "newRating": 1056.3767465779608,
+          "result": "L 70-76 vs Fort Wayne Pistons on 1953-12-03"
+        },
+        {
+          "diff": 21.654805392859544,
+          "newRating": 1078.0315519708204,
+          "result": "W 97-79 vs Milwaukee Hawks on 1953-12-05"
+        },
+        {
+          "diff": 11.49978886175677,
+          "newRating": 1089.5313408325771,
+          "result": "W 102-95 vs Baltimore Bullets on 1953-12-06"
+        },
+        {
+          "diff": -9.496249320944344,
+          "newRating": 1080.0350915116328,
+          "result": "L 79-97 vs Rochester Royals on 1953-12-08"
+        },
+        {
+          "diff": -20.116064708395015,
+          "newRating": 1059.9190268032378,
+          "result": "L 103-104 vs Philadelphia Warriors on 1953-12-09"
+        },
+        {
+          "diff": 33.79412853096301,
+          "newRating": 1093.7131553342008,
+          "result": "W 113-108 vs New York Knicks on 1953-12-10"
+        },
+        {
+          "diff": 9.324498572940229,
+          "newRating": 1103.037653907141,
+          "result": "W 106-75 vs Baltimore Bullets on 1953-12-12"
+        },
+        {
+          "diff": -16.780541963265932,
+          "newRating": 1086.257111943875,
+          "result": "L 74-108 vs Syracuse Nationals on 1953-12-13"
+        },
+        {
+          "diff": 27.692759134755306,
+          "newRating": 1113.9498710786304,
+          "result": "W 82-75 vs Fort Wayne Pistons on 1953-12-15"
+        },
+        {
+          "diff": 24.651995350916422,
+          "newRating": 1138.6018664295468,
+          "result": "W 91-74 vs Fort Wayne Pistons on 1953-12-16"
+        },
+        {
+          "diff": -15.722207297891828,
+          "newRating": 1122.879659131655,
+          "result": "L 83-90 vs Syracuse Nationals on 1953-12-19"
+        },
+        {
+          "diff": 15.134395397170238,
+          "newRating": 1138.0140545288252,
+          "result": "W 101-89 vs Philadelphia Warriors on 1953-12-20"
+        },
+        {
+          "diff": 9.406192344406463,
+          "newRating": 1147.4202468732317,
+          "result": "W 90-74 vs Milwaukee Hawks on 1953-12-21"
+        },
+        {
+          "diff": 8.387770822386756,
+          "newRating": 1155.8080176956184,
+          "result": "W 80-74 vs Milwaukee Hawks on 1953-12-23"
+        },
+        {
+          "diff": -9.186491713688383,
+          "newRating": 1146.62152598193,
+          "result": "L 79-108 vs Fort Wayne Pistons on 1953-12-25"
+        },
+        {
+          "diff": -19.09763136390802,
+          "newRating": 1127.523894618022,
+          "result": "L 67-74 vs Milwaukee Hawks on 1953-12-26"
+        },
+        {
+          "diff": 20.02594293561151,
+          "newRating": 1147.5498375536336,
+          "result": "W 98-72 vs Rochester Royals on 1953-12-27"
+        },
+        {
+          "diff": -11.11837827788895,
+          "newRating": 1136.4314592757446,
+          "result": "L 89-96 vs Syracuse Nationals on 1953-12-30"
+        },
+        {
+          "diff": 18.208073254274495,
+          "newRating": 1154.639532530019,
+          "result": "W 95-74 vs New York Knicks on 1953-12-31"
+        },
+        {
+          "diff": 13.769046338415592,
+          "newRating": 1168.4085788684347,
+          "result": "W 95-92 vs Syracuse Nationals on 1954-01-01"
+        },
+        {
+          "diff": 4.809338874978039,
+          "newRating": 1173.2179177434127,
+          "result": "W 92-77 vs Baltimore Bullets on 1954-01-02"
+        },
+        {
+          "diff": 4.458135900306843,
+          "newRating": 1177.6760536437196,
+          "result": "W 90-72 vs Baltimore Bullets on 1954-01-03"
+        },
+        {
+          "diff": 4.148511724319405,
+          "newRating": 1181.824565368039,
+          "result": "W 77-73 vs Baltimore Bullets on 1954-01-04"
+        },
+        {
+          "diff": -5.912297187164995,
+          "newRating": 1175.912268180874,
+          "result": "L 85-99 vs Minneapolis Lakers on 1954-01-10"
+        },
+        {
+          "diff": 15.045938745073954,
+          "newRating": 1190.958206925948,
+          "result": "W 88-84 vs Minneapolis Lakers on 1954-01-13"
+        },
+        {
+          "diff": 4.287878371734223,
+          "newRating": 1195.2460852976822,
+          "result": "W 86-74 vs Milwaukee Hawks on 1954-01-14"
+        },
+        {
+          "diff": -6.102450530541546,
+          "newRating": 1189.1436347671406,
+          "result": "L 84-87 vs New York Knicks on 1954-01-17"
+        },
+        {
+          "diff": -12.80765333536533,
+          "newRating": 1176.3359814317753,
+          "result": "L 73-89 vs Philadelphia Warriors on 1954-01-19"
+        },
+        {
+          "diff": -6.290505627158154,
+          "newRating": 1170.0454758046171,
+          "result": "L 85-93 vs Rochester Royals on 1954-01-24"
+        },
+        {
+          "diff": 4.318196757487158,
+          "newRating": 1174.3636725621043,
+          "result": "W 94-69 vs Baltimore Bullets on 1954-01-26"
+        },
+        {
+          "diff": -7.198343275714478,
+          "newRating": 1167.1653292863898,
+          "result": "L 68-80 vs Fort Wayne Pistons on 1954-01-28"
+        },
+        {
+          "diff": -12.914320060117689,
+          "newRating": 1154.2510092262721,
+          "result": "L 70-82 vs Milwaukee Hawks on 1954-01-29"
+        },
+        {
+          "diff": -4.9176001428566,
+          "newRating": 1149.3334090834155,
+          "result": "L 67-82 vs Minneapolis Lakers on 1954-01-31"
+        },
+        {
+          "diff": 11.420390527139034,
+          "newRating": 1160.7537996105546,
+          "result": "W 88-81 vs Rochester Royals on 1954-02-03"
+        },
+        {
+          "diff": -10.103708076171415,
+          "newRating": 1150.6500915343831,
+          "result": "L 78-80 vs Philadelphia Warriors on 1954-02-04"
+        },
+        {
+          "diff": 10.860296466737054,
+          "newRating": 1161.5103880011202,
+          "result": "W 104-81 vs Rochester Royals on 1954-02-06"
+        },
+        {
+          "diff": -4.739114379200373,
+          "newRating": 1156.7712736219198,
+          "result": "L 78-87 vs New York Knicks on 1954-02-07"
+        },
+        {
+          "diff": 3.9505780892220628,
+          "newRating": 1160.7218517111419,
+          "result": "W 87-75 vs Baltimore Bullets on 1954-02-08"
+        },
+        {
+          "diff": 9.791470121775092,
+          "newRating": 1170.513321832917,
+          "result": "W 94-79 vs Syracuse Nationals on 1954-02-10"
+        },
+        {
+          "diff": 10.374540563338314,
+          "newRating": 1180.8878623962553,
+          "result": "W 84-81 vs New York Knicks on 1954-02-11"
+        },
+        {
+          "diff": -11.415534460775007,
+          "newRating": 1169.4723279354803,
+          "result": "L 93-96 vs Baltimore Bullets on 1954-02-13"
+        },
+        {
+          "diff": 9.680370242303297,
+          "newRating": 1179.1526981777836,
+          "result": "W 103-89 vs New York Knicks on 1954-02-14"
+        },
+        {
+          "diff": -4.8760036734172445,
+          "newRating": 1174.2766945043663,
+          "result": "L 85-87 vs New York Knicks on 1954-02-16"
+        },
+        {
+          "diff": 9.8971825472006,
+          "newRating": 1184.173877051567,
+          "result": "W 105-92 vs Minneapolis Lakers on 1954-02-18"
+        },
+        {
+          "diff": 3.6445105576331116,
+          "newRating": 1187.8183876092,
+          "result": "W 78-73 vs Milwaukee Hawks on 1954-02-19"
+        },
+        {
+          "diff": 5.0164340417654785,
+          "newRating": 1192.8348216509655,
+          "result": "W 95-85 vs Philadelphia Warriors on 1954-02-21"
+        },
+        {
+          "diff": 2.8830570802915645,
+          "newRating": 1195.717878731257,
+          "result": "W 111-110 vs Baltimore Bullets on 1954-02-22"
+        },
+        {
+          "diff": -5.231342715710753,
+          "newRating": 1190.4865360155463,
+          "result": "L 77-93 vs Rochester Royals on 1954-02-23"
+        },
+        {
+          "diff": 7.110931805665359,
+          "newRating": 1197.5974678212117,
+          "result": "W 101-96 vs Syracuse Nationals on 1954-02-25"
+        },
+        {
+          "diff": 7.566379194731098,
+          "newRating": 1205.1638470159428,
+          "result": "W 75-74 vs Rochester Royals on 1954-02-27"
+        },
+        {
+          "diff": 3.291533387151958,
+          "newRating": 1208.4553804030948,
+          "result": "W 93-74 vs Milwaukee Hawks on 1954-02-28"
+        },
+        {
+          "diff": -5.426137035328566,
+          "newRating": 1203.0292433677662,
+          "result": "L 71-86 vs New York Knicks on 1954-03-02"
+        },
+        {
+          "diff": 7.7157560315422415,
+          "newRating": 1210.7449993993084,
+          "result": "W 128-106 vs Minneapolis Lakers on 1954-03-05"
+        },
+        {
+          "diff": 6.652608731362989,
+          "newRating": 1217.3976081306714,
+          "result": "W 86-80 vs Fort Wayne Pistons on 1954-03-07"
+        },
+        {
+          "diff": -5.54133595076496,
+          "newRating": 1211.8562721799065,
+          "result": "L 95-97 vs Syracuse Nationals on 1954-03-11"
+        },
+        {
+          "diff": 4.144582927505098,
+          "newRating": 1216.0008551074116,
+          "result": "W 97-95 vs Philadelphia Warriors on 1954-03-12"
+        },
+        {
+          "diff": 2.009983276935145,
+          "newRating": 1218.0108383843467,
+          "result": "W 97-85 vs Baltimore Bullets on 1954-03-13"
+        },
+        {
+          "diff": 3.837213428647601,
+          "newRating": 1221.8480518129943,
+          "result": "W 97-92 vs Philadelphia Warriors on 1954-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Philadelphia Warriors",
+      "rating": 1103.0731320946713,
+      "wins": 29,
+      "losses": 43,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 79-73 vs Syracuse Nationals on 1953-10-31"
+        },
+        {
+          "diff": -396.0396039603961,
+          "newRating": 1203.960396039604,
+          "result": "L 61-85 vs Syracuse Nationals on 1953-11-01"
+        },
+        {
+          "diff": -263.03626459789893,
+          "newRating": 940.924131441705,
+          "result": "L 77-79 vs Boston Celtics on 1953-11-07"
+        },
+        {
+          "diff": 40.334271294661676,
+          "newRating": 981.2584027363666,
+          "result": "W 85-75 vs Baltimore Bullets on 1953-11-08"
+        },
+        {
+          "diff": 156.4086940259483,
+          "newRating": 1137.667096762315,
+          "result": "W 66-64 vs Rochester Royals on 1953-11-10"
+        },
+        {
+          "diff": 11.220786438270807,
+          "newRating": 1148.8878832005857,
+          "result": "W 78-72 vs Boston Celtics on 1953-11-11"
+        },
+        {
+          "diff": -16.55836878767377,
+          "newRating": 1132.329514412912,
+          "result": "L 65-81 vs New York Knicks on 1953-11-12"
+        },
+        {
+          "diff": 92.52521740126303,
+          "newRating": 1224.854731814175,
+          "result": "W 63-58 vs Fort Wayne Pistons on 1953-11-14"
+        },
+        {
+          "diff": -27.190221133844716,
+          "newRating": 1197.6645106803303,
+          "result": "L 83-88 vs New York Knicks on 1953-11-18"
+        },
+        {
+          "diff": -25.990783077204014,
+          "newRating": 1171.6737276031263,
+          "result": "L 79-107 vs Minneapolis Lakers on 1953-11-19"
+        },
+        {
+          "diff": 10.693554696132423,
+          "newRating": 1182.3672822992587,
+          "result": "W 103-83 vs Baltimore Bullets on 1953-11-21"
+        },
+        {
+          "diff": 8.770124311274458,
+          "newRating": 1191.1374066105332,
+          "result": "W 83-80 vs Baltimore Bullets on 1953-11-24"
+        },
+        {
+          "diff": -14.875401610530616,
+          "newRating": 1176.2620050000025,
+          "result": "L 80-88 vs Minneapolis Lakers on 1953-11-26"
+        },
+        {
+          "diff": -45.361171658429384,
+          "newRating": 1130.9008333415732,
+          "result": "L 51-55 vs Milwaukee Hawks on 1953-11-27"
+        },
+        {
+          "diff": -37.0923227435419,
+          "newRating": 1093.8085105980313,
+          "result": "L 68-71 vs Milwaukee Hawks on 1953-11-28"
+        },
+        {
+          "diff": -11.267306287441443,
+          "newRating": 1082.5412043105898,
+          "result": "L 69-83 vs Fort Wayne Pistons on 1953-11-29"
+        },
+        {
+          "diff": -26.70511700058978,
+          "newRating": 1055.83608731,
+          "result": "L 86-89 vs Boston Celtics on 1953-12-01"
+        },
+        {
+          "diff": 39.66555411095237,
+          "newRating": 1095.5016414209524,
+          "result": "W 79-74 vs New York Knicks on 1953-12-03"
+        },
+        {
+          "diff": 20.116064708395015,
+          "newRating": 1115.6177061293474,
+          "result": "W 104-103 vs Boston Celtics on 1953-12-09"
+        },
+        {
+          "diff": 9.283557206765863,
+          "newRating": 1124.9012633361133,
+          "result": "W 83-77 vs Baltimore Bullets on 1953-12-10"
+        },
+        {
+          "diff": -7.672898857180826,
+          "newRating": 1117.2283644789325,
+          "result": "L 79-91 vs Rochester Royals on 1953-12-17"
+        },
+        {
+          "diff": -17.886103651200983,
+          "newRating": 1099.3422608277315,
+          "result": "L 89-101 vs Boston Celtics on 1953-12-20"
+        },
+        {
+          "diff": -6.5246581518688345,
+          "newRating": 1092.8176026758626,
+          "result": "L 65-73 vs Rochester Royals on 1953-12-25"
+        },
+        {
+          "diff": -6.225564736193064,
+          "newRating": 1086.5920379396696,
+          "result": "L 76-79 vs New York Knicks on 1953-12-27"
+        },
+        {
+          "diff": 12.063412590086273,
+          "newRating": 1098.6554505297559,
+          "result": "W 69-63 vs Milwaukee Hawks on 1953-12-28"
+        },
+        {
+          "diff": -8.050026080945827,
+          "newRating": 1090.60542444881,
+          "result": "L 56-83 vs Fort Wayne Pistons on 1953-12-31"
+        },
+        {
+          "diff": -6.694835375818684,
+          "newRating": 1083.9105890729913,
+          "result": "L 76-79 vs Rochester Royals on 1954-01-01"
+        },
+        {
+          "diff": -9.674032597697078,
+          "newRating": 1074.2365564752943,
+          "result": "L 66-74 vs Syracuse Nationals on 1954-01-02"
+        },
+        {
+          "diff": 18.862478532658088,
+          "newRating": 1093.0990350079524,
+          "result": "W 90-77 vs Syracuse Nationals on 1954-01-03"
+        },
+        {
+          "diff": 9.872367636269473,
+          "newRating": 1102.9714026442218,
+          "result": "W 99-88 vs Milwaukee Hawks on 1954-01-05"
+        },
+        {
+          "diff": 8.891358900396426,
+          "newRating": 1111.8627615446183,
+          "result": "W 77-72 vs Milwaukee Hawks on 1954-01-06"
+        },
+        {
+          "diff": 8.053838822682337,
+          "newRating": 1119.9166003673006,
+          "result": "W 88-73 vs Milwaukee Hawks on 1954-01-07"
+        },
+        {
+          "diff": -18.477677134153282,
+          "newRating": 1101.4389232331473,
+          "result": "L 90-95 vs Baltimore Bullets on 1954-01-09"
+        },
+        {
+          "diff": -5.231689487725134,
+          "newRating": 1096.2072337454222,
+          "result": "L 71-83 vs New York Knicks on 1954-01-14"
+        },
+        {
+          "diff": -16.63635489724743,
+          "newRating": 1079.5708788481747,
+          "result": "L 72-82 vs Baltimore Bullets on 1954-01-16"
+        },
+        {
+          "diff": -15.342188370858821,
+          "newRating": 1064.228690477316,
+          "result": "L 74-78 vs Baltimore Bullets on 1954-01-17"
+        },
+        {
+          "diff": 14.538417299603907,
+          "newRating": 1078.7671077769198,
+          "result": "W 89-73 vs Boston Celtics on 1954-01-19"
+        },
+        {
+          "diff": -3.8171274173453185,
+          "newRating": 1074.9499803595745,
+          "result": "L 82-84 vs New York Knicks on 1954-01-22"
+        },
+        {
+          "diff": -4.642214288903233,
+          "newRating": 1070.3077660706713,
+          "result": "L 61-71 vs Rochester Royals on 1954-01-23"
+        },
+        {
+          "diff": 14.83200102346973,
+          "newRating": 1085.139767094141,
+          "result": "W 80-78 vs Syracuse Nationals on 1954-01-24"
+        },
+        {
+          "diff": -5.6749440964376845,
+          "newRating": 1079.4648229977033,
+          "result": "L 75-79 vs Syracuse Nationals on 1954-01-26"
+        },
+        {
+          "diff": -4.35102239006801,
+          "newRating": 1075.1138006076353,
+          "result": "L 79-82 vs Rochester Royals on 1954-01-28"
+        },
+        {
+          "diff": -12.309771890978936,
+          "newRating": 1062.8040287166564,
+          "result": "L 74-80 vs Baltimore Bullets on 1954-01-30"
+        },
+        {
+          "diff": 13.752421325094474,
+          "newRating": 1076.5564500417508,
+          "result": "W 82-79 vs Syracuse Nationals on 1954-02-03"
+        },
+        {
+          "diff": 11.001815460719854,
+          "newRating": 1087.5582655024707,
+          "result": "W 80-78 vs Boston Celtics on 1954-02-04"
+        },
+        {
+          "diff": -10.79983401712002,
+          "newRating": 1076.7584314853507,
+          "result": "L 66-69 vs Milwaukee Hawks on 1954-02-05"
+        },
+        {
+          "diff": -3.150851306210825,
+          "newRating": 1073.6075801791399,
+          "result": "L 94-97 vs Minneapolis Lakers on 1954-02-06"
+        },
+        {
+          "diff": -3.1451256948389528,
+          "newRating": 1070.462454484301,
+          "result": "L 91-106 vs Minneapolis Lakers on 1954-02-08"
+        },
+        {
+          "diff": -2.9940534925383417,
+          "newRating": 1067.4684009917626,
+          "result": "L 67-70 vs Minneapolis Lakers on 1954-02-09"
+        },
+        {
+          "diff": 5.772956032421234,
+          "newRating": 1073.2413570241838,
+          "result": "W 97-79 vs Baltimore Bullets on 1954-02-10"
+        },
+        {
+          "diff": 11.651478978545583,
+          "newRating": 1084.8928360027294,
+          "result": "W 76-74 vs Syracuse Nationals on 1954-02-11"
+        },
+        {
+          "diff": 5.059437500056674,
+          "newRating": 1089.952273502786,
+          "result": "W 75-72 vs Baltimore Bullets on 1954-02-12"
+        },
+        {
+          "diff": -3.1510566020465376,
+          "newRating": 1086.8012169007395,
+          "result": "L 77-86 vs Minneapolis Lakers on 1954-02-13"
+        },
+        {
+          "diff": -4.191077341981327,
+          "newRating": 1082.6101395587582,
+          "result": "L 76-94 vs Fort Wayne Pistons on 1954-02-14"
+        },
+        {
+          "diff": 10.393861228598325,
+          "newRating": 1093.0040007873565,
+          "result": "W 95-77 vs Syracuse Nationals on 1954-02-16"
+        },
+        {
+          "diff": -3.6088248300325176,
+          "newRating": 1089.395175957324,
+          "result": "L 60-69 vs New York Knicks on 1954-02-18"
+        },
+        {
+          "diff": 10.596677107366759,
+          "newRating": 1099.9918530646908,
+          "result": "W 89-75 vs New York Knicks on 1954-02-20"
+        },
+        {
+          "diff": -5.1894145259643665,
+          "newRating": 1094.8024385387264,
+          "result": "L 85-95 vs Boston Celtics on 1954-02-21"
+        },
+        {
+          "diff": 10.685971722716431,
+          "newRating": 1105.4884102614428,
+          "result": "W 79-72 vs Minneapolis Lakers on 1954-02-22"
+        },
+        {
+          "diff": 10.307659765298467,
+          "newRating": 1115.7960700267413,
+          "result": "W 81-72 vs Minneapolis Lakers on 1954-02-25"
+        },
+        {
+          "diff": -4.153642080167856,
+          "newRating": 1111.6424279465734,
+          "result": "L 72-79 vs Fort Wayne Pistons on 1954-02-27"
+        },
+        {
+          "diff": 8.950650410418348,
+          "newRating": 1120.5930783569918,
+          "result": "W 83-78 vs New York Knicks on 1954-02-28"
+        },
+        {
+          "diff": 4.628976545254545,
+          "newRating": 1125.2220549022463,
+          "result": "W 78-73 vs Milwaukee Hawks on 1954-03-02"
+        },
+        {
+          "diff": -4.0896872501516555,
+          "newRating": 1121.1323676520947,
+          "result": "L 79-88 vs New York Knicks on 1954-03-03"
+        },
+        {
+          "diff": -3.579410732700808,
+          "newRating": 1117.5529569193939,
+          "result": "L 78-85 vs Rochester Royals on 1954-03-04"
+        },
+        {
+          "diff": -3.8460394714190898,
+          "newRating": 1113.7069174479748,
+          "result": "L 70-76 vs Fort Wayne Pistons on 1954-03-05"
+        },
+        {
+          "diff": -4.127517651526887,
+          "newRating": 1109.579399796448,
+          "result": "L 77-88 vs Syracuse Nationals on 1954-03-06"
+        },
+        {
+          "diff": 8.134659058273655,
+          "newRating": 1117.7140588547215,
+          "result": "W 75-73 vs Fort Wayne Pistons on 1954-03-09"
+        },
+        {
+          "diff": -3.813153801047747,
+          "newRating": 1113.9009050536738,
+          "result": "L 70-88 vs Fort Wayne Pistons on 1954-03-10"
+        },
+        {
+          "diff": -4.144582927505098,
+          "newRating": 1109.7563221261687,
+          "result": "L 95-97 vs Boston Celtics on 1954-03-12"
+        },
+        {
+          "diff": -2.8459766028497597,
+          "newRating": 1106.910345523319,
+          "result": "L 76-77 vs Rochester Royals on 1954-03-13"
+        },
+        {
+          "diff": -3.837213428647601,
+          "newRating": 1103.0731320946713,
+          "result": "L 92-97 vs Boston Celtics on 1954-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Milwaukee Hawks",
+      "rating": 1030.093833788463,
+      "wins": 21,
+      "losses": 51,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 69-59 vs Minneapolis Lakers on 1953-10-30"
+        },
+        {
+          "diff": -363.6363636363635,
+          "newRating": 1236.3636363636365,
+          "result": "L 67-77 vs Fort Wayne Pistons on 1953-11-01"
+        },
+        {
+          "diff": -119.42900601108886,
+          "newRating": 1116.9346303525476,
+          "result": "L 67-73 vs New York Knicks on 1953-11-04"
+        },
+        {
+          "diff": -25.39337056790896,
+          "newRating": 1091.5412597846387,
+          "result": "L 68-80 vs New York Knicks on 1953-11-06"
+        },
+        {
+          "diff": -55.016316923276236,
+          "newRating": 1036.5249428613624,
+          "result": "L 59-74 vs Syracuse Nationals on 1953-11-10"
+        },
+        {
+          "diff": -29.157036397258935,
+          "newRating": 1007.3679064641035,
+          "result": "L 84-92 vs Minneapolis Lakers on 1953-11-13"
+        },
+        {
+          "diff": -36.764731645802954,
+          "newRating": 970.6031748183005,
+          "result": "L 61-69 vs Syracuse Nationals on 1953-11-15"
+        },
+        {
+          "diff": -73.05077983661556,
+          "newRating": 897.552394981685,
+          "result": "L 74-104 vs Baltimore Bullets on 1953-11-18"
+        },
+        {
+          "diff": -3.5421801081780586,
+          "newRating": 894.0102148735069,
+          "result": "L 69-79 vs Rochester Royals on 1953-11-19"
+        },
+        {
+          "diff": -3.065450965757009,
+          "newRating": 890.9447639077499,
+          "result": "L 63-81 vs Rochester Royals on 1953-11-20"
+        },
+        {
+          "diff": -3.9642036717103792,
+          "newRating": 886.9805602360395,
+          "result": "L 55-57 vs Minneapolis Lakers on 1953-11-22"
+        },
+        {
+          "diff": 62.43066187345357,
+          "newRating": 949.4112221094931,
+          "result": "W 64-58 vs Fort Wayne Pistons on 1953-11-25"
+        },
+        {
+          "diff": -7.339952598818286,
+          "newRating": 942.0712695106748,
+          "result": "L 64-78 vs Fort Wayne Pistons on 1953-11-26"
+        },
+        {
+          "diff": 45.36117165842927,
+          "newRating": 987.4324411691041,
+          "result": "W 55-51 vs Philadelphia Warriors on 1953-11-27"
+        },
+        {
+          "diff": 37.0923227435419,
+          "newRating": 1024.524763912646,
+          "result": "W 71-68 vs Philadelphia Warriors on 1953-11-28"
+        },
+        {
+          "diff": -14.918080480312597,
+          "newRating": 1009.6066834323334,
+          "result": "L 69-76 vs Syracuse Nationals on 1953-12-01"
+        },
+        {
+          "diff": -20.38099331092667,
+          "newRating": 989.2256901214067,
+          "result": "L 79-97 vs Boston Celtics on 1953-12-05"
+        },
+        {
+          "diff": -5.197287331311372,
+          "newRating": 984.0284027900954,
+          "result": "L 59-83 vs Fort Wayne Pistons on 1953-12-09"
+        },
+        {
+          "diff": -12.807430094086612,
+          "newRating": 971.2209726960087,
+          "result": "L 76-96 vs Syracuse Nationals on 1953-12-10"
+        },
+        {
+          "diff": 35.23442319534092,
+          "newRating": 1006.4553958913497,
+          "result": "W 82-70 vs New York Knicks on 1953-12-11"
+        },
+        {
+          "diff": 12.803343841637343,
+          "newRating": 1019.258739732987,
+          "result": "W 73-70 vs Baltimore Bullets on 1953-12-13"
+        },
+        {
+          "diff": -4.490656806159905,
+          "newRating": 1014.7680829268271,
+          "result": "L 64-76 vs Rochester Royals on 1953-12-15"
+        },
+        {
+          "diff": -3.617410704143822,
+          "newRating": 1011.1506722226833,
+          "result": "L 63-69 vs Minneapolis Lakers on 1953-12-16"
+        },
+        {
+          "diff": -6.113064621368039,
+          "newRating": 1005.0376076013152,
+          "result": "L 63-69 vs Fort Wayne Pistons on 1953-12-19"
+        },
+        {
+          "diff": -10.158687731958821,
+          "newRating": 994.8789198693564,
+          "result": "L 74-90 vs Boston Celtics on 1953-12-21"
+        },
+        {
+          "diff": -9.03298396257037,
+          "newRating": 985.845935906786,
+          "result": "L 74-80 vs Boston Celtics on 1953-12-23"
+        },
+        {
+          "diff": 21.21959040434217,
+          "newRating": 1007.0655263111282,
+          "result": "W 74-67 vs Boston Celtics on 1953-12-26"
+        },
+        {
+          "diff": -7.74574415778045,
+          "newRating": 999.3197821533478,
+          "result": "L 75-96 vs Syracuse Nationals on 1953-12-27"
+        },
+        {
+          "diff": -10.399493612143374,
+          "newRating": 988.9202885412044,
+          "result": "L 63-69 vs Philadelphia Warriors on 1953-12-28"
+        },
+        {
+          "diff": 11.882521630658516,
+          "newRating": 1000.8028101718629,
+          "result": "W 62-52 vs Baltimore Bullets on 1954-01-01"
+        },
+        {
+          "diff": -9.553904164131723,
+          "newRating": 991.2489060077312,
+          "result": "L 88-99 vs Philadelphia Warriors on 1954-01-05"
+        },
+        {
+          "diff": -8.613503934759024,
+          "newRating": 982.6354020729722,
+          "result": "L 72-77 vs Philadelphia Warriors on 1954-01-06"
+        },
+        {
+          "diff": -7.8097831007829654,
+          "newRating": 974.8256189721892,
+          "result": "L 73-88 vs Philadelphia Warriors on 1954-01-07"
+        },
+        {
+          "diff": -2.528560140122636,
+          "newRating": 972.2970588320666,
+          "result": "L 67-78 vs Minneapolis Lakers on 1954-01-09"
+        },
+        {
+          "diff": -4.071737458478992,
+          "newRating": 968.2253213735876,
+          "result": "L 73-81 vs Fort Wayne Pistons on 1954-01-10"
+        },
+        {
+          "diff": -2.864064254106097,
+          "newRating": 965.3612571194815,
+          "result": "L 73-78 vs Rochester Royals on 1954-01-12"
+        },
+        {
+          "diff": -4.635544185658659,
+          "newRating": 960.7257129338228,
+          "result": "L 74-86 vs Boston Celtics on 1954-01-14"
+        },
+        {
+          "diff": 18.699434577836996,
+          "newRating": 979.4251475116598,
+          "result": "W 64-58 vs Minneapolis Lakers on 1954-01-16"
+        },
+        {
+          "diff": -2.9517822970370844,
+          "newRating": 976.4733652146227,
+          "result": "L 72-91 vs Minneapolis Lakers on 1954-01-18"
+        },
+        {
+          "diff": -2.214064109332071,
+          "newRating": 974.2593011052907,
+          "result": "L 75-78 vs New York Knicks on 1954-01-19"
+        },
+        {
+          "diff": -2.07353640090264,
+          "newRating": 972.185764704388,
+          "result": "L 63-75 vs New York Knicks on 1954-01-23"
+        },
+        {
+          "diff": 17.06573056948423,
+          "newRating": 989.2514952738723,
+          "result": "W 68-66 vs New York Knicks on 1954-01-24"
+        },
+        {
+          "diff": -2.6547288370711613,
+          "newRating": 986.5967664368011,
+          "result": "L 69-84 vs Minneapolis Lakers on 1954-01-26"
+        },
+        {
+          "diff": -3.465827260977676,
+          "newRating": 983.1309391758234,
+          "result": "L 68-77 vs Fort Wayne Pistons on 1954-01-27"
+        },
+        {
+          "diff": 13.201304950342546,
+          "newRating": 996.332244126166,
+          "result": "W 82-70 vs Boston Celtics on 1954-01-29"
+        },
+        {
+          "diff": -2.477941338499136,
+          "newRating": 993.8543027876668,
+          "result": "L 64-80 vs Minneapolis Lakers on 1954-01-30"
+        },
+        {
+          "diff": 7.930051006969052,
+          "newRating": 1001.7843537946359,
+          "result": "W 78-72 vs Baltimore Bullets on 1954-02-03"
+        },
+        {
+          "diff": 10.349840933073324,
+          "newRating": 1012.1341947277092,
+          "result": "W 69-66 vs Philadelphia Warriors on 1954-02-05"
+        },
+        {
+          "diff": -3.097544502606752,
+          "newRating": 1009.0366502251024,
+          "result": "L 73-88 vs Syracuse Nationals on 1954-02-07"
+        },
+        {
+          "diff": -3.1131219891385626,
+          "newRating": 1005.9235282359639,
+          "result": "L 70-81 vs Rochester Royals on 1954-02-09"
+        },
+        {
+          "diff": -2.9657826492291406,
+          "newRating": 1002.9577455867347,
+          "result": "L 61-62 vs Rochester Royals on 1954-02-10"
+        },
+        {
+          "diff": -2.8298195508488106,
+          "newRating": 1000.1279260358859,
+          "result": "L 68-79 vs Rochester Royals on 1954-02-11"
+        },
+        {
+          "diff": 13.170935035781213,
+          "newRating": 1013.2988610716671,
+          "result": "W 71-62 vs Minneapolis Lakers on 1954-02-12"
+        },
+        {
+          "diff": -2.983083273917032,
+          "newRating": 1010.3157777977501,
+          "result": "L 65-69 vs Fort Wayne Pistons on 1954-02-16"
+        },
+        {
+          "diff": -3.9095658709154577,
+          "newRating": 1006.4062119268347,
+          "result": "L 73-78 vs Boston Celtics on 1954-02-19"
+        },
+        {
+          "diff": -2.6980741316940566,
+          "newRating": 1003.7081377951406,
+          "result": "L 64-66 vs Rochester Royals on 1954-02-20"
+        },
+        {
+          "diff": 11.302567657876239,
+          "newRating": 1015.0107054530168,
+          "result": "W 64-62 vs Fort Wayne Pistons on 1954-02-21"
+        },
+        {
+          "diff": -2.978027240425263,
+          "newRating": 1012.0326782125916,
+          "result": "L 82-95 vs Fort Wayne Pistons on 1954-02-22"
+        },
+        {
+          "diff": 10.718881217111175,
+          "newRating": 1022.7515594297028,
+          "result": "W 70-68 vs Syracuse Nationals on 1954-02-23"
+        },
+        {
+          "diff": -3.1699614087802956,
+          "newRating": 1019.5815980209225,
+          "result": "L 62-68 vs Syracuse Nationals on 1954-02-26"
+        },
+        {
+          "diff": 10.532931629115637,
+          "newRating": 1030.114529650038,
+          "result": "W 58-57 vs New York Knicks on 1954-02-27"
+        },
+        {
+          "diff": -3.4508011316916054,
+          "newRating": 1026.6637285183465,
+          "result": "L 74-93 vs Boston Celtics on 1954-02-28"
+        },
+        {
+          "diff": -2.613933953557307,
+          "newRating": 1024.0497945647892,
+          "result": "L 71-72 vs Fort Wayne Pistons on 1954-03-01"
+        },
+        {
+          "diff": -4.556648786734968,
+          "newRating": 1019.4931457780542,
+          "result": "L 73-78 vs Philadelphia Warriors on 1954-03-02"
+        },
+        {
+          "diff": 5.185890071702488,
+          "newRating": 1024.6790358497567,
+          "result": "W 103-100 vs Baltimore Bullets on 1954-03-03"
+        },
+        {
+          "diff": -7.190831249683811,
+          "newRating": 1017.4882046000729,
+          "result": "L 87-95 vs Baltimore Bullets on 1954-03-04"
+        },
+        {
+          "diff": -2.0233067175761335,
+          "newRating": 1015.4648978824968,
+          "result": "L 63-65 vs Minneapolis Lakers on 1954-03-07"
+        },
+        {
+          "diff": 4.989869671285078,
+          "newRating": 1020.4547675537818,
+          "result": "W 64-54 vs Baltimore Bullets on 1954-03-08"
+        },
+        {
+          "diff": 4.755620162371656,
+          "newRating": 1025.2103877161535,
+          "result": "W 65-54 vs Baltimore Bullets on 1954-03-08"
+        },
+        {
+          "diff": -2.401100127643076,
+          "newRating": 1022.8092875885104,
+          "result": "L 65-72 vs New York Knicks on 1954-03-09"
+        },
+        {
+          "diff": -1.980492625297643,
+          "newRating": 1020.8287949632128,
+          "result": "L 69-84 vs Rochester Royals on 1954-03-10"
+        },
+        {
+          "diff": 9.265038825250144,
+          "newRating": 1030.093833788463,
+          "result": "W 91-53 vs Rochester Royals on 1954-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Baltimore Bullets",
+      "rating": 946.8801685437037,
+      "wins": 16,
+      "losses": 56,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 68-72 vs Rochester Royals on 1953-10-31"
+        },
+        {
+          "diff": -3.9603960396040065,
+          "newRating": 796.039603960396,
+          "result": "L 72-80 vs Rochester Royals on 1953-11-01"
+        },
+        {
+          "diff": -60.15849144562287,
+          "newRating": 735.8811125147731,
+          "result": "L 75-77 vs Minneapolis Lakers on 1953-11-04"
+        },
+        {
+          "diff": -33.97197800278059,
+          "newRating": 701.9091345119925,
+          "result": "L 77-88 vs Syracuse Nationals on 1953-11-07"
+        },
+        {
+          "diff": -32.26741703572941,
+          "newRating": 669.6417174762631,
+          "result": "L 75-85 vs Philadelphia Warriors on 1953-11-08"
+        },
+        {
+          "diff": 132.06458014426107,
+          "newRating": 801.7062976205242,
+          "result": "W 88-83 vs New York Knicks on 1953-11-14"
+        },
+        {
+          "diff": -4.334584439417199,
+          "newRating": 797.371713181107,
+          "result": "L 79-91 vs New York Knicks on 1953-11-15"
+        },
+        {
+          "diff": 73.05077983661556,
+          "newRating": 870.4224930177226,
+          "result": "W 104-74 vs Milwaukee Hawks on 1953-11-18"
+        },
+        {
+          "diff": -4.151052027731794,
+          "newRating": 866.2714409899908,
+          "result": "L 85-96 vs New York Knicks on 1953-11-19"
+        },
+        {
+          "diff": -11.762910165745666,
+          "newRating": 854.5085308242451,
+          "result": "L 83-103 vs Philadelphia Warriors on 1953-11-21"
+        },
+        {
+          "diff": -9.567408339572012,
+          "newRating": 844.9411224846731,
+          "result": "L 80-83 vs Philadelphia Warriors on 1953-11-24"
+        },
+        {
+          "diff": 60.491607728997224,
+          "newRating": 905.4327302136703,
+          "result": "W 66-58 vs Syracuse Nationals on 1953-11-25"
+        },
+        {
+          "diff": -5.123255629289815,
+          "newRating": 900.3094745843805,
+          "result": "L 75-80 vs Rochester Royals on 1953-11-26"
+        },
+        {
+          "diff": -5.107527162669953,
+          "newRating": 895.2019474217105,
+          "result": "L 81-92 vs Fort Wayne Pistons on 1953-11-28"
+        },
+        {
+          "diff": -9.320916533736295,
+          "newRating": 885.8810308879742,
+          "result": "L 82-101 vs Syracuse Nationals on 1953-11-29"
+        },
+        {
+          "diff": -3.9535172486201873,
+          "newRating": 881.9275136393541,
+          "result": "L 65-72 vs Rochester Royals on 1953-12-05"
+        },
+        {
+          "diff": -11.499788861756883,
+          "newRating": 870.4277247775972,
+          "result": "L 95-102 vs Boston Celtics on 1953-12-06"
+        },
+        {
+          "diff": 37.32738071563597,
+          "newRating": 907.7551054932331,
+          "result": "W 92-77 vs Syracuse Nationals on 1953-12-09"
+        },
+        {
+          "diff": -9.772165480806052,
+          "newRating": 897.9829400124271,
+          "result": "L 77-83 vs Philadelphia Warriors on 1953-12-10"
+        },
+        {
+          "diff": -9.790723501587195,
+          "newRating": 888.1922165108399,
+          "result": "L 75-106 vs Boston Celtics on 1953-12-12"
+        },
+        {
+          "diff": -12.803343841637343,
+          "newRating": 875.3888726692026,
+          "result": "L 70-73 vs Milwaukee Hawks on 1953-12-13"
+        },
+        {
+          "diff": 34.60196046494252,
+          "newRating": 909.9908331341451,
+          "result": "W 75-64 vs Minneapolis Lakers on 1953-12-17"
+        },
+        {
+          "diff": -3.046785466082838,
+          "newRating": 906.9440476680622,
+          "result": "L 63-65 vs New York Knicks on 1953-12-19"
+        },
+        {
+          "diff": -2.8296208788700596,
+          "newRating": 904.1144267891922,
+          "result": "L 67-75 vs New York Knicks on 1953-12-20"
+        },
+        {
+          "diff": -5.35697659653556,
+          "newRating": 898.7574501926566,
+          "result": "L 72-76 vs Syracuse Nationals on 1953-12-23"
+        },
+        {
+          "diff": 28.658843255887746,
+          "newRating": 927.4162934485444,
+          "result": "W 88-78 vs Minneapolis Lakers on 1953-12-25"
+        },
+        {
+          "diff": -2.7944157153899596,
+          "newRating": 924.6218777331544,
+          "result": "L 77-96 vs Rochester Royals on 1953-12-29"
+        },
+        {
+          "diff": 26.343370454799697,
+          "newRating": 950.9652481879541,
+          "result": "W 86-79 vs New York Knicks on 1953-12-30"
+        },
+        {
+          "diff": -12.292263755853696,
+          "newRating": 938.6729844321004,
+          "result": "L 52-62 vs Milwaukee Hawks on 1954-01-01"
+        },
+        {
+          "diff": -5.610895354141007,
+          "newRating": 933.0620890779594,
+          "result": "L 77-92 vs Boston Celtics on 1954-01-02"
+        },
+        {
+          "diff": -5.177190077775549,
+          "newRating": 927.8848990001839,
+          "result": "L 72-90 vs Boston Celtics on 1954-01-03"
+        },
+        {
+          "diff": -4.79671668124422,
+          "newRating": 923.0881823189396,
+          "result": "L 73-77 vs Boston Celtics on 1954-01-04"
+        },
+        {
+          "diff": -3.2418178869248777,
+          "newRating": 919.8463644320148,
+          "result": "L 78-90 vs Fort Wayne Pistons on 1954-01-06"
+        },
+        {
+          "diff": -2.2766097261101095,
+          "newRating": 917.5697547059046,
+          "result": "L 70-82 vs New York Knicks on 1954-01-07"
+        },
+        {
+          "diff": 17.421809869344543,
+          "newRating": 934.9915645752492,
+          "result": "W 95-90 vs Philadelphia Warriors on 1954-01-09"
+        },
+        {
+          "diff": -3.6420025644880525,
+          "newRating": 931.3495620107611,
+          "result": "L 73-77 vs Syracuse Nationals on 1954-01-10"
+        },
+        {
+          "diff": -3.1000683822069277,
+          "newRating": 928.2494936285542,
+          "result": "L 66-97 vs Fort Wayne Pistons on 1954-01-12"
+        },
+        {
+          "diff": -2.9273711176314237,
+          "newRating": 925.3221225109228,
+          "result": "L 74-81 vs Fort Wayne Pistons on 1954-01-14"
+        },
+        {
+          "diff": 14.930062087273313,
+          "newRating": 940.2521845981961,
+          "result": "W 82-72 vs Philadelphia Warriors on 1954-01-16"
+        },
+        {
+          "diff": 13.807969533772962,
+          "newRating": 954.060154131969,
+          "result": "W 78-74 vs Philadelphia Warriors on 1954-01-17"
+        },
+        {
+          "diff": 16.7811779001006,
+          "newRating": 970.8413320320697,
+          "result": "W 98-91 vs Syracuse Nationals on 1954-01-23"
+        },
+        {
+          "diff": -3.4255616560921,
+          "newRating": 967.4157703759776,
+          "result": "L 70-79 vs Fort Wayne Pistons on 1954-01-24"
+        },
+        {
+          "diff": -4.418619937893936,
+          "newRating": 962.9971504380836,
+          "result": "L 69-94 vs Boston Celtics on 1954-01-26"
+        },
+        {
+          "diff": -2.244322409587994,
+          "newRating": 960.7528280284956,
+          "result": "L 73-76 vs Minneapolis Lakers on 1954-01-27"
+        },
+        {
+          "diff": -2.1440673943696993,
+          "newRating": 958.6087606341259,
+          "result": "L 82-104 vs Minneapolis Lakers on 1954-01-28"
+        },
+        {
+          "diff": 11.506960680697603,
+          "newRating": 970.1157213148235,
+          "result": "W 80-74 vs Philadelphia Warriors on 1954-01-30"
+        },
+        {
+          "diff": -7.930051006969052,
+          "newRating": 962.1856703078545,
+          "result": "L 72-78 vs Milwaukee Hawks on 1954-02-03"
+        },
+        {
+          "diff": -1.7679683105568529,
+          "newRating": 960.4177019972976,
+          "result": "L 70-82 vs Minneapolis Lakers on 1954-02-04"
+        },
+        {
+          "diff": -1.974329454357985,
+          "newRating": 958.4433725429396,
+          "result": "L 83-98 vs New York Knicks on 1954-02-06"
+        },
+        {
+          "diff": 13.712319581283396,
+          "newRating": 972.155692124223,
+          "result": "W 75-73 vs Rochester Royals on 1954-02-07"
+        },
+        {
+          "diff": -4.028040404696981,
+          "newRating": 968.127651719526,
+          "result": "L 75-87 vs Boston Celtics on 1954-02-08"
+        },
+        {
+          "diff": -5.550919261943477,
+          "newRating": 962.5767324575826,
+          "result": "L 79-97 vs Philadelphia Warriors on 1954-02-10"
+        },
+        {
+          "diff": -1.6020193115542725,
+          "newRating": 960.9747131460283,
+          "result": "L 82-110 vs Minneapolis Lakers on 1954-02-11"
+        },
+        {
+          "diff": -4.8720509259804885,
+          "newRating": 956.1026622200478,
+          "result": "L 72-75 vs Philadelphia Warriors on 1954-02-12"
+        },
+        {
+          "diff": 11.41553446077512,
+          "newRating": 967.5181966808229,
+          "result": "W 96-93 vs Boston Celtics on 1954-02-13"
+        },
+        {
+          "diff": -2.468315702137943,
+          "newRating": 965.049880978685,
+          "result": "L 91-111 vs Syracuse Nationals on 1954-02-14"
+        },
+        {
+          "diff": 12.19540298458378,
+          "newRating": 977.2452839632688,
+          "result": "W 84-80 vs New York Knicks on 1954-02-17"
+        },
+        {
+          "diff": -2.3994189273652182,
+          "newRating": 974.8458650359036,
+          "result": "L 85-87 vs Fort Wayne Pistons on 1954-02-20"
+        },
+        {
+          "diff": -2.048815556227396,
+          "newRating": 972.7970494796762,
+          "result": "L 76-85 vs New York Knicks on 1954-02-21"
+        },
+        {
+          "diff": -2.931108031629833,
+          "newRating": 969.8659414480463,
+          "result": "L 110-111 vs Boston Celtics on 1954-02-22"
+        },
+        {
+          "diff": -1.9998864438819055,
+          "newRating": 967.8660550041644,
+          "result": "L 64-79 vs Rochester Royals on 1954-02-24"
+        },
+        {
+          "diff": -1.928900993017237,
+          "newRating": 965.9371540111472,
+          "result": "L 86-102 vs Rochester Royals on 1954-02-25"
+        },
+        {
+          "diff": -1.5506494817838075,
+          "newRating": 964.3865045293634,
+          "result": "L 85-95 vs Minneapolis Lakers on 1954-02-27"
+        },
+        {
+          "diff": -5.266919604072882,
+          "newRating": 959.1195849252905,
+          "result": "L 100-103 vs Milwaukee Hawks on 1954-03-03"
+        },
+        {
+          "diff": 7.301459422755897,
+          "newRating": 966.4210443480464,
+          "result": "W 95-87 vs Milwaukee Hawks on 1954-03-04"
+        },
+        {
+          "diff": -1.9386557285831714,
+          "newRating": 964.4823886194632,
+          "result": "L 71-76 vs Fort Wayne Pistons on 1954-03-06"
+        },
+        {
+          "diff": -2.141329759888208,
+          "newRating": 962.341058859575,
+          "result": "L 77-103 vs Syracuse Nationals on 1954-03-07"
+        },
+        {
+          "diff": -4.989869671285078,
+          "newRating": 957.3511891882899,
+          "result": "L 54-64 vs Milwaukee Hawks on 1954-03-08"
+        },
+        {
+          "diff": -4.755620162371656,
+          "newRating": 952.5955690259183,
+          "result": "L 54-65 vs Milwaukee Hawks on 1954-03-08"
+        },
+        {
+          "diff": -1.9175205873556251,
+          "newRating": 950.6780484385627,
+          "result": "L 77-85 vs Syracuse Nationals on 1954-03-10"
+        },
+        {
+          "diff": -2.009983276935259,
+          "newRating": 948.6680651616274,
+          "result": "L 85-97 vs Boston Celtics on 1954-03-13"
+        },
+        {
+          "diff": -1.7878966179237068,
+          "newRating": 946.8801685437037,
+          "result": "L 86-91 vs Fort Wayne Pistons on 1954-03-14"
+        }
+      ]
+    }
+  ]
+}

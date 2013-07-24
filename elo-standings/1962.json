@@ -1,0 +1,3676 @@
+{
+  "standings": [
+    {
+      "team": "Boston Celtics",
+      "rating": 1414.836274424102,
+      "wins": 60,
+      "losses": 20,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 137-102 vs Detroit Pistons on 1961-10-21"
+        },
+        {
+          "diff": 76.80195413179308,
+          "newRating": 1676.801954131793,
+          "result": "W 132-102 vs New York Knicks on 1961-10-28"
+        },
+        {
+          "diff": 28.106668249316726,
+          "newRating": 1704.9086223811098,
+          "result": "W 112-98 vs Philadelphia Warriors on 1961-11-03"
+        },
+        {
+          "diff": 3.0799706644875187,
+          "newRating": 1707.9885930455973,
+          "result": "W 127-107 vs Syracuse Nationals on 1961-11-04"
+        },
+        {
+          "diff": -158.4096061648213,
+          "newRating": 1549.578986880776,
+          "result": "L 110-116 vs Detroit Pistons on 1961-11-09"
+        },
+        {
+          "diff": 28.786314430286893,
+          "newRating": 1578.365301311063,
+          "result": "W 128-125 vs Philadelphia Warriors on 1961-11-11"
+        },
+        {
+          "diff": 2.4455125144256726,
+          "newRating": 1580.8108138254886,
+          "result": "W 112-96 vs Chicago Packers on 1961-11-12"
+        },
+        {
+          "diff": 4.849917127158278,
+          "newRating": 1585.6607309526469,
+          "result": "W 119-117 vs St. Louis Hawks on 1961-11-14"
+        },
+        {
+          "diff": 12.689112386978422,
+          "newRating": 1598.3498433396253,
+          "result": "W 127-121 vs Cincinnati Royals on 1961-11-16"
+        },
+        {
+          "diff": 3.0186975072158475,
+          "newRating": 1601.3685408468411,
+          "result": "W 104-100 vs New York Knicks on 1961-11-17"
+        },
+        {
+          "diff": -52.357746628538735,
+          "newRating": 1549.0107942183024,
+          "result": "L 101-103 vs Los Angeles Lakers on 1961-11-18"
+        },
+        {
+          "diff": 4.008480645816462,
+          "newRating": 1553.0192748641189,
+          "result": "W 141-121 vs St. Louis Hawks on 1961-11-22"
+        },
+        {
+          "diff": 9.370936348285795,
+          "newRating": 1562.3902112124047,
+          "result": "W 119-106 vs Philadelphia Warriors on 1961-11-23"
+        },
+        {
+          "diff": 2.477669349687176,
+          "newRating": 1564.8678805620918,
+          "result": "W 116-96 vs New York Knicks on 1961-11-25"
+        },
+        {
+          "diff": 5.2346977647712265,
+          "newRating": 1570.102578326863,
+          "result": "W 107-101 vs Detroit Pistons on 1961-11-26"
+        },
+        {
+          "diff": 4.662146711891637,
+          "newRating": 1574.7647250387547,
+          "result": "W 116-108 vs Detroit Pistons on 1961-11-28"
+        },
+        {
+          "diff": -41.845739987638126,
+          "newRating": 1532.9189850511166,
+          "result": "L 130-133 vs Cincinnati Royals on 1961-11-30"
+        },
+        {
+          "diff": 1.2082701522285788,
+          "newRating": 1534.1272552033452,
+          "result": "W 140-121 vs Chicago Packers on 1961-12-01"
+        },
+        {
+          "diff": 6.665743320884076,
+          "newRating": 1540.7929985242292,
+          "result": "W 119-96 vs Cincinnati Royals on 1961-12-03"
+        },
+        {
+          "diff": 5.974578780459751,
+          "newRating": 1546.767577304689,
+          "result": "W 103-102 vs Cincinnati Royals on 1961-12-06"
+        },
+        {
+          "diff": 2.466485040891257,
+          "newRating": 1549.2340623455802,
+          "result": "W 123-111 vs Syracuse Nationals on 1961-12-08"
+        },
+        {
+          "diff": 2.297496987094746,
+          "newRating": 1551.531559332675,
+          "result": "W 106-102 vs Syracuse Nationals on 1961-12-09"
+        },
+        {
+          "diff": 5.445348869926647,
+          "newRating": 1556.9769082026016,
+          "result": "W 123-113 vs Philadelphia Warriors on 1961-12-13"
+        },
+        {
+          "diff": 0.865702148726541,
+          "newRating": 1557.8426103513282,
+          "result": "W 123-108 vs Chicago Packers on 1961-12-14"
+        },
+        {
+          "diff": 1.8659887772328148,
+          "newRating": 1559.708599128561,
+          "result": "W 130-113 vs St. Louis Hawks on 1961-12-16"
+        },
+        {
+          "diff": 0.945871882697702,
+          "newRating": 1560.6544710112587,
+          "result": "W 117-109 vs New York Knicks on 1961-12-17"
+        },
+        {
+          "diff": -23.119528778728863,
+          "newRating": 1537.5349422325298,
+          "result": "L 101-104 vs Los Angeles Lakers on 1961-12-19"
+        },
+        {
+          "diff": 1.0869158904383767,
+          "newRating": 1538.6218581229682,
+          "result": "W 122-103 vs New York Knicks on 1961-12-21"
+        },
+        {
+          "diff": 1.037656915374555,
+          "newRating": 1539.6595150383428,
+          "result": "W 122-111 vs New York Knicks on 1961-12-23"
+        },
+        {
+          "diff": 2.0970199739613236,
+          "newRating": 1541.756535012304,
+          "result": "W 127-122 vs Syracuse Nationals on 1961-12-25"
+        },
+        {
+          "diff": 7.022382320129964,
+          "newRating": 1548.778917332434,
+          "result": "W 129-117 vs Los Angeles Lakers on 1961-12-26"
+        },
+        {
+          "diff": 1.2647561184157894,
+          "newRating": 1550.0436734508498,
+          "result": "W 117-109 vs St. Louis Hawks on 1961-12-28"
+        },
+        {
+          "diff": -23.31017022556557,
+          "newRating": 1526.7335032252843,
+          "result": "L 100-110 vs New York Knicks on 1961-12-29"
+        },
+        {
+          "diff": 4.79713441558556,
+          "newRating": 1531.5306376408698,
+          "result": "W 116-111 vs Philadelphia Warriors on 1961-12-30"
+        },
+        {
+          "diff": 1.48644715784053,
+          "newRating": 1533.0170847987104,
+          "result": "W 136-99 vs St. Louis Hawks on 1962-01-02"
+        },
+        {
+          "diff": -20.562593816601748,
+          "newRating": 1512.4544909821086,
+          "result": "L 103-112 vs Detroit Pistons on 1962-01-03"
+        },
+        {
+          "diff": 2.967638910814003,
+          "newRating": 1515.4221298929226,
+          "result": "W 124-103 vs Cincinnati Royals on 1962-01-05"
+        },
+        {
+          "diff": 6.473420547058822,
+          "newRating": 1521.8955504399814,
+          "result": "W 118-95 vs Los Angeles Lakers on 1962-01-07"
+        },
+        {
+          "diff": -19.823379594680546,
+          "newRating": 1502.072170845301,
+          "result": "L 90-103 vs Chicago Packers on 1962-01-10"
+        },
+        {
+          "diff": 3.1118653776652536,
+          "newRating": 1505.1840362229661,
+          "result": "W 141-125 vs Cincinnati Royals on 1962-01-12"
+        },
+        {
+          "diff": -17.277316807466832,
+          "newRating": 1487.9067194154993,
+          "result": "L 117-127 vs Syracuse Nationals on 1962-01-13"
+        },
+        {
+          "diff": 3.7712972418876234,
+          "newRating": 1491.678016657387,
+          "result": "W 145-136 vs Philadelphia Warriors on 1962-01-14"
+        },
+        {
+          "diff": 2.04922681455605,
+          "newRating": 1493.727243471943,
+          "result": "W 126-116 vs Detroit Pistons on 1962-01-17"
+        },
+        {
+          "diff": 2.5132959820557517,
+          "newRating": 1496.2405394539987,
+          "result": "W 128-103 vs Syracuse Nationals on 1962-01-19"
+        },
+        {
+          "diff": 2.3987216722284757,
+          "newRating": 1498.6392611262272,
+          "result": "W 107-101 vs Syracuse Nationals on 1962-01-20"
+        },
+        {
+          "diff": -15.666215825142672,
+          "newRating": 1482.9730453010845,
+          "result": "L 120-124 vs Detroit Pistons on 1962-01-21"
+        },
+        {
+          "diff": 5.444589244769759,
+          "newRating": 1488.4176345458543,
+          "result": "W 118-103 vs Los Angeles Lakers on 1962-01-23"
+        },
+        {
+          "diff": -15.29108611669676,
+          "newRating": 1473.1265484291575,
+          "result": "L 123-135 vs St. Louis Hawks on 1962-01-24"
+        },
+        {
+          "diff": -15.133073822066763,
+          "newRating": 1457.9934746070908,
+          "result": "L 121-129 vs New York Knicks on 1962-01-26"
+        },
+        {
+          "diff": -12.123418834815311,
+          "newRating": 1445.8700557722755,
+          "result": "L 106-131 vs Philadelphia Warriors on 1962-01-27"
+        },
+        {
+          "diff": -11.485384381098584,
+          "newRating": 1434.3846713911769,
+          "result": "L 129-133 vs Philadelphia Warriors on 1962-01-28"
+        },
+        {
+          "diff": 0.7606806836124633,
+          "newRating": 1435.1453520747893,
+          "result": "W 122-115 vs Chicago Packers on 1962-01-31"
+        },
+        {
+          "diff": 5.998393570024064,
+          "newRating": 1441.1437456448134,
+          "result": "W 130-115 vs Los Angeles Lakers on 1962-02-01"
+        },
+        {
+          "diff": 3.4692147308953736,
+          "newRating": 1444.6129603757088,
+          "result": "W 143-124 vs Cincinnati Royals on 1962-02-02"
+        },
+        {
+          "diff": 1.3974363208837985,
+          "newRating": 1446.0103966965926,
+          "result": "W 130-114 vs New York Knicks on 1962-02-04"
+        },
+        {
+          "diff": 0.7421217851619986,
+          "newRating": 1446.7525184817546,
+          "result": "W 127-111 vs Chicago Packers on 1962-02-05"
+        },
+        {
+          "diff": 1.4421073352496023,
+          "newRating": 1448.1946258170042,
+          "result": "W 129-114 vs St. Louis Hawks on 1962-02-06"
+        },
+        {
+          "diff": -11.636177254355516,
+          "newRating": 1436.5584485626487,
+          "result": "L 110-122 vs Syracuse Nationals on 1962-02-08"
+        },
+        {
+          "diff": -9.674304149362115,
+          "newRating": 1426.8841444132865,
+          "result": "L 124-126 vs Philadelphia Warriors on 1962-02-09"
+        },
+        {
+          "diff": -9.21009369843614,
+          "newRating": 1417.6740507148504,
+          "result": "L 106-107 vs Philadelphia Warriors on 1962-02-10"
+        },
+        {
+          "diff": 0.8185665408263958,
+          "newRating": 1418.4926172556768,
+          "result": "W 148-115 vs Chicago Packers on 1962-02-11"
+        },
+        {
+          "diff": 0.7981574181644646,
+          "newRating": 1419.2907746738413,
+          "result": "W 138-117 vs Chicago Packers on 1962-02-13"
+        },
+        {
+          "diff": -11.277222667320984,
+          "newRating": 1408.0135520065203,
+          "result": "L 112-125 vs New York Knicks on 1962-02-14"
+        },
+        {
+          "diff": 1.5700358666199463,
+          "newRating": 1409.5835878731402,
+          "result": "W 127-104 vs New York Knicks on 1962-02-16"
+        },
+        {
+          "diff": -7.756325936759595,
+          "newRating": 1401.8272619363806,
+          "result": "L 99-125 vs Los Angeles Lakers on 1962-02-18"
+        },
+        {
+          "diff": 4.73360713363445,
+          "newRating": 1406.560869070015,
+          "result": "W 115-96 vs Los Angeles Lakers on 1962-02-20"
+        },
+        {
+          "diff": 2.4713594535676293,
+          "newRating": 1409.0322285235827,
+          "result": "W 134-106 vs Syracuse Nationals on 1962-02-22"
+        },
+        {
+          "diff": 2.380928499889933,
+          "newRating": 1411.4131570234726,
+          "result": "W 121-107 vs Syracuse Nationals on 1962-02-23"
+        },
+        {
+          "diff": 3.6283369781606325,
+          "newRating": 1415.0414940016333,
+          "result": "W 109-86 vs Philadelphia Warriors on 1962-02-24"
+        },
+        {
+          "diff": 2.2690646566518353,
+          "newRating": 1417.3105586582851,
+          "result": "W 110-106 vs Syracuse Nationals on 1962-02-25"
+        },
+        {
+          "diff": 0.7454087925616477,
+          "newRating": 1418.0559674508468,
+          "result": "W 115-100 vs Chicago Packers on 1962-02-27"
+        },
+        {
+          "diff": 2.6295091418676293,
+          "newRating": 1420.6854765927144,
+          "result": "W 129-123 vs Cincinnati Royals on 1962-02-28"
+        },
+        {
+          "diff": -9.745451630641355,
+          "newRating": 1410.940024962073,
+          "result": "L 120-138 vs St. Louis Hawks on 1962-03-02"
+        },
+        {
+          "diff": 1.3833028393796667,
+          "newRating": 1412.3233278014527,
+          "result": "W 123-120 vs St. Louis Hawks on 1962-03-04"
+        },
+        {
+          "diff": -9.324306173437208,
+          "newRating": 1402.9990216280155,
+          "result": "L 106-113 vs New York Knicks on 1962-03-06"
+        },
+        {
+          "diff": 3.372716114184641,
+          "newRating": 1406.3717377422001,
+          "result": "W 153-102 vs Philadelphia Warriors on 1962-03-07"
+        },
+        {
+          "diff": 0.7015072900803716,
+          "newRating": 1407.0732450322805,
+          "result": "W 108-102 vs Chicago Packers on 1962-03-08"
+        },
+        {
+          "diff": 1.8847840508026366,
+          "newRating": 1408.9580290830831,
+          "result": "W 130-111 vs Detroit Pistons on 1962-03-09"
+        },
+        {
+          "diff": 3.639959311042958,
+          "newRating": 1412.597988394126,
+          "result": "W 119-105 vs Los Angeles Lakers on 1962-03-11"
+        },
+        {
+          "diff": 2.238286029975825,
+          "newRating": 1414.836274424102,
+          "result": "W 142-110 vs Syracuse Nationals on 1962-03-13"
+        }
+      ]
+    },
+    {
+      "team": "Los Angeles Lakers",
+      "rating": 1312.8156679867327,
+      "wins": 54,
+      "losses": 26,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 118-113 vs Philadelphia Warriors on 1961-10-19"
+        },
+        {
+          "diff": -396.0396039603961,
+          "newRating": 1203.960396039604,
+          "result": "L 115-122 vs Philadelphia Warriors on 1961-10-20"
+        },
+        {
+          "diff": 241.91710214971022,
+          "newRating": 1445.877498189314,
+          "result": "W 124-122 vs Cincinnati Royals on 1961-10-24"
+        },
+        {
+          "diff": 4.741504778538456,
+          "newRating": 1450.6190029678526,
+          "result": "W 120-116 vs Detroit Pistons on 1961-10-25"
+        },
+        {
+          "diff": 3.5015080224909525,
+          "newRating": 1454.1205109903435,
+          "result": "W 128-118 vs Detroit Pistons on 1961-10-27"
+        },
+        {
+          "diff": 2.768395584517066,
+          "newRating": 1456.8889065748606,
+          "result": "W 135-126 vs Detroit Pistons on 1961-10-28"
+        },
+        {
+          "diff": 16.46942511897828,
+          "newRating": 1473.3583316938389,
+          "result": "W 120-115 vs Cincinnati Royals on 1961-11-01"
+        },
+        {
+          "diff": -87.94251446194971,
+          "newRating": 1385.4158172318892,
+          "result": "L 114-132 vs Cincinnati Royals on 1961-11-03"
+        },
+        {
+          "diff": 8.428594823126332,
+          "newRating": 1393.8444120550155,
+          "result": "W 125-112 vs Chicago Packers on 1961-11-04"
+        },
+        {
+          "diff": 10.28970226770707,
+          "newRating": 1404.1341143227226,
+          "result": "W 127-110 vs St. Louis Hawks on 1961-11-07"
+        },
+        {
+          "diff": 8.381455270432298,
+          "newRating": 1412.5155695931549,
+          "result": "W 124-118 vs St. Louis Hawks on 1961-11-08"
+        },
+        {
+          "diff": 3.550250220502676,
+          "newRating": 1416.0658198136575,
+          "result": "W 127-113 vs Chicago Packers on 1961-11-13"
+        },
+        {
+          "diff": 3.1470763674012687,
+          "newRating": 1419.2128961810588,
+          "result": "W 133-118 vs Chicago Packers on 1961-11-15"
+        },
+        {
+          "diff": 18.155635882130582,
+          "newRating": 1437.3685320631894,
+          "result": "W 125-121 vs Philadelphia Warriors on 1961-11-17"
+        },
+        {
+          "diff": 38.39568086092845,
+          "newRating": 1475.7642129241178,
+          "result": "W 103-101 vs Boston Celtics on 1961-11-18"
+        },
+        {
+          "diff": -45.77242392214157,
+          "newRating": 1429.9917890019763,
+          "result": "L 102-108 vs Detroit Pistons on 1961-11-21"
+        },
+        {
+          "diff": 5.219386066786001,
+          "newRating": 1435.2111750687623,
+          "result": "W 122-114 vs St. Louis Hawks on 1961-11-23"
+        },
+        {
+          "diff": 3.903206570115344,
+          "newRating": 1439.1143816388776,
+          "result": "W 100-89 vs New York Knicks on 1961-11-24"
+        },
+        {
+          "diff": -35.81227618562616,
+          "newRating": 1403.3021054532514,
+          "result": "L 103-104 vs Detroit Pistons on 1961-11-25"
+        },
+        {
+          "diff": -30.570331785333792,
+          "newRating": 1372.7317736679177,
+          "result": "L 102-117 vs Cincinnati Royals on 1961-11-26"
+        },
+        {
+          "diff": -32.91227507136091,
+          "newRating": 1339.8194985965567,
+          "result": "L 111-121 vs Syracuse Nationals on 1961-11-28"
+        },
+        {
+          "diff": -22.080612459973054,
+          "newRating": 1317.7388861365837,
+          "result": "L 117-138 vs Philadelphia Warriors on 1961-12-01"
+        },
+        {
+          "diff": 15.927772158150674,
+          "newRating": 1333.6666582947344,
+          "result": "W 129-119 vs Philadelphia Warriors on 1961-12-02"
+        },
+        {
+          "diff": 6.999966162438113,
+          "newRating": 1340.6666244571725,
+          "result": "W 131-120 vs Syracuse Nationals on 1961-12-04"
+        },
+        {
+          "diff": 6.28360529129759,
+          "newRating": 1346.95022974847,
+          "result": "W 125-120 vs Syracuse Nationals on 1961-12-05"
+        },
+        {
+          "diff": 5.683773983614856,
+          "newRating": 1352.634003732085,
+          "result": "W 123-121 vs Syracuse Nationals on 1961-12-06"
+        },
+        {
+          "diff": 10.593908705241574,
+          "newRating": 1363.2279124373265,
+          "result": "W 151-147 vs Philadelphia Warriors on 1961-12-08"
+        },
+        {
+          "diff": 7.352696367269573,
+          "newRating": 1370.580608804596,
+          "result": "W 114-107 vs Detroit Pistons on 1961-12-09"
+        },
+        {
+          "diff": 4.217551788504352,
+          "newRating": 1374.7981605931004,
+          "result": "W 132-119 vs St. Louis Hawks on 1961-12-11"
+        },
+        {
+          "diff": 3.906081814366871,
+          "newRating": 1378.7042424074673,
+          "result": "W 137-136 vs St. Louis Hawks on 1961-12-13"
+        },
+        {
+          "diff": -24.02724704617617,
+          "newRating": 1354.6769953612911,
+          "result": "L 94-97 vs Chicago Packers on 1961-12-15"
+        },
+        {
+          "diff": -20.839066090377628,
+          "newRating": 1333.8379292709135,
+          "result": "L 123-128 vs Syracuse Nationals on 1961-12-16"
+        },
+        {
+          "diff": 6.660037102262095,
+          "newRating": 1340.4979663731756,
+          "result": "W 122-116 vs Detroit Pistons on 1961-12-17"
+        },
+        {
+          "diff": 18.359625794872954,
+          "newRating": 1358.8575921680485,
+          "result": "W 104-101 vs Boston Celtics on 1961-12-19"
+        },
+        {
+          "diff": 1.9923075934605095,
+          "newRating": 1360.849899761509,
+          "result": "W 102-98 vs Chicago Packers on 1961-12-20"
+        },
+        {
+          "diff": 3.277143204928052,
+          "newRating": 1364.127042966437,
+          "result": "W 129-126 vs St. Louis Hawks on 1961-12-23"
+        },
+        {
+          "diff": 6.70740742914586,
+          "newRating": 1370.834450395583,
+          "result": "W 141-127 vs Cincinnati Royals on 1961-12-25"
+        },
+        {
+          "diff": -5.728785576947985,
+          "newRating": 1365.105664818635,
+          "result": "L 117-129 vs Boston Celtics on 1961-12-26"
+        },
+        {
+          "diff": 3.7175288313603687,
+          "newRating": 1368.8231936499953,
+          "result": "W 119-111 vs Syracuse Nationals on 1961-12-27"
+        },
+        {
+          "diff": 3.4902259403211247,
+          "newRating": 1372.3134195903165,
+          "result": "W 121-114 vs Syracuse Nationals on 1961-12-28"
+        },
+        {
+          "diff": -12.394057417751355,
+          "newRating": 1359.9193621725651,
+          "result": "L 118-123 vs Philadelphia Warriors on 1961-12-29"
+        },
+        {
+          "diff": 7.519245422730137,
+          "newRating": 1367.4386075952953,
+          "result": "W 114-111 vs Philadelphia Warriors on 1962-01-01"
+        },
+        {
+          "diff": 6.943442141801825,
+          "newRating": 1374.382049737097,
+          "result": "W 124-123 vs Philadelphia Warriors on 1962-01-03"
+        },
+        {
+          "diff": -5.590681381550667,
+          "newRating": 1368.7913683555464,
+          "result": "L 95-118 vs Boston Celtics on 1962-01-07"
+        },
+        {
+          "diff": 2.46987896043197,
+          "newRating": 1371.2612473159784,
+          "result": "W 108-107 vs St. Louis Hawks on 1962-01-13"
+        },
+        {
+          "diff": -14.164978874733833,
+          "newRating": 1357.0962684412445,
+          "result": "L 108-118 vs Detroit Pistons on 1962-01-14"
+        },
+        {
+          "diff": 2.410446334149583,
+          "newRating": 1359.5067147753941,
+          "result": "W 129-121 vs New York Knicks on 1962-01-17"
+        },
+        {
+          "diff": 2.3026839874735288,
+          "newRating": 1361.8093987628677,
+          "result": "W 108-107 vs New York Knicks on 1962-01-19"
+        },
+        {
+          "diff": -11.202633836240011,
+          "newRating": 1350.6067649266276,
+          "result": "L 124-125 vs Cincinnati Royals on 1962-01-20"
+        },
+        {
+          "diff": 1.31860692140026,
+          "newRating": 1351.925371848028,
+          "result": "W 112-111 vs Chicago Packers on 1962-01-21"
+        },
+        {
+          "diff": -5.017562637336823,
+          "newRating": 1346.907809210691,
+          "result": "L 103-118 vs Boston Celtics on 1962-01-23"
+        },
+        {
+          "diff": 5.452605647758901,
+          "newRating": 1352.36041485845,
+          "result": "W 136-123 vs Cincinnati Royals on 1962-01-24"
+        },
+        {
+          "diff": 5.1328683579533845,
+          "newRating": 1357.4932832164034,
+          "result": "W 116-112 vs Cincinnati Royals on 1962-01-25"
+        },
+        {
+          "diff": 1.1240070369597106,
+          "newRating": 1358.617290253363,
+          "result": "W 124-109 vs Chicago Packers on 1962-01-28"
+        },
+        {
+          "diff": 1.0899233763248048,
+          "newRating": 1359.7072136296879,
+          "result": "W 107-92 vs Chicago Packers on 1962-01-30"
+        },
+        {
+          "diff": 3.112971091902864,
+          "newRating": 1362.8201847215907,
+          "result": "W 123-122 vs Detroit Pistons on 1962-01-31"
+        },
+        {
+          "diff": -5.577453670373188,
+          "newRating": 1357.2427310512176,
+          "result": "L 115-130 vs Boston Celtics on 1962-02-01"
+        },
+        {
+          "diff": 2.3086857368487017,
+          "newRating": 1359.5514167880663,
+          "result": "W 127-124 vs St. Louis Hawks on 1962-02-03"
+        },
+        {
+          "diff": -12.515173669794194,
+          "newRating": 1347.036243118272,
+          "result": "L 105-113 vs Chicago Packers on 1962-02-04"
+        },
+        {
+          "diff": 4.3571876113890085,
+          "newRating": 1351.393430729661,
+          "result": "W 134-128 vs Cincinnati Royals on 1962-02-05"
+        },
+        {
+          "diff": -11.111007535252384,
+          "newRating": 1340.2824231944087,
+          "result": "L 112-116 vs New York Knicks on 1962-02-06"
+        },
+        {
+          "diff": -8.913454521392623,
+          "newRating": 1331.368968673016,
+          "result": "L 109-113 vs Cincinnati Royals on 1962-02-08"
+        },
+        {
+          "diff": -10.346610873691134,
+          "newRating": 1321.022357799325,
+          "result": "L 113-117 vs St. Louis Hawks on 1962-02-12"
+        },
+        {
+          "diff": 2.550167156172165,
+          "newRating": 1323.572524955497,
+          "result": "W 130-107 vs St. Louis Hawks on 1962-02-14"
+        },
+        {
+          "diff": -8.969649333860161,
+          "newRating": 1314.602875621637,
+          "result": "L 121-127 vs Detroit Pistons on 1962-02-16"
+        },
+        {
+          "diff": 2.3750104677887975,
+          "newRating": 1316.9778860894257,
+          "result": "W 128-121 vs New York Knicks on 1962-02-17"
+        },
+        {
+          "diff": 7.524793819244451,
+          "newRating": 1324.5026799086702,
+          "result": "W 125-99 vs Boston Celtics on 1962-02-18"
+        },
+        {
+          "diff": -4.5943833944097605,
+          "newRating": 1319.9082965142604,
+          "result": "L 96-115 vs Boston Celtics on 1962-02-20"
+        },
+        {
+          "diff": 2.2262794828966435,
+          "newRating": 1322.134575997157,
+          "result": "W 118-116 vs New York Knicks on 1962-02-22"
+        },
+        {
+          "diff": 1.220437165184876,
+          "newRating": 1323.355013162342,
+          "result": "W 124-117 vs Chicago Packers on 1962-02-23"
+        },
+        {
+          "diff": -7.479612105705428,
+          "newRating": 1315.8754010566365,
+          "result": "L 114-118 vs Cincinnati Royals on 1962-02-24"
+        },
+        {
+          "diff": 3.2724525160701887,
+          "newRating": 1319.1478535727067,
+          "result": "W 128-99 vs Detroit Pistons on 1962-02-25"
+        },
+        {
+          "diff": 3.140670024459723,
+          "newRating": 1322.2885235971664,
+          "result": "W 107-100 vs Detroit Pistons on 1962-02-27"
+        },
+        {
+          "diff": -8.77338278278512,
+          "newRating": 1313.5151408143813,
+          "result": "L 125-134 vs St. Louis Hawks on 1962-03-03"
+        },
+        {
+          "diff": 3.4518828591576494,
+          "newRating": 1316.967023673539,
+          "result": "W 124-115 vs Syracuse Nationals on 1962-03-04"
+        },
+        {
+          "diff": -8.37784519171305,
+          "newRating": 1308.589178481826,
+          "result": "L 100-122 vs New York Knicks on 1962-03-09"
+        },
+        {
+          "diff": -3.7345037087322908,
+          "newRating": 1304.8546747730936,
+          "result": "L 105-119 vs Boston Celtics on 1962-03-11"
+        },
+        {
+          "diff": 2.2234046263808978,
+          "newRating": 1307.0780793994745,
+          "result": "W 119-106 vs New York Knicks on 1962-03-12"
+        },
+        {
+          "diff": 3.6233413404825114,
+          "newRating": 1310.701420739957,
+          "result": "W 120-111 vs Cincinnati Royals on 1962-03-13"
+        },
+        {
+          "diff": 2.114247246775676,
+          "newRating": 1312.8156679867327,
+          "result": "W 125-115 vs St. Louis Hawks on 1962-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Philadelphia Warriors",
+      "rating": 1264.373961404318,
+      "wins": 49,
+      "losses": 31,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 113-118 vs Los Angeles Lakers on 1961-10-19"
+        },
+        {
+          "diff": 396.0396039603961,
+          "newRating": 1196.039603960396,
+          "result": "W 122-115 vs Los Angeles Lakers on 1961-10-20"
+        },
+        {
+          "diff": 242.92201092123605,
+          "newRating": 1438.9616148816322,
+          "result": "W 132-95 vs New York Knicks on 1961-10-21"
+        },
+        {
+          "diff": -191.69312338539248,
+          "newRating": 1247.2684914962397,
+          "result": "L 122-126 vs Syracuse Nationals on 1961-10-27"
+        },
+        {
+          "diff": 58.01816038580887,
+          "newRating": 1305.2866518820485,
+          "result": "W 119-115 vs Syracuse Nationals on 1961-10-28"
+        },
+        {
+          "diff": -14.053334124658477,
+          "newRating": 1291.23331775739,
+          "result": "L 98-112 vs Boston Celtics on 1961-11-03"
+        },
+        {
+          "diff": 13.037963435885104,
+          "newRating": 1304.2712811932752,
+          "result": "W 135-132 vs Detroit Pistons on 1961-11-04"
+        },
+        {
+          "diff": 9.864968180231699,
+          "newRating": 1314.1362493735069,
+          "result": "W 132-128 vs Detroit Pistons on 1961-11-08"
+        },
+        {
+          "diff": 11.39250197283286,
+          "newRating": 1325.5287513463397,
+          "result": "W 151-108 vs Syracuse Nationals on 1961-11-09"
+        },
+        {
+          "diff": -17.271788658172227,
+          "newRating": 1308.2569626881675,
+          "result": "L 125-128 vs Boston Celtics on 1961-11-11"
+        },
+        {
+          "diff": -61.1662394247096,
+          "newRating": 1247.090723263458,
+          "result": "L 122-124 vs New York Knicks on 1961-11-14"
+        },
+        {
+          "diff": 39.35784549289701,
+          "newRating": 1286.448568756355,
+          "result": "W 145-133 vs Cincinnati Royals on 1961-11-15"
+        },
+        {
+          "diff": -19.55222325767909,
+          "newRating": 1266.8963454986758,
+          "result": "L 121-125 vs Los Angeles Lakers on 1961-11-17"
+        },
+        {
+          "diff": -44.60507156517792,
+          "newRating": 1222.291273933498,
+          "result": "L 130-148 vs Syracuse Nationals on 1961-11-18"
+        },
+        {
+          "diff": 6.775822185078368,
+          "newRating": 1229.0670961185763,
+          "result": "W 122-114 vs Chicago Packers on 1961-11-19"
+        },
+        {
+          "diff": 25.705280159122367,
+          "newRating": 1254.7723762776986,
+          "result": "W 125-118 vs Cincinnati Royals on 1961-11-21"
+        },
+        {
+          "diff": -7.166010148689111,
+          "newRating": 1247.6063661290095,
+          "result": "L 106-119 vs Boston Celtics on 1961-11-23"
+        },
+        {
+          "diff": 5.794839130105856,
+          "newRating": 1253.4012052591154,
+          "result": "W 134-102 vs Chicago Packers on 1961-11-25"
+        },
+        {
+          "diff": 10.741912365536109,
+          "newRating": 1264.1431176246515,
+          "result": "W 121-111 vs St. Louis Hawks on 1961-11-28"
+        },
+        {
+          "diff": 24.288673705970496,
+          "newRating": 1288.431791330622,
+          "result": "W 138-117 vs Los Angeles Lakers on 1961-12-01"
+        },
+        {
+          "diff": -17.444702839879255,
+          "newRating": 1270.9870884907427,
+          "result": "L 119-129 vs Los Angeles Lakers on 1961-12-02"
+        },
+        {
+          "diff": 7.532447758649141,
+          "newRating": 1278.5195362493919,
+          "result": "W 122-105 vs New York Knicks on 1961-12-05"
+        },
+        {
+          "diff": -27.69077377032454,
+          "newRating": 1250.8287624790673,
+          "result": "L 132-137 vs St. Louis Hawks on 1961-12-06"
+        },
+        {
+          "diff": -11.918147293396714,
+          "newRating": 1238.9106151856706,
+          "result": "L 147-151 vs Los Angeles Lakers on 1961-12-08"
+        },
+        {
+          "diff": 4.429929108641545,
+          "newRating": 1243.3405442943122,
+          "result": "W 135-113 vs Chicago Packers on 1961-12-09"
+        },
+        {
+          "diff": 4.058662068742706,
+          "newRating": 1247.3992063630549,
+          "result": "W 118-109 vs Chicago Packers on 1961-12-10"
+        },
+        {
+          "diff": 11.574817749407202,
+          "newRating": 1258.974024112462,
+          "result": "W 132-109 vs Detroit Pistons on 1961-12-12"
+        },
+        {
+          "diff": -4.472965143153942,
+          "newRating": 1254.5010589693081,
+          "result": "L 113-123 vs Boston Celtics on 1961-12-13"
+        },
+        {
+          "diff": 7.465506361902726,
+          "newRating": 1261.9665653312109,
+          "result": "W 136-125 vs Syracuse Nationals on 1961-12-14"
+        },
+        {
+          "diff": 3.8940282104204016,
+          "newRating": 1265.8605935416313,
+          "result": "W 112-110 vs Chicago Packers on 1961-12-16"
+        },
+        {
+          "diff": 12.43206713892846,
+          "newRating": 1278.2926606805597,
+          "result": "W 117-110 vs Cincinnati Royals on 1961-12-19"
+        },
+        {
+          "diff": 7.7817446916135395,
+          "newRating": 1286.0744053721733,
+          "result": "W 117-102 vs Detroit Pistons on 1961-12-20"
+        },
+        {
+          "diff": -20.784322392885542,
+          "newRating": 1265.2900829792877,
+          "result": "L 135-136 vs New York Knicks on 1961-12-25"
+        },
+        {
+          "diff": 6.835501913184999,
+          "newRating": 1272.1255848924727,
+          "result": "W 118-111 vs Syracuse Nationals on 1961-12-26"
+        },
+        {
+          "diff": 3.8489873545943283,
+          "newRating": 1275.974572247067,
+          "result": "W 131-119 vs New York Knicks on 1961-12-27"
+        },
+        {
+          "diff": 14.115454281327857,
+          "newRating": 1290.090026528395,
+          "result": "W 123-118 vs Los Angeles Lakers on 1961-12-29"
+        },
+        {
+          "diff": -4.408177571078795,
+          "newRating": 1285.681848957316,
+          "result": "L 111-116 vs Boston Celtics on 1961-12-30"
+        },
+        {
+          "diff": -8.3107449409124,
+          "newRating": 1277.3711040164037,
+          "result": "L 111-114 vs Los Angeles Lakers on 1962-01-01"
+        },
+        {
+          "diff": -7.655590053781452,
+          "newRating": 1269.7155139626223,
+          "result": "L 123-124 vs Los Angeles Lakers on 1962-01-03"
+        },
+        {
+          "diff": 4.7509164263572075,
+          "newRating": 1274.4664303889795,
+          "result": "W 134-116 vs St. Louis Hawks on 1962-01-05"
+        },
+        {
+          "diff": -15.067671590109967,
+          "newRating": 1259.3987587988695,
+          "result": "L 112-137 vs St. Louis Hawks on 1962-01-07"
+        },
+        {
+          "diff": -12.92478459678864,
+          "newRating": 1246.4739742020809,
+          "result": "L 120-129 vs Syracuse Nationals on 1962-01-09"
+        },
+        {
+          "diff": 6.107053351846844,
+          "newRating": 1252.5810275539277,
+          "result": "W 113-110 vs Detroit Pistons on 1962-01-10"
+        },
+        {
+          "diff": -10.51422900053376,
+          "newRating": 1242.066798553394,
+          "result": "L 128-145 vs Cincinnati Royals on 1962-01-11"
+        },
+        {
+          "diff": 2.828706860413604,
+          "newRating": 1244.8955054138075,
+          "result": "W 135-117 vs Chicago Packers on 1962-01-13"
+        },
+        {
+          "diff": -3.44335835128868,
+          "newRating": 1241.4521470625189,
+          "result": "L 136-145 vs Boston Celtics on 1962-01-14"
+        },
+        {
+          "diff": 4.144676357863318,
+          "newRating": 1245.5968234203822,
+          "result": "W 136-130 vs St. Louis Hawks on 1962-01-17"
+        },
+        {
+          "diff": -9.020038577263676,
+          "newRating": 1236.5767848431185,
+          "result": "L 133-151 vs Cincinnati Royals on 1962-01-18"
+        },
+        {
+          "diff": 5.666988985067974,
+          "newRating": 1242.2437738281865,
+          "result": "W 136-125 vs Detroit Pistons on 1962-01-19"
+        },
+        {
+          "diff": 5.314569137229455,
+          "newRating": 1247.558342965416,
+          "result": "W 123-107 vs Detroit Pistons on 1962-01-20"
+        },
+        {
+          "diff": 6.146877760834968,
+          "newRating": 1253.705220726251,
+          "result": "W 139-132 vs Syracuse Nationals on 1962-01-21"
+        },
+        {
+          "diff": 2.1233104744460434,
+          "newRating": 1255.828531200697,
+          "result": "W 122-108 vs Chicago Packers on 1962-01-24"
+        },
+        {
+          "diff": 4.094452251678604,
+          "newRating": 1259.9229834523755,
+          "result": "W 136-110 vs St. Louis Hawks on 1962-01-26"
+        },
+        {
+          "diff": 11.225387810014354,
+          "newRating": 1271.14837126239,
+          "result": "W 131-106 vs Boston Celtics on 1962-01-27"
+        },
+        {
+          "diff": 10.650083698836852,
+          "newRating": 1281.7984549612268,
+          "result": "W 133-129 vs Boston Celtics on 1962-01-28"
+        },
+        {
+          "diff": -11.428987115087011,
+          "newRating": 1270.3694678461397,
+          "result": "L 110-116 vs New York Knicks on 1962-01-30"
+        },
+        {
+          "diff": 6.44550558732135,
+          "newRating": 1276.814973433461,
+          "result": "W 130-109 vs Cincinnati Royals on 1962-02-01"
+        },
+        {
+          "diff": 2.9072930019715386,
+          "newRating": 1279.7222664354326,
+          "result": "W 129-116 vs New York Knicks on 1962-02-02"
+        },
+        {
+          "diff": -9.242655605855816,
+          "newRating": 1270.4796108295768,
+          "result": "L 112-134 vs Syracuse Nationals on 1962-02-03"
+        },
+        {
+          "diff": 4.56397718275889,
+          "newRating": 1275.0435880123357,
+          "result": "W 128-117 vs Syracuse Nationals on 1962-02-04"
+        },
+        {
+          "diff": 3.024174709350973,
+          "newRating": 1278.0677627216867,
+          "result": "W 136-120 vs New York Knicks on 1962-02-08"
+        },
+        {
+          "diff": 9.206192658263944,
+          "newRating": 1287.2739553799506,
+          "result": "W 126-124 vs Boston Celtics on 1962-02-09"
+        },
+        {
+          "diff": 8.77151780803456,
+          "newRating": 1296.0454731879852,
+          "result": "W 107-106 vs Boston Celtics on 1962-02-10"
+        },
+        {
+          "diff": 2.581061942719998,
+          "newRating": 1298.6265351307052,
+          "result": "W 121-111 vs New York Knicks on 1962-02-11"
+        },
+        {
+          "diff": -7.777130757402119,
+          "newRating": 1290.849404373303,
+          "result": "L 132-152 vs Cincinnati Royals on 1962-02-13"
+        },
+        {
+          "diff": -8.49721816598344,
+          "newRating": 1282.3521862073196,
+          "result": "L 110-119 vs Detroit Pistons on 1962-02-14"
+        },
+        {
+          "diff": 4.622082564975926,
+          "newRating": 1286.9742687722955,
+          "result": "W 136-132 vs Cincinnati Royals on 1962-02-16"
+        },
+        {
+          "diff": -9.000048485710067,
+          "newRating": 1277.9742202865855,
+          "result": "L 121-128 vs St. Louis Hawks on 1962-02-17"
+        },
+        {
+          "diff": 1.5799702658855495,
+          "newRating": 1279.554190552471,
+          "result": "W 112-107 vs Chicago Packers on 1962-02-20"
+        },
+        {
+          "diff": -7.527759756028672,
+          "newRating": 1272.0264307964424,
+          "result": "L 109-150 vs Syracuse Nationals on 1962-02-21"
+        },
+        {
+          "diff": 2.776575321127666,
+          "newRating": 1274.80300611757,
+          "result": "W 139-121 vs St. Louis Hawks on 1962-02-22"
+        },
+        {
+          "diff": -3.4771562707371686,
+          "newRating": 1271.3258498468329,
+          "result": "L 86-109 vs Boston Celtics on 1962-02-24"
+        },
+        {
+          "diff": -8.344311665030546,
+          "newRating": 1262.9815381818023,
+          "result": "L 135-149 vs New York Knicks on 1962-02-25"
+        },
+        {
+          "diff": 2.5801194468504036,
+          "newRating": 1265.5616576286527,
+          "result": "W 147-137 vs St. Louis Hawks on 1962-02-27"
+        },
+        {
+          "diff": 1.5417857436309532,
+          "newRating": 1267.1034433722837,
+          "result": "W 128-119 vs Chicago Packers on 1962-02-28"
+        },
+        {
+          "diff": 2.6872099681920645,
+          "newRating": 1269.7906533404757,
+          "result": "W 169-147 vs New York Knicks on 1962-03-02"
+        },
+        {
+          "diff": 2.5904302061630915,
+          "newRating": 1272.3810835466388,
+          "result": "W 129-128 vs New York Knicks on 1962-03-04"
+        },
+        {
+          "diff": -3.2862362138209846,
+          "newRating": 1269.0948473328178,
+          "result": "L 102-153 vs Boston Celtics on 1962-03-07"
+        },
+        {
+          "diff": -6.192170479413107,
+          "newRating": 1262.9026768534047,
+          "result": "L 130-148 vs Syracuse Nationals on 1962-03-11"
+        },
+        {
+          "diff": 1.4712845509131967,
+          "newRating": 1264.373961404318,
+          "result": "W 119-115 vs Chicago Packers on 1962-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Cincinnati Royals",
+      "rating": 1205.1553316031966,
+      "wins": 43,
+      "losses": 37,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 138-129 vs St. Louis Hawks on 1961-10-21"
+        },
+        {
+          "diff": -362.8756532245652,
+          "newRating": 1237.1243467754348,
+          "result": "L 122-124 vs Los Angeles Lakers on 1961-10-24"
+        },
+        {
+          "diff": -126.20992779803032,
+          "newRating": 1110.9144189774045,
+          "result": "L 117-120 vs New York Knicks on 1961-10-26"
+        },
+        {
+          "diff": 90.20174971098186,
+          "newRating": 1201.1161686883863,
+          "result": "W 139-132 vs Syracuse Nationals on 1961-10-29"
+        },
+        {
+          "diff": -53.72035935393569,
+          "newRating": 1147.3958093344506,
+          "result": "L 127-131 vs New York Knicks on 1961-10-31"
+        },
+        {
+          "diff": -19.21432930547462,
+          "newRating": 1128.181480028976,
+          "result": "L 115-120 vs Los Angeles Lakers on 1961-11-01"
+        },
+        {
+          "diff": 100.50573081365678,
+          "newRating": 1228.6872108426328,
+          "result": "W 132-114 vs Los Angeles Lakers on 1961-11-03"
+        },
+        {
+          "diff": 31.99314940900308,
+          "newRating": 1260.6803602516359,
+          "result": "W 123-98 vs New York Knicks on 1961-11-07"
+        },
+        {
+          "diff": 12.021795868517756,
+          "newRating": 1272.7021561201536,
+          "result": "W 122-117 vs Chicago Packers on 1961-11-10"
+        },
+        {
+          "diff": 9.515984764626637,
+          "newRating": 1282.2181408847803,
+          "result": "W 117-107 vs Chicago Packers on 1961-11-11"
+        },
+        {
+          "diff": 17.27163212494247,
+          "newRating": 1299.4897730097227,
+          "result": "W 136-126 vs St. Louis Hawks on 1961-11-12"
+        },
+        {
+          "diff": 11.092295418297454,
+          "newRating": 1310.5820684280202,
+          "result": "W 119-115 vs Syracuse Nationals on 1961-11-14"
+        },
+        {
+          "diff": -36.33031891652013,
+          "newRating": 1274.2517495115,
+          "result": "L 133-145 vs Philadelphia Warriors on 1961-11-15"
+        },
+        {
+          "diff": -8.157286534486275,
+          "newRating": 1266.0944629770138,
+          "result": "L 121-127 vs Boston Celtics on 1961-11-16"
+        },
+        {
+          "diff": -42.485986177473706,
+          "newRating": 1223.60847679954,
+          "result": "L 133-136 vs St. Louis Hawks on 1961-11-18"
+        },
+        {
+          "diff": 15.262797830551335,
+          "newRating": 1238.8712746300914,
+          "result": "W 128-112 vs Detroit Pistons on 1961-11-19"
+        },
+        {
+          "diff": -24.19320485564458,
+          "newRating": 1214.6780697744468,
+          "result": "L 118-125 vs Philadelphia Warriors on 1961-11-21"
+        },
+        {
+          "diff": -31.596604369888155,
+          "newRating": 1183.0814654045587,
+          "result": "L 99-117 vs Syracuse Nationals on 1961-11-23"
+        },
+        {
+          "diff": 15.899144054081717,
+          "newRating": 1198.9806094586404,
+          "result": "W 127-125 vs Syracuse Nationals on 1961-11-24"
+        },
+        {
+          "diff": 30.570331785333792,
+          "newRating": 1229.5509412439742,
+          "result": "W 117-102 vs Los Angeles Lakers on 1961-11-26"
+        },
+        {
+          "diff": 8.900263417039014,
+          "newRating": 1238.4512046610132,
+          "result": "W 131-117 vs New York Knicks on 1961-11-28"
+        },
+        {
+          "diff": -25.509106610056506,
+          "newRating": 1212.9420980509567,
+          "result": "L 122-136 vs Syracuse Nationals on 1961-11-29"
+        },
+        {
+          "diff": 30.92945999086305,
+          "newRating": 1243.8715580418198,
+          "result": "W 133-130 vs Boston Celtics on 1961-11-30"
+        },
+        {
+          "diff": -5.277046795699789,
+          "newRating": 1238.59451124612,
+          "result": "L 96-119 vs Boston Celtics on 1961-12-03"
+        },
+        {
+          "diff": -4.779663024367892,
+          "newRating": 1233.814848221752,
+          "result": "L 102-103 vs Boston Celtics on 1961-12-06"
+        },
+        {
+          "diff": 8.56836041535621,
+          "newRating": 1242.3832086371083,
+          "result": "W 128-123 vs St. Louis Hawks on 1961-12-08"
+        },
+        {
+          "diff": 6.0392451001314384,
+          "newRating": 1248.4224537372397,
+          "result": "W 134-94 vs New York Knicks on 1961-12-10"
+        },
+        {
+          "diff": 3.586577703390958,
+          "newRating": 1252.0090314406307,
+          "result": "W 133-117 vs Chicago Packers on 1961-12-11"
+        },
+        {
+          "diff": 7.801474167696142,
+          "newRating": 1259.8105056083268,
+          "result": "W 136-126 vs Syracuse Nationals on 1961-12-13"
+        },
+        {
+          "diff": -17.1624256685991,
+          "newRating": 1242.6480799397277,
+          "result": "L 103-107 vs Detroit Pistons on 1961-12-14"
+        },
+        {
+          "diff": 10.52033085403309,
+          "newRating": 1253.1684107937608,
+          "result": "W 121-110 vs Detroit Pistons on 1961-12-16"
+        },
+        {
+          "diff": -12.043565040836938,
+          "newRating": 1241.1248457529239,
+          "result": "L 110-117 vs Philadelphia Warriors on 1961-12-19"
+        },
+        {
+          "diff": -15.816078152457067,
+          "newRating": 1225.3087676004668,
+          "result": "L 125-134 vs Detroit Pistons on 1961-12-23"
+        },
+        {
+          "diff": -7.29923749642353,
+          "newRating": 1218.0095301040433,
+          "result": "L 127-141 vs Los Angeles Lakers on 1961-12-25"
+        },
+        {
+          "diff": 6.358251689276813,
+          "newRating": 1224.36778179332,
+          "result": "W 129-118 vs St. Louis Hawks on 1961-12-26"
+        },
+        {
+          "diff": 5.8507948794710956,
+          "newRating": 1230.2185766727912,
+          "result": "W 142-117 vs St. Louis Hawks on 1961-12-27"
+        },
+        {
+          "diff": -14.140536796629021,
+          "newRating": 1216.0780398761622,
+          "result": "L 116-131 vs Detroit Pistons on 1961-12-29"
+        },
+        {
+          "diff": -16.079809319960532,
+          "newRating": 1199.9982305562016,
+          "result": "L 119-123 vs New York Knicks on 1961-12-30"
+        },
+        {
+          "diff": -12.930635373428458,
+          "newRating": 1187.0675951827732,
+          "result": "L 106-110 vs Syracuse Nationals on 1962-01-01"
+        },
+        {
+          "diff": 6.042690551940723,
+          "newRating": 1193.110285734714,
+          "result": "W 122-111 vs New York Knicks on 1962-01-03"
+        },
+        {
+          "diff": -2.6781131634174926,
+          "newRating": 1190.4321725712964,
+          "result": "L 103-124 vs Boston Celtics on 1962-01-05"
+        },
+        {
+          "diff": 3.762681228385418,
+          "newRating": 1194.1948537996818,
+          "result": "W 123-113 vs Chicago Packers on 1962-01-07"
+        },
+        {
+          "diff": 3.5387354313288597,
+          "newRating": 1197.7335892310107,
+          "result": "W 113-106 vs Chicago Packers on 1962-01-09"
+        },
+        {
+          "diff": 10.51422900053376,
+          "newRating": 1208.2478182315444,
+          "result": "W 145-128 vs Philadelphia Warriors on 1962-01-11"
+        },
+        {
+          "diff": -2.766102557924569,
+          "newRating": 1205.4817156736199,
+          "result": "L 125-141 vs Boston Celtics on 1962-01-12"
+        },
+        {
+          "diff": 6.626328361666992,
+          "newRating": 1212.1080440352869,
+          "result": "W 119-112 vs Detroit Pistons on 1962-01-13"
+        },
+        {
+          "diff": 4.79340853710255,
+          "newRating": 1216.9014525723894,
+          "result": "W 119-114 vs St. Louis Hawks on 1962-01-14"
+        },
+        {
+          "diff": 9.020038577263676,
+          "newRating": 1225.921491149653,
+          "result": "W 151-133 vs Philadelphia Warriors on 1962-01-18"
+        },
+        {
+          "diff": 11.202633836240011,
+          "newRating": 1237.124124985893,
+          "result": "W 125-124 vs Los Angeles Lakers on 1962-01-20"
+        },
+        {
+          "diff": 5.610465194706649,
+          "newRating": 1242.7345901805998,
+          "result": "W 115-106 vs Detroit Pistons on 1962-01-22"
+        },
+        {
+          "diff": -5.559519483989561,
+          "newRating": 1237.1750706966102,
+          "result": "L 123-136 vs Los Angeles Lakers on 1962-01-24"
+        },
+        {
+          "diff": -5.2315773648372215,
+          "newRating": 1231.943493331773,
+          "result": "L 112-116 vs Los Angeles Lakers on 1962-01-25"
+        },
+        {
+          "diff": 5.624219804271888,
+          "newRating": 1237.5677131360449,
+          "result": "W 139-131 vs Syracuse Nationals on 1962-01-28"
+        },
+        {
+          "diff": 4.4174043454916045,
+          "newRating": 1241.9851174815365,
+          "result": "W 131-121 vs St. Louis Hawks on 1962-01-30"
+        },
+        {
+          "diff": -6.679887608678428,
+          "newRating": 1235.305229872858,
+          "result": "L 109-130 vs Philadelphia Warriors on 1962-02-01"
+        },
+        {
+          "diff": -3.3453142047919755,
+          "newRating": 1231.959915668066,
+          "result": "L 124-143 vs Boston Celtics on 1962-02-02"
+        },
+        {
+          "diff": -10.477126273690828,
+          "newRating": 1221.4827893943752,
+          "result": "L 110-121 vs New York Knicks on 1962-02-03"
+        },
+        {
+          "diff": -4.50743546005765,
+          "newRating": 1216.9753539343176,
+          "result": "L 128-134 vs Los Angeles Lakers on 1962-02-05"
+        },
+        {
+          "diff": -8.389533311880996,
+          "newRating": 1208.5858206224366,
+          "result": "L 118-119 vs Detroit Pistons on 1962-02-06"
+        },
+        {
+          "diff": -7.942618477011365,
+          "newRating": 1200.6432021454252,
+          "result": "L 107-113 vs Detroit Pistons on 1962-02-07"
+        },
+        {
+          "diff": 9.059576726661362,
+          "newRating": 1209.7027788720866,
+          "result": "W 113-109 vs Los Angeles Lakers on 1962-02-08"
+        },
+        {
+          "diff": 3.971444090513387,
+          "newRating": 1213.6742229626,
+          "result": "W 134-118 vs St. Louis Hawks on 1962-02-10"
+        },
+        {
+          "diff": -8.914634198252998,
+          "newRating": 1204.759588764347,
+          "result": "L 109-129 vs St. Louis Hawks on 1962-02-11"
+        },
+        {
+          "diff": 7.898648425486499,
+          "newRating": 1212.6582371898335,
+          "result": "W 152-132 vs Philadelphia Warriors on 1962-02-13"
+        },
+        {
+          "diff": -10.13305946884725,
+          "newRating": 1202.5251777209862,
+          "result": "L 121-125 vs Chicago Packers on 1962-02-14"
+        },
+        {
+          "diff": -4.69211411899073,
+          "newRating": 1197.8330636019955,
+          "result": "L 132-136 vs Philadelphia Warriors on 1962-02-16"
+        },
+        {
+          "diff": -6.598779834634115,
+          "newRating": 1191.2342837673614,
+          "result": "L 113-123 vs Detroit Pistons on 1962-02-17"
+        },
+        {
+          "diff": 2.4558433949785012,
+          "newRating": 1193.6901271623399,
+          "result": "W 138-121 vs Chicago Packers on 1962-02-18"
+        },
+        {
+          "diff": 4.065923347389344,
+          "newRating": 1197.7560505097292,
+          "result": "W 129-109 vs St. Louis Hawks on 1962-02-20"
+        },
+        {
+          "diff": 2.271043473286227,
+          "newRating": 1200.0270939830154,
+          "result": "W 153-125 vs Chicago Packers on 1962-02-21"
+        },
+        {
+          "diff": 5.139980172678406,
+          "newRating": 1205.1670741556939,
+          "result": "W 134-120 vs Detroit Pistons on 1962-02-23"
+        },
+        {
+          "diff": 7.375728604237338,
+          "newRating": 1212.5428027599312,
+          "result": "W 118-114 vs Los Angeles Lakers on 1962-02-24"
+        },
+        {
+          "diff": 2.0718836202681814,
+          "newRating": 1214.6146863801994,
+          "result": "W 108-105 vs Chicago Packers on 1962-02-25"
+        },
+        {
+          "diff": -2.5584413272224538,
+          "newRating": 1212.056245052977,
+          "result": "L 123-129 vs Boston Celtics on 1962-02-28"
+        },
+        {
+          "diff": -5.907414007186617,
+          "newRating": 1206.1488310457903,
+          "result": "L 108-137 vs Syracuse Nationals on 1962-03-01"
+        },
+        {
+          "diff": 4.427006205000225,
+          "newRating": 1210.5758372507905,
+          "result": "W 120-112 vs Detroit Pistons on 1962-03-02"
+        },
+        {
+          "diff": 1.941021992614651,
+          "newRating": 1212.5168592434052,
+          "result": "W 126-119 vs Chicago Packers on 1962-03-03"
+        },
+        {
+          "diff": -7.047017978933582,
+          "newRating": 1205.4698412644716,
+          "result": "L 110-116 vs St. Louis Hawks on 1962-03-10"
+        },
+        {
+          "diff": -3.6233413404825114,
+          "newRating": 1201.846499923989,
+          "result": "L 111-120 vs Los Angeles Lakers on 1962-03-13"
+        },
+        {
+          "diff": 3.3088316792075148,
+          "newRating": 1205.1553316031966,
+          "result": "W 136-134 vs New York Knicks on 1962-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Syracuse Nationals",
+      "rating": 1188.5133524587045,
+      "wins": 41,
+      "losses": 39,
+      "log": [
+        {
+          "diff": 72.72727272727275,
+          "newRating": 1272.7272727272727,
+          "result": "W 123-103 vs Chicago Packers on 1961-10-21"
+        },
+        {
+          "diff": -379.0331674190036,
+          "newRating": 893.6941053082692,
+          "result": "L 107-110 vs St. Louis Hawks on 1961-10-26"
+        },
+        {
+          "diff": 255.5908311805233,
+          "newRating": 1149.2849364887925,
+          "result": "W 126-122 vs Philadelphia Warriors on 1961-10-27"
+        },
+        {
+          "diff": -72.52270048226114,
+          "newRating": 1076.7622360065313,
+          "result": "L 115-119 vs Philadelphia Warriors on 1961-10-28"
+        },
+        {
+          "diff": -72.16139976878549,
+          "newRating": 1004.6008362377459,
+          "result": "L 132-139 vs Cincinnati Royals on 1961-10-29"
+        },
+        {
+          "diff": 59.34874488559376,
+          "newRating": 1063.9495811233396,
+          "result": "W 107-90 vs St. Louis Hawks on 1961-10-31"
+        },
+        {
+          "diff": -81.33828344733433,
+          "newRating": 982.6112976760053,
+          "result": "L 94-106 vs St. Louis Hawks on 1961-11-03"
+        },
+        {
+          "diff": -1.5399853322437593,
+          "newRating": 981.0713123437615,
+          "result": "L 107-127 vs Boston Celtics on 1961-11-04"
+        },
+        {
+          "diff": -11.392501972832747,
+          "newRating": 969.6788103709288,
+          "result": "L 108-151 vs Philadelphia Warriors on 1961-11-09"
+        },
+        {
+          "diff": 49.86971047580198,
+          "newRating": 1019.5485208467308,
+          "result": "W 135-109 vs New York Knicks on 1961-11-11"
+        },
+        {
+          "diff": -12.100685910869856,
+          "newRating": 1007.4478349358609,
+          "result": "L 115-119 vs Cincinnati Royals on 1961-11-14"
+        },
+        {
+          "diff": 38.98314965396992,
+          "newRating": 1046.4309845898308,
+          "result": "W 114-102 vs New York Knicks on 1961-11-15"
+        },
+        {
+          "diff": 48.0362309163454,
+          "newRating": 1094.4672155061762,
+          "result": "W 148-130 vs Philadelphia Warriors on 1961-11-18"
+        },
+        {
+          "diff": -36.11326183551705,
+          "newRating": 1058.3539536706592,
+          "result": "L 109-110 vs New York Knicks on 1961-11-22"
+        },
+        {
+          "diff": 37.91592524386601,
+          "newRating": 1096.2698789145252,
+          "result": "W 117-99 vs Cincinnati Royals on 1961-11-23"
+        },
+        {
+          "diff": -18.88023356422218,
+          "newRating": 1077.389645350303,
+          "result": "L 125-127 vs Cincinnati Royals on 1961-11-24"
+        },
+        {
+          "diff": -25.769789103712128,
+          "newRating": 1051.6198562465909,
+          "result": "L 108-141 vs St. Louis Hawks on 1961-11-25"
+        },
+        {
+          "diff": 38.39765424992129,
+          "newRating": 1090.0175104965122,
+          "result": "W 121-111 vs Los Angeles Lakers on 1961-11-28"
+        },
+        {
+          "diff": 29.536860285328657,
+          "newRating": 1119.5543707818408,
+          "result": "W 136-122 vs Cincinnati Royals on 1961-11-29"
+        },
+        {
+          "diff": -25.880734124203627,
+          "newRating": 1093.6736366576372,
+          "result": "L 100-118 vs New York Knicks on 1961-12-01"
+        },
+        {
+          "diff": 9.828840049388873,
+          "newRating": 1103.502476707026,
+          "result": "W 132-118 vs Chicago Packers on 1961-12-02"
+        },
+        {
+          "diff": -7.63632672265976,
+          "newRating": 1095.8661499843663,
+          "result": "L 120-131 vs Los Angeles Lakers on 1961-12-04"
+        },
+        {
+          "diff": -6.830005751410454,
+          "newRating": 1089.0361442329558,
+          "result": "L 120-125 vs Los Angeles Lakers on 1961-12-05"
+        },
+        {
+          "diff": -6.157421815582666,
+          "newRating": 1082.8787224173732,
+          "result": "L 121-123 vs Los Angeles Lakers on 1961-12-06"
+        },
+        {
+          "diff": -2.0718474343486832,
+          "newRating": 1080.8068749830245,
+          "result": "L 111-123 vs Boston Celtics on 1961-12-08"
+        },
+        {
+          "diff": -1.9440359121570054,
+          "newRating": 1078.8628390708675,
+          "result": "L 102-106 vs Boston Celtics on 1961-12-09"
+        },
+        {
+          "diff": 11.48478717705484,
+          "newRating": 1090.3476262479223,
+          "result": "W 126-124 vs New York Knicks on 1961-12-12"
+        },
+        {
+          "diff": -8.080098245113959,
+          "newRating": 1082.2675280028084,
+          "result": "L 126-136 vs Cincinnati Royals on 1961-12-13"
+        },
+        {
+          "diff": -7.465506361902726,
+          "newRating": 1074.8020216409057,
+          "result": "L 125-136 vs Philadelphia Warriors on 1961-12-14"
+        },
+        {
+          "diff": 22.228337163069455,
+          "newRating": 1097.030358803975,
+          "result": "W 128-123 vs Los Angeles Lakers on 1961-12-16"
+        },
+        {
+          "diff": 15.110618499614702,
+          "newRating": 1112.1409773035898,
+          "result": "W 124-111 vs Detroit Pistons on 1961-12-19"
+        },
+        {
+          "diff": -1.9659562255887977,
+          "newRating": 1110.175021078001,
+          "result": "L 122-127 vs Boston Celtics on 1961-12-25"
+        },
+        {
+          "diff": -7.04263833479672,
+          "newRating": 1103.1323827432043,
+          "result": "L 111-118 vs Philadelphia Warriors on 1961-12-26"
+        },
+        {
+          "diff": -4.264224247737047,
+          "newRating": 1098.8681584954672,
+          "result": "L 111-119 vs Los Angeles Lakers on 1961-12-27"
+        },
+        {
+          "diff": -3.988829646081058,
+          "newRating": 1094.8793288493862,
+          "result": "L 114-121 vs Los Angeles Lakers on 1961-12-28"
+        },
+        {
+          "diff": 12.388709436955878,
+          "newRating": 1107.268038286342,
+          "result": "W 109-108 vs Detroit Pistons on 1961-12-30"
+        },
+        {
+          "diff": 13.629588636856852,
+          "newRating": 1120.897626923199,
+          "result": "W 110-106 vs Cincinnati Royals on 1962-01-01"
+        },
+        {
+          "diff": 5.973346712940611,
+          "newRating": 1126.8709736361395,
+          "result": "W 127-102 vs Chicago Packers on 1962-01-02"
+        },
+        {
+          "diff": -10.59872917589314,
+          "newRating": 1116.2722444602464,
+          "result": "L 135-138 vs Detroit Pistons on 1962-01-05"
+        },
+        {
+          "diff": 5.626820394873221,
+          "newRating": 1121.8990648551196,
+          "result": "W 120-102 vs Chicago Packers on 1962-01-06"
+        },
+        {
+          "diff": 7.711375234097659,
+          "newRating": 1129.6104400892173,
+          "result": "W 123-116 vs New York Knicks on 1962-01-07"
+        },
+        {
+          "diff": 12.92478459678864,
+          "newRating": 1142.535224686006,
+          "result": "W 129-120 vs Philadelphia Warriors on 1962-01-09"
+        },
+        {
+          "diff": 7.35984540339723,
+          "newRating": 1149.8950700894031,
+          "result": "W 134-122 vs St. Louis Hawks on 1962-01-10"
+        },
+        {
+          "diff": 16.099317934230612,
+          "newRating": 1165.9943880236337,
+          "result": "W 127-117 vs Boston Celtics on 1962-01-13"
+        },
+        {
+          "diff": 6.035565087159284,
+          "newRating": 1172.029953110793,
+          "result": "W 141-118 vs New York Knicks on 1962-01-14"
+        },
+        {
+          "diff": 3.783530233132751,
+          "newRating": 1175.8134833439258,
+          "result": "W 118-111 vs Chicago Packers on 1962-01-18"
+        },
+        {
+          "diff": -2.352872834264872,
+          "newRating": 1173.460610509661,
+          "result": "L 103-128 vs Boston Celtics on 1962-01-19"
+        },
+        {
+          "diff": -2.248801567714054,
+          "newRating": 1171.2118089419469,
+          "result": "L 101-107 vs Boston Celtics on 1962-01-20"
+        },
+        {
+          "diff": -6.397770730664888,
+          "newRating": 1164.814038211282,
+          "result": "L 132-139 vs Philadelphia Warriors on 1962-01-21"
+        },
+        {
+          "diff": -10.345007077214177,
+          "newRating": 1154.4690311340678,
+          "result": "L 107-115 vs St. Louis Hawks on 1962-01-23"
+        },
+        {
+          "diff": -8.518561528446753,
+          "newRating": 1145.950469605621,
+          "result": "L 102-111 vs Detroit Pistons on 1962-01-24"
+        },
+        {
+          "diff": -7.979048980383595,
+          "newRating": 1137.9714206252374,
+          "result": "L 100-101 vs Detroit Pistons on 1962-01-25"
+        },
+        {
+          "diff": 3.454797299775464,
+          "newRating": 1141.426217925013,
+          "result": "W 107-102 vs Chicago Packers on 1962-01-27"
+        },
+        {
+          "diff": -5.520067585674269,
+          "newRating": 1135.9061503393386,
+          "result": "L 131-139 vs Cincinnati Royals on 1962-01-28"
+        },
+        {
+          "diff": 5.574459389917365,
+          "newRating": 1141.480609729256,
+          "result": "W 138-109 vs New York Knicks on 1962-01-31"
+        },
+        {
+          "diff": 5.982344212385442,
+          "newRating": 1147.4629539416414,
+          "result": "W 135-101 vs St. Louis Hawks on 1962-02-02"
+        },
+        {
+          "diff": 9.566959311324354,
+          "newRating": 1157.0299132529658,
+          "result": "W 134-112 vs Philadelphia Warriors on 1962-02-03"
+        },
+        {
+          "diff": -4.721355706302347,
+          "newRating": 1152.3085575466635,
+          "result": "L 117-128 vs Philadelphia Warriors on 1962-02-04"
+        },
+        {
+          "diff": 3.0960508068010313,
+          "newRating": 1155.4046083534645,
+          "result": "W 127-123 vs Chicago Packers on 1962-02-06"
+        },
+        {
+          "diff": 11.248304679210378,
+          "newRating": 1166.6529130326749,
+          "result": "W 122-110 vs Boston Celtics on 1962-02-08"
+        },
+        {
+          "diff": -8.46560158934426,
+          "newRating": 1158.1873114433306,
+          "result": "L 111-120 vs New York Knicks on 1962-02-09"
+        },
+        {
+          "diff": 6.2847905034821,
+          "newRating": 1164.4721019468127,
+          "result": "W 132-116 vs Detroit Pistons on 1962-02-11"
+        },
+        {
+          "diff": -9.757703333589234,
+          "newRating": 1154.7143986132235,
+          "result": "L 121-126 vs Chicago Packers on 1962-02-15"
+        },
+        {
+          "diff": 3.1542745159129026,
+          "newRating": 1157.8686731291364,
+          "result": "W 132-106 vs Chicago Packers on 1962-02-16"
+        },
+        {
+          "diff": 3.021526243719336,
+          "newRating": 1160.8901993728557,
+          "result": "W 136-127 vs Chicago Packers on 1962-02-17"
+        },
+        {
+          "diff": 4.459684421673046,
+          "newRating": 1165.3498837945288,
+          "result": "W 141-126 vs New York Knicks on 1962-02-18"
+        },
+        {
+          "diff": 7.864823625701547,
+          "newRating": 1173.2147074202303,
+          "result": "W 150-109 vs Philadelphia Warriors on 1962-02-21"
+        },
+        {
+          "diff": -2.435015932191618,
+          "newRating": 1170.7796914880387,
+          "result": "L 106-134 vs Boston Celtics on 1962-02-22"
+        },
+        {
+          "diff": -2.3464222897466698,
+          "newRating": 1168.433269198292,
+          "result": "L 107-121 vs Boston Celtics on 1962-02-23"
+        },
+        {
+          "diff": 4.198138058595077,
+          "newRating": 1172.631407256887,
+          "result": "W 120-117 vs New York Knicks on 1962-02-24"
+        },
+        {
+          "diff": -2.2371059995159612,
+          "newRating": 1170.3943012573711,
+          "result": "L 106-110 vs Boston Celtics on 1962-02-25"
+        },
+        {
+          "diff": 4.1184849283365565,
+          "newRating": 1174.5127861857077,
+          "result": "W 130-120 vs New York Knicks on 1962-02-27"
+        },
+        {
+          "diff": 6.069260966287629,
+          "newRating": 1180.5820471519953,
+          "result": "W 137-108 vs Cincinnati Royals on 1962-03-01"
+        },
+        {
+          "diff": 4.866184645951762,
+          "newRating": 1185.448231797947,
+          "result": "W 128-114 vs Detroit Pistons on 1962-03-03"
+        },
+        {
+          "diff": -3.4518828591576494,
+          "newRating": 1181.9963489387894,
+          "result": "L 115-124 vs Los Angeles Lakers on 1962-03-04"
+        },
+        {
+          "diff": 3.707771483008173,
+          "newRating": 1185.7041204217976,
+          "result": "W 129-126 vs St. Louis Hawks on 1962-03-07"
+        },
+        {
+          "diff": 4.605490601054271,
+          "newRating": 1190.3096110228519,
+          "result": "W 128-111 vs Detroit Pistons on 1962-03-10"
+        },
+        {
+          "diff": 6.271557280431352,
+          "newRating": 1196.5811683032832,
+          "result": "W 148-130 vs Philadelphia Warriors on 1962-03-11"
+        },
+        {
+          "diff": -2.2666187645324953,
+          "newRating": 1194.3145495387507,
+          "result": "L 110-142 vs Boston Celtics on 1962-03-13"
+        },
+        {
+          "diff": -5.801197080046222,
+          "newRating": 1188.5133524587045,
+          "result": "L 102-105 vs Detroit Pistons on 1962-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Detroit Pistons",
+      "rating": 1143.9588949573802,
+      "wins": 37,
+      "losses": 43,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 102-137 vs Boston Celtics on 1961-10-21"
+        },
+        {
+          "diff": -9.483009557076912,
+          "newRating": 790.5169904429231,
+          "result": "L 116-120 vs Los Angeles Lakers on 1961-10-25"
+        },
+        {
+          "diff": -5.83584670415155,
+          "newRating": 784.6811437387715,
+          "result": "L 118-128 vs Los Angeles Lakers on 1961-10-27"
+        },
+        {
+          "diff": -4.152593376775485,
+          "newRating": 780.528550361996,
+          "result": "L 126-135 vs Los Angeles Lakers on 1961-10-28"
+        },
+        {
+          "diff": 154.6345171230613,
+          "newRating": 935.1630674850574,
+          "result": "W 111-95 vs New York Knicks on 1961-11-01"
+        },
+        {
+          "diff": -15.210957341865878,
+          "newRating": 919.9521101431915,
+          "result": "L 132-135 vs Philadelphia Warriors on 1961-11-04"
+        },
+        {
+          "diff": -11.274249348836179,
+          "newRating": 908.6778607943553,
+          "result": "L 128-132 vs Philadelphia Warriors on 1961-11-08"
+        },
+        {
+          "diff": 99.00600385301323,
+          "newRating": 1007.6838646473685,
+          "result": "W 116-110 vs Boston Celtics on 1961-11-09"
+        },
+        {
+          "diff": 55.878447259280506,
+          "newRating": 1063.562311906649,
+          "result": "W 124-118 vs New York Knicks on 1961-11-10"
+        },
+        {
+          "diff": -42.61294932115254,
+          "newRating": 1020.9493625854965,
+          "result": "L 119-132 vs St. Louis Hawks on 1961-11-11"
+        },
+        {
+          "diff": 40.51181373854695,
+          "newRating": 1061.4611763240434,
+          "result": "W 127-122 vs St. Louis Hawks on 1961-11-15"
+        },
+        {
+          "diff": 19.283026635973783,
+          "newRating": 1080.7442029600172,
+          "result": "W 119-112 vs Chicago Packers on 1961-11-18"
+        },
+        {
+          "diff": -18.78498194529402,
+          "newRating": 1061.9592210147232,
+          "result": "L 112-128 vs Cincinnati Royals on 1961-11-19"
+        },
+        {
+          "diff": 52.31134162530452,
+          "newRating": 1114.2705626400277,
+          "result": "W 108-102 vs Los Angeles Lakers on 1961-11-21"
+        },
+        {
+          "diff": 22.77378201623469,
+          "newRating": 1137.0443446562624,
+          "result": "W 142-135 vs St. Louis Hawks on 1961-11-24"
+        },
+        {
+          "diff": 42.52707797043104,
+          "newRating": 1179.5714226266934,
+          "result": "W 104-103 vs Los Angeles Lakers on 1961-11-25"
+        },
+        {
+          "diff": -4.6188509689156945,
+          "newRating": 1174.9525716577778,
+          "result": "L 101-107 vs Boston Celtics on 1961-11-26"
+        },
+        {
+          "diff": -4.144130410570369,
+          "newRating": 1170.8084412472074,
+          "result": "L 108-116 vs Boston Celtics on 1961-11-28"
+        },
+        {
+          "diff": -27.708997961068462,
+          "newRating": 1143.099443286139,
+          "result": "L 116-119 vs St. Louis Hawks on 1961-12-01"
+        },
+        {
+          "diff": 16.52591020117802,
+          "newRating": 1159.625353487317,
+          "result": "W 118-109 vs St. Louis Hawks on 1961-12-02"
+        },
+        {
+          "diff": 12.282746165117487,
+          "newRating": 1171.9080996524344,
+          "result": "W 133-97 vs New York Knicks on 1961-12-06"
+        },
+        {
+          "diff": 7.210692881686327,
+          "newRating": 1179.1187925341208,
+          "result": "W 133-107 vs Chicago Packers on 1961-12-08"
+        },
+        {
+          "diff": -8.951108621023877,
+          "newRating": 1170.1676839130969,
+          "result": "L 107-114 vs Los Angeles Lakers on 1961-12-09"
+        },
+        {
+          "diff": -13.021669968083188,
+          "newRating": 1157.1460139450137,
+          "result": "L 109-132 vs Philadelphia Warriors on 1961-12-12"
+        },
+        {
+          "diff": 20.594910802318964,
+          "newRating": 1177.7409247473327,
+          "result": "W 107-103 vs Cincinnati Royals on 1961-12-14"
+        },
+        {
+          "diff": -12.543471402885643,
+          "newRating": 1165.197453344447,
+          "result": "L 110-121 vs Cincinnati Royals on 1961-12-16"
+        },
+        {
+          "diff": -8.140045347209025,
+          "newRating": 1157.057407997238,
+          "result": "L 116-122 vs Los Angeles Lakers on 1961-12-17"
+        },
+        {
+          "diff": -16.72961333885928,
+          "newRating": 1140.3277946583787,
+          "result": "L 111-124 vs Syracuse Nationals on 1961-12-19"
+        },
+        {
+          "diff": -8.586752763159666,
+          "newRating": 1131.741041895219,
+          "result": "L 102-117 vs Philadelphia Warriors on 1961-12-20"
+        },
+        {
+          "diff": 17.397685967702728,
+          "newRating": 1149.1387278629218,
+          "result": "W 134-125 vs Cincinnati Royals on 1961-12-23"
+        },
+        {
+          "diff": -19.627902300728692,
+          "newRating": 1129.510825562193,
+          "result": "L 97-118 vs Chicago Packers on 1961-12-25"
+        },
+        {
+          "diff": -17.886754375095734,
+          "newRating": 1111.6240711870973,
+          "result": "L 101-108 vs Chicago Packers on 1961-12-26"
+        },
+        {
+          "diff": 7.993978604537006,
+          "newRating": 1119.6180497916343,
+          "result": "W 121-93 vs Chicago Packers on 1961-12-27"
+        },
+        {
+          "diff": 15.388231219861154,
+          "newRating": 1135.0062810114955,
+          "result": "W 131-116 vs Cincinnati Royals on 1961-12-29"
+        },
+        {
+          "diff": -12.742672563726046,
+          "newRating": 1122.2636084477695,
+          "result": "L 108-109 vs Syracuse Nationals on 1961-12-30"
+        },
+        {
+          "diff": -13.206410428030495,
+          "newRating": 1109.057198019739,
+          "result": "L 139-145 vs St. Louis Hawks on 1962-01-01"
+        },
+        {
+          "diff": -13.266928144607618,
+          "newRating": 1095.7902698751313,
+          "result": "L 104-110 vs New York Knicks on 1962-01-02"
+        },
+        {
+          "diff": 19.480352036780687,
+          "newRating": 1115.270621911912,
+          "result": "W 112-103 vs Boston Celtics on 1962-01-03"
+        },
+        {
+          "diff": 10.59872917589314,
+          "newRating": 1125.8693510878052,
+          "result": "W 138-135 vs Syracuse Nationals on 1962-01-05"
+        },
+        {
+          "diff": -12.54550393329373,
+          "newRating": 1113.3238471545114,
+          "result": "L 111-115 vs New York Knicks on 1962-01-06"
+        },
+        {
+          "diff": 8.752194912511868,
+          "newRating": 1122.0760420670233,
+          "result": "W 122-113 vs St. Louis Hawks on 1962-01-09"
+        },
+        {
+          "diff": -6.2524593840335,
+          "newRating": 1115.8235826829898,
+          "result": "L 110-113 vs Philadelphia Warriors on 1962-01-10"
+        },
+        {
+          "diff": 5.362088103959422,
+          "newRating": 1121.1856707869492,
+          "result": "W 102-99 vs Chicago Packers on 1962-01-12"
+        },
+        {
+          "diff": -6.927525105379118,
+          "newRating": 1114.25814568157,
+          "result": "L 112-119 vs Cincinnati Royals on 1962-01-13"
+        },
+        {
+          "diff": 14.479756183061227,
+          "newRating": 1128.7379018646313,
+          "result": "W 118-108 vs Los Angeles Lakers on 1962-01-14"
+        },
+        {
+          "diff": -1.9155815875199096,
+          "newRating": 1126.8223202771114,
+          "result": "L 116-126 vs Boston Celtics on 1962-01-17"
+        },
+        {
+          "diff": -5.908137452517622,
+          "newRating": 1120.9141828245938,
+          "result": "L 125-136 vs Philadelphia Warriors on 1962-01-19"
+        },
+        {
+          "diff": -5.53600951794715,
+          "newRating": 1115.3781733066467,
+          "result": "L 107-123 vs Philadelphia Warriors on 1962-01-20"
+        },
+        {
+          "diff": 14.707059754215607,
+          "newRating": 1130.0852330608623,
+          "result": "W 124-120 vs Boston Celtics on 1962-01-21"
+        },
+        {
+          "diff": -5.610465194706649,
+          "newRating": 1124.4747678661556,
+          "result": "L 106-115 vs Cincinnati Royals on 1962-01-22"
+        },
+        {
+          "diff": 8.518561528446753,
+          "newRating": 1132.9933293946024,
+          "result": "W 111-102 vs Syracuse Nationals on 1962-01-24"
+        },
+        {
+          "diff": 7.979048980383595,
+          "newRating": 1140.972378374986,
+          "result": "W 101-100 vs Syracuse Nationals on 1962-01-25"
+        },
+        {
+          "diff": 5.5483347591284655,
+          "newRating": 1146.5207131341144,
+          "result": "W 115-107 vs New York Knicks on 1962-01-27"
+        },
+        {
+          "diff": -8.807391063978002,
+          "newRating": 1137.7133220701364,
+          "result": "L 97-110 vs St. Louis Hawks on 1962-01-28"
+        },
+        {
+          "diff": -3.1695705663009903,
+          "newRating": 1134.5437515038354,
+          "result": "L 122-123 vs Los Angeles Lakers on 1962-01-31"
+        },
+        {
+          "diff": -11.065930636606254,
+          "newRating": 1123.4778208672292,
+          "result": "L 96-112 vs Chicago Packers on 1962-02-02"
+        },
+        {
+          "diff": 3.4957940550209514,
+          "newRating": 1126.9736149222501,
+          "result": "W 116-109 vs Chicago Packers on 1962-02-03"
+        },
+        {
+          "diff": 5.895735800538887,
+          "newRating": 1132.869350722789,
+          "result": "W 121-113 vs St. Louis Hawks on 1962-02-04"
+        },
+        {
+          "diff": 8.389533311880996,
+          "newRating": 1141.25888403467,
+          "result": "W 119-118 vs Cincinnati Royals on 1962-02-06"
+        },
+        {
+          "diff": 7.942618477011365,
+          "newRating": 1149.2015025116814,
+          "result": "W 113-107 vs Cincinnati Royals on 1962-02-07"
+        },
+        {
+          "diff": -6.387819855998259,
+          "newRating": 1142.8136826556831,
+          "result": "L 116-132 vs Syracuse Nationals on 1962-02-11"
+        },
+        {
+          "diff": 9.045425789595356,
+          "newRating": 1151.8591084452785,
+          "result": "W 119-110 vs Philadelphia Warriors on 1962-02-14"
+        },
+        {
+          "diff": 9.254400106363619,
+          "newRating": 1161.113508551642,
+          "result": "W 127-121 vs Los Angeles Lakers on 1962-02-16"
+        },
+        {
+          "diff": 6.908097639382731,
+          "newRating": 1168.0216061910248,
+          "result": "W 123-113 vs Cincinnati Royals on 1962-02-17"
+        },
+        {
+          "diff": 4.819901809686598,
+          "newRating": 1172.8415080007114,
+          "result": "W 119-112 vs St. Louis Hawks on 1962-02-18"
+        },
+        {
+          "diff": -7.925432214220791,
+          "newRating": 1164.9160757864906,
+          "result": "L 103-110 vs New York Knicks on 1962-02-20"
+        },
+        {
+          "diff": 4.578710863712558,
+          "newRating": 1169.4947866502032,
+          "result": "W 126-123 vs St. Louis Hawks on 1962-02-21"
+        },
+        {
+          "diff": -5.36674400382617,
+          "newRating": 1164.128042646377,
+          "result": "L 120-134 vs Cincinnati Royals on 1962-02-23"
+        },
+        {
+          "diff": -3.4147330602470447,
+          "newRating": 1160.71330958613,
+          "result": "L 99-128 vs Los Angeles Lakers on 1962-02-25"
+        },
+        {
+          "diff": -3.2752701683650685,
+          "newRating": 1157.438039417765,
+          "result": "L 100-107 vs Los Angeles Lakers on 1962-02-27"
+        },
+        {
+          "diff": -6.957427105765873,
+          "newRating": 1150.480612311999,
+          "result": "L 109-119 vs New York Knicks on 1962-02-28"
+        },
+        {
+          "diff": -4.672950994166968,
+          "newRating": 1145.807661317832,
+          "result": "L 112-120 vs Cincinnati Royals on 1962-03-02"
+        },
+        {
+          "diff": -4.932844709594747,
+          "newRating": 1140.8748166082373,
+          "result": "L 114-128 vs Syracuse Nationals on 1962-03-03"
+        },
+        {
+          "diff": 2.7378669505085327,
+          "newRating": 1143.6126835587459,
+          "result": "W 133-116 vs Chicago Packers on 1962-03-04"
+        },
+        {
+          "diff": 4.441269194562892,
+          "newRating": 1148.0539527533087,
+          "result": "W 119-112 vs New York Knicks on 1962-03-07"
+        },
+        {
+          "diff": -1.9343836310868028,
+          "newRating": 1146.119569122222,
+          "result": "L 111-130 vs Boston Celtics on 1962-03-09"
+        },
+        {
+          "diff": -4.605490601054271,
+          "newRating": 1141.5140785211677,
+          "result": "L 111-128 vs Syracuse Nationals on 1962-03-10"
+        },
+        {
+          "diff": -5.983487121498229,
+          "newRating": 1135.5305913996694,
+          "result": "L 123-126 vs St. Louis Hawks on 1962-03-11"
+        },
+        {
+          "diff": 2.6271064776644835,
+          "newRating": 1138.157697877334,
+          "result": "W 121-116 vs Chicago Packers on 1962-03-12"
+        },
+        {
+          "diff": 5.801197080046222,
+          "newRating": 1143.9588949573802,
+          "result": "W 105-102 vs Syracuse Nationals on 1962-03-14"
+        }
+      ]
+    },
+    {
+      "team": "St. Louis Hawks",
+      "rating": 1079.9122204778553,
+      "wins": 29,
+      "losses": 51,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 129-138 vs Cincinnati Royals on 1961-10-21"
+        },
+        {
+          "diff": -30.13048220039275,
+          "newRating": 769.8695177996073,
+          "result": "L 110-112 vs New York Knicks on 1961-10-24"
+        },
+        {
+          "diff": 252.68877827933568,
+          "newRating": 1022.5582960789429,
+          "result": "W 110-107 vs Syracuse Nationals on 1961-10-26"
+        },
+        {
+          "diff": -163.22989499174741,
+          "newRating": 859.3284010871955,
+          "result": "L 106-117 vs Chicago Packers on 1961-10-27"
+        },
+        {
+          "diff": 106.98054577694529,
+          "newRating": 966.3089468641408,
+          "result": "W 122-95 vs Chicago Packers on 1961-10-28"
+        },
+        {
+          "diff": -59.34874488559376,
+          "newRating": 906.960201978547,
+          "result": "L 90-107 vs Syracuse Nationals on 1961-10-31"
+        },
+        {
+          "diff": 81.33828344733433,
+          "newRating": 988.2984854258814,
+          "result": "W 106-94 vs Syracuse Nationals on 1961-11-03"
+        },
+        {
+          "diff": 73.18827504267142,
+          "newRating": 1061.4867604685528,
+          "result": "W 112-111 vs New York Knicks on 1961-11-04"
+        },
+        {
+          "diff": -11.433002519674574,
+          "newRating": 1050.0537579488782,
+          "result": "L 110-127 vs Los Angeles Lakers on 1961-11-07"
+        },
+        {
+          "diff": -9.21960079747555,
+          "newRating": 1040.8341571514027,
+          "result": "L 118-124 vs Los Angeles Lakers on 1961-11-08"
+        },
+        {
+          "diff": 38.739044837411484,
+          "newRating": 1079.5732019888142,
+          "result": "W 132-119 vs Detroit Pistons on 1961-11-11"
+        },
+        {
+          "diff": -15.83232944786414,
+          "newRating": 1063.74087254095,
+          "result": "L 126-136 vs Cincinnati Royals on 1961-11-12"
+        },
+        {
+          "diff": -2.984564385943486,
+          "newRating": 1060.7563081550065,
+          "result": "L 117-119 vs Boston Celtics on 1961-11-14"
+        },
+        {
+          "diff": -31.830710794572724,
+          "newRating": 1028.9255973604338,
+          "result": "L 122-127 vs Detroit Pistons on 1961-11-15"
+        },
+        {
+          "diff": 42.485986177473706,
+          "newRating": 1071.4115835379075,
+          "result": "W 136-133 vs Cincinnati Royals on 1961-11-18"
+        },
+        {
+          "diff": -3.0063604843624034,
+          "newRating": 1068.4052230535451,
+          "result": "L 121-141 vs Boston Celtics on 1961-11-22"
+        },
+        {
+          "diff": -5.219386066786001,
+          "newRating": 1063.185836986759,
+          "result": "L 114-122 vs Los Angeles Lakers on 1961-11-23"
+        },
+        {
+          "diff": -18.97815168019565,
+          "newRating": 1044.2076853065635,
+          "result": "L 135-142 vs Detroit Pistons on 1961-11-24"
+        },
+        {
+          "diff": 23.05717972437401,
+          "newRating": 1067.2648650309375,
+          "result": "W 141-108 vs Syracuse Nationals on 1961-11-25"
+        },
+        {
+          "diff": -10.204816747259429,
+          "newRating": 1057.060048283678,
+          "result": "L 111-121 vs Philadelphia Warriors on 1961-11-28"
+        },
+        {
+          "diff": 25.07004577430007,
+          "newRating": 1082.130094057978,
+          "result": "W 119-116 vs Detroit Pistons on 1961-12-01"
+        },
+        {
+          "diff": -15.023554728343697,
+          "newRating": 1067.1065393296344,
+          "result": "L 109-118 vs Detroit Pistons on 1961-12-02"
+        },
+        {
+          "diff": -25.217592448911546,
+          "newRating": 1041.8889468807229,
+          "result": "L 99-101 vs Chicago Packers on 1961-12-05"
+        },
+        {
+          "diff": 26.536991529894294,
+          "newRating": 1068.4259384106172,
+          "result": "W 137-132 vs Philadelphia Warriors on 1961-12-06"
+        },
+        {
+          "diff": -8.911094831970559,
+          "newRating": 1059.5148435786466,
+          "result": "L 123-128 vs Cincinnati Royals on 1961-12-08"
+        },
+        {
+          "diff": 13.636447279716549,
+          "newRating": 1073.1512908583632,
+          "result": "W 102-91 vs New York Knicks on 1961-12-09"
+        },
+        {
+          "diff": -4.529963032097385,
+          "newRating": 1068.6213278262658,
+          "result": "L 119-132 vs Los Angeles Lakers on 1961-12-11"
+        },
+        {
+          "diff": -4.185087658250268,
+          "newRating": 1064.4362401680155,
+          "result": "L 136-137 vs Los Angeles Lakers on 1961-12-13"
+        },
+        {
+          "diff": 10.147202874427194,
+          "newRating": 1074.5834430424427,
+          "result": "W 120-108 vs New York Knicks on 1961-12-15"
+        },
+        {
+          "diff": -1.5549906476940123,
+          "newRating": 1073.0284523947487,
+          "result": "L 113-130 vs Boston Celtics on 1961-12-16"
+        },
+        {
+          "diff": -16.978953175840843,
+          "newRating": 1056.0494992189078,
+          "result": "L 111-128 vs New York Knicks on 1961-12-19"
+        },
+        {
+          "diff": -3.686786105543888,
+          "newRating": 1052.362713113364,
+          "result": "L 126-129 vs Los Angeles Lakers on 1961-12-23"
+        },
+        {
+          "diff": -6.743600276505731,
+          "newRating": 1045.6191128368582,
+          "result": "L 118-129 vs Cincinnati Royals on 1961-12-26"
+        },
+        {
+          "diff": -6.1949592841458525,
+          "newRating": 1039.4241535527124,
+          "result": "L 117-142 vs Cincinnati Royals on 1961-12-27"
+        },
+        {
+          "diff": -1.1563484511229944,
+          "newRating": 1038.2678051015894,
+          "result": "L 109-117 vs Boston Celtics on 1961-12-28"
+        },
+        {
+          "diff": 9.261691526565528,
+          "newRating": 1047.529496628155,
+          "result": "W 120-103 vs Chicago Packers on 1961-12-29"
+        },
+        {
+          "diff": 8.422130649737028,
+          "newRating": 1055.951627277892,
+          "result": "W 101-92 vs Chicago Packers on 1961-12-30"
+        },
+        {
+          "diff": 12.511336194976138,
+          "newRating": 1068.462963472868,
+          "result": "W 145-139 vs Detroit Pistons on 1962-01-01"
+        },
+        {
+          "diff": -1.3339910390875502,
+          "newRating": 1067.1289724337805,
+          "result": "L 99-136 vs Boston Celtics on 1962-01-02"
+        },
+        {
+          "diff": -4.7509164263572075,
+          "newRating": 1062.3780560074233,
+          "result": "L 116-134 vs Philadelphia Warriors on 1962-01-05"
+        },
+        {
+          "diff": 15.067671590109967,
+          "newRating": 1077.4457275975333,
+          "result": "W 137-112 vs Philadelphia Warriors on 1962-01-07"
+        },
+        {
+          "diff": -8.543809319357024,
+          "newRating": 1068.9019182781763,
+          "result": "L 113-122 vs Detroit Pistons on 1962-01-09"
+        },
+        {
+          "diff": -7.35984540339723,
+          "newRating": 1061.542072874779,
+          "result": "L 122-134 vs Syracuse Nationals on 1962-01-10"
+        },
+        {
+          "diff": -9.646669447909062,
+          "newRating": 1051.89540342687,
+          "result": "L 126-128 vs New York Knicks on 1962-01-12"
+        },
+        {
+          "diff": -2.46987896043197,
+          "newRating": 1049.425524466438,
+          "result": "L 107-108 vs Los Angeles Lakers on 1962-01-13"
+        },
+        {
+          "diff": -4.897613070517991,
+          "newRating": 1044.52791139592,
+          "result": "L 114-119 vs Cincinnati Royals on 1962-01-14"
+        },
+        {
+          "diff": -4.144676357863318,
+          "newRating": 1040.3832350380567,
+          "result": "L 130-136 vs Philadelphia Warriors on 1962-01-17"
+        },
+        {
+          "diff": 6.110892658420198,
+          "newRating": 1046.4941276964769,
+          "result": "W 114-113 vs Chicago Packers on 1962-01-19"
+        },
+        {
+          "diff": 5.7033686947038404,
+          "newRating": 1052.1974963911807,
+          "result": "W 116-112 vs Chicago Packers on 1962-01-20"
+        },
+        {
+          "diff": 7.697051272944918,
+          "newRating": 1059.8945476641256,
+          "result": "W 124-113 vs New York Knicks on 1962-01-21"
+        },
+        {
+          "diff": 10.142163801190463,
+          "newRating": 1070.036711465316,
+          "result": "W 115-107 vs Syracuse Nationals on 1962-01-23"
+        },
+        {
+          "diff": 14.114848723104615,
+          "newRating": 1084.1515601884207,
+          "result": "W 135-123 vs Boston Celtics on 1962-01-24"
+        },
+        {
+          "diff": -4.094452251678604,
+          "newRating": 1080.057107936742,
+          "result": "L 110-136 vs Philadelphia Warriors on 1962-01-26"
+        },
+        {
+          "diff": 8.807391063978002,
+          "newRating": 1088.8644990007201,
+          "result": "W 110-97 vs Detroit Pistons on 1962-01-28"
+        },
+        {
+          "diff": -4.337087902846179,
+          "newRating": 1084.527411097874,
+          "result": "L 121-131 vs Cincinnati Royals on 1962-01-30"
+        },
+        {
+          "diff": -5.982344212385442,
+          "newRating": 1078.5450668854885,
+          "result": "L 101-135 vs Syracuse Nationals on 1962-02-02"
+        },
+        {
+          "diff": -2.3491889953897953,
+          "newRating": 1076.1958778900987,
+          "result": "L 124-127 vs Los Angeles Lakers on 1962-02-03"
+        },
+        {
+          "diff": -5.895735800538887,
+          "newRating": 1070.3001420895598,
+          "result": "L 113-121 vs Detroit Pistons on 1962-02-04"
+        },
+        {
+          "diff": -1.393222340834427,
+          "newRating": 1068.9069197487254,
+          "result": "L 114-129 vs Boston Celtics on 1962-02-06"
+        },
+        {
+          "diff": -4.103825560197265,
+          "newRating": 1064.8030941885281,
+          "result": "L 118-134 vs Cincinnati Royals on 1962-02-10"
+        },
+        {
+          "diff": 9.206917286720227,
+          "newRating": 1074.0100114752483,
+          "result": "W 129-109 vs Cincinnati Royals on 1962-02-11"
+        },
+        {
+          "diff": 10.513491694234517,
+          "newRating": 1084.5235031694829,
+          "result": "W 117-113 vs Los Angeles Lakers on 1962-02-12"
+        },
+        {
+          "diff": -2.59064599992098,
+          "newRating": 1081.9328571695619,
+          "result": "L 107-130 vs Los Angeles Lakers on 1962-02-14"
+        },
+        {
+          "diff": 9.56255151606706,
+          "newRating": 1091.495408685629,
+          "result": "W 128-121 vs Philadelphia Warriors on 1962-02-17"
+        },
+        {
+          "diff": -4.819901809686598,
+          "newRating": 1086.6755068759423,
+          "result": "L 112-119 vs Detroit Pistons on 1962-02-18"
+        },
+        {
+          "diff": -4.250738044997888,
+          "newRating": 1082.4247688309445,
+          "result": "L 109-129 vs Cincinnati Royals on 1962-02-20"
+        },
+        {
+          "diff": -4.578710863712558,
+          "newRating": 1077.846057967232,
+          "result": "L 123-126 vs Detroit Pistons on 1962-02-21"
+        },
+        {
+          "diff": -2.8990712911775063,
+          "newRating": 1074.9469866760544,
+          "result": "L 121-139 vs Philadelphia Warriors on 1962-02-22"
+        },
+        {
+          "diff": -5.913164339093328,
+          "newRating": 1069.033822336961,
+          "result": "L 118-130 vs New York Knicks on 1962-02-23"
+        },
+        {
+          "diff": -7.570885998116864,
+          "newRating": 1061.4629363388442,
+          "result": "L 119-129 vs Chicago Packers on 1962-02-24"
+        },
+        {
+          "diff": -2.6891385784074373,
+          "newRating": 1058.7737977604368,
+          "result": "L 137-147 vs Philadelphia Warriors on 1962-02-27"
+        },
+        {
+          "diff": 9.880805125511188,
+          "newRating": 1068.654602885948,
+          "result": "W 138-120 vs Boston Celtics on 1962-03-02"
+        },
+        {
+          "diff": 8.893566108576806,
+          "newRating": 1077.5481689945248,
+          "result": "W 134-125 vs Los Angeles Lakers on 1962-03-03"
+        },
+        {
+          "diff": -1.3833028393796667,
+          "newRating": 1076.164866155145,
+          "result": "L 120-123 vs Boston Celtics on 1962-03-04"
+        },
+        {
+          "diff": -3.757208436114979,
+          "newRating": 1072.40765771903,
+          "result": "L 126-129 vs Syracuse Nationals on 1962-03-07"
+        },
+        {
+          "diff": 3.4761710294294517,
+          "newRating": 1075.8838287484596,
+          "result": "W 124-120 vs Chicago Packers on 1962-03-09"
+        },
+        {
+          "diff": 7.138537692945647,
+          "newRating": 1083.0223664414052,
+          "result": "W 116-110 vs Cincinnati Royals on 1962-03-10"
+        },
+        {
+          "diff": 5.983487121498229,
+          "newRating": 1089.0058535629034,
+          "result": "W 126-123 vs Detroit Pistons on 1962-03-11"
+        },
+        {
+          "diff": -6.979385838272492,
+          "newRating": 1082.026467724631,
+          "result": "L 118-124 vs Chicago Packers on 1962-03-13"
+        },
+        {
+          "diff": -2.114247246775676,
+          "newRating": 1079.9122204778553,
+          "result": "L 115-125 vs Los Angeles Lakers on 1962-03-14"
+        }
+      ]
+    },
+    {
+      "team": "New York Knicks",
+      "rating": 1076.2067562883713,
+      "wins": 29,
+      "losses": 51,
+      "log": [
+        {
+          "diff": 400,
+          "newRating": 1600,
+          "result": "W 120-103 vs Chicago Packers on 1961-10-19"
+        },
+        {
+          "diff": -364.3830163818541,
+          "newRating": 1235.616983618146,
+          "result": "L 95-132 vs Philadelphia Warriors on 1961-10-21"
+        },
+        {
+          "diff": 20.08698813359524,
+          "newRating": 1255.7039717517412,
+          "result": "W 112-110 vs St. Louis Hawks on 1961-10-24"
+        },
+        {
+          "diff": 94.65744584852268,
+          "newRating": 1350.3614176002638,
+          "result": "W 120-117 vs Cincinnati Royals on 1961-10-26"
+        },
+        {
+          "diff": -30.720781652717278,
+          "newRating": 1319.6406359475466,
+          "result": "L 102-132 vs Boston Celtics on 1961-10-28"
+        },
+        {
+          "diff": 44.76696612827982,
+          "newRating": 1364.4076020758264,
+          "result": "W 131-127 vs Cincinnati Royals on 1961-10-31"
+        },
+        {
+          "diff": -110.45322651647234,
+          "newRating": 1253.954375559354,
+          "result": "L 95-111 vs Detroit Pistons on 1961-11-01"
+        },
+        {
+          "diff": -91.20918778484406,
+          "newRating": 1162.74518777451,
+          "result": "L 118-129 vs Chicago Packers on 1961-11-03"
+        },
+        {
+          "diff": -65.05624448237472,
+          "newRating": 1097.6889432921353,
+          "result": "L 111-112 vs St. Louis Hawks on 1961-11-04"
+        },
+        {
+          "diff": -25.594519527202465,
+          "newRating": 1072.0944237649328,
+          "result": "L 98-123 vs Cincinnati Royals on 1961-11-07"
+        },
+        {
+          "diff": 27.02663885801462,
+          "newRating": 1099.1210626229474,
+          "result": "W 130-108 vs Chicago Packers on 1961-11-08"
+        },
+        {
+          "diff": -41.908835444460465,
+          "newRating": 1057.212227178487,
+          "result": "L 118-124 vs Detroit Pistons on 1961-11-10"
+        },
+        {
+          "diff": -38.36131575061688,
+          "newRating": 1018.8509114278701,
+          "result": "L 109-135 vs Syracuse Nationals on 1961-11-11"
+        },
+        {
+          "diff": 48.05918811941467,
+          "newRating": 1066.9100995472847,
+          "result": "W 124-122 vs Philadelphia Warriors on 1961-11-14"
+        },
+        {
+          "diff": -31.186519723175934,
+          "newRating": 1035.7235798241088,
+          "result": "L 102-114 vs Syracuse Nationals on 1961-11-15"
+        },
+        {
+          "diff": -1.8866859420097626,
+          "newRating": 1033.836893882099,
+          "result": "L 100-104 vs Boston Celtics on 1961-11-17"
+        },
+        {
+          "diff": -33.303998969936174,
+          "newRating": 1000.5328949121629,
+          "result": "L 107-109 vs Chicago Packers on 1961-11-21"
+        },
+        {
+          "diff": 28.08809253873551,
+          "newRating": 1028.6209874508984,
+          "result": "W 110-109 vs Syracuse Nationals on 1961-11-22"
+        },
+        {
+          "diff": -3.6977746453724194,
+          "newRating": 1024.923212805526,
+          "result": "L 89-100 vs Los Angeles Lakers on 1961-11-24"
+        },
+        {
+          "diff": -1.7343685447809776,
+          "newRating": 1023.188844260745,
+          "result": "L 96-116 vs Boston Celtics on 1961-11-25"
+        },
+        {
+          "diff": -8.900263417039014,
+          "newRating": 1014.288580843706,
+          "result": "L 117-131 vs Cincinnati Royals on 1961-11-28"
+        },
+        {
+          "diff": 23.52794011291246,
+          "newRating": 1037.8165209566184,
+          "result": "W 118-100 vs Syracuse Nationals on 1961-12-01"
+        },
+        {
+          "diff": -7.204950030012242,
+          "newRating": 1030.6115709266062,
+          "result": "L 105-122 vs Philadelphia Warriors on 1961-12-05"
+        },
+        {
+          "diff": -10.747402894477887,
+          "newRating": 1019.8641680321283,
+          "result": "L 97-133 vs Detroit Pistons on 1961-12-06"
+        },
+        {
+          "diff": -14.181905170905225,
+          "newRating": 1005.6822628612231,
+          "result": "L 91-102 vs St. Louis Hawks on 1961-12-09"
+        },
+        {
+          "diff": -6.2715237578287315,
+          "newRating": 999.4107391033943,
+          "result": "L 94-134 vs Cincinnati Royals on 1961-12-10"
+        },
+        {
+          "diff": -11.484787177054727,
+          "newRating": 987.9259519263396,
+          "result": "L 124-126 vs Syracuse Nationals on 1961-12-12"
+        },
+        {
+          "diff": -17.559845546604834,
+          "newRating": 970.3661063797348,
+          "result": "L 112-113 vs Chicago Packers on 1961-12-13"
+        },
+        {
+          "diff": -10.147202874427194,
+          "newRating": 960.2189035053076,
+          "result": "L 108-120 vs St. Louis Hawks on 1961-12-15"
+        },
+        {
+          "diff": -0.819755631671228,
+          "newRating": 959.3991478736364,
+          "result": "L 109-117 vs Boston Celtics on 1961-12-17"
+        },
+        {
+          "diff": 16.978953175840843,
+          "newRating": 976.3781010494772,
+          "result": "W 128-111 vs St. Louis Hawks on 1961-12-19"
+        },
+        {
+          "diff": -0.9510514041336364,
+          "newRating": 975.4270496453436,
+          "result": "L 103-122 vs Boston Celtics on 1961-12-21"
+        },
+        {
+          "diff": -0.9118803195715373,
+          "newRating": 974.515169325772,
+          "result": "L 111-122 vs Boston Celtics on 1961-12-23"
+        },
+        {
+          "diff": 20.173018793094798,
+          "newRating": 994.6881881188668,
+          "result": "W 136-135 vs Philadelphia Warriors on 1961-12-25"
+        },
+        {
+          "diff": -3.8489873545942146,
+          "newRating": 990.8392007642726,
+          "result": "L 119-131 vs Philadelphia Warriors on 1961-12-27"
+        },
+        {
+          "diff": 21.367656040101906,
+          "newRating": 1012.2068568043745,
+          "result": "W 110-100 vs Boston Celtics on 1961-12-29"
+        },
+        {
+          "diff": 16.514398761040525,
+          "newRating": 1028.721255565415,
+          "result": "W 123-119 vs Cincinnati Royals on 1961-12-30"
+        },
+        {
+          "diff": 12.917798456591527,
+          "newRating": 1041.6390540220066,
+          "result": "W 110-104 vs Detroit Pistons on 1962-01-02"
+        },
+        {
+          "diff": -6.1976313353238766,
+          "newRating": 1035.4414226866827,
+          "result": "L 111-122 vs Cincinnati Royals on 1962-01-03"
+        },
+        {
+          "diff": 12.54550393329373,
+          "newRating": 1047.9869266199764,
+          "result": "W 115-111 vs Detroit Pistons on 1962-01-06"
+        },
+        {
+          "diff": -7.711375234097659,
+          "newRating": 1040.2755513858788,
+          "result": "L 116-123 vs Syracuse Nationals on 1962-01-07"
+        },
+        {
+          "diff": 10.106034659714169,
+          "newRating": 1050.381586045593,
+          "result": "W 128-126 vs St. Louis Hawks on 1962-01-12"
+        },
+        {
+          "diff": -6.316289044701534,
+          "newRating": 1044.0652970008914,
+          "result": "L 118-141 vs Syracuse Nationals on 1962-01-14"
+        },
+        {
+          "diff": -2.5747949478416103,
+          "newRating": 1041.4905020530498,
+          "result": "L 121-129 vs Los Angeles Lakers on 1962-01-17"
+        },
+        {
+          "diff": -2.4561962533052792,
+          "newRating": 1039.0343057997445,
+          "result": "L 107-108 vs Los Angeles Lakers on 1962-01-19"
+        },
+        {
+          "diff": -8.366360079288143,
+          "newRating": 1030.6679457204564,
+          "result": "L 113-124 vs St. Louis Hawks on 1962-01-21"
+        },
+        {
+          "diff": 6.121579726443542,
+          "newRating": 1036.7895254469,
+          "result": "W 131-94 vs Chicago Packers on 1962-01-22"
+        },
+        {
+          "diff": -10.946261113623677,
+          "newRating": 1025.8432643332762,
+          "result": "L 103-109 vs Chicago Packers on 1962-01-23"
+        },
+        {
+          "diff": 6.035103728685499,
+          "newRating": 1031.8783680619617,
+          "result": "W 117-102 vs Chicago Packers on 1962-01-25"
+        },
+        {
+          "diff": 14.830412345625291,
+          "newRating": 1046.708780407587,
+          "result": "W 129-121 vs Boston Celtics on 1962-01-26"
+        },
+        {
+          "diff": -5.7659165143884366,
+          "newRating": 1040.9428638931986,
+          "result": "L 107-115 vs Detroit Pistons on 1962-01-27"
+        },
+        {
+          "diff": 12.308139970093862,
+          "newRating": 1053.2510038632925,
+          "result": "W 116-110 vs Philadelphia Warriors on 1962-01-30"
+        },
+        {
+          "diff": -5.784816348027562,
+          "newRating": 1047.466187515265,
+          "result": "L 109-138 vs Syracuse Nationals on 1962-01-31"
+        },
+        {
+          "diff": -3.122648039154683,
+          "newRating": 1044.3435394761102,
+          "result": "L 116-129 vs Philadelphia Warriors on 1962-02-02"
+        },
+        {
+          "diff": 10.858112683643185,
+          "newRating": 1055.2016521597534,
+          "result": "W 121-110 vs Cincinnati Royals on 1962-02-03"
+        },
+        {
+          "diff": -1.372482100868183,
+          "newRating": 1053.8291700588852,
+          "result": "L 114-130 vs Boston Celtics on 1962-02-04"
+        },
+        {
+          "diff": 11.890727362287635,
+          "newRating": 1065.7198974211728,
+          "result": "W 116-112 vs Los Angeles Lakers on 1962-02-06"
+        },
+        {
+          "diff": -3.180597539145083,
+          "newRating": 1062.5392998820278,
+          "result": "L 120-136 vs Philadelphia Warriors on 1962-02-08"
+        },
+        {
+          "diff": 8.752571134745722,
+          "newRating": 1071.2918710167735,
+          "result": "W 120-111 vs Syracuse Nationals on 1962-02-09"
+        },
+        {
+          "diff": -9.113098179212557,
+          "newRating": 1062.178772837561,
+          "result": "L 111-126 vs Chicago Packers on 1962-02-10"
+        },
+        {
+          "diff": -2.70799941531277,
+          "newRating": 1059.4707734222482,
+          "result": "L 111-121 vs Philadelphia Warriors on 1962-02-11"
+        },
+        {
+          "diff": 11.459113355503632,
+          "newRating": 1070.9298867777518,
+          "result": "W 125-112 vs Boston Celtics on 1962-02-14"
+        },
+        {
+          "diff": -1.5949570708521605,
+          "newRating": 1069.3349297068996,
+          "result": "L 104-127 vs Boston Celtics on 1962-02-16"
+        },
+        {
+          "diff": -2.4492295449072117,
+          "newRating": 1066.8857001619924,
+          "result": "L 121-128 vs Los Angeles Lakers on 1962-02-17"
+        },
+        {
+          "diff": -4.528294951237285,
+          "newRating": 1062.3574052107551,
+          "result": "L 126-141 vs Syracuse Nationals on 1962-02-18"
+        },
+        {
+          "diff": 7.925432214220791,
+          "newRating": 1070.282837424976,
+          "result": "W 110-103 vs Detroit Pistons on 1962-02-20"
+        },
+        {
+          "diff": -2.292735586863728,
+          "newRating": 1067.9901018381122,
+          "result": "L 116-118 vs Los Angeles Lakers on 1962-02-22"
+        },
+        {
+          "diff": 6.0001226381978086,
+          "newRating": 1073.99022447631,
+          "result": "W 130-118 vs St. Louis Hawks on 1962-02-23"
+        },
+        {
+          "diff": -4.258980639154515,
+          "newRating": 1069.7312438371555,
+          "result": "L 117-120 vs Syracuse Nationals on 1962-02-24"
+        },
+        {
+          "diff": 8.701925022103296,
+          "newRating": 1078.4331688592588,
+          "result": "W 149-135 vs Philadelphia Warriors on 1962-02-25"
+        },
+        {
+          "diff": -4.176491758312977,
+          "newRating": 1074.2566771009458,
+          "result": "L 120-130 vs Syracuse Nationals on 1962-02-27"
+        },
+        {
+          "diff": 6.860796173741392,
+          "newRating": 1081.1174732746872,
+          "result": "W 119-109 vs Detroit Pistons on 1962-02-28"
+        },
+        {
+          "diff": -2.7976432545560783,
+          "newRating": 1078.3198300201311,
+          "result": "L 147-169 vs Philadelphia Warriors on 1962-03-02"
+        },
+        {
+          "diff": -2.695447646953653,
+          "newRating": 1075.6243823731775,
+          "result": "L 128-129 vs Philadelphia Warriors on 1962-03-04"
+        },
+        {
+          "diff": 9.324306173437208,
+          "newRating": 1084.9486885466147,
+          "result": "W 113-106 vs Boston Celtics on 1962-03-06"
+        },
+        {
+          "diff": -4.3828314420027255,
+          "newRating": 1080.565857104612,
+          "result": "L 112-119 vs Detroit Pistons on 1962-03-07"
+        },
+        {
+          "diff": 8.269042007405005,
+          "newRating": 1088.834899112017,
+          "result": "W 122-100 vs Los Angeles Lakers on 1962-03-09"
+        },
+        {
+          "diff": -7.124050880416462,
+          "newRating": 1081.7108482316005,
+          "result": "L 116-128 vs Chicago Packers on 1962-03-10"
+        },
+        {
+          "diff": -2.1952602640217265,
+          "newRating": 1079.5155879675788,
+          "result": "L 106-119 vs Los Angeles Lakers on 1962-03-12"
+        },
+        {
+          "diff": -3.3088316792075148,
+          "newRating": 1076.2067562883713,
+          "result": "L 134-136 vs Cincinnati Royals on 1962-03-14"
+        }
+      ]
+    },
+    {
+      "team": "Chicago Packers",
+      "rating": 956.156612229381,
+      "wins": 18,
+      "losses": 62,
+      "log": [
+        {
+          "diff": -400,
+          "newRating": 800,
+          "result": "L 103-120 vs New York Knicks on 1961-10-19"
+        },
+        {
+          "diff": -36.363636363636374,
+          "newRating": 763.6363636363636,
+          "result": "L 103-123 vs Syracuse Nationals on 1961-10-21"
+        },
+        {
+          "diff": 217.6398599889966,
+          "newRating": 981.2762236253602,
+          "result": "W 117-106 vs St. Louis Hawks on 1961-10-27"
+        },
+        {
+          "diff": -133.72568222118161,
+          "newRating": 847.5505414041786,
+          "result": "L 95-122 vs St. Louis Hawks on 1961-10-28"
+        },
+        {
+          "diff": 145.93470045575032,
+          "newRating": 993.4852418599289,
+          "result": "W 129-118 vs New York Knicks on 1961-11-03"
+        },
+        {
+          "diff": -12.642892234689612,
+          "newRating": 980.8423496252393,
+          "result": "L 112-125 vs Los Angeles Lakers on 1961-11-04"
+        },
+        {
+          "diff": -42.47043249116598,
+          "newRating": 938.3719171340733,
+          "result": "L 108-130 vs New York Knicks on 1961-11-08"
+        },
+        {
+          "diff": -13.52452035208239,
+          "newRating": 924.8473967819909,
+          "result": "L 117-122 vs Cincinnati Royals on 1961-11-10"
+        },
+        {
+          "diff": -10.573316405140758,
+          "newRating": 914.2740803768502,
+          "result": "L 107-117 vs Cincinnati Royals on 1961-11-11"
+        },
+        {
+          "diff": -1.7118587600979254,
+          "newRating": 912.5622216167523,
+          "result": "L 96-112 vs Boston Celtics on 1961-11-12"
+        },
+        {
+          "diff": -3.8730002405482082,
+          "newRating": 908.689221376204,
+          "result": "L 113-127 vs Los Angeles Lakers on 1961-11-13"
+        },
+        {
+          "diff": -3.4093327313513555,
+          "newRating": 905.2798886448527,
+          "result": "L 118-133 vs Los Angeles Lakers on 1961-11-15"
+        },
+        {
+          "diff": -17.799716894745075,
+          "newRating": 887.4801717501076,
+          "result": "L 112-119 vs Detroit Pistons on 1961-11-18"
+        },
+        {
+          "diff": -7.259809484012408,
+          "newRating": 880.2203622660952,
+          "result": "L 114-122 vs Philadelphia Warriors on 1961-11-19"
+        },
+        {
+          "diff": 37.744532165927694,
+          "newRating": 917.9648944320229,
+          "result": "W 109-107 vs New York Knicks on 1961-11-21"
+        },
+        {
+          "diff": -6.519194021369117,
+          "newRating": 911.4457004106538,
+          "result": "L 102-134 vs Philadelphia Warriors on 1961-11-25"
+        },
+        {
+          "diff": -1.2793448670655607,
+          "newRating": 910.1663555435882,
+          "result": "L 121-140 vs Boston Celtics on 1961-12-01"
+        },
+        {
+          "diff": -11.46698005762039,
+          "newRating": 898.6993754859678,
+          "result": "L 118-132 vs Syracuse Nationals on 1961-12-02"
+        },
+        {
+          "diff": 30.526559280261267,
+          "newRating": 929.2259347662291,
+          "result": "W 101-99 vs St. Louis Hawks on 1961-12-05"
+        },
+        {
+          "diff": -7.931762169855006,
+          "newRating": 921.2941725963741,
+          "result": "L 107-133 vs Detroit Pistons on 1961-12-08"
+        },
+        {
+          "diff": -5.273725129335162,
+          "newRating": 916.0204474670389,
+          "result": "L 113-135 vs Philadelphia Warriors on 1961-12-09"
+        },
+        {
+          "diff": -4.796600626695863,
+          "newRating": 911.2238468403431,
+          "result": "L 109-118 vs Philadelphia Warriors on 1961-12-10"
+        },
+        {
+          "diff": -4.366268508476082,
+          "newRating": 906.857578331867,
+          "result": "L 117-133 vs Cincinnati Royals on 1961-12-11"
+        },
+        {
+          "diff": 20.486486471038916,
+          "newRating": 927.3440648029059,
+          "result": "W 113-112 vs New York Knicks on 1961-12-13"
+        },
+        {
+          "diff": -0.8310740627774749,
+          "newRating": 926.5129907401284,
+          "result": "L 108-123 vs Boston Celtics on 1961-12-14"
+        },
+        {
+          "diff": 28.647871478133197,
+          "newRating": 955.1608622182616,
+          "result": "W 97-94 vs Los Angeles Lakers on 1961-12-15"
+        },
+        {
+          "diff": -4.326698011578287,
+          "newRating": 950.8341642066833,
+          "result": "L 110-112 vs Philadelphia Warriors on 1961-12-16"
+        },
+        {
+          "diff": -2.4903844918258073,
+          "newRating": 948.3437797148575,
+          "result": "L 98-102 vs Los Angeles Lakers on 1961-12-20"
+        },
+        {
+          "diff": 20.981550735261635,
+          "newRating": 969.3253304501192,
+          "result": "W 118-97 vs Detroit Pistons on 1961-12-25"
+        },
+        {
+          "diff": 19.07920466676876,
+          "newRating": 988.4045351168879,
+          "result": "W 108-101 vs Detroit Pistons on 1961-12-26"
+        },
+        {
+          "diff": -8.509719159668407,
+          "newRating": 979.8948159572195,
+          "result": "L 93-121 vs Detroit Pistons on 1961-12-27"
+        },
+        {
+          "diff": -10.419402967386304,
+          "newRating": 969.4754129898332,
+          "result": "L 103-120 vs St. Louis Hawks on 1961-12-29"
+        },
+        {
+          "diff": -9.442994970917198,
+          "newRating": 960.032418018916,
+          "result": "L 92-101 vs St. Louis Hawks on 1961-12-30"
+        },
+        {
+          "diff": -6.676093385051331,
+          "newRating": 953.3563246338647,
+          "result": "L 102-127 vs Syracuse Nationals on 1962-01-02"
+        },
+        {
+          "diff": -6.430651879855077,
+          "newRating": 946.9256727540096,
+          "result": "L 102-120 vs Syracuse Nationals on 1962-01-06"
+        },
+        {
+          "diff": -4.3897947664495405,
+          "newRating": 942.5358779875601,
+          "result": "L 113-123 vs Cincinnati Royals on 1962-01-07"
+        },
+        {
+          "diff": -4.1125844201928885,
+          "newRating": 938.4232935673672,
+          "result": "L 106-113 vs Cincinnati Royals on 1962-01-09"
+        },
+        {
+          "diff": 20.345047478750985,
+          "newRating": 958.7683410461182,
+          "result": "W 103-90 vs Boston Celtics on 1962-01-10"
+        },
+        {
+          "diff": -5.912045858211513,
+          "newRating": 952.8562951879067,
+          "result": "L 99-102 vs Detroit Pistons on 1962-01-12"
+        },
+        {
+          "diff": -3.1822952179652475,
+          "newRating": 949.6739999699414,
+          "result": "L 117-135 vs Philadelphia Warriors on 1962-01-13"
+        },
+        {
+          "diff": -4.244936359124608,
+          "newRating": 945.4290636108168,
+          "result": "L 111-118 vs Syracuse Nationals on 1962-01-18"
+        },
+        {
+          "diff": -6.983877323908814,
+          "newRating": 938.445186286908,
+          "result": "L 113-114 vs St. Louis Hawks on 1962-01-19"
+        },
+        {
+          "diff": -6.499187582336845,
+          "newRating": 931.9459987045711,
+          "result": "L 112-116 vs St. Louis Hawks on 1962-01-20"
+        },
+        {
+          "diff": -1.4984169561365661,
+          "newRating": 930.4475817484346,
+          "result": "L 111-112 vs Los Angeles Lakers on 1962-01-21"
+        },
+        {
+          "diff": -6.393649936507586,
+          "newRating": 924.053931811927,
+          "result": "L 94-131 vs New York Knicks on 1962-01-22"
+        },
+        {
+          "diff": 11.422185509868314,
+          "newRating": 935.4761173217953,
+          "result": "W 109-103 vs New York Knicks on 1962-01-23"
+        },
+        {
+          "diff": -2.3491945674720682,
+          "newRating": 933.1269227543232,
+          "result": "L 108-122 vs Philadelphia Warriors on 1962-01-24"
+        },
+        {
+          "diff": -6.160835056366409,
+          "newRating": 926.9660876979568,
+          "result": "L 102-117 vs New York Knicks on 1962-01-25"
+        },
+        {
+          "diff": -3.7368215691449223,
+          "newRating": 923.2292661288119,
+          "result": "L 102-107 vs Syracuse Nationals on 1962-01-27"
+        },
+        {
+          "diff": -1.2139275999164738,
+          "newRating": 922.0153385288954,
+          "result": "L 109-124 vs Los Angeles Lakers on 1962-01-28"
+        },
+        {
+          "diff": -1.175407562703299,
+          "newRating": 920.8399309661921,
+          "result": "L 92-107 vs Los Angeles Lakers on 1962-01-30"
+        },
+        {
+          "diff": -0.760680683612577,
+          "newRating": 920.0792502825796,
+          "result": "L 115-122 vs Boston Celtics on 1962-01-31"
+        },
+        {
+          "diff": 11.692304068867088,
+          "newRating": 931.7715543514466,
+          "result": "W 112-96 vs Detroit Pistons on 1962-02-02"
+        },
+        {
+          "diff": -3.6900048358553477,
+          "newRating": 928.0815495155913,
+          "result": "L 109-116 vs Detroit Pistons on 1962-02-03"
+        },
+        {
+          "diff": 13.425368118506526,
+          "newRating": 941.5069176340978,
+          "result": "W 113-105 vs Los Angeles Lakers on 1962-02-04"
+        },
+        {
+          "diff": -0.7421217851618849,
+          "newRating": 940.7647958489359,
+          "result": "L 111-127 vs Boston Celtics on 1962-02-05"
+        },
+        {
+          "diff": -3.2046841684432366,
+          "newRating": 937.5601116804927,
+          "result": "L 123-127 vs Syracuse Nationals on 1962-02-06"
+        },
+        {
+          "diff": 9.427342944013049,
+          "newRating": 946.9874546245057,
+          "result": "W 126-111 vs New York Knicks on 1962-02-10"
+        },
+        {
+          "diff": -0.8463145591593957,
+          "newRating": 946.1411400653463,
+          "result": "L 115-148 vs Boston Celtics on 1962-02-11"
+        },
+        {
+          "diff": -0.8247626654366513,
+          "newRating": 945.3163773999097,
+          "result": "L 117-138 vs Boston Celtics on 1962-02-13"
+        },
+        {
+          "diff": 10.79752238483718,
+          "newRating": 956.1138997847469,
+          "result": "W 125-121 vs Cincinnati Royals on 1962-02-14"
+        },
+        {
+          "diff": 9.9150856454213,
+          "newRating": 966.0289854301682,
+          "result": "W 126-121 vs Syracuse Nationals on 1962-02-15"
+        },
+        {
+          "diff": -3.2043423653719856,
+          "newRating": 962.8246430647962,
+          "result": "L 106-132 vs Syracuse Nationals on 1962-02-16"
+        },
+        {
+          "diff": -3.068737591277454,
+          "newRating": 959.7559054735187,
+          "result": "L 127-136 vs Syracuse Nationals on 1962-02-17"
+        },
+        {
+          "diff": -2.569190013208299,
+          "newRating": 957.1867154603104,
+          "result": "L 121-138 vs Cincinnati Royals on 1962-02-18"
+        },
+        {
+          "diff": -1.651787096153157,
+          "newRating": 955.5349283641573,
+          "result": "L 107-112 vs Philadelphia Warriors on 1962-02-20"
+        },
+        {
+          "diff": -2.3727319870154133,
+          "newRating": 953.1621963771419,
+          "result": "L 125-153 vs Cincinnati Royals on 1962-02-21"
+        },
+        {
+          "diff": -1.2563323759254672,
+          "newRating": 951.9058640012164,
+          "result": "L 117-124 vs Los Angeles Lakers on 1962-02-23"
+        },
+        {
+          "diff": 7.680608983596812,
+          "newRating": 959.5864729848132,
+          "result": "W 129-119 vs St. Louis Hawks on 1962-02-24"
+        },
+        {
+          "diff": -2.16067863256535,
+          "newRating": 957.4257943522479,
+          "result": "L 105-108 vs Cincinnati Royals on 1962-02-25"
+        },
+        {
+          "diff": -0.7454087925616477,
+          "newRating": 956.6803855596862,
+          "result": "L 100-115 vs Boston Celtics on 1962-02-27"
+        },
+        {
+          "diff": -1.606026816282224,
+          "newRating": 955.074358743404,
+          "result": "L 119-128 vs Philadelphia Warriors on 1962-02-28"
+        },
+        {
+          "diff": -2.047379362073002,
+          "newRating": 953.026979381331,
+          "result": "L 119-126 vs Cincinnati Royals on 1962-03-03"
+        },
+        {
+          "diff": -2.7378669505086464,
+          "newRating": 950.2891124308223,
+          "result": "L 116-133 vs Detroit Pistons on 1962-03-04"
+        },
+        {
+          "diff": -0.7202141511492073,
+          "newRating": 949.5688982796731,
+          "result": "L 102-108 vs Boston Celtics on 1962-03-08"
+        },
+        {
+          "diff": -3.4761710294294517,
+          "newRating": 946.0927272502437,
+          "result": "L 120-124 vs St. Louis Hawks on 1962-03-09"
+        },
+        {
+          "diff": 7.216571021720483,
+          "newRating": 953.3092982719642,
+          "result": "W 128-116 vs New York Knicks on 1962-03-10"
+        },
+        {
+          "diff": -2.660787329942309,
+          "newRating": 950.6485109420219,
+          "result": "L 116-121 vs Detroit Pistons on 1962-03-12"
+        },
+        {
+          "diff": 6.979385838272492,
+          "newRating": 957.6278967802943,
+          "result": "W 124-118 vs St. Louis Hawks on 1962-03-13"
+        },
+        {
+          "diff": -1.4712845509133103,
+          "newRating": 956.156612229381,
+          "result": "L 115-119 vs Philadelphia Warriors on 1962-03-14"
+        }
+      ]
+    }
+  ]
+}
