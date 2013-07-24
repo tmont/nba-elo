@@ -1,0 +1,5837 @@
+{
+  "year": 1999,
+  "source": "http://www.basketball-reference.com/leagues/NBA_1999_games.html",
+  "teams": [
+    "Atlanta Hawks",
+    "Boston Celtics",
+    "Charlotte Hornets",
+    "Chicago Bulls",
+    "Cleveland Cavaliers",
+    "Dallas Mavericks",
+    "Denver Nuggets",
+    "Detroit Pistons",
+    "Golden State Warriors",
+    "Houston Rockets",
+    "Indiana Pacers",
+    "Los Angeles Clippers",
+    "Los Angeles Lakers",
+    "Miami Heat",
+    "Milwaukee Bucks",
+    "Minnesota Timberwolves",
+    "New Jersey Nets",
+    "New York Knicks",
+    "Orlando Magic",
+    "Philadelphia 76ers",
+    "Phoenix Suns",
+    "Portland Trail Blazers",
+    "Sacramento Kings",
+    "San Antonio Spurs",
+    "Seattle SuperSonics",
+    "Toronto Raptors",
+    "Utah Jazz",
+    "Vancouver Grizzlies",
+    "Washington Wizards"
+  ],
+  "results": [
+    {
+      "date": "1999-02-05",
+      "home": "Atlanta Hawks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 100,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050ATL.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "Boston Celtics",
+      "visitor": "Toronto Raptors",
+      "homePoints": 92,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050BOS.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "Charlotte Hornets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 66,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050CHH.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "Denver Nuggets",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 92,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050DEN.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "Indiana Pacers",
+      "visitor": "Washington Wizards",
+      "homePoints": 96,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050IND.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "Los Angeles Clippers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 92,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050LAC.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "Los Angeles Lakers",
+      "visitor": "Houston Rockets",
+      "homePoints": 99,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050LAL.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "Miami Heat",
+      "visitor": "Detroit Pistons",
+      "homePoints": 81,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050MIA.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "Orlando Magic",
+      "visitor": "New York Knicks",
+      "homePoints": 93,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050ORL.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "San Antonio Spurs",
+      "visitor": "Sacramento Kings",
+      "homePoints": 101,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050SAS.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "Seattle SuperSonics",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 92,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050SEA.html"
+    },
+    {
+      "date": "1999-02-05",
+      "home": "Utah Jazz",
+      "visitor": "Chicago Bulls",
+      "homePoints": 104,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902050UTA.html"
+    },
+    {
+      "date": "1999-02-06",
+      "home": "Atlanta Hawks",
+      "visitor": "New Jersey Nets",
+      "homePoints": 111,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902060ATL.html"
+    },
+    {
+      "date": "1999-02-06",
+      "home": "Boston Celtics",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 77,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902060BOS.html"
+    },
+    {
+      "date": "1999-02-06",
+      "home": "Charlotte Hornets",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 107,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902060CHH.html"
+    },
+    {
+      "date": "1999-02-06",
+      "home": "Golden State Warriors",
+      "visitor": "Houston Rockets",
+      "homePoints": 84,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902060GSW.html"
+    },
+    {
+      "date": "1999-02-06",
+      "home": "Philadelphia 76ers",
+      "visitor": "Orlando Magic",
+      "homePoints": 95,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902060PHI.html"
+    },
+    {
+      "date": "1999-02-06",
+      "home": "San Antonio Spurs",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 96,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902060SAS.html"
+    },
+    {
+      "date": "1999-02-06",
+      "home": "Washington Wizards",
+      "visitor": "Toronto Raptors",
+      "homePoints": 98,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902060WAS.html"
+    },
+    {
+      "date": "1999-02-07",
+      "home": "Detroit Pistons",
+      "visitor": "Indiana Pacers",
+      "homePoints": 107,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902070DET.html"
+    },
+    {
+      "date": "1999-02-07",
+      "home": "Golden State Warriors",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 99,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902070GSW.html"
+    },
+    {
+      "date": "1999-02-07",
+      "home": "Los Angeles Clippers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 84,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902070LAC.html"
+    },
+    {
+      "date": "1999-02-07",
+      "home": "Los Angeles Lakers",
+      "visitor": "Utah Jazz",
+      "homePoints": 91,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902070LAL.html"
+    },
+    {
+      "date": "1999-02-07",
+      "home": "New Jersey Nets",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 79,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902070NJN.html"
+    },
+    {
+      "date": "1999-02-07",
+      "home": "New York Knicks",
+      "visitor": "Miami Heat",
+      "homePoints": 79,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902070NYK.html"
+    },
+    {
+      "date": "1999-02-07",
+      "home": "Phoenix Suns",
+      "visitor": "Denver Nuggets",
+      "homePoints": 115,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902070PHO.html"
+    },
+    {
+      "date": "1999-02-07",
+      "home": "Sacramento Kings",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 109,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902070SAC.html"
+    },
+    {
+      "date": "1999-02-07",
+      "home": "Seattle SuperSonics",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 91,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902070SEA.html"
+    },
+    {
+      "date": "1999-02-08",
+      "home": "Charlotte Hornets",
+      "visitor": "Miami Heat",
+      "homePoints": 94,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902080CHH.html"
+    },
+    {
+      "date": "1999-02-08",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Indiana Pacers",
+      "homePoints": 89,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902080CLE.html"
+    },
+    {
+      "date": "1999-02-08",
+      "home": "Detroit Pistons",
+      "visitor": "Washington Wizards",
+      "homePoints": 106,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902080DET.html"
+    },
+    {
+      "date": "1999-02-08",
+      "home": "Houston Rockets",
+      "visitor": "Denver Nuggets",
+      "homePoints": 99,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902080HOU.html"
+    },
+    {
+      "date": "1999-02-08",
+      "home": "Orlando Magic",
+      "visitor": "Boston Celtics",
+      "homePoints": 107,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902080ORL.html"
+    },
+    {
+      "date": "1999-02-08",
+      "home": "San Antonio Spurs",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 75,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902080SAS.html"
+    },
+    {
+      "date": "1999-02-08",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 76,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902080VAN.html"
+    },
+    {
+      "date": "1999-02-09",
+      "home": "Chicago Bulls",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 71,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902090CHI.html"
+    },
+    {
+      "date": "1999-02-09",
+      "home": "Dallas Mavericks",
+      "visitor": "Utah Jazz",
+      "homePoints": 79,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902090DAL.html"
+    },
+    {
+      "date": "1999-02-09",
+      "home": "Miami Heat",
+      "visitor": "Boston Celtics",
+      "homePoints": 101,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902090MIA.html"
+    },
+    {
+      "date": "1999-02-09",
+      "home": "Minnesota Timberwolves",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 74,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902090MIN.html"
+    },
+    {
+      "date": "1999-02-09",
+      "home": "Philadelphia 76ers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 90,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902090PHI.html"
+    },
+    {
+      "date": "1999-02-09",
+      "home": "Phoenix Suns",
+      "visitor": "Sacramento Kings",
+      "homePoints": 95,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902090PHO.html"
+    },
+    {
+      "date": "1999-02-09",
+      "home": "Seattle SuperSonics",
+      "visitor": "Golden State Warriors",
+      "homePoints": 90,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902090SEA.html"
+    },
+    {
+      "date": "1999-02-09",
+      "home": "Toronto Raptors",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 77,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902090TOR.html"
+    },
+    {
+      "date": "1999-02-10",
+      "home": "Charlotte Hornets",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 77,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902100CHH.html"
+    },
+    {
+      "date": "1999-02-10",
+      "home": "Denver Nuggets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 98,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902100DEN.html"
+    },
+    {
+      "date": "1999-02-10",
+      "home": "Golden State Warriors",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 82,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902100GSW.html"
+    },
+    {
+      "date": "1999-02-10",
+      "home": "Houston Rockets",
+      "visitor": "Sacramento Kings",
+      "homePoints": 92,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902100HOU.html"
+    },
+    {
+      "date": "1999-02-10",
+      "home": "New Jersey Nets",
+      "visitor": "Orlando Magic",
+      "homePoints": 81,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902100NJN.html"
+    },
+    {
+      "date": "1999-02-10",
+      "home": "New York Knicks",
+      "visitor": "Washington Wizards",
+      "homePoints": 101,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902100NYK.html"
+    },
+    {
+      "date": "1999-02-10",
+      "home": "Portland Trail Blazers",
+      "visitor": "Indiana Pacers",
+      "homePoints": 100,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902100POR.html"
+    },
+    {
+      "date": "1999-02-10",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 105,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902100VAN.html"
+    },
+    {
+      "date": "1999-02-11",
+      "home": "Atlanta Hawks",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 100,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902110ATL.html"
+    },
+    {
+      "date": "1999-02-11",
+      "home": "Chicago Bulls",
+      "visitor": "New York Knicks",
+      "homePoints": 68,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902110CHI.html"
+    },
+    {
+      "date": "1999-02-11",
+      "home": "Cleveland Cavaliers",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 99,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902110CLE.html"
+    },
+    {
+      "date": "1999-02-11",
+      "home": "Dallas Mavericks",
+      "visitor": "Houston Rockets",
+      "homePoints": 95,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902110DAL.html"
+    },
+    {
+      "date": "1999-02-11",
+      "home": "Detroit Pistons",
+      "visitor": "Orlando Magic",
+      "homePoints": 81,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902110DET.html"
+    },
+    {
+      "date": "1999-02-11",
+      "home": "Miami Heat",
+      "visitor": "Toronto Raptors",
+      "homePoints": 102,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902110MIA.html"
+    },
+    {
+      "date": "1999-02-11",
+      "home": "Milwaukee Bucks",
+      "visitor": "New Jersey Nets",
+      "homePoints": 95,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902110MIL.html"
+    },
+    {
+      "date": "1999-02-11",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 86,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902110MIN.html"
+    },
+    {
+      "date": "1999-02-11",
+      "home": "Phoenix Suns",
+      "visitor": "Utah Jazz",
+      "homePoints": 74,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902110PHO.html"
+    },
+    {
+      "date": "1999-02-11",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Indiana Pacers",
+      "homePoints": 97,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902110VAN.html"
+    },
+    {
+      "date": "1999-02-12",
+      "home": "Denver Nuggets",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 100,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902120DEN.html"
+    },
+    {
+      "date": "1999-02-12",
+      "home": "Golden State Warriors",
+      "visitor": "Utah Jazz",
+      "homePoints": 81,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902120GSW.html"
+    },
+    {
+      "date": "1999-02-12",
+      "home": "Philadelphia 76ers",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 94,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902120PHI.html"
+    },
+    {
+      "date": "1999-02-13",
+      "home": "Phoenix Suns",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 107,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902130PHO.html"
+    },
+    {
+      "date": "1999-02-13",
+      "home": "Seattle SuperSonics",
+      "visitor": "Denver Nuggets",
+      "homePoints": 105,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902130SEA.html"
+    },
+    {
+      "date": "1999-02-14",
+      "home": "Chicago Bulls",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 76,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902140CHI.html"
+    },
+    {
+      "date": "1999-02-14",
+      "home": "Golden State Warriors",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 105,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902140GSW.html"
+    },
+    {
+      "date": "1999-02-14",
+      "home": "Los Angeles Clippers",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 73,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902140LAC.html"
+    },
+    {
+      "date": "1999-02-14",
+      "home": "Los Angeles Lakers",
+      "visitor": "Indiana Pacers",
+      "homePoints": 99,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902140LAL.html"
+    },
+    {
+      "date": "1999-02-14",
+      "home": "Orlando Magic",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 85,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902140ORL.html"
+    },
+    {
+      "date": "1999-02-14",
+      "home": "Philadelphia 76ers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 78,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902140PHI.html"
+    },
+    {
+      "date": "1999-02-14",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 96,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902140VAN.html"
+    },
+    {
+      "date": "1999-02-15",
+      "home": "Denver Nuggets",
+      "visitor": "Phoenix Suns",
+      "homePoints": 106,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902150DEN.html"
+    },
+    {
+      "date": "1999-02-15",
+      "home": "Golden State Warriors",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 101,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902150GSW.html"
+    },
+    {
+      "date": "1999-02-15",
+      "home": "Miami Heat",
+      "visitor": "New Jersey Nets",
+      "homePoints": 95,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902150MIA.html"
+    },
+    {
+      "date": "1999-02-15",
+      "home": "New York Knicks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 78,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902150NYK.html"
+    },
+    {
+      "date": "1999-02-15",
+      "home": "Portland Trail Blazers",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 99,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902150POR.html"
+    },
+    {
+      "date": "1999-02-15",
+      "home": "Utah Jazz",
+      "visitor": "Sacramento Kings",
+      "homePoints": 120,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902150UTA.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "Chicago Bulls",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 67,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160CHI.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Orlando Magic",
+      "homePoints": 90,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160CLE.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "Houston Rockets",
+      "visitor": "Phoenix Suns",
+      "homePoints": 109,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160HOU.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "Indiana Pacers",
+      "visitor": "Miami Heat",
+      "homePoints": 78,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160IND.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "Los Angeles Clippers",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 89,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160LAC.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "Los Angeles Lakers",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 116,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160LAL.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "New Jersey Nets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 97,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160NJN.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "New York Knicks",
+      "visitor": "Toronto Raptors",
+      "homePoints": 95,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160NYK.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "Philadelphia 76ers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 92,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160PHI.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "Sacramento Kings",
+      "visitor": "Boston Celtics",
+      "homePoints": 101,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160SAC.html"
+    },
+    {
+      "date": "1999-02-16",
+      "home": "Seattle SuperSonics",
+      "visitor": "Utah Jazz",
+      "homePoints": 71,
+      "visitorPoints": 56,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902160SEA.html"
+    },
+    {
+      "date": "1999-02-17",
+      "home": "Detroit Pistons",
+      "visitor": "Miami Heat",
+      "homePoints": 80,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902170DET.html"
+    },
+    {
+      "date": "1999-02-17",
+      "home": "Golden State Warriors",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 96,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902170GSW.html"
+    },
+    {
+      "date": "1999-02-17",
+      "home": "Los Angeles Lakers",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 101,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902170LAL.html"
+    },
+    {
+      "date": "1999-02-17",
+      "home": "Milwaukee Bucks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 91,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902170MIL.html"
+    },
+    {
+      "date": "1999-02-17",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Houston Rockets",
+      "homePoints": 116,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902170MIN.html"
+    },
+    {
+      "date": "1999-02-17",
+      "home": "Orlando Magic",
+      "visitor": "Washington Wizards",
+      "homePoints": 96,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902170ORL.html"
+    },
+    {
+      "date": "1999-02-17",
+      "home": "Portland Trail Blazers",
+      "visitor": "Denver Nuggets",
+      "homePoints": 100,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902170POR.html"
+    },
+    {
+      "date": "1999-02-17",
+      "home": "San Antonio Spurs",
+      "visitor": "Phoenix Suns",
+      "homePoints": 76,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902170SAS.html"
+    },
+    {
+      "date": "1999-02-17",
+      "home": "Seattle SuperSonics",
+      "visitor": "Sacramento Kings",
+      "homePoints": 106,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902170SEA.html"
+    },
+    {
+      "date": "1999-02-17",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Boston Celtics",
+      "homePoints": 129,
+      "visitorPoints": 131,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902170VAN.html"
+    },
+    {
+      "date": "1999-02-18",
+      "home": "Cleveland Cavaliers",
+      "visitor": "New York Knicks",
+      "homePoints": 98,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902180CLE.html"
+    },
+    {
+      "date": "1999-02-18",
+      "home": "Indiana Pacers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 99,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902180IND.html"
+    },
+    {
+      "date": "1999-02-18",
+      "home": "New Jersey Nets",
+      "visitor": "Houston Rockets",
+      "homePoints": 92,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902180NJN.html"
+    },
+    {
+      "date": "1999-02-18",
+      "home": "Toronto Raptors",
+      "visitor": "Washington Wizards",
+      "homePoints": 88,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902180TOR.html"
+    },
+    {
+      "date": "1999-02-18",
+      "home": "Utah Jazz",
+      "visitor": "Denver Nuggets",
+      "homePoints": 97,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902180UTA.html"
+    },
+    {
+      "date": "1999-02-19",
+      "home": "Atlanta Hawks",
+      "visitor": "Orlando Magic",
+      "homePoints": 94,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902190ATL.html"
+    },
+    {
+      "date": "1999-02-19",
+      "home": "Golden State Warriors",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 84,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902190GSW.html"
+    },
+    {
+      "date": "1999-02-19",
+      "home": "Los Angeles Lakers",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 106,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902190LAL.html"
+    },
+    {
+      "date": "1999-02-19",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 115,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902190MIN.html"
+    },
+    {
+      "date": "1999-02-19",
+      "home": "Philadelphia 76ers",
+      "visitor": "New York Knicks",
+      "homePoints": 67,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902190PHI.html"
+    },
+    {
+      "date": "1999-02-19",
+      "home": "Phoenix Suns",
+      "visitor": "Detroit Pistons",
+      "homePoints": 93,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902190PHO.html"
+    },
+    {
+      "date": "1999-02-19",
+      "home": "Portland Trail Blazers",
+      "visitor": "Boston Celtics",
+      "homePoints": 106,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902190POR.html"
+    },
+    {
+      "date": "1999-02-19",
+      "home": "Sacramento Kings",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 106,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902190SAC.html"
+    },
+    {
+      "date": "1999-02-19",
+      "home": "Toronto Raptors",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 90,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902190TOR.html"
+    },
+    {
+      "date": "1999-02-19",
+      "home": "Washington Wizards",
+      "visitor": "Chicago Bulls",
+      "homePoints": 93,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902190WAS.html"
+    },
+    {
+      "date": "1999-02-20",
+      "home": "Cleveland Cavaliers",
+      "visitor": "New Jersey Nets",
+      "homePoints": 89,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902200CLE.html"
+    },
+    {
+      "date": "1999-02-20",
+      "home": "Los Angeles Clippers",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 90,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902200LAC.html"
+    },
+    {
+      "date": "1999-02-20",
+      "home": "Miami Heat",
+      "visitor": "Houston Rockets",
+      "homePoints": 81,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902200MIA.html"
+    },
+    {
+      "date": "1999-02-20",
+      "home": "Milwaukee Bucks",
+      "visitor": "Indiana Pacers",
+      "homePoints": 80,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902200MIL.html"
+    },
+    {
+      "date": "1999-02-20",
+      "home": "Philadelphia 76ers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 69,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902200PHI.html"
+    },
+    {
+      "date": "1999-02-20",
+      "home": "Portland Trail Blazers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 90,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902200POR.html"
+    },
+    {
+      "date": "1999-02-20",
+      "home": "Utah Jazz",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 110,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902200UTA.html"
+    },
+    {
+      "date": "1999-02-21",
+      "home": "Indiana Pacers",
+      "visitor": "New Jersey Nets",
+      "homePoints": 80,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902210IND.html"
+    },
+    {
+      "date": "1999-02-21",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Sacramento Kings",
+      "homePoints": 102,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902210MIN.html"
+    },
+    {
+      "date": "1999-02-21",
+      "home": "New York Knicks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 79,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902210NYK.html"
+    },
+    {
+      "date": "1999-02-21",
+      "home": "Orlando Magic",
+      "visitor": "Houston Rockets",
+      "homePoints": 109,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902210ORL.html"
+    },
+    {
+      "date": "1999-02-21",
+      "home": "San Antonio Spurs",
+      "visitor": "Detroit Pistons",
+      "homePoints": 85,
+      "visitorPoints": 64,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902210SAS.html"
+    },
+    {
+      "date": "1999-02-21",
+      "home": "Seattle SuperSonics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 92,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902210SEA.html"
+    },
+    {
+      "date": "1999-02-21",
+      "home": "Toronto Raptors",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 102,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902210TOR.html"
+    },
+    {
+      "date": "1999-02-21",
+      "home": "Washington Wizards",
+      "visitor": "Boston Celtics",
+      "homePoints": 86,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902210WAS.html"
+    },
+    {
+      "date": "1999-02-22",
+      "home": "Atlanta Hawks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 68,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902220ATL.html"
+    },
+    {
+      "date": "1999-02-22",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 97,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902220CLE.html"
+    },
+    {
+      "date": "1999-02-22",
+      "home": "Denver Nuggets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 117,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902220DEN.html"
+    },
+    {
+      "date": "1999-02-22",
+      "home": "Minnesota Timberwolves",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 95,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902220MIN.html"
+    },
+    {
+      "date": "1999-02-22",
+      "home": "Orlando Magic",
+      "visitor": "Sacramento Kings",
+      "homePoints": 107,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902220ORL.html"
+    },
+    {
+      "date": "1999-02-22",
+      "home": "Phoenix Suns",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 101,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902220PHO.html"
+    },
+    {
+      "date": "1999-02-22",
+      "home": "Utah Jazz",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 104,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902220UTA.html"
+    },
+    {
+      "date": "1999-02-23",
+      "home": "Chicago Bulls",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 88,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902230CHI.html"
+    },
+    {
+      "date": "1999-02-23",
+      "home": "Dallas Mavericks",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 89,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902230DAL.html"
+    },
+    {
+      "date": "1999-02-23",
+      "home": "Detroit Pistons",
+      "visitor": "Toronto Raptors",
+      "homePoints": 106,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902230DET.html"
+    },
+    {
+      "date": "1999-02-23",
+      "home": "Houston Rockets",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 98,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902230HOU.html"
+    },
+    {
+      "date": "1999-02-23",
+      "home": "Los Angeles Clippers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 89,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902230LAC.html"
+    },
+    {
+      "date": "1999-02-23",
+      "home": "New York Knicks",
+      "visitor": "New Jersey Nets",
+      "homePoints": 82,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902230NYK.html"
+    },
+    {
+      "date": "1999-02-23",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 93,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902230VAN.html"
+    },
+    {
+      "date": "1999-02-23",
+      "home": "Washington Wizards",
+      "visitor": "Miami Heat",
+      "homePoints": 80,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902230WAS.html"
+    },
+    {
+      "date": "1999-02-24",
+      "home": "Boston Celtics",
+      "visitor": "Orlando Magic",
+      "homePoints": 111,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902240BOS.html"
+    },
+    {
+      "date": "1999-02-24",
+      "home": "Charlotte Hornets",
+      "visitor": "Miami Heat",
+      "homePoints": 83,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902240CHH.html"
+    },
+    {
+      "date": "1999-02-24",
+      "home": "Denver Nuggets",
+      "visitor": "Utah Jazz",
+      "homePoints": 97,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902240DEN.html"
+    },
+    {
+      "date": "1999-02-24",
+      "home": "Detroit Pistons",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 89,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902240DET.html"
+    },
+    {
+      "date": "1999-02-24",
+      "home": "Indiana Pacers",
+      "visitor": "Toronto Raptors",
+      "homePoints": 104,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902240IND.html"
+    },
+    {
+      "date": "1999-02-24",
+      "home": "New Jersey Nets",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 85,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902240NJN.html"
+    },
+    {
+      "date": "1999-02-24",
+      "home": "Philadelphia 76ers",
+      "visitor": "Sacramento Kings",
+      "homePoints": 94,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902240PHI.html"
+    },
+    {
+      "date": "1999-02-24",
+      "home": "San Antonio Spurs",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 99,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902240SAS.html"
+    },
+    {
+      "date": "1999-02-25",
+      "home": "Chicago Bulls",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 80,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902250CHI.html"
+    },
+    {
+      "date": "1999-02-25",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Indiana Pacers",
+      "homePoints": 74,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902250CLE.html"
+    },
+    {
+      "date": "1999-02-25",
+      "home": "Dallas Mavericks",
+      "visitor": "Denver Nuggets",
+      "homePoints": 90,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902250DAL.html"
+    },
+    {
+      "date": "1999-02-25",
+      "home": "Houston Rockets",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 87,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902250HOU.html"
+    },
+    {
+      "date": "1999-02-25",
+      "home": "Los Angeles Clippers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 100,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902250LAC.html"
+    },
+    {
+      "date": "1999-02-25",
+      "home": "New York Knicks",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 115,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902250NYK.html"
+    },
+    {
+      "date": "1999-02-25",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Phoenix Suns",
+      "homePoints": 86,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902250VAN.html"
+    },
+    {
+      "date": "1999-02-25",
+      "home": "Washington Wizards",
+      "visitor": "Sacramento Kings",
+      "homePoints": 105,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902250WAS.html"
+    },
+    {
+      "date": "1999-02-26",
+      "home": "Boston Celtics",
+      "visitor": "New York Knicks",
+      "homePoints": 94,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902260BOS.html"
+    },
+    {
+      "date": "1999-02-26",
+      "home": "Charlotte Hornets",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 97,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902260CHH.html"
+    },
+    {
+      "date": "1999-02-26",
+      "home": "Denver Nuggets",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 96,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902260DEN.html"
+    },
+    {
+      "date": "1999-02-26",
+      "home": "Detroit Pistons",
+      "visitor": "Miami Heat",
+      "homePoints": 95,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902260DET.html"
+    },
+    {
+      "date": "1999-02-26",
+      "home": "Golden State Warriors",
+      "visitor": "Phoenix Suns",
+      "homePoints": 94,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902260GSW.html"
+    },
+    {
+      "date": "1999-02-26",
+      "home": "Los Angeles Lakers",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 99,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902260LAL.html"
+    },
+    {
+      "date": "1999-02-26",
+      "home": "Orlando Magic",
+      "visitor": "Indiana Pacers",
+      "homePoints": 103,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902260ORL.html"
+    },
+    {
+      "date": "1999-02-26",
+      "home": "Seattle SuperSonics",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 92,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902260SEA.html"
+    },
+    {
+      "date": "1999-02-26",
+      "home": "Toronto Raptors",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 102,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902260TOR.html"
+    },
+    {
+      "date": "1999-02-26",
+      "home": "Utah Jazz",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 80,
+      "visitorPoints": 65,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902260UTA.html"
+    },
+    {
+      "date": "1999-02-27",
+      "home": "Chicago Bulls",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 94,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902270CHI.html"
+    },
+    {
+      "date": "1999-02-27",
+      "home": "Dallas Mavericks",
+      "visitor": "Sacramento Kings",
+      "homePoints": 97,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902270DAL.html"
+    },
+    {
+      "date": "1999-02-27",
+      "home": "Los Angeles Clippers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 74,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902270LAC.html"
+    },
+    {
+      "date": "1999-02-27",
+      "home": "New Jersey Nets",
+      "visitor": "Boston Celtics",
+      "homePoints": 92,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902270NJN.html"
+    },
+    {
+      "date": "1999-02-27",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Houston Rockets",
+      "homePoints": 74,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902270VAN.html"
+    },
+    {
+      "date": "1999-02-27",
+      "home": "Washington Wizards",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 81,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902270WAS.html"
+    },
+    {
+      "date": "1999-02-28",
+      "home": "Denver Nuggets",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 116,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902280DEN.html"
+    },
+    {
+      "date": "1999-02-28",
+      "home": "Detroit Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 89,
+      "visitorPoints": 68,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902280DET.html"
+    },
+    {
+      "date": "1999-02-28",
+      "home": "Los Angeles Lakers",
+      "visitor": "Houston Rockets",
+      "homePoints": 106,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902280LAL.html"
+    },
+    {
+      "date": "1999-02-28",
+      "home": "Miami Heat",
+      "visitor": "Orlando Magic",
+      "homePoints": 84,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902280MIA.html"
+    },
+    {
+      "date": "1999-02-28",
+      "home": "Milwaukee Bucks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 76,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902280MIL.html"
+    },
+    {
+      "date": "1999-02-28",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 93,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902280MIN.html"
+    },
+    {
+      "date": "1999-02-28",
+      "home": "Phoenix Suns",
+      "visitor": "Golden State Warriors",
+      "homePoints": 102,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902280PHO.html"
+    },
+    {
+      "date": "1999-02-28",
+      "home": "San Antonio Spurs",
+      "visitor": "Utah Jazz",
+      "homePoints": 87,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902280SAS.html"
+    },
+    {
+      "date": "1999-02-28",
+      "home": "Toronto Raptors",
+      "visitor": "Chicago Bulls",
+      "homePoints": 88,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199902280TOR.html"
+    },
+    {
+      "date": "1999-03-01",
+      "home": "Boston Celtics",
+      "visitor": "New Jersey Nets",
+      "homePoints": 97,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903010BOS.html"
+    },
+    {
+      "date": "1999-03-01",
+      "home": "Charlotte Hornets",
+      "visitor": "Toronto Raptors",
+      "homePoints": 91,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903010CHH.html"
+    },
+    {
+      "date": "1999-03-01",
+      "home": "New York Knicks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 85,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903010NYK.html"
+    },
+    {
+      "date": "1999-03-01",
+      "home": "Orlando Magic",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 70,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903010ORL.html"
+    },
+    {
+      "date": "1999-03-01",
+      "home": "Phoenix Suns",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 91,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903010PHO.html"
+    },
+    {
+      "date": "1999-03-01",
+      "home": "Sacramento Kings",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 102,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903010SAC.html"
+    },
+    {
+      "date": "1999-03-01",
+      "home": "Washington Wizards",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 91,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903010WAS.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "Atlanta Hawks",
+      "visitor": "Washington Wizards",
+      "homePoints": 77,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020ATL.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "Chicago Bulls",
+      "visitor": "Detroit Pistons",
+      "homePoints": 78,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020CHI.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Boston Celtics",
+      "homePoints": 116,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020CLE.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "Dallas Mavericks",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 112,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020DAL.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "Houston Rockets",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 82,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020HOU.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "Indiana Pacers",
+      "visitor": "Denver Nuggets",
+      "homePoints": 88,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020IND.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "Miami Heat",
+      "visitor": "New York Knicks",
+      "homePoints": 85,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020MIA.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Golden State Warriors",
+      "homePoints": 89,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020MIN.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "New Jersey Nets",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 86,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020NJN.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "Portland Trail Blazers",
+      "visitor": "Utah Jazz",
+      "homePoints": 102,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020POR.html"
+    },
+    {
+      "date": "1999-03-02",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Sacramento Kings",
+      "homePoints": 101,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903020VAN.html"
+    },
+    {
+      "date": "1999-03-03",
+      "home": "Los Angeles Lakers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 101,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903030LAL.html"
+    },
+    {
+      "date": "1999-03-03",
+      "home": "Milwaukee Bucks",
+      "visitor": "Golden State Warriors",
+      "homePoints": 106,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903030MIL.html"
+    },
+    {
+      "date": "1999-03-03",
+      "home": "Orlando Magic",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 93,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903030ORL.html"
+    },
+    {
+      "date": "1999-03-03",
+      "home": "Philadelphia 76ers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 102,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903030PHI.html"
+    },
+    {
+      "date": "1999-03-03",
+      "home": "Sacramento Kings",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 93,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903030SAC.html"
+    },
+    {
+      "date": "1999-03-03",
+      "home": "Utah Jazz",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 109,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903030UTA.html"
+    },
+    {
+      "date": "1999-03-03",
+      "home": "Washington Wizards",
+      "visitor": "Indiana Pacers",
+      "homePoints": 95,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903030WAS.html"
+    },
+    {
+      "date": "1999-03-04",
+      "home": "Atlanta Hawks",
+      "visitor": "Toronto Raptors",
+      "homePoints": 77,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903040ATL.html"
+    },
+    {
+      "date": "1999-03-04",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 84,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903040CLE.html"
+    },
+    {
+      "date": "1999-03-04",
+      "home": "Dallas Mavericks",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 79,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903040DAL.html"
+    },
+    {
+      "date": "1999-03-04",
+      "home": "Houston Rockets",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 96,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903040HOU.html"
+    },
+    {
+      "date": "1999-03-04",
+      "home": "Miami Heat",
+      "visitor": "Denver Nuggets",
+      "homePoints": 95,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903040MIA.html"
+    },
+    {
+      "date": "1999-03-04",
+      "home": "New Jersey Nets",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 82,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903040NJN.html"
+    },
+    {
+      "date": "1999-03-04",
+      "home": "Seattle SuperSonics",
+      "visitor": "Phoenix Suns",
+      "homePoints": 93,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903040SEA.html"
+    },
+    {
+      "date": "1999-03-04",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 93,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903040VAN.html"
+    },
+    {
+      "date": "1999-03-05",
+      "home": "Boston Celtics",
+      "visitor": "Denver Nuggets",
+      "homePoints": 102,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903050BOS.html"
+    },
+    {
+      "date": "1999-03-05",
+      "home": "Indiana Pacers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 83,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903050IND.html"
+    },
+    {
+      "date": "1999-03-05",
+      "home": "Los Angeles Lakers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 103,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903050LAL.html"
+    },
+    {
+      "date": "1999-03-05",
+      "home": "Milwaukee Bucks",
+      "visitor": "New York Knicks",
+      "homePoints": 88,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903050MIL.html"
+    },
+    {
+      "date": "1999-03-05",
+      "home": "Philadelphia 76ers",
+      "visitor": "Miami Heat",
+      "homePoints": 78,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903050PHI.html"
+    },
+    {
+      "date": "1999-03-05",
+      "home": "Portland Trail Blazers",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 97,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903050POR.html"
+    },
+    {
+      "date": "1999-03-05",
+      "home": "Toronto Raptors",
+      "visitor": "Orlando Magic",
+      "homePoints": 84,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903050TOR.html"
+    },
+    {
+      "date": "1999-03-05",
+      "home": "Utah Jazz",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 106,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903050UTA.html"
+    },
+    {
+      "date": "1999-03-05",
+      "home": "Washington Wizards",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 86,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903050WAS.html"
+    },
+    {
+      "date": "1999-03-06",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 97,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903060CLE.html"
+    },
+    {
+      "date": "1999-03-06",
+      "home": "Orlando Magic",
+      "visitor": "Detroit Pistons",
+      "homePoints": 87,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903060ORL.html"
+    },
+    {
+      "date": "1999-03-06",
+      "home": "Phoenix Suns",
+      "visitor": "Sacramento Kings",
+      "homePoints": 99,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903060PHO.html"
+    },
+    {
+      "date": "1999-03-06",
+      "home": "San Antonio Spurs",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 114,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903060SAS.html"
+    },
+    {
+      "date": "1999-03-06",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Houston Rockets",
+      "homePoints": 92,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903060VAN.html"
+    },
+    {
+      "date": "1999-03-07",
+      "home": "Denver Nuggets",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 96,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903070DEN.html"
+    },
+    {
+      "date": "1999-03-07",
+      "home": "Indiana Pacers",
+      "visitor": "Miami Heat",
+      "homePoints": 85,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903070IND.html"
+    },
+    {
+      "date": "1999-03-07",
+      "home": "New York Knicks",
+      "visitor": "New Jersey Nets",
+      "homePoints": 97,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903070NYK.html"
+    },
+    {
+      "date": "1999-03-07",
+      "home": "Philadelphia 76ers",
+      "visitor": "Washington Wizards",
+      "homePoints": 95,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903070PHI.html"
+    },
+    {
+      "date": "1999-03-07",
+      "home": "Portland Trail Blazers",
+      "visitor": "Houston Rockets",
+      "homePoints": 111,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903070POR.html"
+    },
+    {
+      "date": "1999-03-07",
+      "home": "Sacramento Kings",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 94,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903070SAC.html"
+    },
+    {
+      "date": "1999-03-07",
+      "home": "Seattle SuperSonics",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 77,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903070SEA.html"
+    },
+    {
+      "date": "1999-03-07",
+      "home": "Toronto Raptors",
+      "visitor": "Boston Celtics",
+      "homePoints": 105,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903070TOR.html"
+    },
+    {
+      "date": "1999-03-07",
+      "home": "Utah Jazz",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 89,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903070UTA.html"
+    },
+    {
+      "date": "1999-03-08",
+      "home": "Detroit Pistons",
+      "visitor": "Washington Wizards",
+      "homePoints": 75,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903080DET.html"
+    },
+    {
+      "date": "1999-03-08",
+      "home": "Miami Heat",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 91,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903080MIA.html"
+    },
+    {
+      "date": "1999-03-08",
+      "home": "Milwaukee Bucks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 81,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903080MIL.html"
+    },
+    {
+      "date": "1999-03-08",
+      "home": "Orlando Magic",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 110,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903080ORL.html"
+    },
+    {
+      "date": "1999-03-08",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 73,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903080VAN.html"
+    },
+    {
+      "date": "1999-03-09",
+      "home": "Charlotte Hornets",
+      "visitor": "Boston Celtics",
+      "homePoints": 105,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903090CHH.html"
+    },
+    {
+      "date": "1999-03-09",
+      "home": "Chicago Bulls",
+      "visitor": "New Jersey Nets",
+      "homePoints": 103,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903090CHI.html"
+    },
+    {
+      "date": "1999-03-09",
+      "home": "Dallas Mavericks",
+      "visitor": "Phoenix Suns",
+      "homePoints": 91,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903090DAL.html"
+    },
+    {
+      "date": "1999-03-09",
+      "home": "Golden State Warriors",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 92,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903090GSW.html"
+    },
+    {
+      "date": "1999-03-09",
+      "home": "Houston Rockets",
+      "visitor": "Denver Nuggets",
+      "homePoints": 84,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903090HOU.html"
+    },
+    {
+      "date": "1999-03-09",
+      "home": "Los Angeles Clippers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 99,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903090LAC.html"
+    },
+    {
+      "date": "1999-03-09",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 85,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903090MIN.html"
+    },
+    {
+      "date": "1999-03-09",
+      "home": "New York Knicks",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 86,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903090NYK.html"
+    },
+    {
+      "date": "1999-03-09",
+      "home": "Portland Trail Blazers",
+      "visitor": "Sacramento Kings",
+      "homePoints": 103,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903090POR.html"
+    },
+    {
+      "date": "1999-03-09",
+      "home": "Utah Jazz",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 88,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903090UTA.html"
+    },
+    {
+      "date": "1999-03-10",
+      "home": "Indiana Pacers",
+      "visitor": "New Jersey Nets",
+      "homePoints": 93,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903100IND.html"
+    },
+    {
+      "date": "1999-03-10",
+      "home": "Los Angeles Lakers",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 94,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903100LAL.html"
+    },
+    {
+      "date": "1999-03-10",
+      "home": "Miami Heat",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 88,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903100MIA.html"
+    },
+    {
+      "date": "1999-03-10",
+      "home": "Milwaukee Bucks",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 101,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903100MIL.html"
+    },
+    {
+      "date": "1999-03-10",
+      "home": "Philadelphia 76ers",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 85,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903100PHI.html"
+    },
+    {
+      "date": "1999-03-10",
+      "home": "Phoenix Suns",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 73,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903100PHO.html"
+    },
+    {
+      "date": "1999-03-10",
+      "home": "San Antonio Spurs",
+      "visitor": "Orlando Magic",
+      "homePoints": 81,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903100SAS.html"
+    },
+    {
+      "date": "1999-03-10",
+      "home": "Washington Wizards",
+      "visitor": "Detroit Pistons",
+      "homePoints": 97,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903100WAS.html"
+    },
+    {
+      "date": "1999-03-11",
+      "home": "Atlanta Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 99,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903110ATL.html"
+    },
+    {
+      "date": "1999-03-11",
+      "home": "Chicago Bulls",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 83,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903110CHI.html"
+    },
+    {
+      "date": "1999-03-11",
+      "home": "Dallas Mavericks",
+      "visitor": "Orlando Magic",
+      "homePoints": 93,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903110DAL.html"
+    },
+    {
+      "date": "1999-03-11",
+      "home": "Golden State Warriors",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 89,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903110GSW.html"
+    },
+    {
+      "date": "1999-03-11",
+      "home": "Houston Rockets",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 102,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903110HOU.html"
+    },
+    {
+      "date": "1999-03-11",
+      "home": "Los Angeles Clippers",
+      "visitor": "Sacramento Kings",
+      "homePoints": 106,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903110LAC.html"
+    },
+    {
+      "date": "1999-03-11",
+      "home": "Miami Heat",
+      "visitor": "Toronto Raptors",
+      "homePoints": 83,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903110MIA.html"
+    },
+    {
+      "date": "1999-03-11",
+      "home": "New York Knicks",
+      "visitor": "Washington Wizards",
+      "homePoints": 98,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903110NYK.html"
+    },
+    {
+      "date": "1999-03-11",
+      "home": "Utah Jazz",
+      "visitor": "Denver Nuggets",
+      "homePoints": 94,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903110UTA.html"
+    },
+    {
+      "date": "1999-03-12",
+      "home": "Chicago Bulls",
+      "visitor": "New York Knicks",
+      "homePoints": 76,
+      "visitorPoints": 63,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903120CHI.html"
+    },
+    {
+      "date": "1999-03-12",
+      "home": "Detroit Pistons",
+      "visitor": "Boston Celtics",
+      "homePoints": 93,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903120DET.html"
+    },
+    {
+      "date": "1999-03-12",
+      "home": "Indiana Pacers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 109,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903120IND.html"
+    },
+    {
+      "date": "1999-03-12",
+      "home": "Los Angeles Lakers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 89,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903120LAL.html"
+    },
+    {
+      "date": "1999-03-12",
+      "home": "Philadelphia 76ers",
+      "visitor": "New Jersey Nets",
+      "homePoints": 100,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903120PHI.html"
+    },
+    {
+      "date": "1999-03-12",
+      "home": "Phoenix Suns",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 97,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903120PHO.html"
+    },
+    {
+      "date": "1999-03-12",
+      "home": "Portland Trail Blazers",
+      "visitor": "Utah Jazz",
+      "homePoints": 77,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903120POR.html"
+    },
+    {
+      "date": "1999-03-12",
+      "home": "Sacramento Kings",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 95,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903120SAC.html"
+    },
+    {
+      "date": "1999-03-12",
+      "home": "Washington Wizards",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 83,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903120WAS.html"
+    },
+    {
+      "date": "1999-03-13",
+      "home": "Atlanta Hawks",
+      "visitor": "Toronto Raptors",
+      "homePoints": 86,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903130ATL.html"
+    },
+    {
+      "date": "1999-03-13",
+      "home": "Dallas Mavericks",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 91,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903130DAL.html"
+    },
+    {
+      "date": "1999-03-13",
+      "home": "Golden State Warriors",
+      "visitor": "Orlando Magic",
+      "homePoints": 74,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903130GSW.html"
+    },
+    {
+      "date": "1999-03-13",
+      "home": "Houston Rockets",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 100,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903130HOU.html"
+    },
+    {
+      "date": "1999-03-13",
+      "home": "Los Angeles Clippers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 96,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903130LAC.html"
+    },
+    {
+      "date": "1999-03-13",
+      "home": "San Antonio Spurs",
+      "visitor": "Denver Nuggets",
+      "homePoints": 92,
+      "visitorPoints": 61,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903130SAS.html"
+    },
+    {
+      "date": "1999-03-13",
+      "home": "Utah Jazz",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 99,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903130UTA.html"
+    },
+    {
+      "date": "1999-03-14",
+      "home": "Detroit Pistons",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 72,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903140DET.html"
+    },
+    {
+      "date": "1999-03-14",
+      "home": "Indiana Pacers",
+      "visitor": "Boston Celtics",
+      "homePoints": 99,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903140IND.html"
+    },
+    {
+      "date": "1999-03-14",
+      "home": "Miami Heat",
+      "visitor": "New Jersey Nets",
+      "homePoints": 102,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903140MIA.html"
+    },
+    {
+      "date": "1999-03-14",
+      "home": "New York Knicks",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 94,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903140NYK.html"
+    },
+    {
+      "date": "1999-03-14",
+      "home": "Phoenix Suns",
+      "visitor": "Houston Rockets",
+      "homePoints": 104,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903140PHO.html"
+    },
+    {
+      "date": "1999-03-14",
+      "home": "Sacramento Kings",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 105,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903140SAC.html"
+    },
+    {
+      "date": "1999-03-14",
+      "home": "Seattle SuperSonics",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 108,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903140SEA.html"
+    },
+    {
+      "date": "1999-03-14",
+      "home": "Washington Wizards",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 98,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903140WAS.html"
+    },
+    {
+      "date": "1999-03-15",
+      "home": "Chicago Bulls",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 85,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903150CHI.html"
+    },
+    {
+      "date": "1999-03-15",
+      "home": "Dallas Mavericks",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 91,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903150DAL.html"
+    },
+    {
+      "date": "1999-03-15",
+      "home": "Denver Nuggets",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 110,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903150DEN.html"
+    },
+    {
+      "date": "1999-03-15",
+      "home": "Golden State Warriors",
+      "visitor": "Sacramento Kings",
+      "homePoints": 105,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903150GSW.html"
+    },
+    {
+      "date": "1999-03-15",
+      "home": "Milwaukee Bucks",
+      "visitor": "New York Knicks",
+      "homePoints": 102,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903150MIL.html"
+    },
+    {
+      "date": "1999-03-15",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Utah Jazz",
+      "homePoints": 83,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903150MIN.html"
+    },
+    {
+      "date": "1999-03-15",
+      "home": "Orlando Magic",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 74,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903150ORL.html"
+    },
+    {
+      "date": "1999-03-15",
+      "home": "Toronto Raptors",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 89,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903150TOR.html"
+    },
+    {
+      "date": "1999-03-16",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 86,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903160CLE.html"
+    },
+    {
+      "date": "1999-03-16",
+      "home": "Houston Rockets",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 101,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903160HOU.html"
+    },
+    {
+      "date": "1999-03-16",
+      "home": "Indiana Pacers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 79,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903160IND.html"
+    },
+    {
+      "date": "1999-03-16",
+      "home": "Miami Heat",
+      "visitor": "Washington Wizards",
+      "homePoints": 94,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903160MIA.html"
+    },
+    {
+      "date": "1999-03-16",
+      "home": "Milwaukee Bucks",
+      "visitor": "Phoenix Suns",
+      "homePoints": 92,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903160MIL.html"
+    },
+    {
+      "date": "1999-03-16",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 101,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903160MIN.html"
+    },
+    {
+      "date": "1999-03-16",
+      "home": "New York Knicks",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 113,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903160NYK.html"
+    },
+    {
+      "date": "1999-03-16",
+      "home": "Sacramento Kings",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 109,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903160SAC.html"
+    },
+    {
+      "date": "1999-03-16",
+      "home": "Seattle SuperSonics",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 87,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903160SEA.html"
+    },
+    {
+      "date": "1999-03-16",
+      "home": "Toronto Raptors",
+      "visitor": "New Jersey Nets",
+      "homePoints": 100,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903160TOR.html"
+    },
+    {
+      "date": "1999-03-17",
+      "home": "Atlanta Hawks",
+      "visitor": "Miami Heat",
+      "homePoints": 85,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903170ATL.html"
+    },
+    {
+      "date": "1999-03-17",
+      "home": "Boston Celtics",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 118,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903170BOS.html"
+    },
+    {
+      "date": "1999-03-17",
+      "home": "Charlotte Hornets",
+      "visitor": "Phoenix Suns",
+      "homePoints": 119,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903170CHH.html"
+    },
+    {
+      "date": "1999-03-17",
+      "home": "Denver Nuggets",
+      "visitor": "Houston Rockets",
+      "homePoints": 109,
+      "visitorPoints": 114,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903170DEN.html"
+    },
+    {
+      "date": "1999-03-17",
+      "home": "Detroit Pistons",
+      "visitor": "Toronto Raptors",
+      "homePoints": 101,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903170DET.html"
+    },
+    {
+      "date": "1999-03-17",
+      "home": "Golden State Warriors",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 78,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903170GSW.html"
+    },
+    {
+      "date": "1999-03-17",
+      "home": "New Jersey Nets",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 88,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903170NJN.html"
+    },
+    {
+      "date": "1999-03-17",
+      "home": "Orlando Magic",
+      "visitor": "Chicago Bulls",
+      "homePoints": 103,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903170ORL.html"
+    },
+    {
+      "date": "1999-03-17",
+      "home": "Philadelphia 76ers",
+      "visitor": "Indiana Pacers",
+      "homePoints": 114,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903170PHI.html"
+    },
+    {
+      "date": "1999-03-18",
+      "home": "Chicago Bulls",
+      "visitor": "New Jersey Nets",
+      "homePoints": 104,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903180CHI.html"
+    },
+    {
+      "date": "1999-03-18",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 100,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903180CLE.html"
+    },
+    {
+      "date": "1999-03-18",
+      "home": "Milwaukee Bucks",
+      "visitor": "Boston Celtics",
+      "homePoints": 99,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903180MIL.html"
+    },
+    {
+      "date": "1999-03-18",
+      "home": "New York Knicks",
+      "visitor": "Orlando Magic",
+      "homePoints": 78,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903180NYK.html"
+    },
+    {
+      "date": "1999-03-18",
+      "home": "Sacramento Kings",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 78,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903180SAC.html"
+    },
+    {
+      "date": "1999-03-18",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 86,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903180VAN.html"
+    },
+    {
+      "date": "1999-03-18",
+      "home": "Washington Wizards",
+      "visitor": "Utah Jazz",
+      "homePoints": 87,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903180WAS.html"
+    },
+    {
+      "date": "1999-03-19",
+      "home": "Atlanta Hawks",
+      "visitor": "Phoenix Suns",
+      "homePoints": 93,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903190ATL.html"
+    },
+    {
+      "date": "1999-03-19",
+      "home": "Charlotte Hornets",
+      "visitor": "Utah Jazz",
+      "homePoints": 83,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903190CHH.html"
+    },
+    {
+      "date": "1999-03-19",
+      "home": "Denver Nuggets",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 101,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903190DEN.html"
+    },
+    {
+      "date": "1999-03-19",
+      "home": "Detroit Pistons",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 94,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903190DET.html"
+    },
+    {
+      "date": "1999-03-19",
+      "home": "Golden State Warriors",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 90,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903190GSW.html"
+    },
+    {
+      "date": "1999-03-19",
+      "home": "Indiana Pacers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 96,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903190IND.html"
+    },
+    {
+      "date": "1999-03-19",
+      "home": "Philadelphia 76ers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 105,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903190PHI.html"
+    },
+    {
+      "date": "1999-03-19",
+      "home": "Portland Trail Blazers",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 90,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903190POR.html"
+    },
+    {
+      "date": "1999-03-19",
+      "home": "Toronto Raptors",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 93,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903190TOR.html"
+    },
+    {
+      "date": "1999-03-20",
+      "home": "Atlanta Hawks",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 77,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903200ATL.html"
+    },
+    {
+      "date": "1999-03-20",
+      "home": "Dallas Mavericks",
+      "visitor": "Sacramento Kings",
+      "homePoints": 104,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903200DAL.html"
+    },
+    {
+      "date": "1999-03-20",
+      "home": "Houston Rockets",
+      "visitor": "Phoenix Suns",
+      "homePoints": 103,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903200HOU.html"
+    },
+    {
+      "date": "1999-03-20",
+      "home": "Miami Heat",
+      "visitor": "Indiana Pacers",
+      "homePoints": 89,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903200MIA.html"
+    },
+    {
+      "date": "1999-03-20",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 96,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903200NYK.html"
+    },
+    {
+      "date": "1999-03-20",
+      "home": "Vancouver Grizzlies",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 88,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903200VAN.html"
+    },
+    {
+      "date": "1999-03-20",
+      "home": "Washington Wizards",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 113,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903200WAS.html"
+    },
+    {
+      "date": "1999-03-21",
+      "home": "Boston Celtics",
+      "visitor": "Chicago Bulls",
+      "homePoints": 92,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903210BOS.html"
+    },
+    {
+      "date": "1999-03-21",
+      "home": "Cleveland Cavaliers",
+      "visitor": "New Jersey Nets",
+      "homePoints": 88,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903210CLE.html"
+    },
+    {
+      "date": "1999-03-21",
+      "home": "Denver Nuggets",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 102,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903210DEN.html"
+    },
+    {
+      "date": "1999-03-21",
+      "home": "Detroit Pistons",
+      "visitor": "Utah Jazz",
+      "homePoints": 104,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903210DET.html"
+    },
+    {
+      "date": "1999-03-21",
+      "home": "Milwaukee Bucks",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 87,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903210MIL.html"
+    },
+    {
+      "date": "1999-03-21",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 85,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903210MIN.html"
+    },
+    {
+      "date": "1999-03-21",
+      "home": "Orlando Magic",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 104,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903210ORL.html"
+    },
+    {
+      "date": "1999-03-21",
+      "home": "Portland Trail Blazers",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 91,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903210POR.html"
+    },
+    {
+      "date": "1999-03-21",
+      "home": "Toronto Raptors",
+      "visitor": "New York Knicks",
+      "homePoints": 85,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903210TOR.html"
+    },
+    {
+      "date": "1999-03-22",
+      "home": "Dallas Mavericks",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 93,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903220DAL.html"
+    },
+    {
+      "date": "1999-03-22",
+      "home": "Houston Rockets",
+      "visitor": "Sacramento Kings",
+      "homePoints": 110,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903220HOU.html"
+    },
+    {
+      "date": "1999-03-22",
+      "home": "Indiana Pacers",
+      "visitor": "Washington Wizards",
+      "homePoints": 90,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903220IND.html"
+    },
+    {
+      "date": "1999-03-22",
+      "home": "Milwaukee Bucks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 115,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903220MIL.html"
+    },
+    {
+      "date": "1999-03-22",
+      "home": "New Jersey Nets",
+      "visitor": "Toronto Raptors",
+      "homePoints": 106,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903220NJN.html"
+    },
+    {
+      "date": "1999-03-22",
+      "home": "New York Knicks",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 71,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903220NYK.html"
+    },
+    {
+      "date": "1999-03-22",
+      "home": "Phoenix Suns",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 89,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903220PHO.html"
+    },
+    {
+      "date": "1999-03-22",
+      "home": "Seattle SuperSonics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 92,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903220SEA.html"
+    },
+    {
+      "date": "1999-03-23",
+      "home": "Chicago Bulls",
+      "visitor": "Toronto Raptors",
+      "homePoints": 90,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903230CHI.html"
+    },
+    {
+      "date": "1999-03-23",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Boston Celtics",
+      "homePoints": 113,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903230CLE.html"
+    },
+    {
+      "date": "1999-03-23",
+      "home": "Orlando Magic",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 86,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903230ORL.html"
+    },
+    {
+      "date": "1999-03-23",
+      "home": "Portland Trail Blazers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 79,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903230POR.html"
+    },
+    {
+      "date": "1999-03-23",
+      "home": "San Antonio Spurs",
+      "visitor": "Denver Nuggets",
+      "homePoints": 112,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903230SAS.html"
+    },
+    {
+      "date": "1999-03-23",
+      "home": "Utah Jazz",
+      "visitor": "Miami Heat",
+      "homePoints": 84,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903230UTA.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "Atlanta Hawks",
+      "visitor": "Indiana Pacers",
+      "homePoints": 103,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240ATL.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "Boston Celtics",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 68,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240BOS.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "Charlotte Hornets",
+      "visitor": "Chicago Bulls",
+      "homePoints": 110,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240CHH.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "Dallas Mavericks",
+      "visitor": "Houston Rockets",
+      "homePoints": 78,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240DAL.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "Los Angeles Clippers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 80,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240LAC.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "Los Angeles Lakers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 101,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240LAL.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "Milwaukee Bucks",
+      "visitor": "Miami Heat",
+      "homePoints": 76,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240MIL.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "New Jersey Nets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 71,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240NJN.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "Sacramento Kings",
+      "visitor": "New York Knicks",
+      "homePoints": 92,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240SAC.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "Seattle SuperSonics",
+      "visitor": "Washington Wizards",
+      "homePoints": 92,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240SEA.html"
+    },
+    {
+      "date": "1999-03-24",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 90,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903240VAN.html"
+    },
+    {
+      "date": "1999-03-25",
+      "home": "Denver Nuggets",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 65,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903250DEN.html"
+    },
+    {
+      "date": "1999-03-25",
+      "home": "Houston Rockets",
+      "visitor": "Toronto Raptors",
+      "homePoints": 113,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903250HOU.html"
+    },
+    {
+      "date": "1999-03-25",
+      "home": "Orlando Magic",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 96,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903250ORL.html"
+    },
+    {
+      "date": "1999-03-25",
+      "home": "Portland Trail Blazers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 97,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903250POR.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Atlanta Hawks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 93,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260ATL.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Charlotte Hornets",
+      "visitor": "Orlando Magic",
+      "homePoints": 90,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260CHH.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Dallas Mavericks",
+      "visitor": "Denver Nuggets",
+      "homePoints": 98,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260DAL.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Detroit Pistons",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 90,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260DET.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Golden State Warriors",
+      "visitor": "Washington Wizards",
+      "homePoints": 100,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260GSW.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Los Angeles Lakers",
+      "visitor": "Sacramento Kings",
+      "homePoints": 109,
+      "visitorPoints": 111,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260LAL.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Miami Heat",
+      "homePoints": 100,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260MIN.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "New Jersey Nets",
+      "visitor": "Indiana Pacers",
+      "homePoints": 91,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260NJN.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Philadelphia 76ers",
+      "visitor": "Boston Celtics",
+      "homePoints": 84,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260PHI.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Phoenix Suns",
+      "visitor": "New York Knicks",
+      "homePoints": 87,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260PHO.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "San Antonio Spurs",
+      "visitor": "Toronto Raptors",
+      "homePoints": 91,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260SAS.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Seattle SuperSonics",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 104,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260SEA.html"
+    },
+    {
+      "date": "1999-03-26",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Utah Jazz",
+      "homePoints": 80,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903260VAN.html"
+    },
+    {
+      "date": "1999-03-27",
+      "home": "Atlanta Hawks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 103,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903270ATL.html"
+    },
+    {
+      "date": "1999-03-27",
+      "home": "Denver Nuggets",
+      "visitor": "Washington Wizards",
+      "homePoints": 100,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903270DEN.html"
+    },
+    {
+      "date": "1999-03-27",
+      "home": "Golden State Warriors",
+      "visitor": "Houston Rockets",
+      "homePoints": 86,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903270GSW.html"
+    },
+    {
+      "date": "1999-03-27",
+      "home": "Los Angeles Clippers",
+      "visitor": "Utah Jazz",
+      "homePoints": 103,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903270LAC.html"
+    },
+    {
+      "date": "1999-03-27",
+      "home": "New Jersey Nets",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 99,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903270NJN.html"
+    },
+    {
+      "date": "1999-03-27",
+      "home": "San Antonio Spurs",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 99,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903270SAS.html"
+    },
+    {
+      "date": "1999-03-28",
+      "home": "Boston Celtics",
+      "visitor": "Indiana Pacers",
+      "homePoints": 93,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903280BOS.html"
+    },
+    {
+      "date": "1999-03-28",
+      "home": "Charlotte Hornets",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 105,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903280CHH.html"
+    },
+    {
+      "date": "1999-03-28",
+      "home": "Detroit Pistons",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 104,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903280DET.html"
+    },
+    {
+      "date": "1999-03-28",
+      "home": "Los Angeles Lakers",
+      "visitor": "New York Knicks",
+      "homePoints": 99,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903280LAL.html"
+    },
+    {
+      "date": "1999-03-28",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 85,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903280MIN.html"
+    },
+    {
+      "date": "1999-03-28",
+      "home": "Orlando Magic",
+      "visitor": "Miami Heat",
+      "homePoints": 94,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903280ORL.html"
+    },
+    {
+      "date": "1999-03-28",
+      "home": "Phoenix Suns",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 86,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903280PHO.html"
+    },
+    {
+      "date": "1999-03-28",
+      "home": "Sacramento Kings",
+      "visitor": "Houston Rockets",
+      "homePoints": 93,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903280SAC.html"
+    },
+    {
+      "date": "1999-03-28",
+      "home": "Toronto Raptors",
+      "visitor": "Chicago Bulls",
+      "homePoints": 91,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903280TOR.html"
+    },
+    {
+      "date": "1999-03-29",
+      "home": "Dallas Mavericks",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 101,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903290DAL.html"
+    },
+    {
+      "date": "1999-03-29",
+      "home": "Denver Nuggets",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 100,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903290DEN.html"
+    },
+    {
+      "date": "1999-03-29",
+      "home": "Indiana Pacers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 82,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903290IND.html"
+    },
+    {
+      "date": "1999-03-29",
+      "home": "Los Angeles Lakers",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 116,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903290LAL.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Atlanta Hawks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 77,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300ATL.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Charlotte Hornets",
+      "visitor": "Boston Celtics",
+      "homePoints": 99,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300CHH.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Chicago Bulls",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 91,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300CHI.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Toronto Raptors",
+      "homePoints": 91,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300CLE.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Golden State Warriors",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 93,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300GSW.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Los Angeles Clippers",
+      "visitor": "Houston Rockets",
+      "homePoints": 95,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300LAC.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Milwaukee Bucks",
+      "visitor": "Washington Wizards",
+      "homePoints": 107,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300MIL.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 98,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300MIN.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "New York Knicks",
+      "visitor": "Indiana Pacers",
+      "homePoints": 94,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300NYK.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Orlando Magic",
+      "visitor": "New Jersey Nets",
+      "homePoints": 100,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300ORL.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Sacramento Kings",
+      "visitor": "Utah Jazz",
+      "homePoints": 104,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300SAC.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "San Antonio Spurs",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 95,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300SAS.html"
+    },
+    {
+      "date": "1999-03-30",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Denver Nuggets",
+      "homePoints": 101,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903300VAN.html"
+    },
+    {
+      "date": "1999-03-31",
+      "home": "Boston Celtics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 72,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903310BOS.html"
+    },
+    {
+      "date": "1999-03-31",
+      "home": "Charlotte Hornets",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 94,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903310CHH.html"
+    },
+    {
+      "date": "1999-03-31",
+      "home": "Phoenix Suns",
+      "visitor": "Golden State Warriors",
+      "homePoints": 93,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903310PHO.html"
+    },
+    {
+      "date": "1999-03-31",
+      "home": "Portland Trail Blazers",
+      "visitor": "Sacramento Kings",
+      "homePoints": 100,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903310POR.html"
+    },
+    {
+      "date": "1999-03-31",
+      "home": "Washington Wizards",
+      "visitor": "Orlando Magic",
+      "homePoints": 84,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199903310WAS.html"
+    },
+    {
+      "date": "1999-04-01",
+      "home": "Dallas Mavericks",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 93,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904010DAL.html"
+    },
+    {
+      "date": "1999-04-01",
+      "home": "Denver Nuggets",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 113,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904010DEN.html"
+    },
+    {
+      "date": "1999-04-01",
+      "home": "Detroit Pistons",
+      "visitor": "Chicago Bulls",
+      "homePoints": 107,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904010DET.html"
+    },
+    {
+      "date": "1999-04-01",
+      "home": "Miami Heat",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 84,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904010MIA.html"
+    },
+    {
+      "date": "1999-04-01",
+      "home": "New Jersey Nets",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 90,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904010NJN.html"
+    },
+    {
+      "date": "1999-04-01",
+      "home": "New York Knicks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 78,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904010NYK.html"
+    },
+    {
+      "date": "1999-04-01",
+      "home": "San Antonio Spurs",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 103,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904010SAS.html"
+    },
+    {
+      "date": "1999-04-01",
+      "home": "Toronto Raptors",
+      "visitor": "Indiana Pacers",
+      "homePoints": 88,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904010TOR.html"
+    },
+    {
+      "date": "1999-04-01",
+      "home": "Utah Jazz",
+      "visitor": "Houston Rockets",
+      "homePoints": 88,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904010UTA.html"
+    },
+    {
+      "date": "1999-04-02",
+      "home": "Atlanta Hawks",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 84,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904020ATL.html"
+    },
+    {
+      "date": "1999-04-02",
+      "home": "Boston Celtics",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 83,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904020BOS.html"
+    },
+    {
+      "date": "1999-04-02",
+      "home": "Charlotte Hornets",
+      "visitor": "Indiana Pacers",
+      "homePoints": 81,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904020CHH.html"
+    },
+    {
+      "date": "1999-04-02",
+      "home": "Chicago Bulls",
+      "visitor": "Orlando Magic",
+      "homePoints": 68,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904020CHI.html"
+    },
+    {
+      "date": "1999-04-02",
+      "home": "Golden State Warriors",
+      "visitor": "Utah Jazz",
+      "homePoints": 85,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904020GSW.html"
+    },
+    {
+      "date": "1999-04-02",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Denver Nuggets",
+      "homePoints": 107,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904020MIN.html"
+    },
+    {
+      "date": "1999-04-02",
+      "home": "Philadelphia 76ers",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 80,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904020PHI.html"
+    },
+    {
+      "date": "1999-04-02",
+      "home": "Phoenix Suns",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 90,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904020PHO.html"
+    },
+    {
+      "date": "1999-04-02",
+      "home": "Portland Trail Blazers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 107,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904020POR.html"
+    },
+    {
+      "date": "1999-04-03",
+      "home": "Detroit Pistons",
+      "visitor": "Orlando Magic",
+      "homePoints": 77,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904030DET.html"
+    },
+    {
+      "date": "1999-04-03",
+      "home": "Los Angeles Lakers",
+      "visitor": "Golden State Warriors",
+      "homePoints": 76,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904030LAL.html"
+    },
+    {
+      "date": "1999-04-03",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Sacramento Kings",
+      "homePoints": 105,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904030MIN.html"
+    },
+    {
+      "date": "1999-04-03",
+      "home": "New Jersey Nets",
+      "visitor": "Miami Heat",
+      "homePoints": 88,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904030NJN.html"
+    },
+    {
+      "date": "1999-04-03",
+      "home": "Portland Trail Blazers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 98,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904030POR.html"
+    },
+    {
+      "date": "1999-04-03",
+      "home": "San Antonio Spurs",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 103,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904030SAS.html"
+    },
+    {
+      "date": "1999-04-03",
+      "home": "Toronto Raptors",
+      "visitor": "Washington Wizards",
+      "homePoints": 87,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904030TOR.html"
+    },
+    {
+      "date": "1999-04-04",
+      "home": "Atlanta Hawks",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 85,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904040ATL.html"
+    },
+    {
+      "date": "1999-04-04",
+      "home": "Boston Celtics",
+      "visitor": "New Jersey Nets",
+      "homePoints": 79,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904040BOS.html"
+    },
+    {
+      "date": "1999-04-04",
+      "home": "Chicago Bulls",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 88,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904040CHI.html"
+    },
+    {
+      "date": "1999-04-04",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 98,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904040CLE.html"
+    },
+    {
+      "date": "1999-04-04",
+      "home": "Denver Nuggets",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 82,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904040DEN.html"
+    },
+    {
+      "date": "1999-04-04",
+      "home": "Indiana Pacers",
+      "visitor": "New York Knicks",
+      "homePoints": 108,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904040IND.html"
+    },
+    {
+      "date": "1999-04-04",
+      "home": "Seattle SuperSonics",
+      "visitor": "Houston Rockets",
+      "homePoints": 101,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904040SEA.html"
+    },
+    {
+      "date": "1999-04-04",
+      "home": "Toronto Raptors",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 97,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904040TOR.html"
+    },
+    {
+      "date": "1999-04-04",
+      "home": "Washington Wizards",
+      "visitor": "Miami Heat",
+      "homePoints": 79,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904040WAS.html"
+    },
+    {
+      "date": "1999-04-05",
+      "home": "Charlotte Hornets",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 71,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904050CHH.html"
+    },
+    {
+      "date": "1999-04-05",
+      "home": "Detroit Pistons",
+      "visitor": "Indiana Pacers",
+      "homePoints": 86,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904050DET.html"
+    },
+    {
+      "date": "1999-04-05",
+      "home": "Los Angeles Lakers",
+      "visitor": "Denver Nuggets",
+      "homePoints": 117,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904050LAL.html"
+    },
+    {
+      "date": "1999-04-05",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 100,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904050MIN.html"
+    },
+    {
+      "date": "1999-04-05",
+      "home": "Orlando Magic",
+      "visitor": "Boston Celtics",
+      "homePoints": 106,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904050ORL.html"
+    },
+    {
+      "date": "1999-04-05",
+      "home": "San Antonio Spurs",
+      "visitor": "Golden State Warriors",
+      "homePoints": 93,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904050SAS.html"
+    },
+    {
+      "date": "1999-04-06",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 96,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904060CLE.html"
+    },
+    {
+      "date": "1999-04-06",
+      "home": "Houston Rockets",
+      "visitor": "Golden State Warriors",
+      "homePoints": 111,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904060HOU.html"
+    },
+    {
+      "date": "1999-04-06",
+      "home": "Los Angeles Clippers",
+      "visitor": "Phoenix Suns",
+      "homePoints": 83,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904060LAC.html"
+    },
+    {
+      "date": "1999-04-06",
+      "home": "Los Angeles Lakers",
+      "visitor": "Utah Jazz",
+      "homePoints": 93,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904060LAL.html"
+    },
+    {
+      "date": "1999-04-06",
+      "home": "New York Knicks",
+      "visitor": "Orlando Magic",
+      "homePoints": 72,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904060NYK.html"
+    },
+    {
+      "date": "1999-04-06",
+      "home": "Philadelphia 76ers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 95,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904060PHI.html"
+    },
+    {
+      "date": "1999-04-06",
+      "home": "Portland Trail Blazers",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 98,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904060POR.html"
+    },
+    {
+      "date": "1999-04-06",
+      "home": "Seattle SuperSonics",
+      "visitor": "Sacramento Kings",
+      "homePoints": 106,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904060SEA.html"
+    },
+    {
+      "date": "1999-04-06",
+      "home": "Toronto Raptors",
+      "visitor": "Miami Heat",
+      "homePoints": 70,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904060TOR.html"
+    },
+    {
+      "date": "1999-04-06",
+      "home": "Washington Wizards",
+      "visitor": "New Jersey Nets",
+      "homePoints": 93,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904060WAS.html"
+    },
+    {
+      "date": "1999-04-07",
+      "home": "Boston Celtics",
+      "visitor": "Washington Wizards",
+      "homePoints": 108,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904070BOS.html"
+    },
+    {
+      "date": "1999-04-07",
+      "home": "Charlotte Hornets",
+      "visitor": "New York Knicks",
+      "homePoints": 106,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904070CHH.html"
+    },
+    {
+      "date": "1999-04-07",
+      "home": "Chicago Bulls",
+      "visitor": "Indiana Pacers",
+      "homePoints": 74,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904070CHI.html"
+    },
+    {
+      "date": "1999-04-07",
+      "home": "Detroit Pistons",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 89,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904070DET.html"
+    },
+    {
+      "date": "1999-04-07",
+      "home": "Miami Heat",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 93,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904070MIA.html"
+    },
+    {
+      "date": "1999-04-07",
+      "home": "Milwaukee Bucks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 99,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904070MIL.html"
+    },
+    {
+      "date": "1999-04-07",
+      "home": "New Jersey Nets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 92,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904070NJN.html"
+    },
+    {
+      "date": "1999-04-07",
+      "home": "Phoenix Suns",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 90,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904070PHO.html"
+    },
+    {
+      "date": "1999-04-07",
+      "home": "Sacramento Kings",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 89,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904070SAC.html"
+    },
+    {
+      "date": "1999-04-07",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Denver Nuggets",
+      "homePoints": 84,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904070VAN.html"
+    },
+    {
+      "date": "1999-04-08",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Orlando Magic",
+      "homePoints": 69,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904080CLE.html"
+    },
+    {
+      "date": "1999-04-08",
+      "home": "Houston Rockets",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 83,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904080HOU.html"
+    },
+    {
+      "date": "1999-04-08",
+      "home": "Los Angeles Clippers",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 99,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904080LAC.html"
+    },
+    {
+      "date": "1999-04-08",
+      "home": "Seattle SuperSonics",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 87,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904080SEA.html"
+    },
+    {
+      "date": "1999-04-08",
+      "home": "Toronto Raptors",
+      "visitor": "Boston Celtics",
+      "homePoints": 89,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904080TOR.html"
+    },
+    {
+      "date": "1999-04-08",
+      "home": "Utah Jazz",
+      "visitor": "Golden State Warriors",
+      "homePoints": 92,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904080UTA.html"
+    },
+    {
+      "date": "1999-04-09",
+      "home": "Atlanta Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 78,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904090ATL.html"
+    },
+    {
+      "date": "1999-04-09",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 67,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904090BOS.html"
+    },
+    {
+      "date": "1999-04-09",
+      "home": "Charlotte Hornets",
+      "visitor": "Washington Wizards",
+      "homePoints": 90,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904090CHH.html"
+    },
+    {
+      "date": "1999-04-09",
+      "home": "Indiana Pacers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 101,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904090IND.html"
+    },
+    {
+      "date": "1999-04-09",
+      "home": "Los Angeles Lakers",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 96,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904090LAL.html"
+    },
+    {
+      "date": "1999-04-09",
+      "home": "New Jersey Nets",
+      "visitor": "Toronto Raptors",
+      "homePoints": 106,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904090NJN.html"
+    },
+    {
+      "date": "1999-04-09",
+      "home": "Orlando Magic",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 95,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904090ORL.html"
+    },
+    {
+      "date": "1999-04-09",
+      "home": "Utah Jazz",
+      "visitor": "Phoenix Suns",
+      "homePoints": 93,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904090UTA.html"
+    },
+    {
+      "date": "1999-04-09",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 98,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904090VAN.html"
+    },
+    {
+      "date": "1999-04-10",
+      "home": "Chicago Bulls",
+      "visitor": "Miami Heat",
+      "homePoints": 49,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904100CHI.html"
+    },
+    {
+      "date": "1999-04-10",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 81,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904100CLE.html"
+    },
+    {
+      "date": "1999-04-10",
+      "home": "Dallas Mavericks",
+      "visitor": "Golden State Warriors",
+      "homePoints": 90,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904100DAL.html"
+    },
+    {
+      "date": "1999-04-10",
+      "home": "Indiana Pacers",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 90,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904100IND.html"
+    },
+    {
+      "date": "1999-04-10",
+      "home": "Los Angeles Clippers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 70,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904100LAC.html"
+    },
+    {
+      "date": "1999-04-10",
+      "home": "Phoenix Suns",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 110,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904100PHO.html"
+    },
+    {
+      "date": "1999-04-10",
+      "home": "Sacramento Kings",
+      "visitor": "Denver Nuggets",
+      "homePoints": 110,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904100SAC.html"
+    },
+    {
+      "date": "1999-04-11",
+      "home": "Boston Celtics",
+      "visitor": "Chicago Bulls",
+      "homePoints": 87,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904110BOS.html"
+    },
+    {
+      "date": "1999-04-11",
+      "home": "Los Angeles Lakers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 109,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904110LAL.html"
+    },
+    {
+      "date": "1999-04-11",
+      "home": "Miami Heat",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 95,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904110MIA.html"
+    },
+    {
+      "date": "1999-04-11",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Detroit Pistons",
+      "homePoints": 88,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904110MIN.html"
+    },
+    {
+      "date": "1999-04-11",
+      "home": "New Jersey Nets",
+      "visitor": "New York Knicks",
+      "homePoints": 78,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904110NJN.html"
+    },
+    {
+      "date": "1999-04-11",
+      "home": "Portland Trail Blazers",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 83,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904110POR.html"
+    },
+    {
+      "date": "1999-04-11",
+      "home": "Utah Jazz",
+      "visitor": "Houston Rockets",
+      "homePoints": 85,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904110UTA.html"
+    },
+    {
+      "date": "1999-04-11",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Sacramento Kings",
+      "homePoints": 88,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904110VAN.html"
+    },
+    {
+      "date": "1999-04-11",
+      "home": "Washington Wizards",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 105,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904110WAS.html"
+    },
+    {
+      "date": "1999-04-12",
+      "home": "Boston Celtics",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 103,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904120BOS.html"
+    },
+    {
+      "date": "1999-04-12",
+      "home": "Denver Nuggets",
+      "visitor": "Golden State Warriors",
+      "homePoints": 96,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904120DEN.html"
+    },
+    {
+      "date": "1999-04-12",
+      "home": "Detroit Pistons",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 86,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904120DET.html"
+    },
+    {
+      "date": "1999-04-12",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Houston Rockets",
+      "homePoints": 90,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904120MIN.html"
+    },
+    {
+      "date": "1999-04-12",
+      "home": "San Antonio Spurs",
+      "visitor": "Phoenix Suns",
+      "homePoints": 94,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904120SAS.html"
+    },
+    {
+      "date": "1999-04-12",
+      "home": "Toronto Raptors",
+      "visitor": "Indiana Pacers",
+      "homePoints": 99,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904120TOR.html"
+    },
+    {
+      "date": "1999-04-12",
+      "home": "Utah Jazz",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 98,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904120UTA.html"
+    },
+    {
+      "date": "1999-04-13",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Washington Wizards",
+      "homePoints": 86,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904130CLE.html"
+    },
+    {
+      "date": "1999-04-13",
+      "home": "Dallas Mavericks",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 92,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904130DAL.html"
+    },
+    {
+      "date": "1999-04-13",
+      "home": "Los Angeles Clippers",
+      "visitor": "New Jersey Nets",
+      "homePoints": 109,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904130LAC.html"
+    },
+    {
+      "date": "1999-04-13",
+      "home": "Miami Heat",
+      "visitor": "Chicago Bulls",
+      "homePoints": 90,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904130MIA.html"
+    },
+    {
+      "date": "1999-04-13",
+      "home": "Milwaukee Bucks",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 91,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904130MIL.html"
+    },
+    {
+      "date": "1999-04-13",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 91,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904130NYK.html"
+    },
+    {
+      "date": "1999-04-13",
+      "home": "Portland Trail Blazers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 113,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904130POR.html"
+    },
+    {
+      "date": "1999-04-13",
+      "home": "Sacramento Kings",
+      "visitor": "Utah Jazz",
+      "homePoints": 100,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904130SAC.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "Boston Celtics",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 70,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140BOS.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "Charlotte Hornets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 83,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140CHH.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "Chicago Bulls",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 81,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140CHI.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "Denver Nuggets",
+      "visitor": "New Jersey Nets",
+      "homePoints": 120,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140DEN.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "Houston Rockets",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 102,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140HOU.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "Indiana Pacers",
+      "visitor": "Orlando Magic",
+      "homePoints": 83,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140IND.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "Milwaukee Bucks",
+      "visitor": "Miami Heat",
+      "homePoints": 98,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140MIL.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "Philadelphia 76ers",
+      "visitor": "Toronto Raptors",
+      "homePoints": 96,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140PHI.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "San Antonio Spurs",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 95,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140SAS.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "Seattle SuperSonics",
+      "visitor": "Phoenix Suns",
+      "homePoints": 94,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140SEA.html"
+    },
+    {
+      "date": "1999-04-14",
+      "home": "Washington Wizards",
+      "visitor": "New York Knicks",
+      "homePoints": 95,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904140WAS.html"
+    },
+    {
+      "date": "1999-04-15",
+      "home": "Dallas Mavericks",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 101,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904150DAL.html"
+    },
+    {
+      "date": "1999-04-15",
+      "home": "Golden State Warriors",
+      "visitor": "Denver Nuggets",
+      "homePoints": 85,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904150GSW.html"
+    },
+    {
+      "date": "1999-04-15",
+      "home": "Houston Rockets",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 86,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904150HOU.html"
+    },
+    {
+      "date": "1999-04-15",
+      "home": "Los Angeles Clippers",
+      "visitor": "Utah Jazz",
+      "homePoints": 89,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904150LAC.html"
+    },
+    {
+      "date": "1999-04-15",
+      "home": "Sacramento Kings",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 98,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904150SAC.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Atlanta Hawks",
+      "visitor": "Orlando Magic",
+      "homePoints": 91,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160ATL.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Boston Celtics",
+      "visitor": "Miami Heat",
+      "homePoints": 82,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160BOS.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Detroit Pistons",
+      "visitor": "New York Knicks",
+      "homePoints": 80,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160DET.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Golden State Warriors",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 83,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160GSW.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Milwaukee Bucks",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 94,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160MIL.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 89,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160MIN.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Philadelphia 76ers",
+      "visitor": "Indiana Pacers",
+      "homePoints": 93,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160PHI.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Phoenix Suns",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 92,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160PHO.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "San Antonio Spurs",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 81,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160SAS.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Seattle SuperSonics",
+      "visitor": "New Jersey Nets",
+      "homePoints": 91,
+      "visitorPoints": 121,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160SEA.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Toronto Raptors",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 90,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160TOR.html"
+    },
+    {
+      "date": "1999-04-16",
+      "home": "Washington Wizards",
+      "visitor": "Chicago Bulls",
+      "homePoints": 87,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904160WAS.html"
+    },
+    {
+      "date": "1999-04-17",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 82,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904170CLE.html"
+    },
+    {
+      "date": "1999-04-17",
+      "home": "Dallas Mavericks",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 94,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904170DAL.html"
+    },
+    {
+      "date": "1999-04-17",
+      "home": "New York Knicks",
+      "visitor": "Toronto Raptors",
+      "homePoints": 90,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904170NYK.html"
+    },
+    {
+      "date": "1999-04-17",
+      "home": "Sacramento Kings",
+      "visitor": "Denver Nuggets",
+      "homePoints": 119,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904170SAC.html"
+    },
+    {
+      "date": "1999-04-17",
+      "home": "Utah Jazz",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 109,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904170UTA.html"
+    },
+    {
+      "date": "1999-04-18",
+      "home": "Chicago Bulls",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 79,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904180CHI.html"
+    },
+    {
+      "date": "1999-04-18",
+      "home": "Los Angeles Clippers",
+      "visitor": "Denver Nuggets",
+      "homePoints": 101,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904180LAC.html"
+    },
+    {
+      "date": "1999-04-18",
+      "home": "Miami Heat",
+      "visitor": "Indiana Pacers",
+      "homePoints": 92,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904180MIA.html"
+    },
+    {
+      "date": "1999-04-18",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Utah Jazz",
+      "homePoints": 76,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904180MIN.html"
+    },
+    {
+      "date": "1999-04-18",
+      "home": "New Jersey Nets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 86,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904180NJN.html"
+    },
+    {
+      "date": "1999-04-18",
+      "home": "Orlando Magic",
+      "visitor": "Detroit Pistons",
+      "homePoints": 88,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904180ORL.html"
+    },
+    {
+      "date": "1999-04-18",
+      "home": "Phoenix Suns",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 99,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904180PHO.html"
+    },
+    {
+      "date": "1999-04-18",
+      "home": "San Antonio Spurs",
+      "visitor": "Houston Rockets",
+      "homePoints": 86,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904180SAS.html"
+    },
+    {
+      "date": "1999-04-18",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Golden State Warriors",
+      "homePoints": 85,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904180VAN.html"
+    },
+    {
+      "date": "1999-04-18",
+      "home": "Washington Wizards",
+      "visitor": "Boston Celtics",
+      "homePoints": 98,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904180WAS.html"
+    },
+    {
+      "date": "1999-04-19",
+      "home": "Boston Celtics",
+      "visitor": "Indiana Pacers",
+      "homePoints": 104,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904190BOS.html"
+    },
+    {
+      "date": "1999-04-19",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Miami Heat",
+      "homePoints": 87,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904190CLE.html"
+    },
+    {
+      "date": "1999-04-19",
+      "home": "Houston Rockets",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 120,
+      "visitorPoints": 113,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904190HOU.html"
+    },
+    {
+      "date": "1999-04-19",
+      "home": "Los Angeles Clippers",
+      "visitor": "Sacramento Kings",
+      "homePoints": 98,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904190LAC.html"
+    },
+    {
+      "date": "1999-04-19",
+      "home": "Los Angeles Lakers",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 117,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904190LAL.html"
+    },
+    {
+      "date": "1999-04-19",
+      "home": "New Jersey Nets",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 113,
+      "visitorPoints": 120,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904190NJN.html"
+    },
+    {
+      "date": "1999-04-19",
+      "home": "Philadelphia 76ers",
+      "visitor": "New York Knicks",
+      "homePoints": 72,
+      "visitorPoints": 67,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904190PHI.html"
+    },
+    {
+      "date": "1999-04-19",
+      "home": "Toronto Raptors",
+      "visitor": "Orlando Magic",
+      "homePoints": 90,
+      "visitorPoints": 72,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904190TOR.html"
+    },
+    {
+      "date": "1999-04-20",
+      "home": "Chicago Bulls",
+      "visitor": "Washington Wizards",
+      "homePoints": 83,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904200CHI.html"
+    },
+    {
+      "date": "1999-04-20",
+      "home": "Dallas Mavericks",
+      "visitor": "Phoenix Suns",
+      "homePoints": 104,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904200DAL.html"
+    },
+    {
+      "date": "1999-04-20",
+      "home": "Golden State Warriors",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 102,
+      "visitorPoints": 106,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904200GSW.html"
+    },
+    {
+      "date": "1999-04-20",
+      "home": "Milwaukee Bucks",
+      "visitor": "Orlando Magic",
+      "homePoints": 95,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904200MIL.html"
+    },
+    {
+      "date": "1999-04-20",
+      "home": "Toronto Raptors",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 81,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904200TOR.html"
+    },
+    {
+      "date": "1999-04-20",
+      "home": "Utah Jazz",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 69,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904200UTA.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Boston Celtics",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 78,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210BOS.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Charlotte Hornets",
+      "visitor": "Detroit Pistons",
+      "homePoints": 88,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210CHH.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Houston Rockets",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 95,
+      "visitorPoints": 109,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210HOU.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Indiana Pacers",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 108,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210IND.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Miami Heat",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 93,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210MIA.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "New Jersey Nets",
+      "visitor": "Chicago Bulls",
+      "homePoints": 99,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210NJN.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Phoenix Suns",
+      "visitor": "Utah Jazz",
+      "homePoints": 91,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210PHO.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Portland Trail Blazers",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 88,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210POR.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Sacramento Kings",
+      "visitor": "Golden State Warriors",
+      "homePoints": 103,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210SAC.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Seattle SuperSonics",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 119,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210SEA.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 97,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210VAN.html"
+    },
+    {
+      "date": "1999-04-21",
+      "home": "Washington Wizards",
+      "visitor": "Toronto Raptors",
+      "homePoints": 91,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904210WAS.html"
+    },
+    {
+      "date": "1999-04-22",
+      "home": "Atlanta Hawks",
+      "visitor": "Boston Celtics",
+      "homePoints": 106,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904220ATL.html"
+    },
+    {
+      "date": "1999-04-22",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 96,
+      "visitorPoints": 104,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904220DET.html"
+    },
+    {
+      "date": "1999-04-22",
+      "home": "Orlando Magic",
+      "visitor": "Miami Heat",
+      "homePoints": 70,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904220ORL.html"
+    },
+    {
+      "date": "1999-04-22",
+      "home": "San Antonio Spurs",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 103,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904220SAS.html"
+    },
+    {
+      "date": "1999-04-23",
+      "home": "Chicago Bulls",
+      "visitor": "Boston Celtics",
+      "homePoints": 71,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904230CHI.html"
+    },
+    {
+      "date": "1999-04-23",
+      "home": "Denver Nuggets",
+      "visitor": "Golden State Warriors",
+      "homePoints": 96,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904230DEN.html"
+    },
+    {
+      "date": "1999-04-23",
+      "home": "Los Angeles Clippers",
+      "visitor": "Houston Rockets",
+      "homePoints": 106,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904230LAC.html"
+    },
+    {
+      "date": "1999-04-23",
+      "home": "Milwaukee Bucks",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 79,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904230MIL.html"
+    },
+    {
+      "date": "1999-04-23",
+      "home": "New York Knicks",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 110,
+      "visitorPoints": 105,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904230NYK.html"
+    },
+    {
+      "date": "1999-04-23",
+      "home": "Orlando Magic",
+      "visitor": "Toronto Raptors",
+      "homePoints": 88,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904230ORL.html"
+    },
+    {
+      "date": "1999-04-23",
+      "home": "Sacramento Kings",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 105,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904230SAC.html"
+    },
+    {
+      "date": "1999-04-23",
+      "home": "Utah Jazz",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 96,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904230UTA.html"
+    },
+    {
+      "date": "1999-04-23",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 84,
+      "visitorPoints": 97,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904230VAN.html"
+    },
+    {
+      "date": "1999-04-23",
+      "home": "Washington Wizards",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 78,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904230WAS.html"
+    },
+    {
+      "date": "1999-04-24",
+      "home": "Charlotte Hornets",
+      "visitor": "New Jersey Nets",
+      "homePoints": 97,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904240CHH.html"
+    },
+    {
+      "date": "1999-04-24",
+      "home": "Golden State Warriors",
+      "visitor": "Denver Nuggets",
+      "homePoints": 93,
+      "visitorPoints": 74,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904240GSW.html"
+    },
+    {
+      "date": "1999-04-24",
+      "home": "Indiana Pacers",
+      "visitor": "Chicago Bulls",
+      "homePoints": 87,
+      "visitorPoints": 69,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904240IND.html"
+    },
+    {
+      "date": "1999-04-24",
+      "home": "Los Angeles Clippers",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 105,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904240LAC.html"
+    },
+    {
+      "date": "1999-04-24",
+      "home": "Sacramento Kings",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 105,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904240SAC.html"
+    },
+    {
+      "date": "1999-04-24",
+      "home": "San Antonio Spurs",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 108,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904240SAS.html"
+    },
+    {
+      "date": "1999-04-25",
+      "home": "Atlanta Hawks",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 85,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904250ATL.html"
+    },
+    {
+      "date": "1999-04-25",
+      "home": "Boston Celtics",
+      "visitor": "Washington Wizards",
+      "homePoints": 113,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904250BOS.html"
+    },
+    {
+      "date": "1999-04-25",
+      "home": "Miami Heat",
+      "visitor": "New York Knicks",
+      "homePoints": 80,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904250MIA.html"
+    },
+    {
+      "date": "1999-04-25",
+      "home": "New Jersey Nets",
+      "visitor": "Indiana Pacers",
+      "homePoints": 120,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904250NJN.html"
+    },
+    {
+      "date": "1999-04-25",
+      "home": "Philadelphia 76ers",
+      "visitor": "Orlando Magic",
+      "homePoints": 103,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904250PHI.html"
+    },
+    {
+      "date": "1999-04-25",
+      "home": "Phoenix Suns",
+      "visitor": "Houston Rockets",
+      "homePoints": 95,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904250PHO.html"
+    },
+    {
+      "date": "1999-04-25",
+      "home": "Portland Trail Blazers",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 100,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904250POR.html"
+    },
+    {
+      "date": "1999-04-25",
+      "home": "Toronto Raptors",
+      "visitor": "Detroit Pistons",
+      "homePoints": 83,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904250TOR.html"
+    },
+    {
+      "date": "1999-04-25",
+      "home": "Utah Jazz",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 98,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904250UTA.html"
+    },
+    {
+      "date": "1999-04-26",
+      "home": "Charlotte Hornets",
+      "visitor": "New York Knicks",
+      "homePoints": 84,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904260CHH.html"
+    },
+    {
+      "date": "1999-04-26",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Miami Heat",
+      "homePoints": 65,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904260CLE.html"
+    },
+    {
+      "date": "1999-04-26",
+      "home": "Dallas Mavericks",
+      "visitor": "Chicago Bulls",
+      "homePoints": 101,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904260DAL.html"
+    },
+    {
+      "date": "1999-04-26",
+      "home": "Golden State Warriors",
+      "visitor": "Sacramento Kings",
+      "homePoints": 114,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904260GSW.html"
+    },
+    {
+      "date": "1999-04-26",
+      "home": "Houston Rockets",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 102,
+      "visitorPoints": 80,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904260HOU.html"
+    },
+    {
+      "date": "1999-04-26",
+      "home": "Los Angeles Clippers",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 88,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904260LAC.html"
+    },
+    {
+      "date": "1999-04-26",
+      "home": "Milwaukee Bucks",
+      "visitor": "Washington Wizards",
+      "homePoints": 99,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904260MIL.html"
+    },
+    {
+      "date": "1999-04-26",
+      "home": "Portland Trail Blazers",
+      "visitor": "Denver Nuggets",
+      "homePoints": 93,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904260POR.html"
+    },
+    {
+      "date": "1999-04-26",
+      "home": "Utah Jazz",
+      "visitor": "Phoenix Suns",
+      "homePoints": 85,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904260UTA.html"
+    },
+    {
+      "date": "1999-04-27",
+      "home": "Boston Celtics",
+      "visitor": "Detroit Pistons",
+      "homePoints": 85,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904270BOS.html"
+    },
+    {
+      "date": "1999-04-27",
+      "home": "Dallas Mavericks",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 84,
+      "visitorPoints": 75,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904270DAL.html"
+    },
+    {
+      "date": "1999-04-27",
+      "home": "Indiana Pacers",
+      "visitor": "Orlando Magic",
+      "homePoints": 87,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904270IND.html"
+    },
+    {
+      "date": "1999-04-27",
+      "home": "New Jersey Nets",
+      "visitor": "Miami Heat",
+      "homePoints": 76,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904270NJN.html"
+    },
+    {
+      "date": "1999-04-27",
+      "home": "Philadelphia 76ers",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 80,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904270PHI.html"
+    },
+    {
+      "date": "1999-04-27",
+      "home": "Sacramento Kings",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 104,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904270SAC.html"
+    },
+    {
+      "date": "1999-04-27",
+      "home": "Seattle SuperSonics",
+      "visitor": "Utah Jazz",
+      "homePoints": 90,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904270SEA.html"
+    },
+    {
+      "date": "1999-04-27",
+      "home": "Toronto Raptors",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 98,
+      "visitorPoints": 108,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904270TOR.html"
+    },
+    {
+      "date": "1999-04-28",
+      "home": "Atlanta Hawks",
+      "visitor": "New York Knicks",
+      "homePoints": 76,
+      "visitorPoints": 73,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904280ATL.html"
+    },
+    {
+      "date": "1999-04-28",
+      "home": "Detroit Pistons",
+      "visitor": "New Jersey Nets",
+      "homePoints": 101,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904280DET.html"
+    },
+    {
+      "date": "1999-04-28",
+      "home": "Milwaukee Bucks",
+      "visitor": "Toronto Raptors",
+      "homePoints": 115,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904280MIL.html"
+    },
+    {
+      "date": "1999-04-28",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Phoenix Suns",
+      "homePoints": 97,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904280MIN.html"
+    },
+    {
+      "date": "1999-04-28",
+      "home": "Orlando Magic",
+      "visitor": "Washington Wizards",
+      "homePoints": 93,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904280ORL.html"
+    },
+    {
+      "date": "1999-04-28",
+      "home": "Portland Trail Blazers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 119,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904280POR.html"
+    },
+    {
+      "date": "1999-04-29",
+      "home": "Denver Nuggets",
+      "visitor": "Phoenix Suns",
+      "homePoints": 87,
+      "visitorPoints": 98,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904290DEN.html"
+    },
+    {
+      "date": "1999-04-29",
+      "home": "Houston Rockets",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 81,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904290HOU.html"
+    },
+    {
+      "date": "1999-04-29",
+      "home": "Indiana Pacers",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 115,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904290IND.html"
+    },
+    {
+      "date": "1999-04-29",
+      "home": "Los Angeles Lakers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 108,
+      "visitorPoints": 89,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904290LAL.html"
+    },
+    {
+      "date": "1999-04-29",
+      "home": "Miami Heat",
+      "visitor": "Boston Celtics",
+      "homePoints": 96,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904290MIA.html"
+    },
+    {
+      "date": "1999-04-29",
+      "home": "New York Knicks",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 85,
+      "visitorPoints": 70,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904290NYK.html"
+    },
+    {
+      "date": "1999-04-29",
+      "home": "Sacramento Kings",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 103,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904290SAC.html"
+    },
+    {
+      "date": "1999-04-29",
+      "home": "Utah Jazz",
+      "visitor": "Golden State Warriors",
+      "homePoints": 96,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904290UTA.html"
+    },
+    {
+      "date": "1999-04-29",
+      "home": "Vancouver Grizzlies",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 72,
+      "visitorPoints": 99,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904290VAN.html"
+    },
+    {
+      "date": "1999-04-29",
+      "home": "Washington Wizards",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 97,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904290WAS.html"
+    },
+    {
+      "date": "1999-04-30",
+      "home": "Atlanta Hawks",
+      "visitor": "Indiana Pacers",
+      "homePoints": 90,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904300ATL.html"
+    },
+    {
+      "date": "1999-04-30",
+      "home": "Charlotte Hornets",
+      "visitor": "Chicago Bulls",
+      "homePoints": 92,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904300CHH.html"
+    },
+    {
+      "date": "1999-04-30",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Toronto Raptors",
+      "homePoints": 91,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904300CLE.html"
+    },
+    {
+      "date": "1999-04-30",
+      "home": "Houston Rockets",
+      "visitor": "Utah Jazz",
+      "homePoints": 78,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904300HOU.html"
+    },
+    {
+      "date": "1999-04-30",
+      "home": "Milwaukee Bucks",
+      "visitor": "Detroit Pistons",
+      "homePoints": 76,
+      "visitorPoints": 81,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904300MIL.html"
+    },
+    {
+      "date": "1999-04-30",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Golden State Warriors",
+      "homePoints": 90,
+      "visitorPoints": 85,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904300MIN.html"
+    },
+    {
+      "date": "1999-04-30",
+      "home": "Orlando Magic",
+      "visitor": "New Jersey Nets",
+      "homePoints": 107,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904300ORL.html"
+    },
+    {
+      "date": "1999-04-30",
+      "home": "Seattle SuperSonics",
+      "visitor": "Denver Nuggets",
+      "homePoints": 111,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199904300SEA.html"
+    },
+    {
+      "date": "1999-05-01",
+      "home": "Boston Celtics",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 79,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905010BOS.html"
+    },
+    {
+      "date": "1999-05-01",
+      "home": "Dallas Mavericks",
+      "visitor": "Golden State Warriors",
+      "homePoints": 105,
+      "visitorPoints": 94,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905010DAL.html"
+    },
+    {
+      "date": "1999-05-01",
+      "home": "Miami Heat",
+      "visitor": "Chicago Bulls",
+      "homePoints": 86,
+      "visitorPoints": 101,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905010MIA.html"
+    },
+    {
+      "date": "1999-05-01",
+      "home": "Minnesota Timberwolves",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 103,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905010MIN.html"
+    },
+    {
+      "date": "1999-05-01",
+      "home": "New Jersey Nets",
+      "visitor": "Washington Wizards",
+      "homePoints": 102,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905010NJN.html"
+    },
+    {
+      "date": "1999-05-01",
+      "home": "Philadelphia 76ers",
+      "visitor": "Toronto Raptors",
+      "homePoints": 103,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905010PHI.html"
+    },
+    {
+      "date": "1999-05-01",
+      "home": "Phoenix Suns",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 107,
+      "visitorPoints": 77,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905010PHO.html"
+    },
+    {
+      "date": "1999-05-01",
+      "home": "San Antonio Spurs",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 98,
+      "visitorPoints": 90,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905010SAS.html"
+    },
+    {
+      "date": "1999-05-02",
+      "home": "Cleveland Cavaliers",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 65,
+      "visitorPoints": 76,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905020CLE.html"
+    },
+    {
+      "date": "1999-05-02",
+      "home": "Denver Nuggets",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 102,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905020DEN.html"
+    },
+    {
+      "date": "1999-05-02",
+      "home": "Detroit Pistons",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 100,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905020DET.html"
+    },
+    {
+      "date": "1999-05-02",
+      "home": "Houston Rockets",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 110,
+      "visitorPoints": 84,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905020HOU.html"
+    },
+    {
+      "date": "1999-05-02",
+      "home": "Indiana Pacers",
+      "visitor": "New York Knicks",
+      "homePoints": 94,
+      "visitorPoints": 71,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905020IND.html"
+    },
+    {
+      "date": "1999-05-02",
+      "home": "Miami Heat",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 100,
+      "visitorPoints": 93,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905020MIA.html"
+    },
+    {
+      "date": "1999-05-02",
+      "home": "Sacramento Kings",
+      "visitor": "Phoenix Suns",
+      "homePoints": 111,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905020SAC.html"
+    },
+    {
+      "date": "1999-05-02",
+      "home": "San Antonio Spurs",
+      "visitor": "Utah Jazz",
+      "homePoints": 84,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905020SAS.html"
+    },
+    {
+      "date": "1999-05-02",
+      "home": "Seattle SuperSonics",
+      "visitor": "Los Angeles Lakers",
+      "homePoints": 84,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905020SEA.html"
+    },
+    {
+      "date": "1999-05-03",
+      "home": "Chicago Bulls",
+      "visitor": "Detroit Pistons",
+      "homePoints": 71,
+      "visitorPoints": 115,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905030CHI.html"
+    },
+    {
+      "date": "1999-05-03",
+      "home": "Denver Nuggets",
+      "visitor": "Sacramento Kings",
+      "homePoints": 104,
+      "visitorPoints": 112,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905030DEN.html"
+    },
+    {
+      "date": "1999-05-03",
+      "home": "Los Angeles Lakers",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 115,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905030LAL.html"
+    },
+    {
+      "date": "1999-05-03",
+      "home": "New York Knicks",
+      "visitor": "Boston Celtics",
+      "homePoints": 95,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905030NYK.html"
+    },
+    {
+      "date": "1999-05-03",
+      "home": "Vancouver Grizzlies",
+      "visitor": "Golden State Warriors",
+      "homePoints": 83,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905030VAN.html"
+    },
+    {
+      "date": "1999-05-03",
+      "home": "Washington Wizards",
+      "visitor": "New Jersey Nets",
+      "homePoints": 113,
+      "visitorPoints": 102,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905030WAS.html"
+    },
+    {
+      "date": "1999-05-04",
+      "home": "Charlotte Hornets",
+      "visitor": "Philadelphia 76ers",
+      "homePoints": 117,
+      "visitorPoints": 110,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905040CHH.html"
+    },
+    {
+      "date": "1999-05-04",
+      "home": "Houston Rockets",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 100,
+      "visitorPoints": 83,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905040HOU.html"
+    },
+    {
+      "date": "1999-05-04",
+      "home": "Indiana Pacers",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 100,
+      "visitorPoints": 78,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905040IND.html"
+    },
+    {
+      "date": "1999-05-04",
+      "home": "Miami Heat",
+      "visitor": "Atlanta Hawks",
+      "homePoints": 93,
+      "visitorPoints": 79,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905040MIA.html"
+    },
+    {
+      "date": "1999-05-04",
+      "home": "Milwaukee Bucks",
+      "visitor": "Toronto Raptors",
+      "homePoints": 99,
+      "visitorPoints": 86,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905040MIL.html"
+    },
+    {
+      "date": "1999-05-04",
+      "home": "Portland Trail Blazers",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 81,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905040POR.html"
+    },
+    {
+      "date": "1999-05-04",
+      "home": "Seattle SuperSonics",
+      "visitor": "Dallas Mavericks",
+      "homePoints": 110,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905040SEA.html"
+    },
+    {
+      "date": "1999-05-04",
+      "home": "Utah Jazz",
+      "visitor": "Los Angeles Clippers",
+      "homePoints": 99,
+      "visitorPoints": 82,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905040UTA.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Atlanta Hawks",
+      "visitor": "Washington Wizards",
+      "homePoints": 100,
+      "visitorPoints": 92,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050ATL.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Boston Celtics",
+      "visitor": "Charlotte Hornets",
+      "homePoints": 129,
+      "visitorPoints": 133,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050BOS.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Chicago Bulls",
+      "visitor": "Orlando Magic",
+      "homePoints": 83,
+      "visitorPoints": 103,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050CHI.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Denver Nuggets",
+      "visitor": "Houston Rockets",
+      "homePoints": 88,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050DEN.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Golden State Warriors",
+      "visitor": "San Antonio Spurs",
+      "homePoints": 81,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050GSW.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Los Angeles Clippers",
+      "visitor": "Seattle SuperSonics",
+      "homePoints": 105,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050LAC.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Los Angeles Lakers",
+      "visitor": "Portland Trail Blazers",
+      "homePoints": 119,
+      "visitorPoints": 91,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050LAL.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "New Jersey Nets",
+      "visitor": "Milwaukee Bucks",
+      "homePoints": 115,
+      "visitorPoints": 107,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050NJN.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "New York Knicks",
+      "visitor": "Miami Heat",
+      "homePoints": 101,
+      "visitorPoints": 88,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050NYK.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Philadelphia 76ers",
+      "visitor": "Detroit Pistons",
+      "homePoints": 105,
+      "visitorPoints": 100,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050PHI.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Phoenix Suns",
+      "visitor": "Minnesota Timberwolves",
+      "homePoints": 100,
+      "visitorPoints": 96,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050PHO.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Sacramento Kings",
+      "visitor": "Vancouver Grizzlies",
+      "homePoints": 99,
+      "visitorPoints": 95,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050SAC.html"
+    },
+    {
+      "date": "1999-05-05",
+      "home": "Toronto Raptors",
+      "visitor": "Cleveland Cavaliers",
+      "homePoints": 96,
+      "visitorPoints": 87,
+      "boxScoreLink": "http://www.basketball-reference.com/boxscores/199905050TOR.html"
+    }
+  ]
+}

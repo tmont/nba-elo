@@ -1,0 +1,17 @@
+{
+	"name": "nba-elo",
+	"version": "0.0.1",
+	"description": "",
+
+	"author": "Tommy Montgomery <tmont@tmont.com> (http://tmont.com/)",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tmont/nba-elo.git"
+	},
+
+	"dependencies": {
+		"jsdom": "0.8.1",
+		"async": "0.2.9",
+		"dateformat": "1.0.6-1.2.3"
+	}
+}
